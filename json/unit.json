@@ -1,0 +1,1020 @@
+﻿{
+  "unit": [
+    {
+      "id": 1,
+      "name": "ก๊ก",
+      "activeFlag": 1
+    },
+    {
+      "id": 2,
+      "name": "กรง",
+      "activeFlag": 1
+    },
+    {
+      "id": 3,
+      "name": "กรม",
+      "activeFlag": 1
+    },
+    {
+      "id": 4,
+      "name": "กระดาน",
+      "activeFlag": 1
+    },
+    {
+      "id": 5,
+      "name": "กระทรวง",
+      "activeFlag": 1
+    },
+    {
+      "id": 6,
+      "name": "กระบอก",
+      "activeFlag": 1
+    },
+    {
+      "id": 7,
+      "name": "กระบุง",
+      "activeFlag": 1
+    },
+    {
+      "id": 8,
+      "name": "กระบุงโกย",
+      "activeFlag": 1
+    },
+    {
+      "id": 9,
+      "name": "กระเบื้อง",
+      "activeFlag": 1
+    },
+    {
+      "id": 10,
+      "name": "กระปุก",
+      "activeFlag": 1
+    },
+    {
+      "id": 11,
+      "name": "กรึ๊บ",
+      "activeFlag": 1
+    },
+    {
+      "id": 12,
+      "name": "กลวิธี",
+      "activeFlag": 1
+    },
+    {
+      "id": 13,
+      "name": "กลุ่ม",
+      "activeFlag": 1
+    },
+    {
+      "id": 14,
+      "name": "กอง",
+      "activeFlag": 1
+    },
+    {
+      "id": 15,
+      "name": "ก้อน",
+      "activeFlag": 1
+    },
+    {
+      "id": 16,
+      "name": "กอบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 17,
+      "name": "ก๊อบปี้",
+      "activeFlag": 1
+    },
+    {
+      "id": 18,
+      "name": "ก๊อปปี้",
+      "activeFlag": 1
+    },
+    {
+      "id": 19,
+      "name": "กัณฑ์",
+      "activeFlag": 1
+    },
+    {
+      "id": 20,
+      "name": "กับ",
+      "activeFlag": 1
+    },
+    {
+      "id": 21,
+      "name": "กำ",
+      "activeFlag": 1
+    },
+    {
+      "id": 22,
+      "name": "กิ่ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 23,
+      "name": "กุลี",
+      "activeFlag": 1
+    },
+    {
+      "id": 24,
+      "name": "เกม",
+      "activeFlag": 1
+    },
+    {
+      "id": 25,
+      "name": "ขด",
+      "activeFlag": 1
+    },
+    {
+      "id": 26,
+      "name": "ขนัด",
+      "activeFlag": 1
+    },
+    {
+      "id": 27,
+      "name": "ขมวด",
+      "activeFlag": 1
+    },
+    {
+      "id": 28,
+      "name": "ขวบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 29,
+      "name": "ขอน",
+      "activeFlag": 1
+    },
+    {
+      "id": 30,
+      "name": "ขอบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 31,
+      "name": "ข่าว",
+      "activeFlag": 1
+    },
+    {
+      "id": 32,
+      "name": "ขีด",
+      "activeFlag": 1
+    },
+    {
+      "id": 33,
+      "name": "ขุม",
+      "activeFlag": 1
+    },
+    {
+      "id": 34,
+      "name": "เข็ด",
+      "activeFlag": 1
+    },
+    {
+      "id": 35,
+      "name": "แขวง",
+      "activeFlag": 1
+    },
+    {
+      "id": 36,
+      "name": "โขลง",
+      "activeFlag": 1
+    },
+    {
+      "id": 37,
+      "name": "ไขว่",
+      "activeFlag": 1
+    },
+    {
+      "id": 38,
+      "name": "คน",
+      "activeFlag": 1
+    },
+    {
+      "id": 39,
+      "name": "ครั้ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 40,
+      "name": "คราว",
+      "activeFlag": 1
+    },
+    {
+      "id": 41,
+      "name": "ควย",
+      "activeFlag": 1
+    },
+    {
+      "id": 42,
+      "name": "ความหมาย",
+      "activeFlag": 1
+    },
+    {
+      "id": 43,
+      "name": "ค้อร์ส",
+      "activeFlag": 1
+    },
+    {
+      "id": 44,
+      "name": "คัน",
+      "activeFlag": 1
+    },
+    {
+      "id": 45,
+      "name": "คัมภีร์",
+      "activeFlag": 1
+    },
+    {
+      "id": 46,
+      "name": "คำ",
+      "activeFlag": 1
+    },
+    {
+      "id": 47,
+      "name": "คู่",
+      "activeFlag": 1
+    },
+    {
+      "id": 48,
+      "name": "เครื่องหมาย",
+      "activeFlag": 1
+    },
+    {
+      "id": 49,
+      "name": "โครงการ",
+      "activeFlag": 1
+    },
+    {
+      "id": 50,
+      "name": "งวด",
+      "activeFlag": 1
+    },
+    {
+      "id": 51,
+      "name": "งีบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 52,
+      "name": "แง่ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 53,
+      "name": "จบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 54,
+      "name": "จอก",
+      "activeFlag": 1
+    },
+    {
+      "id": 55,
+      "name": "จังหวัด",
+      "activeFlag": 1
+    },
+    {
+      "id": 56,
+      "name": "จับ",
+      "activeFlag": 1
+    },
+    {
+      "id": 57,
+      "name": "จาน",
+      "activeFlag": 1
+    },
+    {
+      "id": 58,
+      "name": "จำนวน",
+      "activeFlag": 1
+    },
+    {
+      "id": 59,
+      "name": "จีบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 60,
+      "name": "เจ้า",
+      "activeFlag": 1
+    },
+    {
+      "id": 61,
+      "name": "ไจ",
+      "activeFlag": 1
+    },
+    {
+      "id": 62,
+      "name": "ฉบับ",
+      "activeFlag": 1
+    },
+    {
+      "id": 63,
+      "name": "ฉาก",
+      "activeFlag": 1
+    },
+    {
+      "id": 64,
+      "name": "แฉก",
+      "activeFlag": 1
+    },
+    {
+      "id": 65,
+      "name": "ชนิด",
+      "activeFlag": 1
+    },
+    {
+      "id": 66,
+      "name": "ช่อ",
+      "activeFlag": 1
+    },
+    {
+      "id": 67,
+      "name": "ชั้น",
+      "activeFlag": 1
+    },
+    {
+      "id": 68,
+      "name": "ชิ้น",
+      "activeFlag": 1
+    },
+    {
+      "id": 69,
+      "name": "ชุด",
+      "activeFlag": 1
+    },
+    {
+      "id": 70,
+      "name": "เชื้อ",
+      "activeFlag": 1
+    },
+    {
+      "id": 71,
+      "name": "เชือก",
+      "activeFlag": 1
+    },
+    {
+      "id": 72,
+      "name": "ซอง",
+      "activeFlag": 1
+    },
+    {
+      "id": 73,
+      "name": "ซอย",
+      "activeFlag": 1
+    },
+    {
+      "id": 74,
+      "name": "ซี่",
+      "activeFlag": 1
+    },
+    {
+      "id": 75,
+      "name": "ซีก",
+      "activeFlag": 1
+    },
+    {
+      "id": 76,
+      "name": "เซต",
+      "activeFlag": 1
+    },
+    {
+      "id": 77,
+      "name": "ดวง",
+      "activeFlag": 1
+    },
+    {
+      "id": 78,
+      "name": "ด้าม",
+      "activeFlag": 1
+    },
+    {
+      "id": 79,
+      "name": "ดุ้น",
+      "activeFlag": 1
+    },
+    {
+      "id": 80,
+      "name": "โดส",
+      "activeFlag": 1
+    },
+    {
+      "id": 81,
+      "name": "ตน",
+      "activeFlag": 1
+    },
+    {
+      "id": 82,
+      "name": "ต้น",
+      "activeFlag": 1
+    },
+    {
+      "id": 83,
+      "name": "ตลบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 84,
+      "name": "ต่อ",
+      "activeFlag": 1
+    },
+    {
+      "id": 85,
+      "name": "ตอง",
+      "activeFlag": 1
+    },
+    {
+      "id": 86,
+      "name": "ตั้ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 87,
+      "name": "ตัว",
+      "activeFlag": 1
+    },
+    {
+      "id": 88,
+      "name": "ตำแหน่ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 89,
+      "name": "ตู้",
+      "activeFlag": 1
+    },
+    {
+      "id": 90,
+      "name": "โต๊ะ",
+      "activeFlag": 1
+    },
+    {
+      "id": 91,
+      "name": "ทบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 92,
+      "name": "ทอด",
+      "activeFlag": 1
+    },
+    {
+      "id": 93,
+      "name": "ท่อน",
+      "activeFlag": 1
+    },
+    {
+      "id": 94,
+      "name": "ทาง",
+      "activeFlag": 1
+    },
+    {
+      "id": 95,
+      "name": "ที",
+      "activeFlag": 1
+    },
+    {
+      "id": 96,
+      "name": "ที่",
+      "activeFlag": 1
+    },
+    {
+      "id": 97,
+      "name": "เทียบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 98,
+      "name": "เที่ยว",
+      "activeFlag": 1
+    },
+    {
+      "id": 99,
+      "name": "แท่ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 100,
+      "name": "ธาตุ",
+      "activeFlag": 1
+    },
+    {
+      "id": 101,
+      "name": "น้อง",
+      "activeFlag": 1
+    },
+    {
+      "id": 102,
+      "name": "นัด",
+      "activeFlag": 1
+    },
+    {
+      "id": 103,
+      "name": "นามสกุล",
+      "activeFlag": 1
+    },
+    {
+      "id": 104,
+      "name": "นาย",
+      "activeFlag": 1
+    },
+    {
+      "id": 105,
+      "name": "น้ำ",
+      "activeFlag": 1
+    },
+    {
+      "id": 106,
+      "name": "แนวคิด",
+      "activeFlag": 1
+    },
+    {
+      "id": 107,
+      "name": "บทความ",
+      "activeFlag": 1
+    },
+    {
+      "id": 108,
+      "name": "บ้อง",
+      "activeFlag": 1
+    },
+    {
+      "id": 109,
+      "name": "บัลลังก์",
+      "activeFlag": 1
+    },
+    {
+      "id": 110,
+      "name": "บาน",
+      "activeFlag": 1
+    },
+    {
+      "id": 111,
+      "name": "บิด",
+      "activeFlag": 1
+    },
+    {
+      "id": 112,
+      "name": "ใบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 113,
+      "name": "ประการ",
+      "activeFlag": 1
+    },
+    {
+      "id": 114,
+      "name": "ประตู",
+      "activeFlag": 1
+    },
+    {
+      "id": 115,
+      "name": "ประเภท",
+      "activeFlag": 1
+    },
+    {
+      "id": 116,
+      "name": "ปอย",
+      "activeFlag": 1
+    },
+    {
+      "id": 117,
+      "name": "ปั้น",
+      "activeFlag": 1
+    },
+    {
+      "id": 118,
+      "name": "ปาก",
+      "activeFlag": 1
+    },
+    {
+      "id": 119,
+      "name": "ปี",
+      "activeFlag": 1
+    },
+    {
+      "id": 120,
+      "name": "ปึก",
+      "activeFlag": 1
+    },
+    {
+      "id": 121,
+      "name": "เป้าประสงค์",
+      "activeFlag": 1
+    },
+    {
+      "id": 122,
+      "name": "เป้าหมาย",
+      "activeFlag": 1
+    },
+    {
+      "id": 123,
+      "name": "แป๊บ",
+      "activeFlag": 1
+    },
+    {
+      "id": 124,
+      "name": "ผล",
+      "activeFlag": 1
+    },
+    {
+      "id": 125,
+      "name": "ผลัด",
+      "activeFlag": 1
+    },
+    {
+      "id": 126,
+      "name": "ผืน",
+      "activeFlag": 1
+    },
+    {
+      "id": 127,
+      "name": "ผูก",
+      "activeFlag": 1
+    },
+    {
+      "id": 128,
+      "name": "แผ่น",
+      "activeFlag": 1
+    },
+    {
+      "id": 129,
+      "name": "แผนก",
+      "activeFlag": 1
+    },
+    {
+      "id": 130,
+      "name": "แผล็บ",
+      "activeFlag": 1
+    },
+    {
+      "id": 131,
+      "name": "ฝน",
+      "activeFlag": 1
+    },
+    {
+      "id": 132,
+      "name": "ฝา",
+      "activeFlag": 1
+    },
+    {
+      "id": 133,
+      "name": "พวก",
+      "activeFlag": 1
+    },
+    {
+      "id": 134,
+      "name": "แพ",
+      "activeFlag": 1
+    },
+    {
+      "id": 135,
+      "name": "ฟอง",
+      "activeFlag": 1
+    },
+    {
+      "id": 136,
+      "name": "ไฟ",
+      "activeFlag": 1
+    },
+    {
+      "id": 137,
+      "name": "ภาษา",
+      "activeFlag": 1
+    },
+    {
+      "id": 138,
+      "name": "ม้วน",
+      "activeFlag": 1
+    },
+    {
+      "id": 139,
+      "name": "มัด",
+      "activeFlag": 1
+    },
+    {
+      "id": 140,
+      "name": "มีม",
+      "activeFlag": 1
+    },
+    {
+      "id": 141,
+      "name": "มือ",
+      "activeFlag": 1
+    },
+    {
+      "id": 142,
+      "name": "มื้อ",
+      "activeFlag": 1
+    },
+    {
+      "id": 143,
+      "name": "มูลนิธิ",
+      "activeFlag": 1
+    },
+    {
+      "id": 144,
+      "name": "เม็ด",
+      "activeFlag": 1
+    },
+    {
+      "id": 145,
+      "name": "เมล็ด",
+      "activeFlag": 1
+    },
+    {
+      "id": 146,
+      "name": "ไม้",
+      "activeFlag": 1
+    },
+    {
+      "id": 147,
+      "name": "ยวง",
+      "activeFlag": 1
+    },
+    {
+      "id": 148,
+      "name": "ยอด",
+      "activeFlag": 1
+    },
+    {
+      "id": 149,
+      "name": "รวง",
+      "activeFlag": 1
+    },
+    {
+      "id": 150,
+      "name": "รอบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 151,
+      "name": "รอย",
+      "activeFlag": 1
+    },
+    {
+      "id": 152,
+      "name": "ราก",
+      "activeFlag": 1
+    },
+    {
+      "id": 153,
+      "name": "ราง",
+      "activeFlag": 1
+    },
+    {
+      "id": 154,
+      "name": "ราย",
+      "activeFlag": 1
+    },
+    {
+      "id": 155,
+      "name": "รูป",
+      "activeFlag": 1
+    },
+    {
+      "id": 156,
+      "name": "เรียง",
+      "activeFlag": 1
+    },
+    {
+      "id": 157,
+      "name": "เรื่อง",
+      "activeFlag": 1
+    },
+    {
+      "id": 158,
+      "name": "เรือน",
+      "activeFlag": 1
+    },
+    {
+      "id": 159,
+      "name": "แร่",
+      "activeFlag": 1
+    },
+    {
+      "id": 160,
+      "name": "โรง",
+      "activeFlag": 1
+    },
+    {
+      "id": 161,
+      "name": "ลักษณะ",
+      "activeFlag": 1
+    },
+    {
+      "id": 162,
+      "name": "ลำ",
+      "activeFlag": 1
+    },
+    {
+      "id": 163,
+      "name": "ลิงก์",
+      "activeFlag": 1
+    },
+    {
+      "id": 164,
+      "name": "ลูก",
+      "activeFlag": 1
+    },
+    {
+      "id": 165,
+      "name": "เลน",
+      "activeFlag": 1
+    },
+    {
+      "id": 166,
+      "name": "เล่ม",
+      "activeFlag": 1
+    },
+    {
+      "id": 167,
+      "name": "วัฒนธรรม",
+      "activeFlag": 1
+    },
+    {
+      "id": 168,
+      "name": "แว่น",
+      "activeFlag": 1
+    },
+    {
+      "id": 169,
+      "name": "ศพ",
+      "activeFlag": 1
+    },
+    {
+      "id": 170,
+      "name": "ศรี",
+      "activeFlag": 1
+    },
+    {
+      "id": 171,
+      "name": "ศาสนา",
+      "activeFlag": 1
+    },
+    {
+      "id": 172,
+      "name": "สมัย",
+      "activeFlag": 1
+    },
+    {
+      "id": 173,
+      "name": "สระ",
+      "activeFlag": 1
+    },
+    {
+      "id": 174,
+      "name": "ส่วน",
+      "activeFlag": 1
+    },
+    {
+      "id": 175,
+      "name": "สัปดาห์",
+      "activeFlag": 1
+    },
+    {
+      "id": 176,
+      "name": "สาย",
+      "activeFlag": 1
+    },
+    {
+      "id": 177,
+      "name": "สำนวน",
+      "activeFlag": 1
+    },
+    {
+      "id": 178,
+      "name": "สำเนา",
+      "activeFlag": 1
+    },
+    {
+      "id": 179,
+      "name": "สำรับ",
+      "activeFlag": 1
+    },
+    {
+      "id": 180,
+      "name": "สิ่ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 181,
+      "name": "เส้น",
+      "activeFlag": 1
+    },
+    {
+      "id": 182,
+      "name": "เสียง",
+      "activeFlag": 1
+    },
+    {
+      "id": 183,
+      "name": "หน",
+      "activeFlag": 1
+    },
+    {
+      "id": 184,
+      "name": "หน้า",
+      "activeFlag": 1
+    },
+    {
+      "id": 185,
+      "name": "หม้อ",
+      "activeFlag": 1
+    },
+    {
+      "id": 186,
+      "name": "หมัด",
+      "activeFlag": 1
+    },
+    {
+      "id": 187,
+      "name": "หมาก",
+      "activeFlag": 1
+    },
+    {
+      "id": 188,
+      "name": "หยด",
+      "activeFlag": 1
+    },
+    {
+      "id": 189,
+      "name": "หลอด",
+      "activeFlag": 1
+    },
+    {
+      "id": 190,
+      "name": "หลัง",
+      "activeFlag": 1
+    },
+    {
+      "id": 191,
+      "name": "ห่อ",
+      "activeFlag": 1
+    },
+    {
+      "id": 192,
+      "name": "หอบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 193,
+      "name": "หาง",
+      "activeFlag": 1
+    },
+    {
+      "id": 194,
+      "name": "เหตุการณ์",
+      "activeFlag": 1
+    },
+    {
+      "id": 195,
+      "name": "เหรียญ",
+      "activeFlag": 1
+    },
+    {
+      "id": 196,
+      "name": "เหล้ม",
+      "activeFlag": 1
+    },
+    {
+      "id": 197,
+      "name": "แห่ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 198,
+      "name": "แหนบ",
+      "activeFlag": 1
+    },
+    {
+      "id": 199,
+      "name": "แหล่ง",
+      "activeFlag": 1
+    },
+    {
+      "id": 200,
+      "name": "โหล",
+      "activeFlag": 1
+    },
+    {
+      "id": 201,
+      "name": "องค์",
+      "activeFlag": 1
+    },
+    {
+      "id": 202,
+      "name": "อย่าง",
+      "activeFlag": 1
+    },
+    {
+      "id": 203,
+      "name": "อัน",
+      "activeFlag": 1
+    }
+  ]
+  
+}

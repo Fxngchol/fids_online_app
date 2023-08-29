@@ -1,0 +1,52 @@
+name: fids_online_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.5 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.2.0
+  flutter_device_type:
+  # modal_bottom_sheet:
+  # google_maps_flutter: 
+  # google_map_location_picker:
+  # flutter_cupertino_date_picker:
+  bubble_tab_indicator:
+  signature:
+  flutter_slidable: 
+  flutter_datetime_picker:
+  image_picker:
+  sqflite: ^2.2.8	
+  hand_signature:
+  screenshot: ^1.3.0
+  liquid_progress_indicator:
+  shared_preferences:
+  http: ^0.13.6	
+  flutter_launcher_icons:
+  flutter_localizations:
+    sdk: flutter
+  flutter_rounded_date_picker: 
+  image_painter: ^0.5.0
+  path_provider: 
+  connectivity:
+  drag_and_drop_lists: 
+  # open_file:
+  jose:
+  firebase_core: 
+  flutter_native_image: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - images/
+     - json/

@@ -1,0 +1,10336 @@
+﻿{
+  "policeStation": [
+    {
+      "id": 0,
+      "name": "หน่วยงานอื่นๆ",
+      "ProvinceID": 0,
+      "AmphurID": 0,
+      "tambolid": 0
+    },
+    {
+      "id": 1,
+      "name": "สภ.หัวโทน",
+      "ProvinceID": 45,
+      "AmphurID": 9793,
+      "tambolid": 8736
+    },
+    {
+      "id": 2,
+      "name": "สภ.หน่อม",
+      "ProvinceID": 45,
+      "AmphurID": 9821,
+      "tambolid": 8759
+    },
+    {
+      "id": 3,
+      "name": "สภ.สว่าง ",
+      "ProvinceID": 47,
+      "AmphurID": 84,
+      "tambolid": 81
+    },
+    {
+      "id": 4,
+      "name": "สภ.สร้างค้อ",
+      "ProvinceID": 47,
+      "AmphurID": 202,
+      "tambolid": 178
+    },
+    {
+      "id": 5,
+      "name": "สภ.หนองสนม",
+      "ProvinceID": 47,
+      "AmphurID": 114,
+      "tambolid": 103
+    },
+    {
+      "id": 6,
+      "name": "สภ.คำบ่อ",
+      "ProvinceID": 47,
+      "AmphurID": 103,
+      "tambolid": 94
+    },
+    {
+      "id": 7,
+      "name": "สภ.โพนแพง",
+      "ProvinceID": 47,
+      "AmphurID": 144,
+      "tambolid": 128
+    },
+    {
+      "id": 8,
+      "name": "สภ.โพนงาม",
+      "ProvinceID": 47,
+      "AmphurID": 144,
+      "tambolid": 130
+    },
+    {
+      "id": 9,
+      "name": "สภ.เซิม",
+      "ProvinceID": 43,
+      "AmphurID": 9352,
+      "tambolid": 8337
+    },
+    {
+      "id": 10,
+      "name": "สภ.เหล่าต่างคำ",
+      "ProvinceID": 43,
+      "AmphurID": 9352,
+      "tambolid": 8335
+    },
+    {
+      "id": 11,
+      "name": "สภ.นางิ้ว",
+      "ProvinceID": 43,
+      "AmphurID": 9390,
+      "tambolid": 8367
+    },
+    {
+      "id": 12,
+      "name": "สภ.แม่อ้อ",
+      "ProvinceID": 57,
+      "AmphurID": 1336,
+      "tambolid": 1187
+    },
+    {
+      "id": 13,
+      "name": "สภ.ป่าแป๋",
+      "ProvinceID": 50,
+      "AmphurID": 472,
+      "tambolid": 426
+    },
+    {
+      "id": 14,
+      "name": "สภ.งอบ",
+      "ProvinceID": 55,
+      "AmphurID": 1128,
+      "tambolid": 1002
+    },
+    {
+      "id": 15,
+      "name": "สภ.ห้วยไร่",
+      "ProvinceID": 54,
+      "AmphurID": 1010,
+      "tambolid": 898
+    },
+    {
+      "id": 16,
+      "name": "สภ.สะเอียบ",
+      "ProvinceID": 54,
+      "AmphurID": 1016,
+      "tambolid": 905
+    },
+    {
+      "id": 17,
+      "name": "สภ.บ้านกวาง",
+      "ProvinceID": 54,
+      "AmphurID": 997,
+      "tambolid": 888
+    },
+    {
+      "id": 18,
+      "name": "สภ.นาพูน",
+      "ProvinceID": 54,
+      "AmphurID": 1025,
+      "tambolid": 911
+    },
+    {
+      "id": 19,
+      "name": "สภ.วังหงษ์",
+      "ProvinceID": 54,
+      "AmphurID": 948,
+      "tambolid": 849
+    },
+    {
+      "id": 20,
+      "name": "สภ.กองก๋อย",
+      "ProvinceID": 58,
+      "AmphurID": 1492,
+      "tambolid": 1324
+    },
+    {
+      "id": 21,
+      "name": "สภ.ทรงธรรม",
+      "ProvinceID": 62,
+      "AmphurID": 1749,
+      "tambolid": 1552
+    },
+    {
+      "id": 22,
+      "name": "สภ.ตะคร้อ",
+      "ProvinceID": 60,
+      "AmphurID": 1599,
+      "tambolid": 1420
+    },
+    {
+      "id": 23,
+      "name": "สภ.วังหว้า",
+      "ProvinceID": 66,
+      "AmphurID": 2184,
+      "tambolid": 1945
+    },
+    {
+      "id": 24,
+      "name": "สภ.วังน้ำคู้",
+      "ProvinceID": 65,
+      "AmphurID": 2033,
+      "tambolid": 1799
+    },
+    {
+      "id": 25,
+      "name": "สภ.เนินกุ่ม",
+      "ProvinceID": 65,
+      "AmphurID": 2085,
+      "tambolid": 1853
+    },
+    {
+      "id": 26,
+      "name": "สภ.ท่าฉนวน",
+      "ProvinceID": 64,
+      "AmphurID": 1962,
+      "tambolid": 1742
+    },
+    {
+      "id": 27,
+      "name": "สภ.นาอิน",
+      "ProvinceID": 53,
+      "AmphurID": 920,
+      "tambolid": 822
+    },
+    {
+      "id": 28,
+      "name": "สภ.เด่นเหล็ก",
+      "ProvinceID": 53,
+      "AmphurID": 902,
+      "tambolid": 800
+    },
+    {
+      "id": 29,
+      "name": "สภ.สามกระทาย",
+      "ProvinceID": 77,
+      "AmphurID": 3113,
+      "tambolid": 2783
+    },
+    {
+      "id": 30,
+      "name": "สภ.ไรํสะท้อน",
+      "ProvinceID": 76,
+      "AmphurID": 3068,
+      "tambolid": 2755
+    },
+    {
+      "id": 31,
+      "name": "สภ.หาดเจ้าสำราญ",
+      "ProvinceID": 76,
+      "AmphurID": 2991,
+      "tambolid": 2682
+    },
+    {
+      "id": 32,
+      "name": "สภ.ลาดใหญ่",
+      "ProvinceID": 75,
+      "AmphurID": 2951,
+      "tambolid": 2632
+    },
+    {
+      "id": 33,
+      "name": "สภ.ยี่สาร",
+      "ProvinceID": 75,
+      "AmphurID": 2977,
+      "tambolid": 2664
+    },
+    {
+      "id": 34,
+      "name": "สภ.องค์พระ",
+      "ProvinceID": 72,
+      "AmphurID": 2698,
+      "tambolid": 2401
+    },
+    {
+      "id": 35,
+      "name": "สภ.คลองขนาน",
+      "ProvinceID": 81,
+      "AmphurID": 3475,
+      "tambolid": 3098
+    },
+    {
+      "id": 36,
+      "name": "สภ.เกาะพีพี",
+      "ProvinceID": 81,
+      "AmphurID": 3403,
+      "tambolid": 3046
+    },
+    {
+      "id": 37,
+      "name": "สภ.บ้านในหูต",
+      "ProvinceID": 86,
+      "AmphurID": 3804,
+      "tambolid": 3381
+    },
+    {
+      "id": 38,
+      "name": "สภ.เขาพังไกร",
+      "ProvinceID": 80,
+      "AmphurID": 3350,
+      "tambolid": 2996
+    },
+    {
+      "id": 39,
+      "name": "สภ.การะเกด",
+      "ProvinceID": 80,
+      "AmphurID": 3230,
+      "tambolid": 2892
+    },
+    {
+      "id": 40,
+      "name": "สภ.ตลาดใหญ่",
+      "ProvinceID": 82,
+      "AmphurID": 3515,
+      "tambolid": 3130
+    },
+    {
+      "id": 41,
+      "name": "สภ.บางสวรรค์",
+      "ProvinceID": 84,
+      "AmphurID": 3690,
+      "tambolid": 3282
+    },
+    {
+      "id": 42,
+      "name": "สภ.โมถ่าย",
+      "ProvinceID": 84,
+      "AmphurID": 3610,
+      "tambolid": 3217
+    },
+    {
+      "id": 43,
+      "name": "สภ.เกาะเต่า",
+      "ProvinceID": 84,
+      "AmphurID": 3606,
+      "tambolid": 3209
+    },
+    {
+      "id": 44,
+      "name": "สภ.บ้านในควน",
+      "ProvinceID": 92,
+      "AmphurID": 4134,
+      "tambolid": 3676
+    },
+    {
+      "id": 45,
+      "name": "สภ.ชุมพล",
+      "ProvinceID": 90,
+      "AmphurID": 3876,
+      "tambolid": 3447
+    },
+    {
+      "id": 46,
+      "name": "สภ.ปะแต",
+      "ProvinceID": 95,
+      "AmphurID": 4490,
+      "tambolid": 3992
+    },
+    {
+      "id": 47,
+      "name": "สภ.จะกว้ะ ",
+      "ProvinceID": 95,
+      "AmphurID": 4501,
+      "tambolid": 4015
+    },
+    {
+      "id": 48,
+      "name": "สภ.แม่หวาด",
+      "ProvinceID": 95,
+      "AmphurID": 4485,
+      "tambolid": 3988
+    },
+    {
+      "id": 49,
+      "name": "สภ.ยะรม",
+      "ProvinceID": 95,
+      "AmphurID": 4469,
+      "tambolid": 3973
+    },
+    {
+      "id": 50,
+      "name": "สภ.ช่องสามหมอ",
+      "ProvinceID": 36,
+      "AmphurID": 8253,
+      "tambolid": 7354
+    },
+    {
+      "id": 51,
+      "name": "สภ.คลองไผ่",
+      "ProvinceID": 30,
+      "AmphurID": 6901,
+      "tambolid": 6138
+    },
+    {
+      "id": 52,
+      "name": "สภ.โพนทอง",
+      "ProvinceID": 37,
+      "AmphurID": 8446,
+      "tambolid": 7518
+    },
+    {
+      "id": 53,
+      "name": "สภ.นางลือ",
+      "ProvinceID": 18,
+      "AmphurID": 5657,
+      "tambolid": 5022
+    },
+    {
+      "id": 54,
+      "name": "สภ.หนองน้อย",
+      "ProvinceID": 18,
+      "AmphurID": 5675,
+      "tambolid": 5032
+    },
+    {
+      "id": 55,
+      "name": "สภ.วังน้ำขาว",
+      "ProvinceID": 18,
+      "AmphurID": 5716,
+      "tambolid": 5068
+    },
+    {
+      "id": 56,
+      "name": "สภ.เขาแก้ว",
+      "ProvinceID": 18,
+      "AmphurID": 5687,
+      "tambolid": 5043
+    },
+    {
+      "id": 57,
+      "name": "สภ.จักราช",
+      "ProvinceID": 14,
+      "AmphurID": 5252,
+      "tambolid": 4658
+    },
+    {
+      "id": 58,
+      "name": "สภ.ระโสม",
+      "ProvinceID": 14,
+      "AmphurID": 5269,
+      "tambolid": 4665
+    },
+    {
+      "id": 59,
+      "name": "สภ.บ้านขล้อ",
+      "ProvinceID": 14,
+      "AmphurID": 5234,
+      "tambolid": 4646
+    },
+    {
+      "id": 60,
+      "name": "สภ.ท่าช้าง",
+      "ProvinceID": 14,
+      "AmphurID": 5161,
+      "tambolid": 4562
+    },
+    {
+      "id": 61,
+      "name": "สภ.บ้านข่อย",
+      "ProvinceID": 16,
+      "AmphurID": 5435,
+      "tambolid": 4829
+    },
+    {
+      "id": 62,
+      "name": "สภ.บ้านกุ่ม",
+      "ProvinceID": 16,
+      "AmphurID": 5435,
+      "tambolid": 4821
+    },
+    {
+      "id": 63,
+      "name": "สภ.ท่าโขลง",
+      "ProvinceID": 16,
+      "AmphurID": 5537,
+      "tambolid": 4916
+    },
+    {
+      "id": 64,
+      "name": "สภ.บ้านเบิก",
+      "ProvinceID": 16,
+      "AmphurID": 5537,
+      "tambolid": 4919
+    },
+    {
+      "id": 65,
+      "name": "สภ.โคกสลุง",
+      "ProvinceID": 16,
+      "AmphurID": 5461,
+      "tambolid": 4841
+    },
+    {
+      "id": 66,
+      "name": "สภ.หินซ้อน",
+      "ProvinceID": 19,
+      "AmphurID": 5744,
+      "tambolid": 5096
+    },
+    {
+      "id": 67,
+      "name": "สภ.โพทะเล",
+      "ProvinceID": 17,
+      "AmphurID": 5625,
+      "tambolid": 4987
+    },
+    {
+      "id": 68,
+      "name": "สภ.เกษไชโย",
+      "ProvinceID": 15,
+      "AmphurID": 5369,
+      "tambolid": 4758
+    },
+    {
+      "id": 69,
+      "name": "สภ.สีบัวทอง",
+      "ProvinceID": 15,
+      "AmphurID": 5404,
+      "tambolid": 4789
+    },
+    {
+      "id": 70,
+      "name": "สภ.เกาะเปริด",
+      "ProvinceID": 22,
+      "AmphurID": 6149,
+      "tambolid": 5453
+    },
+    {
+      "id": 71,
+      "name": "สภ.หนองแหน",
+      "ProvinceID": 24,
+      "AmphurID": 6316,
+      "tambolid": 5605
+    },
+    {
+      "id": 72,
+      "name": "สภ.สาวชะโงก",
+      "ProvinceID": 24,
+      "AmphurID": 6259,
+      "tambolid": 5556
+    },
+    {
+      "id": 73,
+      "name": "สภ.อําวช่อ",
+      "ProvinceID": 23,
+      "AmphurID": 6184,
+      "tambolid": 5485
+    },
+    {
+      "id": 74,
+      "name": "สภ.ด่านชุมพล",
+      "ProvinceID": 23,
+      "AmphurID": 6217,
+      "tambolid": 5512
+    },
+    {
+      "id": 75,
+      "name": "สภ.นาหินลาด",
+      "ProvinceID": 26,
+      "AmphurID": 6517,
+      "tambolid": 5784
+    },
+    {
+      "id": 76,
+      "name": "สภ.น้ำเป็น",
+      "ProvinceID": 21,
+      "AmphurID": 6059,
+      "tambolid": 5371
+    },
+    {
+      "id": 77,
+      "name": "สภ.บ้านแก้ง",
+      "ProvinceID": 36,
+      "AmphurID": 8331,
+      "tambolid": 7426
+    },
+    {
+      "id": 78,
+      "name": "สภ.บ้านเพชร",
+      "ProvinceID": 36,
+      "AmphurID": 8331,
+      "tambolid": 7428
+    },
+    {
+      "id": 79,
+      "name": "สภ.หนองสังข์",
+      "ProvinceID": 36,
+      "AmphurID": 8349,
+      "tambolid": 7443
+    },
+    {
+      "id": 80,
+      "name": "สภ.ดอนแสนสุข",
+      "ProvinceID": 30,
+      "AmphurID": 6655,
+      "tambolid": 5903
+    },
+    {
+      "id": 81,
+      "name": "สภ.สีสุก",
+      "ProvinceID": 30,
+      "AmphurID": 6691,
+      "tambolid": 5936
+    },
+    {
+      "id": 82,
+      "name": "สภ.เมืองพลับพลา",
+      "ProvinceID": 30,
+      "AmphurID": 6854,
+      "tambolid": 6088
+    },
+    {
+      "id": 83,
+      "name": "สภ.หนองสรวง",
+      "ProvinceID": 30,
+      "AmphurID": 6895,
+      "tambolid": 6127
+    },
+    {
+      "id": 84,
+      "name": "สภ.หนองไม้งาม",
+      "ProvinceID": 31,
+      "AmphurID": 7131,
+      "tambolid": 6337
+    },
+    {
+      "id": 85,
+      "name": "สภ.โนนเจริญ",
+      "ProvinceID": 31,
+      "AmphurID": 7131,
+      "tambolid": 6336
+    },
+    {
+      "id": 86,
+      "name": "สภ.หนองไทร",
+      "ProvinceID": 31,
+      "AmphurID": 7048,
+      "tambolid": 6269
+    },
+    {
+      "id": 87,
+      "name": "สภ.บึงแก",
+      "ProvinceID": 35,
+      "AmphurID": 8176,
+      "tambolid": 7289
+    },
+    {
+      "id": 88,
+      "name": "สภ.โพนเขวา",
+      "ProvinceID": 33,
+      "AmphurID": 7473,
+      "tambolid": 6656
+    },
+    {
+      "id": 89,
+      "name": "สภ.หนองไฮ",
+      "ProvinceID": 33,
+      "AmphurID": 7473,
+      "tambolid": 6660
+    },
+    {
+      "id": 90,
+      "name": "สภ.กุดเสลา",
+      "ProvinceID": 33,
+      "AmphurID": 7541,
+      "tambolid": 6708
+    },
+    {
+      "id": 91,
+      "name": "สภ.ตูม",
+      "ProvinceID": 33,
+      "AmphurID": 7698,
+      "tambolid": 6857
+    },
+    {
+      "id": 92,
+      "name": "สภ.ตากูก",
+      "ProvinceID": 32,
+      "AmphurID": 7460,
+      "tambolid": 6635
+    },
+    {
+      "id": 93,
+      "name": "สภ.แนงมุด",
+      "ProvinceID": 32,
+      "AmphurID": 7347,
+      "tambolid": 6534
+    },
+    {
+      "id": 94,
+      "name": "สภ.บ้านหนองจอก",
+      "ProvinceID": 32,
+      "AmphurID": 7389,
+      "tambolid": 6574
+    },
+    {
+      "id": 95,
+      "name": "สภ.คันไร่",
+      "ProvinceID": 34,
+      "AmphurID": 8068,
+      "tambolid": 7190
+    },
+    {
+      "id": 96,
+      "name": "สภ.เอือดใหญ่",
+      "ProvinceID": 34,
+      "AmphurID": 7779,
+      "tambolid": 6926
+    },
+    {
+      "id": 97,
+      "name": "สภ.หนามแท่ง",
+      "ProvinceID": 34,
+      "AmphurID": 7779,
+      "tambolid": 6932
+    },
+    {
+      "id": 98,
+      "name": "สภ.โคกจาน",
+      "ProvinceID": 34,
+      "AmphurID": 7891,
+      "tambolid": 7033
+    },
+    {
+      "id": 99,
+      "name": "สภ.ลำปาว",
+      "ProvinceID": 46,
+      "AmphurID": 9874,
+      "tambolid": 8805
+    },
+    {
+      "id": 100,
+      "name": "สภ.แซงบาดาล",
+      "ProvinceID": 46,
+      "AmphurID": 5,
+      "tambolid": 7
+    },
+    {
+      "id": 101,
+      "name": "สภ.บ้านหนองเม็ก",
+      "ProvinceID": 46,
+      "AmphurID": 9923,
+      "tambolid": 8850
+    },
+    {
+      "id": 102,
+      "name": "สภ.พระซอง",
+      "ProvinceID": 48,
+      "AmphurID": 283,
+      "tambolid": 250
+    },
+    {
+      "id": 103,
+      "name": "สภ.นาโดน",
+      "ProvinceID": 48,
+      "AmphurID": 273,
+      "tambolid": 244
+    },
+    {
+      "id": 104,
+      "name": "สภ.ป่งไฮ",
+      "ProvinceID": 38,
+      "AmphurID": 8500,
+      "tambolid": 7568
+    },
+    {
+      "id": 105,
+      "name": "สภ.โสกก่าม",
+      "ProvinceID": 38,
+      "AmphurID": 8500,
+      "tambolid": 7572
+    },
+    {
+      "id": 106,
+      "name": "สภ.ท่าตูม",
+      "ProvinceID": 44,
+      "AmphurID": 9453,
+      "tambolid": 8418
+    },
+    {
+      "id": 107,
+      "name": "สภ.นาสีนวน",
+      "ProvinceID": 44,
+      "AmphurID": 9492,
+      "tambolid": 8456
+    },
+    {
+      "id": 108,
+      "name": "สภ.มะค่า",
+      "ProvinceID": 44,
+      "AmphurID": 9492,
+      "tambolid": 8454
+    },
+    {
+      "id": 109,
+      "name": "สภ.หนองซอน",
+      "ProvinceID": 44,
+      "AmphurID": 9503,
+      "tambolid": 8464
+    },
+    {
+      "id": 110,
+      "name": "สภ.ปอพาน",
+      "ProvinceID": 44,
+      "AmphurID": 9537,
+      "tambolid": 8499
+    },
+    {
+      "id": 111,
+      "name": "สภ.กำพี้",
+      "ProvinceID": 44,
+      "AmphurID": 9516,
+      "tambolid": 8479
+    },
+    {
+      "id": 112,
+      "name": "สภ.คำป่าหลาย",
+      "ProvinceID": 49,
+      "AmphurID": 335,
+      "tambolid": 302
+    },
+    {
+      "id": 113,
+      "name": "สภ.ดงเย็น",
+      "ProvinceID": 49,
+      "AmphurID": 335,
+      "tambolid": 304
+    },
+    {
+      "id": 114,
+      "name": "สภ.นาอุดม",
+      "ProvinceID": 49,
+      "AmphurID": 355,
+      "tambolid": 317
+    },
+    {
+      "id": 115,
+      "name": "สภ.หนองสูงใต้",
+      "ProvinceID": 49,
+      "AmphurID": 402,
+      "tambolid": 359
+    },
+    {
+      "id": 116,
+      "name": "สภ.ม่วงลาด",
+      "ProvinceID": 45,
+      "AmphurID": 9846,
+      "tambolid": 8780
+    },
+    {
+      "id": 117,
+      "name": "สภ.หนองแวงควง",
+      "ProvinceID": 45,
+      "AmphurID": 9837,
+      "tambolid": 8776
+    },
+    {
+      "id": 118,
+      "name": "สภ.ดู่ใหญํ",
+      "ProvinceID": 45,
+      "AmphurID": 9668,
+      "tambolid": 8616
+    },
+    {
+      "id": 119,
+      "name": "สภ.บ้านดู่",
+      "ProvinceID": 45,
+      "AmphurID": 9821,
+      "tambolid": 8765
+    },
+    {
+      "id": 120,
+      "name": "สภ.ดงมะไฟ",
+      "ProvinceID": 47,
+      "AmphurID": 43,
+      "tambolid": 50
+    },
+    {
+      "id": 121,
+      "name": "สภ.นาใน",
+      "ProvinceID": 47,
+      "AmphurID": 84,
+      "tambolid": 80
+    },
+    {
+      "id": 122,
+      "name": "สภ.โคกสี",
+      "ProvinceID": 47,
+      "AmphurID": 153,
+      "tambolid": 142
+    },
+    {
+      "id": 123,
+      "name": "สภ.โนนเมือง",
+      "ProvinceID": 39,
+      "AmphurID": 8569,
+      "tambolid": 7630
+    },
+    {
+      "id": 124,
+      "name": "สภ.แม่โป่ง",
+      "ProvinceID": 50,
+      "AmphurID": 457,
+      "tambolid": 415
+    },
+    {
+      "id": 125,
+      "name": "สภ.น้ำมวบ",
+      "ProvinceID": 55,
+      "AmphurID": 1110,
+      "tambolid": 990
+    },
+    {
+      "id": 126,
+      "name": "สภ.ตาลชุม",
+      "ProvinceID": 55,
+      "AmphurID": 1099,
+      "tambolid": 978
+    },
+    {
+      "id": 127,
+      "name": "สภ.อวน",
+      "ProvinceID": 55,
+      "AmphurID": 1084,
+      "tambolid": 965
+    },
+    {
+      "id": 128,
+      "name": "สภ.ไผ่โทน",
+      "ProvinceID": 54,
+      "AmphurID": 969,
+      "tambolid": 866
+    },
+    {
+      "id": 129,
+      "name": "สภ.สรอย",
+      "ProvinceID": 54,
+      "AmphurID": 1025,
+      "tambolid": 909
+    },
+    {
+      "id": 130,
+      "name": "สภ.หมอกจำแป่",
+      "ProvinceID": 58,
+      "AmphurID": 1447,
+      "tambolid": 1286
+    },
+    {
+      "id": 131,
+      "name": "สภ.ห้วยโป่ง",
+      "ProvinceID": 58,
+      "AmphurID": 1447,
+      "tambolid": 1283
+    },
+    {
+      "id": 132,
+      "name": "สภ.ประตูเมือง",
+      "ProvinceID": 58,
+      "AmphurID": 1457,
+      "tambolid": 1292
+    },
+    {
+      "id": 133,
+      "name": "สภ.เสาหิน",
+      "ProvinceID": 58,
+      "AmphurID": 1472,
+      "tambolid": 1309
+    },
+    {
+      "id": 134,
+      "name": "สภ.ท่าตาฝั่ง",
+      "ProvinceID": 58,
+      "AmphurID": 1472,
+      "tambolid": 1308
+    },
+    {
+      "id": 135,
+      "name": "สภ.เมืองยาว",
+      "ProvinceID": 52,
+      "AmphurID": 849,
+      "tambolid": 753
+    },
+    {
+      "id": 136,
+      "name": "สภ.ร่องเคาะ",
+      "ProvinceID": 52,
+      "AmphurID": 809,
+      "tambolid": 719
+    },
+    {
+      "id": 137,
+      "name": "สภ.แจ้ซ้อน",
+      "ProvinceID": 52,
+      "AmphurID": 857,
+      "tambolid": 761
+    },
+    {
+      "id": 138,
+      "name": "สภ.ก้อ",
+      "ProvinceID": 51,
+      "AmphurID": 706,
+      "tambolid": 629
+    },
+    {
+      "id": 139,
+      "name": "สภ.หนองบัวเหนือ",
+      "ProvinceID": 63,
+      "AmphurID": 1855,
+      "tambolid": 1645
+    },
+    {
+      "id": 140,
+      "name": "สภ.แม่สลิด",
+      "ProvinceID": 63,
+      "AmphurID": 1873,
+      "tambolid": 1660
+    },
+    {
+      "id": 141,
+      "name": "สภ.ยกกระบัตร",
+      "ProvinceID": 63,
+      "AmphurID": 1881,
+      "tambolid": 1667
+    },
+    {
+      "id": 142,
+      "name": "สภ.แม่เมย",
+      "ProvinceID": 63,
+      "AmphurID": 1895,
+      "tambolid": 1677
+    },
+    {
+      "id": 143,
+      "name": "สภ.หนองกรด",
+      "ProvinceID": 60,
+      "AmphurID": 1557,
+      "tambolid": 1388
+    },
+    {
+      "id": 144,
+      "name": "สภ.บางประมุง",
+      "ProvinceID": 60,
+      "AmphurID": 1524,
+      "tambolid": 1352
+    },
+    {
+      "id": 145,
+      "name": "สภ.ย่านยาว",
+      "ProvinceID": 66,
+      "AmphurID": 2142,
+      "tambolid": 1899
+    },
+    {
+      "id": 146,
+      "name": "สภ.บางลาย",
+      "ProvinceID": 66,
+      "AmphurID": 2256,
+      "tambolid": 2005
+    },
+    {
+      "id": 147,
+      "name": "สภ.ดงป่าคำ",
+      "ProvinceID": 66,
+      "AmphurID": 2142,
+      "tambolid": 1908
+    },
+    {
+      "id": 148,
+      "name": "สภ.ชุมแสงสงคราม",
+      "ProvinceID": 65,
+      "AmphurID": 2073,
+      "tambolid": 1841
+    },
+    {
+      "id": 149,
+      "name": "สภ.ดงประคำ",
+      "ProvinceID": 65,
+      "AmphurID": 2095,
+      "tambolid": 1866
+    },
+    {
+      "id": 150,
+      "name": "สภ.นครชุม",
+      "ProvinceID": 65,
+      "AmphurID": 2054,
+      "tambolid": 1823
+    },
+    {
+      "id": 151,
+      "name": "สภ.เมืองบางขลัง",
+      "ProvinceID": 64,
+      "AmphurID": 2000,
+      "tambolid": 1781
+    },
+    {
+      "id": 152,
+      "name": "สภ.พญาแมน",
+      "ProvinceID": 53,
+      "AmphurID": 920,
+      "tambolid": 821
+    },
+    {
+      "id": 153,
+      "name": "สภ.น้ำหมัน",
+      "ProvinceID": 53,
+      "AmphurID": 893,
+      "tambolid": 794
+    },
+    {
+      "id": 154,
+      "name": "สภ.ปิล๊อก",
+      "ProvinceID": 71,
+      "AmphurID": 2608,
+      "tambolid": 2321
+    },
+    {
+      "id": 155,
+      "name": "สภ.บางตะบูน",
+      "ProvinceID": 76,
+      "AmphurID": 3087,
+      "tambolid": 2761
+    },
+    {
+      "id": 156,
+      "name": "สภ.เกาะกลาง",
+      "ProvinceID": 81,
+      "AmphurID": 3437,
+      "tambolid": 3066
+    },
+    {
+      "id": 157,
+      "name": "สภ.ปากตะโก",
+      "ProvinceID": 86,
+      "AmphurID": 3840,
+      "tambolid": 3410
+    },
+    {
+      "id": 158,
+      "name": "สภ.เกาะทวด",
+      "ProvinceID": 80,
+      "AmphurID": 3305,
+      "tambolid": 2956
+    },
+    {
+      "id": 159,
+      "name": "สภ.บางนบ",
+      "ProvinceID": 80,
+      "AmphurID": 3350,
+      "tambolid": 2998
+    },
+    {
+      "id": 160,
+      "name": "สภ.ขอนหาด",
+      "ProvinceID": 80,
+      "AmphurID": 3244,
+      "tambolid": 2901
+    },
+    {
+      "id": 161,
+      "name": "สภ.บางแก้ว",
+      "ProvinceID": 85,
+      "AmphurID": 3739,
+      "tambolid": 3325
+    },
+    {
+      "id": 162,
+      "name": "สภ.หนองตรุด",
+      "ProvinceID": 92,
+      "AmphurID": 4091,
+      "tambolid": 3645
+    },
+    {
+      "id": 163,
+      "name": "สภ.บ้านโคกยาง",
+      "ProvinceID": 92,
+      "AmphurID": 4119,
+      "tambolid": 3665
+    },
+    {
+      "id": 164,
+      "name": "สภ.โคกชะงาย",
+      "ProvinceID": 93,
+      "AmphurID": 4219,
+      "tambolid": 3752
+    },
+    {
+      "id": 165,
+      "name": "สภ.ลำปำ ",
+      "ProvinceID": 93,
+      "AmphurID": 4219,
+      "tambolid": 3756
+    },
+    {
+      "id": 166,
+      "name": "สภ.เกาะนางคำ",
+      "ProvinceID": 93,
+      "AmphurID": 4283,
+      "tambolid": 3809
+    },
+    {
+      "id": 167,
+      "name": "สภ.คลองแดน",
+      "ProvinceID": 90,
+      "AmphurID": 3932,
+      "tambolid": 3495
+    },
+    {
+      "id": 168,
+      "name": "สภ.ปากรอ",
+      "ProvinceID": 90,
+      "AmphurID": 4023,
+      "tambolid": 3583
+    },
+    {
+      "id": 169,
+      "name": "สภ.คูเต่า",
+      "ProvinceID": 90,
+      "AmphurID": 3977,
+      "tambolid": 3537
+    },
+    {
+      "id": 170,
+      "name": "สภ.บ้านโหนด",
+      "ProvinceID": 90,
+      "AmphurID": 3922,
+      "tambolid": 3488
+    },
+    {
+      "id": 171,
+      "name": "สภ.เขาขาว",
+      "ProvinceID": 91,
+      "AmphurID": 4074,
+      "tambolid": 3621
+    },
+    {
+      "id": 172,
+      "name": "สภ.เกาะหลีเป๊ะ",
+      "ProvinceID": 91,
+      "AmphurID": 4044,
+      "tambolid": 3598
+    },
+    {
+      "id": 173,
+      "name": "สภ.ปะลุกาสาเมาะ",
+      "ProvinceID": 96,
+      "AmphurID": 4544,
+      "tambolid": 4040
+    },
+    {
+      "id": 174,
+      "name": "สภ.สากอ",
+      "ProvinceID": 96,
+      "AmphurID": 4609,
+      "tambolid": 4097
+    },
+    {
+      "id": 175,
+      "name": "สภ.ราตาปันยัง",
+      "ProvinceID": 94,
+      "AmphurID": 4409,
+      "tambolid": 3933
+    },
+    {
+      "id": 176,
+      "name": "สภ.ท่าธง",
+      "ProvinceID": 95,
+      "AmphurID": 4501,
+      "tambolid": 4007
+    },
+    {
+      "id": 177,
+      "name": "สภ.บาตูตาโมง",
+      "ProvinceID": 95,
+      "AmphurID": 4475,
+      "tambolid": 3980
+    },
+    {
+      "id": 178,
+      "name": "สภ.เมืองชัยนาท",
+      "ProvinceID": 18,
+      "AmphurID": 5657,
+      "tambolid": 0
+    },
+    {
+      "id": 179,
+      "name": "สภ.มโนรมย์",
+      "ProvinceID": 18,
+      "AmphurID": 5667,
+      "tambolid": 0
+    },
+    {
+      "id": 180,
+      "name": "สภ.วัดสิงห์",
+      "ProvinceID": 18,
+      "AmphurID": 5675,
+      "tambolid": 0
+    },
+    {
+      "id": 181,
+      "name": "สภ.สรรพยา",
+      "ProvinceID": 18,
+      "AmphurID": 5687,
+      "tambolid": 0
+    },
+    {
+      "id": 182,
+      "name": "สภ.สรรคบุรี",
+      "ProvinceID": 18,
+      "AmphurID": 5695,
+      "tambolid": 0
+    },
+    {
+      "id": 183,
+      "name": "สภ.หันคา",
+      "ProvinceID": 18,
+      "AmphurID": 5704,
+      "tambolid": 0
+    },
+    {
+      "id": 184,
+      "name": "สภ.เนินขาม",
+      "ProvinceID": 18,
+      "AmphurID": 5721,
+      "tambolid": 0
+    },
+    {
+      "id": 185,
+      "name": "สภ.หนองมะโมง",
+      "ProvinceID": 18,
+      "AmphurID": 5716,
+      "tambolid": 0
+    },
+    {
+      "id": 186,
+      "name": "สภ.หางน้ำสาคร",
+      "ProvinceID": 18,
+      "AmphurID": 5667,
+      "tambolid": 5027
+    },
+    {
+      "id": 187,
+      "name": "สภ.เมืองนนทบุรี",
+      "ProvinceID": 12,
+      "AmphurID": 4997,
+      "tambolid": 0
+    },
+    {
+      "id": 188,
+      "name": "สภ.บางศรีเมือง",
+      "ProvinceID": 12,
+      "AmphurID": 4997,
+      "tambolid": 4423
+    },
+    {
+      "id": 189,
+      "name": "สภ.บางกรวย",
+      "ProvinceID": 12,
+      "AmphurID": 5008,
+      "tambolid": 0
+    },
+    {
+      "id": 190,
+      "name": "สภ.ปลายบาง",
+      "ProvinceID": 12,
+      "AmphurID": 5008,
+      "tambolid": 4434
+    },
+    {
+      "id": 191,
+      "name": "สภ.บางใหญ่",
+      "ProvinceID": 12,
+      "AmphurID": 5018,
+      "tambolid": 0
+    },
+    {
+      "id": 192,
+      "name": "สภ.บางแม่นาง",
+      "ProvinceID": 12,
+      "AmphurID": 5018,
+      "tambolid": 4437
+    },
+    {
+      "id": 193,
+      "name": "สภ.บางบัวทอง",
+      "ProvinceID": 12,
+      "AmphurID": 5025,
+      "tambolid": 0
+    },
+    {
+      "id": 194,
+      "name": "สภ.ไทรน้อย",
+      "ProvinceID": 12,
+      "AmphurID": 5034,
+      "tambolid": 0
+    },
+    {
+      "id": 195,
+      "name": "สภ.ปากเกร็ด",
+      "ProvinceID": 12,
+      "AmphurID": 5042,
+      "tambolid": 0
+    },
+    {
+      "id": 196,
+      "name": "สภ.รัตนาธิเบศร์",
+      "ProvinceID": 12,
+      "AmphurID": 4997,
+      "tambolid": 4420
+    },
+    {
+      "id": 197,
+      "name": "สภ.เมืองปทุมธานี",
+      "ProvinceID": 13,
+      "AmphurID": 5058,
+      "tambolid": 0
+    },
+    {
+      "id": 198,
+      "name": "สภ.ปากคลองรังสิต",
+      "ProvinceID": 13,
+      "AmphurID": 5058,
+      "tambolid": 4470
+    },
+    {
+      "id": 199,
+      "name": "สภ.สวนพริกไทย",
+      "ProvinceID": 13,
+      "AmphurID": 5058,
+      "tambolid": 4481
+    },
+    {
+      "id": 200,
+      "name": "สภ.สามโคก",
+      "ProvinceID": 13,
+      "AmphurID": 5113,
+      "tambolid": 0
+    },
+    {
+      "id": 201,
+      "name": "สภ.ลาดหลุมแก้ว",
+      "ProvinceID": 13,
+      "AmphurID": 5096,
+      "tambolid": 0
+    },
+    {
+      "id": 202,
+      "name": "สภ.คูบางหลวง",
+      "ProvinceID": 13,
+      "AmphurID": 5096,
+      "tambolid": 4505
+    },
+    {
+      "id": 203,
+      "name": "สภ.ธัญบุรี",
+      "ProvinceID": 13,
+      "AmphurID": 5081,
+      "tambolid": 0
+    },
+    {
+      "id": 204,
+      "name": "สภ.ประตูน้ำจุฬาลงกรณ์",
+      "ProvinceID": 13,
+      "AmphurID": 5081,
+      "tambolid": 4490
+    },
+    {
+      "id": 205,
+      "name": "สภ.คลองหลวง",
+      "ProvinceID": 13,
+      "AmphurID": 5073,
+      "tambolid": 0
+    },
+    {
+      "id": 206,
+      "name": "สภ.หนองเสือ",
+      "ProvinceID": 13,
+      "AmphurID": 5088,
+      "tambolid": 0
+    },
+    {
+      "id": 207,
+      "name": "สภ.ลำลูกกา",
+      "ProvinceID": 13,
+      "AmphurID": 5104,
+      "tambolid": 0
+    },
+    {
+      "id": 208,
+      "name": "สภ.คูคต",
+      "ProvinceID": 13,
+      "AmphurID": 5104,
+      "tambolid": 4510
+    },
+    {
+      "id": 209,
+      "name": "สภ.คลองสิบสอง",
+      "ProvinceID": 13,
+      "AmphurID": 5104,
+      "tambolid": 4515
+    },
+    {
+      "id": 210,
+      "name": "สภ.คลองห้า",
+      "ProvinceID": 13,
+      "AmphurID": 5073,
+      "tambolid": 4487
+    },
+    {
+      "id": 211,
+      "name": "สภ.บางปะอิน",
+      "ProvinceID": 14,
+      "AmphurID": 5215,
+      "tambolid": 0
+    },
+    {
+      "id": 212,
+      "name": "สภ.บางไทร",
+      "ProvinceID": 14,
+      "AmphurID": 5174,
+      "tambolid": 0
+    },
+    {
+      "id": 213,
+      "name": "สภ.ช้างใหญ่",
+      "ProvinceID": 14,
+      "AmphurID": 5174,
+      "tambolid": 4592
+    },
+    {
+      "id": 214,
+      "name": "สภ.ลาดบัวหลวง",
+      "ProvinceID": 14,
+      "AmphurID": 5278,
+      "tambolid": 0
+    },
+    {
+      "id": 215,
+      "name": "สภ.เสนา",
+      "ProvinceID": 14,
+      "AmphurID": 5297,
+      "tambolid": 0
+    },
+    {
+      "id": 216,
+      "name": "สภ.ผักไห่",
+      "ProvinceID": 14,
+      "AmphurID": 5252,
+      "tambolid": 0
+    },
+    {
+      "id": 217,
+      "name": "สภ.อุทัย",
+      "ProvinceID": 14,
+      "AmphurID": 5322,
+      "tambolid": 0
+    },
+    {
+      "id": 218,
+      "name": "สภ.วังน้อย",
+      "ProvinceID": 14,
+      "AmphurID": 5286,
+      "tambolid": 0
+    },
+    {
+      "id": 219,
+      "name": "สภ.ภาชี",
+      "ProvinceID": 14,
+      "AmphurID": 5269,
+      "tambolid": 0
+    },
+    {
+      "id": 220,
+      "name": "สภ.ท่าเรือ",
+      "ProvinceID": 14,
+      "AmphurID": 5150,
+      "tambolid": 0
+    },
+    {
+      "id": 221,
+      "name": "สภ.บางปะหัน",
+      "ProvinceID": 14,
+      "AmphurID": 5234,
+      "tambolid": 0
+    },
+    {
+      "id": 222,
+      "name": "สภ.มหาราช",
+      "ProvinceID": 14,
+      "AmphurID": 5334,
+      "tambolid": 0
+    },
+    {
+      "id": 223,
+      "name": "สภ.บางบาล",
+      "ProvinceID": 14,
+      "AmphurID": 5198,
+      "tambolid": 0
+    },
+    {
+      "id": 224,
+      "name": "สภ.พระขาว",
+      "ProvinceID": 14,
+      "AmphurID": 5198,
+      "tambolid": 4603
+    },
+    {
+      "id": 225,
+      "name": "สภ.นครหลวง",
+      "ProvinceID": 14,
+      "AmphurID": 5161,
+      "tambolid": 0
+    },
+    {
+      "id": 226,
+      "name": "สภ.บ้านแพรก",
+      "ProvinceID": 14,
+      "AmphurID": 5347,
+      "tambolid": 0
+    },
+    {
+      "id": 227,
+      "name": "สภ.บางซ้าย",
+      "ProvinceID": 14,
+      "AmphurID": 5315,
+      "tambolid": 0
+    },
+    {
+      "id": 228,
+      "name": "สภ.พระอินทร์ราชา",
+      "ProvinceID": 14,
+      "AmphurID": 5215,
+      "tambolid": 4613
+    },
+    {
+      "id": 229,
+      "name": "สภ.โรงช้าง",
+      "ProvinceID": 14,
+      "AmphurID": 5334,
+      "tambolid": 4727
+    },
+    {
+      "id": 230,
+      "name": "สภ.ปากท่า",
+      "ProvinceID": 14,
+      "AmphurID": 5150,
+      "tambolid": 4558
+    },
+    {
+      "id": 231,
+      "name": "สภ.พระนครศรีอยุธยา",
+      "ProvinceID": 14,
+      "AmphurID": 5127,
+      "tambolid": 0
+    },
+    {
+      "id": 232,
+      "name": "สภ.เมืองลพบุรี",
+      "ProvinceID": 16,
+      "AmphurID": 5435,
+      "tambolid": 0
+    },
+    {
+      "id": 233,
+      "name": "สภ.ท่าหิน",
+      "ProvinceID": 16,
+      "AmphurID": 5435,
+      "tambolid": 4813
+    },
+    {
+      "id": 234,
+      "name": "สภ.ท่าวุ้ง",
+      "ProvinceID": 16,
+      "AmphurID": 5537,
+      "tambolid": 0
+    },
+    {
+      "id": 235,
+      "name": "สภ.บ้านหมี่",
+      "ProvinceID": 16,
+      "AmphurID": 5549,
+      "tambolid": 0
+    },
+    {
+      "id": 236,
+      "name": "สภ.พัฒนานิคม",
+      "ProvinceID": 16,
+      "AmphurID": 5461,
+      "tambolid": 0
+    },
+    {
+      "id": 237,
+      "name": "สภ.ชัยบาดาล",
+      "ProvinceID": 16,
+      "AmphurID": 5506,
+      "tambolid": 0
+    },
+    {
+      "id": 238,
+      "name": "สภ.ม่วงค่อม",
+      "ProvinceID": 16,
+      "AmphurID": 5506,
+      "tambolid": 4884
+    },
+    {
+      "id": 239,
+      "name": "สภ.สระโบสถ์",
+      "ProvinceID": 16,
+      "AmphurID": 5579,
+      "tambolid": 0
+    },
+    {
+      "id": 240,
+      "name": "สภ.ท่าหลวง",
+      "ProvinceID": 16,
+      "AmphurID": 5572,
+      "tambolid": 0
+    },
+    {
+      "id": 241,
+      "name": "สภ.โคกสำโรง",
+      "ProvinceID": 16,
+      "AmphurID": 5471,
+      "tambolid": 0
+    },
+    {
+      "id": 242,
+      "name": "สภ.หนองม่วง",
+      "ProvinceID": 16,
+      "AmphurID": 5598,
+      "tambolid": 0
+    },
+    {
+      "id": 243,
+      "name": "สภ.เพนียด",
+      "ProvinceID": 16,
+      "AmphurID": 5471,
+      "tambolid": 4853
+    },
+    {
+      "id": 244,
+      "name": "สภ.โคกเจริญ",
+      "ProvinceID": 16,
+      "AmphurID": 5585,
+      "tambolid": 0
+    },
+    {
+      "id": 245,
+      "name": "สภ.ลำสนธิ",
+      "ProvinceID": 16,
+      "AmphurID": 5591,
+      "tambolid": 0
+    },
+    {
+      "id": 246,
+      "name": "สภ.โคกตูม",
+      "ProvinceID": 16,
+      "AmphurID": 5435,
+      "tambolid": 4820
+    },
+    {
+      "id": 247,
+      "name": "สภ.เมืองสมุทรปราการ",
+      "ProvinceID": 11,
+      "AmphurID": 4926,
+      "tambolid": 0
+    },
+    {
+      "id": 248,
+      "name": "สภ.บางแก้ว",
+      "ProvinceID": 11,
+      "AmphurID": 4960,
+      "tambolid": 4386
+    },
+    {
+      "id": 249,
+      "name": "สภ.บางปู",
+      "ProvinceID": 11,
+      "AmphurID": 4926,
+      "tambolid": 4364
+    },
+    {
+      "id": 250,
+      "name": "สภ.สำโรงเหนือ",
+      "ProvinceID": 11,
+      "AmphurID": 4926,
+      "tambolid": 4354
+    },
+    {
+      "id": 251,
+      "name": "สภ.บางเสาธง",
+      "ProvinceID": 11,
+      "AmphurID": 4992,
+      "tambolid": 0
+    },
+    {
+      "id": 252,
+      "name": "สภ.บางบ่อ",
+      "ProvinceID": 11,
+      "AmphurID": 4950,
+      "tambolid": 0
+    },
+    {
+      "id": 253,
+      "name": "สภ.คลองด่าน",
+      "ProvinceID": 11,
+      "AmphurID": 4950,
+      "tambolid": 4380
+    },
+    {
+      "id": 254,
+      "name": "สภ.บางพลีน้อย",
+      "ProvinceID": 11,
+      "AmphurID": 4950,
+      "tambolid": 4378
+    },
+    {
+      "id": 255,
+      "name": "สภ.พระสมุทรเจดีย์",
+      "ProvinceID": 11,
+      "AmphurID": 4986,
+      "tambolid": 0
+    },
+    {
+      "id": 256,
+      "name": "สภ.สาขลา",
+      "ProvinceID": 11,
+      "AmphurID": 4986,
+      "tambolid": 4410
+    },
+    {
+      "id": 257,
+      "name": "สภ.พระประแดง",
+      "ProvinceID": 11,
+      "AmphurID": 4970,
+      "tambolid": 0
+    },
+    {
+      "id": 258,
+      "name": "สภ.สำโรงใต้",
+      "ProvinceID": 11,
+      "AmphurID": 4970,
+      "tambolid": 4400
+    },
+    {
+      "id": 259,
+      "name": "สภ.บางพลี",
+      "ProvinceID": 11,
+      "AmphurID": 4960,
+      "tambolid": 0
+    },
+    {
+      "id": 260,
+      "name": "สภ.ท่าอากาศยานสุวรรณภูมิ",
+      "ProvinceID": 11,
+      "AmphurID": 4960,
+      "tambolid": 4393
+    },
+    {
+      "id": 261,
+      "name": "สภ.เปร็ง",
+      "ProvinceID": 11,
+      "AmphurID": 4950,
+      "tambolid": 4382
+    },
+    {
+      "id": 262,
+      "name": "สภ.เมืองสระบุรี",
+      "ProvinceID": 19,
+      "AmphurID": 5726,
+      "tambolid": 0
+    },
+    {
+      "id": 263,
+      "name": "สภ.พระพุทธบาท",
+      "ProvinceID": 19,
+      "AmphurID": 5819,
+      "tambolid": 0
+    },
+    {
+      "id": 264,
+      "name": "สภ.แก่งคอย",
+      "ProvinceID": 19,
+      "AmphurID": 5744,
+      "tambolid": 0
+    },
+    {
+      "id": 265,
+      "name": "สภ.มวกเหล็ก",
+      "ProvinceID": 19,
+      "AmphurID": 5842,
+      "tambolid": 0
+    },
+    {
+      "id": 266,
+      "name": "สภ.วังม่วง",
+      "ProvinceID": 19,
+      "AmphurID": 5852,
+      "tambolid": 0
+    },
+    {
+      "id": 267,
+      "name": "สภ.วิหารแดง",
+      "ProvinceID": 19,
+      "AmphurID": 5778,
+      "tambolid": 0
+    },
+    {
+      "id": 268,
+      "name": "สภ.หนองแค",
+      "ProvinceID": 19,
+      "AmphurID": 5759,
+      "tambolid": 0
+    },
+    {
+      "id": 269,
+      "name": "สภ.หนองแซง",
+      "ProvinceID": 19,
+      "AmphurID": 5785,
+      "tambolid": 0
+    },
+    {
+      "id": 270,
+      "name": "สภ.เสาไห้",
+      "ProvinceID": 19,
+      "AmphurID": 5829,
+      "tambolid": 0
+    },
+    {
+      "id": 271,
+      "name": "สภ.บ้านหมอ",
+      "ProvinceID": 19,
+      "AmphurID": 5795,
+      "tambolid": 0
+    },
+    {
+      "id": 272,
+      "name": "สภ.หนองโดน",
+      "ProvinceID": 19,
+      "AmphurID": 5814,
+      "tambolid": 0
+    },
+    {
+      "id": 273,
+      "name": "สภ.ดอนพุด",
+      "ProvinceID": 19,
+      "AmphurID": 5809,
+      "tambolid": 0
+    },
+    {
+      "id": 274,
+      "name": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 19,
+      "AmphurID": 5856,
+      "tambolid": 0
+    },
+    {
+      "id": 275,
+      "name": "สภ.เมืองสิงห์บุรี",
+      "ProvinceID": 17,
+      "AmphurID": 5607,
+      "tambolid": 0
+    },
+    {
+      "id": 276,
+      "name": "สภ.อินทร์บุรี ",
+      "ProvinceID": 17,
+      "AmphurID": 5645,
+      "tambolid": 0
+    },
+    {
+      "id": 277,
+      "name": "สภ.พรหมบุรี",
+      "ProvinceID": 17,
+      "AmphurID": 5632,
+      "tambolid": 0
+    },
+    {
+      "id": 278,
+      "name": "สภ.บางระจัน",
+      "ProvinceID": 17,
+      "AmphurID": 5616,
+      "tambolid": 0
+    },
+    {
+      "id": 279,
+      "name": "สภ.ท่าช้าง",
+      "ProvinceID": 17,
+      "AmphurID": 5640,
+      "tambolid": 0
+    },
+    {
+      "id": 280,
+      "name": "สภ.ค่ายบางระจัน ",
+      "ProvinceID": 17,
+      "AmphurID": 5625,
+      "tambolid": 0
+    },
+    {
+      "id": 281,
+      "name": "สภ.เมืองอ่างทอง",
+      "ProvinceID": 15,
+      "AmphurID": 5354,
+      "tambolid": 0
+    },
+    {
+      "id": 282,
+      "name": "สภ.ไชโย",
+      "ProvinceID": 15,
+      "AmphurID": 5369,
+      "tambolid": 0
+    },
+    {
+      "id": 283,
+      "name": "สภ.โพธิ์ทอง",
+      "ProvinceID": 15,
+      "AmphurID": 5388,
+      "tambolid": 0
+    },
+    {
+      "id": 284,
+      "name": "สภ.แสวงหา",
+      "ProvinceID": 15,
+      "AmphurID": 5404,
+      "tambolid": 0
+    },
+    {
+      "id": 285,
+      "name": "สภ.ป่าโมก",
+      "ProvinceID": 15,
+      "AmphurID": 5379,
+      "tambolid": 0
+    },
+    {
+      "id": 286,
+      "name": "สภ.วิเศษชัยชาญ",
+      "ProvinceID": 15,
+      "AmphurID": 5412,
+      "tambolid": 0
+    },
+    {
+      "id": 287,
+      "name": "สภ.สามโก้",
+      "ProvinceID": 15,
+      "AmphurID": 5428,
+      "tambolid": 0
+    },
+    {
+      "id": 288,
+      "name": "สภ.บางจัก",
+      "ProvinceID": 15,
+      "AmphurID": 5412,
+      "tambolid": 4798
+    },
+    {
+      "id": 289,
+      "name": "สภ.เมืองจันทบุรี",
+      "ProvinceID": 22,
+      "AmphurID": 6071,
+      "tambolid": 0
+    },
+    {
+      "id": 290,
+      "name": "สภ.ขลุง",
+      "ProvinceID": 22,
+      "AmphurID": 6083,
+      "tambolid": 0
+    },
+    {
+      "id": 291,
+      "name": "สภ.โป่งน้ำร้อน",
+      "ProvinceID": 22,
+      "AmphurID": 6127,
+      "tambolid": 0
+    },
+    {
+      "id": 292,
+      "name": "สภ.มะขาม",
+      "ProvinceID": 22,
+      "AmphurID": 6138,
+      "tambolid": 0
+    },
+    {
+      "id": 293,
+      "name": "สภ.ท่าใหม่",
+      "ProvinceID": 22,
+      "AmphurID": 6096,
+      "tambolid": 0
+    },
+    {
+      "id": 294,
+      "name": "สภ.ทุ่งเบญจา",
+      "ProvinceID": 22,
+      "AmphurID": 6096,
+      "tambolid": 5410
+    },
+    {
+      "id": 295,
+      "name": "สภ.นายายอาม",
+      "ProvinceID": 22,
+      "AmphurID": 6169,
+      "tambolid": 0
+    },
+    {
+      "id": 296,
+      "name": "สภ.แหลมสิงห์",
+      "ProvinceID": 22,
+      "AmphurID": 6149,
+      "tambolid": 0
+    },
+    {
+      "id": 297,
+      "name": "สภ.สอยดาว",
+      "ProvinceID": 22,
+      "AmphurID": 6157,
+      "tambolid": 0
+    },
+    {
+      "id": 298,
+      "name": "สภ.แก่งหางแมว",
+      "ProvinceID": 22,
+      "AmphurID": 6163,
+      "tambolid": 0
+    },
+    {
+      "id": 299,
+      "name": "สภ.เขาคิชฌกูฏ",
+      "ProvinceID": 22,
+      "AmphurID": 6176,
+      "tambolid": 0
+    },
+    {
+      "id": 300,
+      "name": "สภ.บ้านแปลง",
+      "ProvinceID": 22,
+      "AmphurID": 6127,
+      "tambolid": 5435
+    },
+    {
+      "id": 301,
+      "name": "สภ.สะตอน",
+      "ProvinceID": 22,
+      "AmphurID": 6157,
+      "tambolid": 5463
+    },
+    {
+      "id": 302,
+      "name": "สภ.เมืองฉะเชิงเทรา",
+      "ProvinceID": 24,
+      "AmphurID": 6239,
+      "tambolid": 0
+    },
+    {
+      "id": 303,
+      "name": "สภ.บางปะกง",
+      "ProvinceID": 24,
+      "AmphurID": 6285,
+      "tambolid": 0
+    },
+    {
+      "id": 304,
+      "name": "สภ.บางน้ำเปรี้ยว",
+      "ProvinceID": 24,
+      "AmphurID": 6274,
+      "tambolid": 0
+    },
+    {
+      "id": 305,
+      "name": "สภ.ฉิมพลี",
+      "ProvinceID": 24,
+      "AmphurID": 6274,
+      "tambolid": 5567
+    },
+    {
+      "id": 306,
+      "name": "สภ.บ้านโพธิ์",
+      "ProvinceID": 24,
+      "AmphurID": 6298,
+      "tambolid": 0
+    },
+    {
+      "id": 307,
+      "name": "สภ.พนมสารคาม",
+      "ProvinceID": 24,
+      "AmphurID": 6316,
+      "tambolid": 0
+    },
+    {
+      "id": 308,
+      "name": "สภ.บางคล้า",
+      "ProvinceID": 24,
+      "AmphurID": 6259,
+      "tambolid": 0
+    },
+    {
+      "id": 309,
+      "name": "สภ.สนามชัยเขต",
+      "ProvinceID": 24,
+      "AmphurID": 6329,
+      "tambolid": 0
+    },
+    {
+      "id": 310,
+      "name": "สภ.แปลงยาว",
+      "ProvinceID": 24,
+      "AmphurID": 6336,
+      "tambolid": 0
+    },
+    {
+      "id": 311,
+      "name": "สภ.ราชสาส์น",
+      "ProvinceID": 24,
+      "AmphurID": 6325,
+      "tambolid": 0
+    },
+    {
+      "id": 312,
+      "name": "สภ.เขาหินซ้อน",
+      "ProvinceID": 24,
+      "AmphurID": 6316,
+      "tambolid": 5606
+    },
+    {
+      "id": 313,
+      "name": "สภ.ท่าตะเกียบ",
+      "ProvinceID": 24,
+      "AmphurID": 6341,
+      "tambolid": 0
+    },
+    {
+      "id": 314,
+      "name": "สภ.คลองเขื่อน",
+      "ProvinceID": 24,
+      "AmphurID": 6344,
+      "tambolid": 0
+    },
+    {
+      "id": 315,
+      "name": "สภ.แสนภูดาษ",
+      "ProvinceID": 24,
+      "AmphurID": 6298,
+      "tambolid": 5597
+    },
+    {
+      "id": 316,
+      "name": "สภ.บางขนาก",
+      "ProvinceID": 24,
+      "AmphurID": 6274,
+      "tambolid": 5561
+    },
+    {
+      "id": 317,
+      "name": "สภ.วังคู",
+      "ProvinceID": 24,
+      "AmphurID": 6329,
+      "tambolid": 5612
+    },
+    {
+      "id": 318,
+      "name": "สภ.เมืองชลบุรี",
+      "ProvinceID": 20,
+      "AmphurID": 5864,
+      "tambolid": 0
+    },
+    {
+      "id": 319,
+      "name": "สภ.หนองปรือ",
+      "ProvinceID": 20,
+      "AmphurID": 5902,
+      "tambolid": 5234
+    },
+    {
+      "id": 320,
+      "name": "สภ.แสนสุข",
+      "ProvinceID": 20,
+      "AmphurID": 5864,
+      "tambolid": 5201
+    },
+    {
+      "id": 321,
+      "name": "สภ.พนัสนิคม",
+      "ProvinceID": 20,
+      "AmphurID": 5923,
+      "tambolid": 0
+    },
+    {
+      "id": 322,
+      "name": "สภ.พานทอง",
+      "ProvinceID": 20,
+      "AmphurID": 5911,
+      "tambolid": 0
+    },
+    {
+      "id": 323,
+      "name": "สภ.บ้านบึง",
+      "ProvinceID": 20,
+      "AmphurID": 5884,
+      "tambolid": 0
+    },
+    {
+      "id": 324,
+      "name": "สภ.คลองกิ่ว",
+      "ProvinceID": 20,
+      "AmphurID": 5884,
+      "tambolid": 5218
+    },
+    {
+      "id": 325,
+      "name": "สภ.บ่อทอง",
+      "ProvinceID": 20,
+      "AmphurID": 5969,
+      "tambolid": 0
+    },
+    {
+      "id": 326,
+      "name": "สภ.หนองใหญ่",
+      "ProvinceID": 20,
+      "AmphurID": 5896,
+      "tambolid": 0
+    },
+    {
+      "id": 327,
+      "name": "สภ.บางละมุง",
+      "ProvinceID": 20,
+      "AmphurID": 5902,
+      "tambolid": 0
+    },
+    {
+      "id": 328,
+      "name": "สภ.เมืองพัทยา",
+      "ProvinceID": 20,
+      "AmphurID": 5902,
+      "tambolid": 5234
+    },
+    {
+      "id": 329,
+      "name": "สภ.สัตหีบ",
+      "ProvinceID": 20,
+      "AmphurID": 5963,
+      "tambolid": 0
+    },
+    {
+      "id": 330,
+      "name": "สภ.พลูตาหลวง",
+      "ProvinceID": 20,
+      "AmphurID": 5963,
+      "tambolid": 5291
+    },
+    {
+      "id": 331,
+      "name": "สภ.ศรีราชา",
+      "ProvinceID": 20,
+      "AmphurID": 5951,
+      "tambolid": 0
+    },
+    {
+      "id": 332,
+      "name": "สภ.บ่อวิน",
+      "ProvinceID": 20,
+      "AmphurID": 5951,
+      "tambolid": 5286
+    },
+    {
+      "id": 333,
+      "name": "สภ.เกาะสีชัง",
+      "ProvinceID": 20,
+      "AmphurID": 5961,
+      "tambolid": 0
+    },
+    {
+      "id": 334,
+      "name": "สภ.แหลมฉบัง",
+      "ProvinceID": 20,
+      "AmphurID": 5951,
+      "tambolid": 5281
+    },
+    {
+      "id": 335,
+      "name": "สภ.เกาะจันทร์",
+      "ProvinceID": 20,
+      "AmphurID": 5976,
+      "tambolid": 0
+    },
+    {
+      "id": 336,
+      "name": "สภ.เสม็ด",
+      "ProvinceID": 20,
+      "AmphurID": 5864,
+      "tambolid": 5213
+    },
+    {
+      "id": 337,
+      "name": "สภ.ดอนหัวฬ่อ",
+      "ProvinceID": 20,
+      "AmphurID": 5864,
+      "tambolid": 5206
+    },
+    {
+      "id": 338,
+      "name": "สภ.หนองขาม",
+      "ProvinceID": 20,
+      "AmphurID": 5951,
+      "tambolid": 5283
+    },
+    {
+      "id": 339,
+      "name": "สภ.ห้วยใหญ่",
+      "ProvinceID": 20,
+      "AmphurID": 5902,
+      "tambolid": 5238
+    },
+    {
+      "id": 340,
+      "name": "สภ.นาจอมเทียน",
+      "ProvinceID": 20,
+      "AmphurID": 5963,
+      "tambolid": 5290
+    },
+    {
+      "id": 341,
+      "name": "สภ.เมืองตราด",
+      "ProvinceID": 23,
+      "AmphurID": 6184,
+      "tambolid": 0
+    },
+    {
+      "id": 342,
+      "name": "สภ.บ้านท่าเลื่อน",
+      "ProvinceID": 23,
+      "AmphurID": 6184,
+      "tambolid": 5492
+    },
+    {
+      "id": 343,
+      "name": "สภ.แหลมงอบ",
+      "ProvinceID": 23,
+      "AmphurID": 6223,
+      "tambolid": 0
+    },
+    {
+      "id": 344,
+      "name": "สภ.เขาสมิง",
+      "ProvinceID": 23,
+      "AmphurID": 6203,
+      "tambolid": 0
+    },
+    {
+      "id": 345,
+      "name": "สภ.คลองใหญ่",
+      "ProvinceID": 23,
+      "AmphurID": 6199,
+      "tambolid": 0
+    },
+    {
+      "id": 346,
+      "name": "สภ.บ่อไร่",
+      "ProvinceID": 23,
+      "AmphurID": 6217,
+      "tambolid": 0
+    },
+    {
+      "id": 347,
+      "name": "สภ.เกาะกูด ",
+      "ProvinceID": 23,
+      "AmphurID": 6232,
+      "tambolid": 0
+    },
+    {
+      "id": 348,
+      "name": "สภ.เกาะช้าง",
+      "ProvinceID": 23,
+      "AmphurID": 6235,
+      "tambolid": 0
+    },
+    {
+      "id": 349,
+      "name": "สภ.เมืองนครนายก",
+      "ProvinceID": 26,
+      "AmphurID": 6503,
+      "tambolid": 0
+    },
+    {
+      "id": 350,
+      "name": "สภ.ดงละคร",
+      "ProvinceID": 26,
+      "AmphurID": 6503,
+      "tambolid": 5772
+    },
+    {
+      "id": 351,
+      "name": "สภ.บ้านนา",
+      "ProvinceID": 26,
+      "AmphurID": 6525,
+      "tambolid": 0
+    },
+    {
+      "id": 352,
+      "name": "สภ.องครักษ์",
+      "ProvinceID": 26,
+      "AmphurID": 6536,
+      "tambolid": 0
+    },
+    {
+      "id": 353,
+      "name": "สภ.ปากพลี",
+      "ProvinceID": 26,
+      "AmphurID": 6517,
+      "tambolid": 0
+    },
+    {
+      "id": 354,
+      "name": "สภ.เมืองปราจีนบุรี",
+      "ProvinceID": 25,
+      "AmphurID": 6351,
+      "tambolid": 0
+    },
+    {
+      "id": 355,
+      "name": "สภ.บ้านสร้าง",
+      "ProvinceID": 25,
+      "AmphurID": 6414,
+      "tambolid": 0
+    },
+    {
+      "id": 356,
+      "name": "สภ.ศรีมหาโพธิ",
+      "ProvinceID": 25,
+      "AmphurID": 6434,
+      "tambolid": 0
+    },
+    {
+      "id": 357,
+      "name": "สภ.ระเบาะไผ่",
+      "ProvinceID": 25,
+      "AmphurID": 6434,
+      "tambolid": 5709
+    },
+    {
+      "id": 358,
+      "name": "สภ.ศรีมโหสถ",
+      "ProvinceID": 25,
+      "AmphurID": 6449,
+      "tambolid": 0
+    },
+    {
+      "id": 359,
+      "name": "สภ.ประจันตคาม",
+      "ProvinceID": 25,
+      "AmphurID": 6424,
+      "tambolid": 0
+    },
+    {
+      "id": 360,
+      "name": "สภ.กบินทร์บุรี",
+      "ProvinceID": 25,
+      "AmphurID": 6365,
+      "tambolid": 0
+    },
+    {
+      "id": 361,
+      "name": "สภ.วังตะเคียน",
+      "ProvinceID": 25,
+      "AmphurID": 6365,
+      "tambolid": 5645
+    },
+    {
+      "id": 362,
+      "name": "สภ.นาดี",
+      "ProvinceID": 25,
+      "AmphurID": 6384,
+      "tambolid": 0
+    },
+    {
+      "id": 363,
+      "name": "สภ.สระบัว",
+      "ProvinceID": 25,
+      "AmphurID": 6365,
+      "tambolid": 5647
+    },
+    {
+      "id": 364,
+      "name": "สภ.วังขอนแดง",
+      "ProvinceID": 25,
+      "AmphurID": 6384,
+      "tambolid": 5663
+    },
+    {
+      "id": 365,
+      "name": "สภ.เมืองระยอง",
+      "ProvinceID": 21,
+      "AmphurID": 5985,
+      "tambolid": 0
+    },
+    {
+      "id": 366,
+      "name": "สภ.มาบตาพุด",
+      "ProvinceID": 21,
+      "AmphurID": 5985,
+      "tambolid": 5316
+    },
+    {
+      "id": 367,
+      "name": "สภ.เพ",
+      "ProvinceID": 21,
+      "AmphurID": 5985,
+      "tambolid": 0
+    },
+    {
+      "id": 368,
+      "name": "สภ.บ้านค่าย",
+      "ProvinceID": 21,
+      "AmphurID": 6034,
+      "tambolid": 0
+    },
+    {
+      "id": 369,
+      "name": "สภ.บ้านฉาง",
+      "ProvinceID": 21,
+      "AmphurID": 6003,
+      "tambolid": 0
+    },
+    {
+      "id": 370,
+      "name": "สภ.แกลง",
+      "ProvinceID": 21,
+      "AmphurID": 6007,
+      "tambolid": 0
+    },
+    {
+      "id": 371,
+      "name": "สภ.บ้านกร่ำ",
+      "ProvinceID": 21,
+      "AmphurID": 6007,
+      "tambolid": 5327
+    },
+    {
+      "id": 372,
+      "name": "สภ.ปลวกแดง",
+      "ProvinceID": 21,
+      "AmphurID": 6052,
+      "tambolid": 0
+    },
+    {
+      "id": 373,
+      "name": "สภ.วังจันทร์",
+      "ProvinceID": 21,
+      "AmphurID": 6029,
+      "tambolid": 0
+    },
+    {
+      "id": 374,
+      "name": "สภ.ห้วยโป่ง",
+      "ProvinceID": 21,
+      "AmphurID": 5985,
+      "tambolid": 5315
+    },
+    {
+      "id": 375,
+      "name": "สภ.เขาชะเมา",
+      "ProvinceID": 21,
+      "AmphurID": 6059,
+      "tambolid": 0
+    },
+    {
+      "id": 376,
+      "name": "สภ.นิคมพัฒนา",
+      "ProvinceID": 21,
+      "AmphurID": 6064,
+      "tambolid": 0
+    },
+    {
+      "id": 377,
+      "name": "สภ.หนองกรับ",
+      "ProvinceID": 21,
+      "AmphurID": 6034,
+      "tambolid": 5353
+    },
+    {
+      "id": 378,
+      "name": "สภ.สำนักทอง",
+      "ProvinceID": 21,
+      "AmphurID": 5985,
+      "tambolid": 5317
+    },
+    {
+      "id": 379,
+      "name": "สภ.เมืองสระแก้ว",
+      "ProvinceID": 27,
+      "AmphurID": 6549,
+      "tambolid": 0
+    },
+    {
+      "id": 380,
+      "name": "สภ.เขาฉกรรจ์",
+      "ProvinceID": 27,
+      "AmphurID": 6614,
+      "tambolid": 0
+    },
+    {
+      "id": 381,
+      "name": "สภ.ปางสีดา (สภ.โคกอีหลง)",
+      "ProvinceID": 27,
+      "AmphurID": 6549,
+      "tambolid": 5810
+    },
+    {
+      "id": 382,
+      "name": "สภ.อรัญประเทศ",
+      "ProvinceID": 27,
+      "AmphurID": 6600,
+      "tambolid": 0
+    },
+    {
+      "id": 383,
+      "name": "สภ.ตาพระยา",
+      "ProvinceID": 27,
+      "AmphurID": 6570,
+      "tambolid": 0
+    },
+    {
+      "id": 384,
+      "name": "สภ.วังน้ำเย็น",
+      "ProvinceID": 27,
+      "AmphurID": 6580,
+      "tambolid": 0
+    },
+    {
+      "id": 385,
+      "name": "สภ.คลองหาด",
+      "ProvinceID": 27,
+      "AmphurID": 6562,
+      "tambolid": 0
+    },
+    {
+      "id": 386,
+      "name": "สภ.วัฒนานคร",
+      "ProvinceID": 27,
+      "AmphurID": 6588,
+      "tambolid": 0
+    },
+    {
+      "id": 387,
+      "name": "สภ.หนองหมากฝ้าย",
+      "ProvinceID": 27,
+      "AmphurID": 6588,
+      "tambolid": 5849
+    },
+    {
+      "id": 388,
+      "name": "สภ.โคกสูง",
+      "ProvinceID": 27,
+      "AmphurID": 6619,
+      "tambolid": 0
+    },
+    {
+      "id": 389,
+      "name": "สภ.วังสมบูรณ์",
+      "ProvinceID": 27,
+      "AmphurID": 6624,
+      "tambolid": 0
+    },
+    {
+      "id": 390,
+      "name": "สภ.คลองน้ำใส",
+      "ProvinceID": 27,
+      "AmphurID": 6600,
+      "tambolid": 5855
+    },
+    {
+      "id": 391,
+      "name": "สภ.บ้านทัพไทย",
+      "ProvinceID": 27,
+      "AmphurID": 6570,
+      "tambolid": 5831
+    },
+    {
+      "id": 392,
+      "name": "สภ.เขาสิงโต",
+      "ProvinceID": 27,
+      "AmphurID": 6549,
+      "tambolid": 5807
+    },
+    {
+      "id": 393,
+      "name": "สภ.บ้านทับใหม่",
+      "ProvinceID": 27,
+      "AmphurID": 6588,
+      "tambolid": 5844
+    },
+    {
+      "id": 394,
+      "name": "สภ.เมืองชัยภูมิ",
+      "ProvinceID": 36,
+      "AmphurID": 8224,
+      "tambolid": 0
+    },
+    {
+      "id": 395,
+      "name": "สภ.บ้านค่าย",
+      "ProvinceID": 36,
+      "AmphurID": 8224,
+      "tambolid": 7329
+    },
+    {
+      "id": 396,
+      "name": "สภ.ลาดใหญ่",
+      "ProvinceID": 36,
+      "AmphurID": 8224,
+      "tambolid": 7335
+    },
+    {
+      "id": 397,
+      "name": "สภ.จัตุรัส",
+      "ProvinceID": 36,
+      "AmphurID": 8290,
+      "tambolid": 0
+    },
+    {
+      "id": 398,
+      "name": "สภ.เนินสง่า",
+      "ProvinceID": 36,
+      "AmphurID": 8374,
+      "tambolid": 0
+    },
+    {
+      "id": 399,
+      "name": "สภ.หนองบัวระเหว",
+      "ProvinceID": 36,
+      "AmphurID": 8319,
+      "tambolid": 0
+    },
+    {
+      "id": 400,
+      "name": "สภ.บำเหน็จณรงค์",
+      "ProvinceID": 36,
+      "AmphurID": 8307,
+      "tambolid": 0
+    },
+    {
+      "id": 401,
+      "name": "สภ.เทพสถิต",
+      "ProvinceID": 36,
+      "AmphurID": 8325,
+      "tambolid": 0
+    },
+    {
+      "id": 402,
+      "name": "สภ.คอนสวรรค์",
+      "ProvinceID": 36,
+      "AmphurID": 8253,
+      "tambolid": 0
+    },
+    {
+      "id": 403,
+      "name": "สภ.บ้านเขว้า",
+      "ProvinceID": 36,
+      "AmphurID": 8246,
+      "tambolid": 0
+    },
+    {
+      "id": 404,
+      "name": "สภ.ภูเขียว",
+      "ProvinceID": 36,
+      "AmphurID": 8331,
+      "tambolid": 0
+    },
+    {
+      "id": 405,
+      "name": "สภ.เกษตรสมบูรณ์",
+      "ProvinceID": 36,
+      "AmphurID": 8263,
+      "tambolid": 0
+    },
+    {
+      "id": 406,
+      "name": "สภ.บ้านเป้า",
+      "ProvinceID": 36,
+      "AmphurID": 8263,
+      "tambolid": 7364
+    },
+    {
+      "id": 407,
+      "name": "สภ.บ้านเดื่อ",
+      "ProvinceID": 36,
+      "AmphurID": 8263,
+      "tambolid": 7363
+    },
+    {
+      "id": 408,
+      "name": "สภ.คอนสาร",
+      "ProvinceID": 36,
+      "AmphurID": 8360,
+      "tambolid": 0
+    },
+    {
+      "id": 409,
+      "name": "สภ.ห้วยยาง",
+      "ProvinceID": 36,
+      "AmphurID": 8360,
+      "tambolid": 7452
+    },
+    {
+      "id": 410,
+      "name": "สภ.หนองบัวแดง",
+      "ProvinceID": 36,
+      "AmphurID": 8276,
+      "tambolid": 0
+    },
+    {
+      "id": 411,
+      "name": "สภ.บ้านแท่น",
+      "ProvinceID": 36,
+      "AmphurID": 8343,
+      "tambolid": 0
+    },
+    {
+      "id": 412,
+      "name": "สภ.ภักดีชุมพล",
+      "ProvinceID": 36,
+      "AmphurID": 8369,
+      "tambolid": 0
+    },
+    {
+      "id": 413,
+      "name": "สภ.แก้งคร้อ",
+      "ProvinceID": 36,
+      "AmphurID": 8349,
+      "tambolid": 0
+    },
+    {
+      "id": 414,
+      "name": "สภ.ซับใหญ่",
+      "ProvinceID": 36,
+      "AmphurID": 8379,
+      "tambolid": 0
+    },
+    {
+      "id": 415,
+      "name": "สภ.หนองบัวโคก",
+      "ProvinceID": 36,
+      "AmphurID": 8290,
+      "tambolid": 7396
+    },
+    {
+      "id": 416,
+      "name": "สภ.วังตะเฆ่",
+      "ProvinceID": 36,
+      "AmphurID": 8319,
+      "tambolid": 7414
+    },
+    {
+      "id": 417,
+      "name": "สภ.เมืองนครราชสีมา",
+      "ProvinceID": 30,
+      "AmphurID": 6629,
+      "tambolid": 0
+    },
+    {
+      "id": 418,
+      "name": "สภ.โพธิ์กลาง",
+      "ProvinceID": 30,
+      "AmphurID": 6629,
+      "tambolid": 5877
+    },
+    {
+      "id": 419,
+      "name": "สภ.จอหอ",
+      "ProvinceID": 30,
+      "AmphurID": 6629,
+      "tambolid": 5891
+    },
+    {
+      "id": 420,
+      "name": "สภ.ครบุรี",
+      "ProvinceID": 30,
+      "AmphurID": 6655,
+      "tambolid": 0
+    },
+    {
+      "id": 421,
+      "name": "สภ.โชคชัย",
+      "ProvinceID": 30,
+      "AmphurID": 6705,
+      "tambolid": 0
+    },
+    {
+      "id": 422,
+      "name": "สภ.หนองบุญมาก",
+      "ProvinceID": 30,
+      "AmphurID": 6927,
+      "tambolid": 0
+    },
+    {
+      "id": 423,
+      "name": "สภ.ปักธงชัย",
+      "ProvinceID": 30,
+      "AmphurID": 6820,
+      "tambolid": 0
+    },
+    {
+      "id": 424,
+      "name": "สภ.อุดมทรัพย์",
+      "ProvinceID": 30,
+      "AmphurID": 6949,
+      "tambolid": 6175
+    },
+    {
+      "id": 425,
+      "name": "สภ.เสิงสาง",
+      "ProvinceID": 30,
+      "AmphurID": 6668,
+      "tambolid": 0
+    },
+    {
+      "id": 426,
+      "name": "สภ.พิมาย",
+      "ProvinceID": 30,
+      "AmphurID": 6841,
+      "tambolid": 0
+    },
+    {
+      "id": 427,
+      "name": "สภ.ชุมพวง",
+      "ProvinceID": 30,
+      "AmphurID": 6865,
+      "tambolid": 0
+    },
+    {
+      "id": 428,
+      "name": "สภ.ลำทะเมนชัย",
+      "ProvinceID": 30,
+      "AmphurID": 6971,
+      "tambolid": 0
+    },
+    {
+      "id": 429,
+      "name": "สภ.จักราช",
+      "ProvinceID": 30,
+      "AmphurID": 6691,
+      "tambolid": 0
+    },
+    {
+      "id": 430,
+      "name": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 30,
+      "AmphurID": 6987,
+      "tambolid": 0
+    },
+    {
+      "id": 431,
+      "name": "สภ.โนนสูง",
+      "ProvinceID": 30,
+      "AmphurID": 6752,
+      "tambolid": 0
+    },
+    {
+      "id": 432,
+      "name": "สภ.ห้วยแถลง",
+      "ProvinceID": 30,
+      "AmphurID": 6854,
+      "tambolid": 0
+    },
+    {
+      "id": 433,
+      "name": "สภ.บัวใหญ่",
+      "ProvinceID": 30,
+      "AmphurID": 6777,
+      "tambolid": 0
+    },
+    {
+      "id": 434,
+      "name": "สภ.บัวลาย",
+      "ProvinceID": 30,
+      "AmphurID": 6976,
+      "tambolid": 0
+    },
+    {
+      "id": 435,
+      "name": "สภ.ประทาย",
+      "ProvinceID": 30,
+      "AmphurID": 6801,
+      "tambolid": 0
+    },
+    {
+      "id": 436,
+      "name": "สภ.โนนแดง",
+      "ProvinceID": 30,
+      "AmphurID": 6943,
+      "tambolid": 0
+    },
+    {
+      "id": 437,
+      "name": "สภ.คง",
+      "ProvinceID": 30,
+      "AmphurID": 6675,
+      "tambolid": 0
+    },
+    {
+      "id": 438,
+      "name": "สภ.บ้านเหลื่อม",
+      "ProvinceID": 30,
+      "AmphurID": 6686,
+      "tambolid": 0
+    },
+    {
+      "id": 439,
+      "name": "สภ.แก้งสนามนาง",
+      "ProvinceID": 30,
+      "AmphurID": 6937,
+      "tambolid": 0
+    },
+    {
+      "id": 440,
+      "name": "สภ.ขามสะแกแสง",
+      "ProvinceID": 30,
+      "AmphurID": 6769,
+      "tambolid": 0
+    },
+    {
+      "id": 441,
+      "name": "สภ.สีคิ้ว",
+      "ProvinceID": 30,
+      "AmphurID": 6901,
+      "tambolid": 0
+    },
+    {
+      "id": 442,
+      "name": "สภ.ปากช่อง",
+      "ProvinceID": 30,
+      "AmphurID": 6914,
+      "tambolid": 0
+    },
+    {
+      "id": 443,
+      "name": "สภ.กลางดง อ.ปากช่อง  จว.นม.",
+      "ProvinceID": 30,
+      "AmphurID": 6914,
+      "tambolid": 6142
+    },
+    {
+      "id": 444,
+      "name": "สภ.หนองสาหร่าย",
+      "ProvinceID": 30,
+      "AmphurID": 6914,
+      "tambolid": 6146
+    },
+    {
+      "id": 445,
+      "name": "สภ.หมูสี",
+      "ProvinceID": 30,
+      "AmphurID": 6914,
+      "tambolid": 6145
+    },
+    {
+      "id": 446,
+      "name": "สภ.โนนไทย",
+      "ProvinceID": 30,
+      "AmphurID": 6736,
+      "tambolid": 0
+    },
+    {
+      "id": 447,
+      "name": "สภพระทองคำ",
+      "ProvinceID": 30,
+      "AmphurID": 6965,
+      "tambolid": 0
+    },
+    {
+      "id": 448,
+      "name": "สภ.สูงเนิน",
+      "ProvinceID": 30,
+      "AmphurID": 6883,
+      "tambolid": 0
+    },
+    {
+      "id": 449,
+      "name": "สภ.ขามทะเลสอ",
+      "ProvinceID": 30,
+      "AmphurID": 6895,
+      "tambolid": 0
+    },
+    {
+      "id": 450,
+      "name": "สภ.ด่านขุนทด",
+      "ProvinceID": 30,
+      "AmphurID": 6716,
+      "tambolid": 0
+    },
+    {
+      "id": 451,
+      "name": "สภ.วังน้ำเขียว",
+      "ProvinceID": 30,
+      "AmphurID": 6949,
+      "tambolid": 0
+    },
+    {
+      "id": 452,
+      "name": "สภ.เมืองยาง",
+      "ProvinceID": 30,
+      "AmphurID": 6960,
+      "tambolid": 0
+    },
+    {
+      "id": 453,
+      "name": "สภ.เทพารักษ์",
+      "ProvinceID": 30,
+      "AmphurID": 6955,
+      "tambolid": 0
+    },
+    {
+      "id": 454,
+      "name": "สภ.สีดา",
+      "ProvinceID": 30,
+      "AmphurID": 6981,
+      "tambolid": 0
+    },
+    {
+      "id": 455,
+      "name": "สภ.มะเริง",
+      "ProvinceID": 30,
+      "AmphurID": 6629,
+      "tambolid": 5880
+    },
+    {
+      "id": 456,
+      "name": "สภ.หินดาด",
+      "ProvinceID": 30,
+      "AmphurID": 6716,
+      "tambolid": 5968
+    },
+    {
+      "id": 457,
+      "name": "สภ.พลกรัง",
+      "ProvinceID": 30,
+      "AmphurID": 6629,
+      "tambolid": 5884
+    },
+    {
+      "id": 458,
+      "name": "สภ.บ้านปรางค์",
+      "ProvinceID": 30,
+      "AmphurID": 6675,
+      "tambolid": 5923
+    },
+    {
+      "id": 459,
+      "name": "สภ.บ้านหัน",
+      "ProvinceID": 30,
+      "AmphurID": 6901,
+      "tambolid": 6130
+    },
+    {
+      "id": 460,
+      "name": "สภ.เมืองบุรีรัมย์",
+      "ProvinceID": 31,
+      "AmphurID": 6997,
+      "tambolid": 0
+    },
+    {
+      "id": 461,
+      "name": "สภ.บ้านด่าน",
+      "ProvinceID": 31,
+      "AmphurID": 7248,
+      "tambolid": 0
+    },
+    {
+      "id": 462,
+      "name": "สภ.หนองสองห้อง",
+      "ProvinceID": 31,
+      "AmphurID": 6997,
+      "tambolid": 6225
+    },
+    {
+      "id": 463,
+      "name": "สภ.พุทไธสง",
+      "ProvinceID": 31,
+      "AmphurID": 7141,
+      "tambolid": 0
+    },
+    {
+      "id": 464,
+      "name": "สภ.บ้านใหม่ไชยพจน์",
+      "ProvinceID": 31,
+      "AmphurID": 7238,
+      "tambolid": 0
+    },
+    {
+      "id": 465,
+      "name": "สภ.สตึก",
+      "ProvinceID": 31,
+      "AmphurID": 7174,
+      "tambolid": 0
+    },
+    {
+      "id": 466,
+      "name": "สภ.คูเมือง",
+      "ProvinceID": 31,
+      "AmphurID": 7028,
+      "tambolid": 0
+    },
+    {
+      "id": 467,
+      "name": "สภ.นาโพธิ์",
+      "ProvinceID": 31,
+      "AmphurID": 7197,
+      "tambolid": 0
+    },
+    {
+      "id": 468,
+      "name": "สภ.ประโคนชัย",
+      "ProvinceID": 31,
+      "AmphurID": 7106,
+      "tambolid": 0
+    },
+    {
+      "id": 469,
+      "name": "สภ.พลับพลาชัย",
+      "ProvinceID": 31,
+      "AmphurID": 7211,
+      "tambolid": 0
+    },
+    {
+      "id": 470,
+      "name": "สภ.กระสัง",
+      "ProvinceID": 31,
+      "AmphurID": 7036,
+      "tambolid": 0
+    },
+    {
+      "id": 471,
+      "name": "สภ.ลำดวน",
+      "ProvinceID": 31,
+      "AmphurID": 7036,
+      "tambolid": 6246
+    },
+    {
+      "id": 472,
+      "name": "สภ.ละหานทราย",
+      "ProvinceID": 31,
+      "AmphurID": 7093,
+      "tambolid": 0
+    },
+    {
+      "id": 473,
+      "name": "สภ.โนนดินแดง",
+      "ProvinceID": 31,
+      "AmphurID": 7244,
+      "tambolid": 0
+    },
+    {
+      "id": 474,
+      "name": "สภ.บ้านกรวด",
+      "ProvinceID": 31,
+      "AmphurID": 7131,
+      "tambolid": 0
+    },
+    {
+      "id": 475,
+      "name": "สภ.นางรอง",
+      "ProvinceID": 31,
+      "AmphurID": 7048,
+      "tambolid": 0
+    },
+    {
+      "id": 476,
+      "name": "สภ.ชำนิ",
+      "ProvinceID": 31,
+      "AmphurID": 7231,
+      "tambolid": 0
+    },
+    {
+      "id": 477,
+      "name": "สภ.ลำปลายมาศ",
+      "ProvinceID": 31,
+      "AmphurID": 7154,
+      "tambolid": 0
+    },
+    {
+      "id": 478,
+      "name": "สภ.ทะเมนชัย",
+      "ProvinceID": 31,
+      "AmphurID": 7154,
+      "tambolid": 6359
+    },
+    {
+      "id": 479,
+      "name": "สภ.หนองกี่",
+      "ProvinceID": 31,
+      "AmphurID": 7082,
+      "tambolid": 0
+    },
+    {
+      "id": 480,
+      "name": "สภ.ปะคำ",
+      "ProvinceID": 31,
+      "AmphurID": 7191,
+      "tambolid": 0
+    },
+    {
+      "id": 481,
+      "name": "สภ.หนองหงส์",
+      "ProvinceID": 31,
+      "AmphurID": 7203,
+      "tambolid": 0
+    },
+    {
+      "id": 482,
+      "name": "สภ.ห้วยราช",
+      "ProvinceID": 31,
+      "AmphurID": 7217,
+      "tambolid": 0
+    },
+    {
+      "id": 483,
+      "name": "สภ.โนนสุวรรณ",
+      "ProvinceID": 31,
+      "AmphurID": 7226,
+      "tambolid": 0
+    },
+    {
+      "id": 484,
+      "name": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 31,
+      "AmphurID": 7258,
+      "tambolid": 0
+    },
+    {
+      "id": 485,
+      "name": "สภ.แคนดง",
+      "ProvinceID": 31,
+      "AmphurID": 7253,
+      "tambolid": 0
+    },
+    {
+      "id": 486,
+      "name": "สภ.บ้านบัว",
+      "ProvinceID": 31,
+      "AmphurID": 7106,
+      "tambolid": 6316
+    },
+    {
+      "id": 487,
+      "name": "สภ.เมืองยโสธร",
+      "ProvinceID": 35,
+      "AmphurID": 8117,
+      "tambolid": 0
+    },
+    {
+      "id": 488,
+      "name": "สภ.มหาชนะชัย",
+      "ProvinceID": 35,
+      "AmphurID": 8176,
+      "tambolid": 0
+    },
+    {
+      "id": 489,
+      "name": "สภ.เลิงนกทา",
+      "ProvinceID": 35,
+      "AmphurID": 8196,
+      "tambolid": 0
+    },
+    {
+      "id": 490,
+      "name": "สภ.กุดชุม",
+      "ProvinceID": 35,
+      "AmphurID": 8146,
+      "tambolid": 0
+    },
+    {
+      "id": 491,
+      "name": "สภ.คำเขื่อนแก้ว",
+      "ProvinceID": 35,
+      "AmphurID": 8156,
+      "tambolid": 0
+    },
+    {
+      "id": 492,
+      "name": "สภ.ป่าติ้ว",
+      "ProvinceID": 35,
+      "AmphurID": 8170,
+      "tambolid": 0
+    },
+    {
+      "id": 493,
+      "name": "สภ.ค้อวัง",
+      "ProvinceID": 35,
+      "AmphurID": 8191,
+      "tambolid": 0
+    },
+    {
+      "id": 494,
+      "name": "สภ.ทรายมูล",
+      "ProvinceID": 35,
+      "AmphurID": 8140,
+      "tambolid": 0
+    },
+    {
+      "id": 495,
+      "name": "สภ.ไทยเจริญ",
+      "ProvinceID": 35,
+      "AmphurID": 8217,
+      "tambolid": 0
+    },
+    {
+      "id": 496,
+      "name": "สภ.เมืองศรีสะเกษ",
+      "ProvinceID": 33,
+      "AmphurID": 7473,
+      "tambolid": 0
+    },
+    {
+      "id": 497,
+      "name": "สภ.พยุห์",
+      "ProvinceID": 33,
+      "AmphurID": 7740,
+      "tambolid": 0
+    },
+    {
+      "id": 498,
+      "name": "สภ.อุทุมพรพิสัย",
+      "ProvinceID": 33,
+      "AmphurID": 7650,
+      "tambolid": 0
+    },
+    {
+      "id": 499,
+      "name": "สภ.ราษีไศล",
+      "ProvinceID": 33,
+      "AmphurID": 7632,
+      "tambolid": 0
+    },
+    {
+      "id": 500,
+      "name": "สภ.กันทรารมย์",
+      "ProvinceID": 33,
+      "AmphurID": 7514,
+      "tambolid": 0
+    },
+    {
+      "id": 501,
+      "name": "สภ.ยางชุมน้อย",
+      "ProvinceID": 33,
+      "AmphurID": 7506,
+      "tambolid": 0
+    },
+    {
+      "id": 502,
+      "name": "สภ.ห้วยทับทัน",
+      "ProvinceID": 33,
+      "AmphurID": 7685,
+      "tambolid": 0
+    },
+    {
+      "id": 503,
+      "name": "สภ.วังหิน",
+      "ProvinceID": 33,
+      "AmphurID": 7713,
+      "tambolid": 0
+    },
+    {
+      "id": 504,
+      "name": "สภ.น้ำเกลี้ยง",
+      "ProvinceID": 33,
+      "AmphurID": 7706,
+      "tambolid": 0
+    },
+    {
+      "id": 505,
+      "name": "สภบึงบูรพ์",
+      "ProvinceID": 33,
+      "AmphurID": 7682,
+      "tambolid": 0
+    },
+    {
+      "id": 506,
+      "name": "สภ.ขุขันธ์",
+      "ProvinceID": 33,
+      "AmphurID": 7571,
+      "tambolid": 0
+    },
+    {
+      "id": 507,
+      "name": "สภ.ปรือใหญ่",
+      "ProvinceID": 33,
+      "AmphurID": 7571,
+      "tambolid": 6741
+    },
+    {
+      "id": 508,
+      "name": "สภ.กันทรลักษ์",
+      "ProvinceID": 33,
+      "AmphurID": 7541,
+      "tambolid": 0
+    },
+    {
+      "id": 509,
+      "name": "สภ.บึงมะลู",
+      "ProvinceID": 33,
+      "AmphurID": 7541,
+      "tambolid": 6707
+    },
+    {
+      "id": 510,
+      "name": "สภ.ขุนหาญ",
+      "ProvinceID": 33,
+      "AmphurID": 7619,
+      "tambolid": 0
+    },
+    {
+      "id": 511,
+      "name": "สภ. ปรางค์กู่",
+      "ProvinceID": 33,
+      "AmphurID": 7608,
+      "tambolid": 0
+    },
+    {
+      "id": 512,
+      "name": "สภ.ไพรบึง",
+      "ProvinceID": 33,
+      "AmphurID": 7601,
+      "tambolid": 0
+    },
+    {
+      "id": 513,
+      "name": "สภ.โนนคูณ",
+      "ProvinceID": 33,
+      "AmphurID": 7692,
+      "tambolid": 0
+    },
+    {
+      "id": 514,
+      "name": "สภ.ศรีรัตนะ",
+      "ProvinceID": 33,
+      "AmphurID": 7698,
+      "tambolid": 0
+    },
+    {
+      "id": 515,
+      "name": "สภ.เมืองจันทร์",
+      "ProvinceID": 33,
+      "AmphurID": 7730,
+      "tambolid": 0
+    },
+    {
+      "id": 516,
+      "name": "สภ.ภูสิงห์",
+      "ProvinceID": 33,
+      "AmphurID": 7722,
+      "tambolid": 0
+    },
+    {
+      "id": 517,
+      "name": "สภ.เบญจลักษ์",
+      "ProvinceID": 33,
+      "AmphurID": 7734,
+      "tambolid": 0
+    },
+    {
+      "id": 518,
+      "name": "สภ.โพธิ์ศรีสุวรรณ",
+      "ProvinceID": 33,
+      "AmphurID": 7746,
+      "tambolid": 0
+    },
+    {
+      "id": 519,
+      "name": "สภ.ศิลาลาด",
+      "ProvinceID": 33,
+      "AmphurID": 7752,
+      "tambolid": 0
+    },
+    {
+      "id": 520,
+      "name": "สภ.บ้านโดนเอาว์",
+      "ProvinceID": 33,
+      "AmphurID": 7541,
+      "tambolid": 6714
+    },
+    {
+      "id": 521,
+      "name": "สภ.กันทรอม",
+      "ProvinceID": 33,
+      "AmphurID": 7619,
+      "tambolid": 6789
+    },
+    {
+      "id": 522,
+      "name": "สภ.ไพร",
+      "ProvinceID": 33,
+      "AmphurID": 7619,
+      "tambolid": 6785
+    },
+    {
+      "id": 523,
+      "name": "สภ.เมืองสุรินทร์",
+      "ProvinceID": 32,
+      "AmphurID": 7265,
+      "tambolid": 0
+    },
+    {
+      "id": 524,
+      "name": "สภ.สังขะ",
+      "ProvinceID": 32,
+      "AmphurID": 7405,
+      "tambolid": 0
+    },
+    {
+      "id": 525,
+      "name": "สภ.ศรีณรงค์",
+      "ProvinceID": 32,
+      "AmphurID": 7454,
+      "tambolid": 0
+    },
+    {
+      "id": 526,
+      "name": "สภ.ปราสาท",
+      "ProvinceID": 32,
+      "AmphurID": 7323,
+      "tambolid": 0
+    },
+    {
+      "id": 527,
+      "name": "สภ.ทุ่งมน",
+      "ProvinceID": 32,
+      "AmphurID": 7323,
+      "tambolid": 6510
+    },
+    {
+      "id": 528,
+      "name": "สภ.กาบเชิง",
+      "ProvinceID": 32,
+      "AmphurID": 7347,
+      "tambolid": 0
+    },
+    {
+      "id": 529,
+      "name": "สภ.บัวเชด",
+      "ProvinceID": 32,
+      "AmphurID": 7442,
+      "tambolid": 0
+    },
+    {
+      "id": 530,
+      "name": "สภ.ลำดวน",
+      "ProvinceID": 32,
+      "AmphurID": 7425,
+      "tambolid": 0
+    },
+    {
+      "id": 531,
+      "name": "สภ.รัตนบุรี",
+      "ProvinceID": 32,
+      "AmphurID": 7358,
+      "tambolid": 0
+    },
+    {
+      "id": 532,
+      "name": "สภ.ศีขรภูมิ",
+      "ProvinceID": 32,
+      "AmphurID": 7389,
+      "tambolid": 0
+    },
+    {
+      "id": 533,
+      "name": "สภ.ชุมพลบุรี",
+      "ProvinceID": 32,
+      "AmphurID": 7292,
+      "tambolid": 0
+    },
+    {
+      "id": 534,
+      "name": "สภ.สำโรงทาบ",
+      "ProvinceID": 32,
+      "AmphurID": 7431,
+      "tambolid": 0
+    },
+    {
+      "id": 535,
+      "name": "สภ.จอมพระ",
+      "ProvinceID": 32,
+      "AmphurID": 7313,
+      "tambolid": 0
+    },
+    {
+      "id": 536,
+      "name": "สภ.ท่าตูม",
+      "ProvinceID": 32,
+      "AmphurID": 7302,
+      "tambolid": 0
+    },
+    {
+      "id": 537,
+      "name": "สภ.สนม",
+      "ProvinceID": 32,
+      "AmphurID": 7381,
+      "tambolid": 0
+    },
+    {
+      "id": 538,
+      "name": "สภ.พนมดงรัก",
+      "ProvinceID": 32,
+      "AmphurID": 7449,
+      "tambolid": 0
+    },
+    {
+      "id": 539,
+      "name": "สภ.เขวาสินรินทร์",
+      "ProvinceID": 32,
+      "AmphurID": 7460,
+      "tambolid": 0
+    },
+    {
+      "id": 540,
+      "name": "สภ.โนนนารายณ์",
+      "ProvinceID": 32,
+      "AmphurID": 7466,
+      "tambolid": 0
+    },
+    {
+      "id": 541,
+      "name": "สภ.ดม อ.สังขะ  จว.สร.",
+      "ProvinceID": 32,
+      "AmphurID": 7405,
+      "tambolid": 6588
+    },
+    {
+      "id": 542,
+      "name": "สภ.เทนมีย์",
+      "ProvinceID": 32,
+      "AmphurID": 7265,
+      "tambolid": 6467
+    },
+    {
+      "id": 543,
+      "name": "สภ.สวาย",
+      "ProvinceID": 32,
+      "AmphurID": 7265,
+      "tambolid": 6464
+    },
+    {
+      "id": 544,
+      "name": "สภ.เมืองที",
+      "ProvinceID": 32,
+      "AmphurID": 7265,
+      "tambolid": 6470
+    },
+    {
+      "id": 545,
+      "name": "สภ.โชคนาสาม",
+      "ProvinceID": 32,
+      "AmphurID": 7323,
+      "tambolid": 6516
+    },
+    {
+      "id": 546,
+      "name": "สภ.กระโพ",
+      "ProvinceID": 32,
+      "AmphurID": 7302,
+      "tambolid": 6488
+    },
+    {
+      "id": 547,
+      "name": "สภ.เมืองอำนาจเจริญ",
+      "ProvinceID": 37,
+      "AmphurID": 8393,
+      "tambolid": 0
+    },
+    {
+      "id": 548,
+      "name": "สภ.น้ำปลีก",
+      "ProvinceID": 37,
+      "AmphurID": 8393,
+      "tambolid": 7476
+    },
+    {
+      "id": 549,
+      "name": "สภ.หัวตะพาน",
+      "ProvinceID": 37,
+      "AmphurID": 8453,
+      "tambolid": 0
+    },
+    {
+      "id": 550,
+      "name": "สภ.พนา",
+      "ProvinceID": 37,
+      "AmphurID": 8438,
+      "tambolid": 0
+    },
+    {
+      "id": 551,
+      "name": "สภ.เสนางคนิคม",
+      "ProvinceID": 37,
+      "AmphurID": 8446,
+      "tambolid": 0
+    },
+    {
+      "id": 552,
+      "name": "สภ.ชานุมาน",
+      "ProvinceID": 37,
+      "AmphurID": 8423,
+      "tambolid": 0
+    },
+    {
+      "id": 553,
+      "name": "สภ.ลืออำนาจ",
+      "ProvinceID": 37,
+      "AmphurID": 8462,
+      "tambolid": 0
+    },
+    {
+      "id": 554,
+      "name": "สภ.ปทุมราชวงศา",
+      "ProvinceID": 37,
+      "AmphurID": 8430,
+      "tambolid": 0
+    },
+    {
+      "id": 555,
+      "name": "สภ.เมืองอุบลราชธานี",
+      "ProvinceID": 34,
+      "AmphurID": 7758,
+      "tambolid": 0
+    },
+    {
+      "id": 556,
+      "name": "สภ.เหล่าเสือโก้ก",
+      "ProvinceID": 34,
+      "AmphurID": 8100,
+      "tambolid": 0
+    },
+    {
+      "id": 557,
+      "name": "สภ.วารินชำราบ",
+      "ProvinceID": 34,
+      "AmphurID": 7945,
+      "tambolid": 0
+    },
+    {
+      "id": 558,
+      "name": "สภ.ห้วยขะยุง",
+      "ProvinceID": 34,
+      "AmphurID": 7945,
+      "tambolid": 7100
+    },
+    {
+      "id": 559,
+      "name": "สภ.พิบูลมังสาหาร",
+      "ProvinceID": 34,
+      "AmphurID": 8012,
+      "tambolid": 0
+    },
+    {
+      "id": 560,
+      "name": "สภ.เขื่องใน",
+      "ProvinceID": 34,
+      "AmphurID": 7798,
+      "tambolid": 0
+    },
+    {
+      "id": 561,
+      "name": "สภ.โขงเจียม",
+      "ProvinceID": 34,
+      "AmphurID": 7791,
+      "tambolid": 0
+    },
+    {
+      "id": 562,
+      "name": "สภ.ตาลสุม",
+      "ProvinceID": 34,
+      "AmphurID": 8032,
+      "tambolid": 0
+    },
+    {
+      "id": 563,
+      "name": "สภ.สำโรง",
+      "ProvinceID": 34,
+      "AmphurID": 8046,
+      "tambolid": 0
+    },
+    {
+      "id": 564,
+      "name": "สภ.ม่วงสามสิบ",
+      "ProvinceID": 34,
+      "AmphurID": 7930,
+      "tambolid": 0
+    },
+    {
+      "id": 565,
+      "name": "สภ.เขมราฐ",
+      "ProvinceID": 34,
+      "AmphurID": 7817,
+      "tambolid": 0
+    },
+    {
+      "id": 566,
+      "name": "สภ.ศรีเมืองใหม่",
+      "ProvinceID": 34,
+      "AmphurID": 7779,
+      "tambolid": 0
+    },
+    {
+      "id": 567,
+      "name": "สภ.กุดข้าวปุ้น",
+      "ProvinceID": 34,
+      "AmphurID": 7915,
+      "tambolid": 0
+    },
+    {
+      "id": 568,
+      "name": "สภ.โพธิ์ไทร",
+      "ProvinceID": 34,
+      "AmphurID": 8039,
+      "tambolid": 0
+    },
+    {
+      "id": 569,
+      "name": "สภ.ตระการพืชผล",
+      "ProvinceID": 34,
+      "AmphurID": 7891,
+      "tambolid": 0
+    },
+    {
+      "id": 570,
+      "name": "สภ.เดชอุดม",
+      "ProvinceID": 34,
+      "AmphurID": 7839,
+      "tambolid": 0
+    },
+    {
+      "id": 571,
+      "name": "สภ.นาเยีย",
+      "ProvinceID": 34,
+      "AmphurID": 8091,
+      "tambolid": 0
+    },
+    {
+      "id": 572,
+      "name": "สภ.น้ำยืน",
+      "ProvinceID": 34,
+      "AmphurID": 7870,
+      "tambolid": 0
+    },
+    {
+      "id": 573,
+      "name": "สภ.บุณฑริก",
+      "ProvinceID": 34,
+      "AmphurID": 7882,
+      "tambolid": 0
+    },
+    {
+      "id": 574,
+      "name": "สภ.นาจะหลวย",
+      "ProvinceID": 34,
+      "AmphurID": 7863,
+      "tambolid": 0
+    },
+    {
+      "id": 575,
+      "name": "สภ.สิรินธร",
+      "ProvinceID": 34,
+      "AmphurID": 8068,
+      "tambolid": 0
+    },
+    {
+      "id": 576,
+      "name": "สภ.ดอนมดแดง",
+      "ProvinceID": 34,
+      "AmphurID": 8063,
+      "tambolid": 0
+    },
+    {
+      "id": 577,
+      "name": "สภ.ทุ่งศรีอุดม",
+      "ProvinceID": 34,
+      "AmphurID": 8075,
+      "tambolid": 0
+    },
+    {
+      "id": 578,
+      "name": "สภ.นาตาล",
+      "ProvinceID": 34,
+      "AmphurID": 8095,
+      "tambolid": 0
+    },
+    {
+      "id": 579,
+      "name": "สภ.สว่างวีระวงศ์",
+      "ProvinceID": 34,
+      "AmphurID": 8105,
+      "tambolid": 0
+    },
+    {
+      "id": 580,
+      "name": "สภ.น้ำขุ่น",
+      "ProvinceID": 34,
+      "AmphurID": 8110,
+      "tambolid": 0
+    },
+    {
+      "id": 581,
+      "name": "สภ.ช่องเม็ก",
+      "ProvinceID": 34,
+      "AmphurID": 8068,
+      "tambolid": 7191
+    },
+    {
+      "id": 582,
+      "name": "สภ.นาโพธิ์",
+      "ProvinceID": 34,
+      "AmphurID": 8012,
+      "tambolid": 7145
+    },
+    {
+      "id": 583,
+      "name": "สภ.ม่วงเฒ่า",
+      "ProvinceID": 34,
+      "AmphurID": 7817,
+      "tambolid": 6971
+    },
+    {
+      "id": 584,
+      "name": "สภ.โนนกุง",
+      "ProvinceID": 34,
+      "AmphurID": 7891,
+      "tambolid": 7036
+    },
+    {
+      "id": 585,
+      "name": "สภ.นาโพธิ์",
+      "ProvinceID": 34,
+      "AmphurID": 7882,
+      "tambolid": 7022
+    },
+    {
+      "id": 586,
+      "name": "สภ.ห้วยข่า",
+      "ProvinceID": 34,
+      "AmphurID": 7882,
+      "tambolid": 7020
+    },
+    {
+      "id": 587,
+      "name": "สภ.เมืองกาฬสินธุ์",
+      "ProvinceID": 46,
+      "AmphurID": 9874,
+      "tambolid": 0
+    },
+    {
+      "id": 588,
+      "name": "สภ.ดอนจาน",
+      "ProvinceID": 46,
+      "AmphurID": 30,
+      "tambolid": 0
+    },
+    {
+      "id": 589,
+      "name": "สภ.ยางตลาด",
+      "ProvinceID": 46,
+      "AmphurID": 9948,
+      "tambolid": 0
+    },
+    {
+      "id": 590,
+      "name": "สภ.กมลาไสย",
+      "ProvinceID": 46,
+      "AmphurID": 9905,
+      "tambolid": 0
+    },
+    {
+      "id": 591,
+      "name": "สภ.ท่าคันโท",
+      "ProvinceID": 46,
+      "AmphurID": 9998,
+      "tambolid": 0
+    },
+    {
+      "id": 592,
+      "name": "สภ.ห้วยเม็ก",
+      "ProvinceID": 46,
+      "AmphurID": 9964,
+      "tambolid": 0
+    },
+    {
+      "id": 593,
+      "name": "สภ.หนองกุงศรี",
+      "ProvinceID": 46,
+      "AmphurID": 10007,
+      "tambolid": 0
+    },
+    {
+      "id": 594,
+      "name": "สภ.ร่องคำ",
+      "ProvinceID": 46,
+      "AmphurID": 9919,
+      "tambolid": 0
+    },
+    {
+      "id": 595,
+      "name": "สภ.สมเด็จ",
+      "ProvinceID": 46,
+      "AmphurID": 5,
+      "tambolid": 0
+    },
+    {
+      "id": 596,
+      "name": "สภ.เขาวง",
+      "ProvinceID": 46,
+      "AmphurID": 9936,
+      "tambolid": 0
+    },
+    {
+      "id": 597,
+      "name": "สภ.นาคู",
+      "ProvinceID": 46,
+      "AmphurID": 24,
+      "tambolid": 0
+    },
+    {
+      "id": 598,
+      "name": "สภ.คำม่วง",
+      "ProvinceID": 46,
+      "AmphurID": 9987,
+      "tambolid": 0
+    },
+    {
+      "id": 599,
+      "name": "สภ.นามน",
+      "ProvinceID": 46,
+      "AmphurID": 9899,
+      "tambolid": 0
+    },
+    {
+      "id": 600,
+      "name": "สภ.สหัสขันธ์",
+      "ProvinceID": 46,
+      "AmphurID": 9974,
+      "tambolid": 0
+    },
+    {
+      "id": 601,
+      "name": "สภ.กุฉินารายณ์",
+      "ProvinceID": 46,
+      "AmphurID": 9923,
+      "tambolid": 0
+    },
+    {
+      "id": 602,
+      "name": "สภ.ห้วยผึ้ง",
+      "ProvinceID": 46,
+      "AmphurID": 14,
+      "tambolid": 0
+    },
+    {
+      "id": 603,
+      "name": "สภ.สามชัย",
+      "ProvinceID": 46,
+      "AmphurID": 19,
+      "tambolid": 0
+    },
+    {
+      "id": 604,
+      "name": "สภ.ฆ้องชัย",
+      "ProvinceID": 46,
+      "AmphurID": 36,
+      "tambolid": 0
+    },
+    {
+      "id": 605,
+      "name": "สภ.โนนสูง",
+      "ProvinceID": 46,
+      "AmphurID": 9948,
+      "tambolid": 8882
+    },
+    {
+      "id": 606,
+      "name": "สภ.นากุง",
+      "ProvinceID": 46,
+      "AmphurID": 9948,
+      "tambolid": 8880
+    },
+    {
+      "id": 607,
+      "name": "สภ.เมืองขอนแก่น",
+      "ProvinceID": 40,
+      "AmphurID": 8609,
+      "tambolid": 0
+    },
+    {
+      "id": 608,
+      "name": "สภ.น้ำพอง",
+      "ProvinceID": 40,
+      "AmphurID": 8679,
+      "tambolid": 0
+    },
+    {
+      "id": 609,
+      "name": "สภ.กระนวน",
+      "ProvinceID": 40,
+      "AmphurID": 8699,
+      "tambolid": 0
+    },
+    {
+      "id": 610,
+      "name": "สภ.ซำสูง",
+      "ProvinceID": 40,
+      "AmphurID": 8845,
+      "tambolid": 0
+    },
+    {
+      "id": 611,
+      "name": "สภ.พระยืน",
+      "ProvinceID": 40,
+      "AmphurID": 8638,
+      "tambolid": 0
+    },
+    {
+      "id": 612,
+      "name": "สภ.อุบลรัตน์",
+      "ProvinceID": 40,
+      "AmphurID": 8692,
+      "tambolid": 0
+    },
+    {
+      "id": 613,
+      "name": "สภ.บ้านฝาง",
+      "ProvinceID": 40,
+      "AmphurID": 8630,
+      "tambolid": 0
+    },
+    {
+      "id": 614,
+      "name": "สภ.เขาสวนกวาง",
+      "ProvinceID": 40,
+      "AmphurID": 8833,
+      "tambolid": 0
+    },
+    {
+      "id": 615,
+      "name": "สภ.พล",
+      "ProvinceID": 40,
+      "AmphurID": 8744,
+      "tambolid": 0
+    },
+    {
+      "id": 616,
+      "name": "สภ.ชนบท",
+      "ProvinceID": 40,
+      "AmphurID": 8824,
+      "tambolid": 0
+    },
+    {
+      "id": 617,
+      "name": "สภ.หนองสองห้อง",
+      "ProvinceID": 40,
+      "AmphurID": 8780,
+      "tambolid": 0
+    },
+    {
+      "id": 618,
+      "name": "สภ.แวงน้อย",
+      "ProvinceID": 40,
+      "AmphurID": 8773,
+      "tambolid": 0
+    },
+    {
+      "id": 619,
+      "name": "สภ.แวงใหญ่",
+      "ProvinceID": 40,
+      "AmphurID": 8767,
+      "tambolid": 0
+    },
+    {
+      "id": 620,
+      "name": "สภ.บ้านไผ่",
+      "ProvinceID": 40,
+      "AmphurID": 8714,
+      "tambolid": 0
+    },
+    {
+      "id": 621,
+      "name": "สภ.บ้านแฮด",
+      "ProvinceID": 40,
+      "AmphurID": 8860,
+      "tambolid": 0
+    },
+    {
+      "id": 622,
+      "name": "สภ.โนนศิลา",
+      "ProvinceID": 40,
+      "AmphurID": 8865,
+      "tambolid": 0
+    },
+    {
+      "id": 623,
+      "name": "สภ.มัญจาคีรี",
+      "ProvinceID": 40,
+      "AmphurID": 8811,
+      "tambolid": 0
+    },
+    {
+      "id": 624,
+      "name": "สภ.โคกโพธิ์ไชย",
+      "ProvinceID": 40,
+      "AmphurID": 8851,
+      "tambolid": 0
+    },
+    {
+      "id": 625,
+      "name": "สภ.เปือยน้อย",
+      "ProvinceID": 40,
+      "AmphurID": 8739,
+      "tambolid": 0
+    },
+    {
+      "id": 626,
+      "name": "สภ.ชุมแพ",
+      "ProvinceID": 40,
+      "AmphurID": 8655,
+      "tambolid": 0
+    },
+    {
+      "id": 627,
+      "name": "สภ.ภูเวียง",
+      "ProvinceID": 40,
+      "AmphurID": 8793,
+      "tambolid": 0
+    },
+    {
+      "id": 628,
+      "name": "สภ.หนองเรือ",
+      "ProvinceID": 40,
+      "AmphurID": 8644,
+      "tambolid": 0
+    },
+    {
+      "id": 629,
+      "name": "สภ.สีชมพู",
+      "ProvinceID": 40,
+      "AmphurID": 8668,
+      "tambolid": 0
+    },
+    {
+      "id": 630,
+      "name": "สภ.ภูผาม่าน",
+      "ProvinceID": 40,
+      "AmphurID": 8839,
+      "tambolid": 0
+    },
+    {
+      "id": 631,
+      "name": "สภ.หนองนาคำ",
+      "ProvinceID": 40,
+      "AmphurID": 8856,
+      "tambolid": 0
+    },
+    {
+      "id": 632,
+      "name": "สภ.เวียงเก่า",
+      "ProvinceID": 40,
+      "AmphurID": 8871,
+      "tambolid": 0
+    },
+    {
+      "id": 633,
+      "name": "สภ.บ้านเป็ด",
+      "ProvinceID": 40,
+      "AmphurID": 8609,
+      "tambolid": 7674
+    },
+    {
+      "id": 634,
+      "name": "สภ.ท่าพระ",
+      "ProvinceID": 40,
+      "AmphurID": 8609,
+      "tambolid": 7663
+    },
+    {
+      "id": 635,
+      "name": "สภ.เวฬุวัน",
+      "ProvinceID": 40,
+      "AmphurID": 8609,
+      "tambolid": 7661
+    },
+    {
+      "id": 636,
+      "name": "สภ.เมืองไหม",
+      "ProvinceID": 40,
+      "AmphurID": 8609,
+      "tambolid": 7662
+    },
+    {
+      "id": 637,
+      "name": "สภ.เมืองนครพนม",
+      "ProvinceID": 48,
+      "AmphurID": 210,
+      "tambolid": 0
+    },
+    {
+      "id": 638,
+      "name": "สภ.บ้านกลาง",
+      "ProvinceID": 48,
+      "AmphurID": 210,
+      "tambolid": 190
+    },
+    {
+      "id": 639,
+      "name": "สภ.ธาตุพนม",
+      "ProvinceID": 48,
+      "AmphurID": 260,
+      "tambolid": 0
+    },
+    {
+      "id": 640,
+      "name": "สภ.นาแก",
+      "ProvinceID": 48,
+      "AmphurID": 283,
+      "tambolid": 0
+    },
+    {
+      "id": 641,
+      "name": "สภ.วังยาง",
+      "ProvinceID": 48,
+      "AmphurID": 329,
+      "tambolid": 0
+    },
+    {
+      "id": 642,
+      "name": "สภ.ท่าอุเทน",
+      "ProvinceID": 48,
+      "AmphurID": 235,
+      "tambolid": 0
+    },
+    {
+      "id": 643,
+      "name": "สภ.ศรีสงคราม",
+      "ProvinceID": 48,
+      "AmphurID": 300,
+      "tambolid": 0
+    },
+    {
+      "id": 644,
+      "name": "สภ.บ้านแพง",
+      "ProvinceID": 48,
+      "AmphurID": 250,
+      "tambolid": 0
+    },
+    {
+      "id": 645,
+      "name": "สภ.ปลาปาก",
+      "ProvinceID": 48,
+      "AmphurID": 226,
+      "tambolid": 0
+    },
+    {
+      "id": 646,
+      "name": "สภ.เรณูนคร",
+      "ProvinceID": 48,
+      "AmphurID": 273,
+      "tambolid": 0
+    },
+    {
+      "id": 647,
+      "name": "สภ.นาหว้า",
+      "ProvinceID": 48,
+      "AmphurID": 310,
+      "tambolid": 0
+    },
+    {
+      "id": 648,
+      "name": "สภ.โพนสวรรค์",
+      "ProvinceID": 48,
+      "AmphurID": 317,
+      "tambolid": 0
+    },
+    {
+      "id": 649,
+      "name": "สภ.นาทม",
+      "ProvinceID": 48,
+      "AmphurID": 325,
+      "tambolid": 0
+    },
+    {
+      "id": 650,
+      "name": "สภ.หลักศิลา",
+      "ProvinceID": 48,
+      "AmphurID": 260,
+      "tambolid": 231
+    },
+    {
+      "id": 651,
+      "name": "สภ.เมืองบึงกาฬ",
+      "ProvinceID": 38,
+      "AmphurID": 8471,
+      "tambolid": 0
+    },
+    {
+      "id": 652,
+      "name": "สภ.หอคำ",
+      "ProvinceID": 38,
+      "AmphurID": 8471,
+      "tambolid": 7541
+    },
+    {
+      "id": 653,
+      "name": "สภ.บุ้งคล้า",
+      "ProvinceID": 38,
+      "AmphurID": 8528,
+      "tambolid": 0
+    },
+    {
+      "id": 654,
+      "name": "สภ.เซกา",
+      "ProvinceID": 38,
+      "AmphurID": 8500,
+      "tambolid": 0
+    },
+    {
+      "id": 655,
+      "name": "สภ.โซ่พิสัย",
+      "ProvinceID": 38,
+      "AmphurID": 8492,
+      "tambolid": 0
+    },
+    {
+      "id": 656,
+      "name": "สภ.พรเจริญ",
+      "ProvinceID": 38,
+      "AmphurID": 8484,
+      "tambolid": 0
+    },
+    {
+      "id": 657,
+      "name": "สภ.ดอนหญ้านาง",
+      "ProvinceID": 38,
+      "AmphurID": 8484,
+      "tambolid": 7551
+    },
+    {
+      "id": 658,
+      "name": "สภ.ปากคาด",
+      "ProvinceID": 38,
+      "AmphurID": 8510,
+      "tambolid": 0
+    },
+    {
+      "id": 659,
+      "name": "สภ.ศรีวิไล",
+      "ProvinceID": 38,
+      "AmphurID": 8522,
+      "tambolid": 0
+    },
+    {
+      "id": 660,
+      "name": "สภ.บึงโขงหลง",
+      "ProvinceID": 38,
+      "AmphurID": 8517,
+      "tambolid": 0
+    },
+    {
+      "id": 661,
+      "name": "สภ.เหล่าหลวง",
+      "ProvinceID": 38,
+      "AmphurID": 8517,
+      "tambolid": 7581
+    },
+    {
+      "id": 662,
+      "name": "สภ.เมืองมหาสารคาม",
+      "ProvinceID": 44,
+      "AmphurID": 9453,
+      "tambolid": 0
+    },
+    {
+      "id": 663,
+      "name": "สภ.กันทรวิชัย",
+      "ProvinceID": 44,
+      "AmphurID": 9492,
+      "tambolid": 0
+    },
+    {
+      "id": 664,
+      "name": "สภ.เชียงยืน",
+      "ProvinceID": 44,
+      "AmphurID": 9503,
+      "tambolid": 0
+    },
+    {
+      "id": 665,
+      "name": "สภ.ชื่นชม",
+      "ProvinceID": 44,
+      "AmphurID": 9612,
+      "tambolid": 0
+    },
+    {
+      "id": 666,
+      "name": "สภ.โกสุมพิสัย",
+      "ProvinceID": 44,
+      "AmphurID": 9474,
+      "tambolid": 0
+    },
+    {
+      "id": 667,
+      "name": "สภ.แกดำ",
+      "ProvinceID": 44,
+      "AmphurID": 9468,
+      "tambolid": 0
+    },
+    {
+      "id": 668,
+      "name": "สภ.พยัคฆภูมิพิสัย",
+      "ProvinceID": 44,
+      "AmphurID": 9548,
+      "tambolid": 0
+    },
+    {
+      "id": 669,
+      "name": "สภ.ยางสีสุราช",
+      "ProvinceID": 44,
+      "AmphurID": 9598,
+      "tambolid": 0
+    },
+    {
+      "id": 670,
+      "name": "สภ.นาเชือก",
+      "ProvinceID": 44,
+      "AmphurID": 9537,
+      "tambolid": 0
+    },
+    {
+      "id": 671,
+      "name": "สภ.นาดูน",
+      "ProvinceID": 44,
+      "AmphurID": 9588,
+      "tambolid": 0
+    },
+    {
+      "id": 672,
+      "name": "สภ.บรบือ",
+      "ProvinceID": 44,
+      "AmphurID": 9516,
+      "tambolid": 0
+    },
+    {
+      "id": 673,
+      "name": "สภ.กุดรัง",
+      "ProvinceID": 44,
+      "AmphurID": 9606,
+      "tambolid": 0
+    },
+    {
+      "id": 674,
+      "name": "สภ.วาปีปทุม",
+      "ProvinceID": 44,
+      "AmphurID": 9569,
+      "tambolid": 0
+    },
+    {
+      "id": 675,
+      "name": "สภ.เขวาใหญ่",
+      "ProvinceID": 44,
+      "AmphurID": 9492,
+      "tambolid": 8458
+    },
+    {
+      "id": 676,
+      "name": "สภ.กู่ทอง",
+      "ProvinceID": 44,
+      "AmphurID": 9503,
+      "tambolid": 8467
+    },
+    {
+      "id": 677,
+      "name": "สภ.ราษฎร์เจริญ",
+      "ProvinceID": 44,
+      "AmphurID": 9548,
+      "tambolid": 8512
+    },
+    {
+      "id": 678,
+      "name": "สภ.เมืองมุกดาหาร",
+      "ProvinceID": 49,
+      "AmphurID": 335,
+      "tambolid": 0
+    },
+    {
+      "id": 679,
+      "name": "สภ.ผึ่งแดด",
+      "ProvinceID": 49,
+      "AmphurID": 335,
+      "tambolid": 299
+    },
+    {
+      "id": 680,
+      "name": "สภ.คำชะอี",
+      "ProvinceID": 49,
+      "AmphurID": 378,
+      "tambolid": 0
+    },
+    {
+      "id": 681,
+      "name": "สภ.ดอนตาล",
+      "ProvinceID": 49,
+      "AmphurID": 363,
+      "tambolid": 0
+    },
+    {
+      "id": 682,
+      "name": "สภ.นิคมคำสร้อย",
+      "ProvinceID": 49,
+      "AmphurID": 355,
+      "tambolid": 0
+    },
+    {
+      "id": 683,
+      "name": "สภ.ดงหลวง",
+      "ProvinceID": 49,
+      "AmphurID": 371,
+      "tambolid": 0
+    },
+    {
+      "id": 684,
+      "name": "สภ.หว้านใหญ่",
+      "ProvinceID": 49,
+      "AmphurID": 396,
+      "tambolid": 0
+    },
+    {
+      "id": 685,
+      "name": "สภ.หนองสูง",
+      "ProvinceID": 49,
+      "AmphurID": 402,
+      "tambolid": 0
+    },
+    {
+      "id": 686,
+      "name": "สภ.เมืองร้อยเอ็ด",
+      "ProvinceID": 45,
+      "AmphurID": 9619,
+      "tambolid": 0
+    },
+    {
+      "id": 687,
+      "name": "สภ.ธวัชบุรี",
+      "ProvinceID": 45,
+      "AmphurID": 9690,
+      "tambolid": 0
+    },
+    {
+      "id": 688,
+      "name": "สภ.เชียงขวัญ",
+      "ProvinceID": 45,
+      "AmphurID": 9855,
+      "tambolid": 0
+    },
+    {
+      "id": 689,
+      "name": "สภ.เสลภูมิ",
+      "ProvinceID": 45,
+      "AmphurID": 9774,
+      "tambolid": 0
+    },
+    {
+      "id": 690,
+      "name": "สภ.โพธิ์ทอง",
+      "ProvinceID": 45,
+      "AmphurID": 9774,
+      "tambolid": 8721
+    },
+    {
+      "id": 691,
+      "name": "สภ.โพนทอง",
+      "ProvinceID": 45,
+      "AmphurID": 9733,
+      "tambolid": 0
+    },
+    {
+      "id": 692,
+      "name": "สภ.โพธิ์ชัย",
+      "ProvinceID": 45,
+      "AmphurID": 9754,
+      "tambolid": 0
+    },
+    {
+      "id": 693,
+      "name": "สภ.หนองพอก",
+      "ProvinceID": 45,
+      "AmphurID": 9764,
+      "tambolid": 0
+    },
+    {
+      "id": 694,
+      "name": "สภ.จังหาร",
+      "ProvinceID": 45,
+      "AmphurID": 9846,
+      "tambolid": 0
+    },
+    {
+      "id": 695,
+      "name": "สภ.เมยวดี",
+      "ProvinceID": 45,
+      "AmphurID": 9832,
+      "tambolid": 0
+    },
+    {
+      "id": 696,
+      "name": "สภ.ศรีสมเด็จ",
+      "ProvinceID": 45,
+      "AmphurID": 9837,
+      "tambolid": 0
+    },
+    {
+      "id": 697,
+      "name": "สภ.สุวรรณภูมิ",
+      "ProvinceID": 45,
+      "AmphurID": 9793,
+      "tambolid": 0
+    },
+    {
+      "id": 698,
+      "name": "สภ.ปทุมรัตต์",
+      "ProvinceID": 45,
+      "AmphurID": 9668,
+      "tambolid": 0
+    },
+    {
+      "id": 699,
+      "name": "สภ.เมืองสรวง",
+      "ProvinceID": 45,
+      "AmphurID": 9809,
+      "tambolid": 0
+    },
+    {
+      "id": 700,
+      "name": "สภ.โพนทราย",
+      "ProvinceID": 45,
+      "AmphurID": 9815,
+      "tambolid": 0
+    },
+    {
+      "id": 701,
+      "name": "สภ.อาจสามารถ",
+      "ProvinceID": 45,
+      "AmphurID": 9821,
+      "tambolid": 0
+    },
+    {
+      "id": 702,
+      "name": "สภ.พนมไพร",
+      "ProvinceID": 45,
+      "AmphurID": 9715,
+      "tambolid": 0
+    },
+    {
+      "id": 703,
+      "name": "สภ.จตุรพักตรพิมาน",
+      "ProvinceID": 45,
+      "AmphurID": 9677,
+      "tambolid": 0
+    },
+    {
+      "id": 704,
+      "name": "สภ.เกษตรวิสัย",
+      "ProvinceID": 45,
+      "AmphurID": 9654,
+      "tambolid": 0
+    },
+    {
+      "id": 705,
+      "name": "สภ.หนองฮี",
+      "ProvinceID": 45,
+      "AmphurID": 9862,
+      "tambolid": 0
+    },
+    {
+      "id": 706,
+      "name": "สภ.ทุ่งเขาหลวง",
+      "ProvinceID": 45,
+      "AmphurID": 9867,
+      "tambolid": 0
+    },
+    {
+      "id": 707,
+      "name": "สภ.บ้านบัวขาว",
+      "ProvinceID": 45,
+      "AmphurID": 9668,
+      "tambolid": 8619
+    },
+    {
+      "id": 708,
+      "name": "สภ.ดงครั่งใหญ่",
+      "ProvinceID": 45,
+      "AmphurID": 9654,
+      "tambolid": 8605
+    },
+    {
+      "id": 709,
+      "name": "สภ.เมืองเลย",
+      "ProvinceID": 42,
+      "AmphurID": 9167,
+      "tambolid": 0
+    },
+    {
+      "id": 710,
+      "name": "สภ.นาดินดำ",
+      "ProvinceID": 42,
+      "AmphurID": 9167,
+      "tambolid": 8171
+    },
+    {
+      "id": 711,
+      "name": "สภ.วังสะพุง",
+      "ProvinceID": 42,
+      "AmphurID": 9241,
+      "tambolid": 0
+    },
+    {
+      "id": 712,
+      "name": "สภ.หนองหญ้าปล้อง",
+      "ProvinceID": 42,
+      "AmphurID": 9241,
+      "tambolid": 8231
+    },
+    {
+      "id": 713,
+      "name": "สภ.ภูกระดึง",
+      "ProvinceID": 42,
+      "AmphurID": 9258,
+      "tambolid": 0
+    },
+    {
+      "id": 714,
+      "name": "สภ.หนองหิน",
+      "ProvinceID": 42,
+      "AmphurID": 9288,
+      "tambolid": 0
+    },
+    {
+      "id": 715,
+      "name": "สภ.ปากชม",
+      "ProvinceID": 42,
+      "AmphurID": 9196,
+      "tambolid": 0
+    },
+    {
+      "id": 716,
+      "name": "สภ.เชียงคาน",
+      "ProvinceID": 42,
+      "AmphurID": 9187,
+      "tambolid": 0
+    },
+    {
+      "id": 717,
+      "name": "สภ.ท่าลี่",
+      "ProvinceID": 42,
+      "AmphurID": 9234,
+      "tambolid": 0
+    },
+    {
+      "id": 718,
+      "name": "สภ.โพนทอง",
+      "ProvinceID": 42,
+      "AmphurID": 9234,
+      "tambolid": 8225
+    },
+    {
+      "id": 719,
+      "name": "สภ.ภูเรือ",
+      "ProvinceID": 42,
+      "AmphurID": 9227,
+      "tambolid": 0
+    },
+    {
+      "id": 720,
+      "name": "สภ.ด่านซ้าย",
+      "ProvinceID": 42,
+      "AmphurID": 9203,
+      "tambolid": 0
+    },
+    {
+      "id": 721,
+      "name": "สภ.โคกงาม",
+      "ProvinceID": 42,
+      "AmphurID": 9203,
+      "tambolid": 8198
+    },
+    {
+      "id": 722,
+      "name": "สภ.นาแห้ว",
+      "ProvinceID": 42,
+      "AmphurID": 9221,
+      "tambolid": 0
+    },
+    {
+      "id": 723,
+      "name": "สภ.นาด้วง",
+      "ProvinceID": 42,
+      "AmphurID": 9182,
+      "tambolid": 0
+    },
+    {
+      "id": 724,
+      "name": "สภ.ภูหลวง",
+      "ProvinceID": 42,
+      "AmphurID": 9270,
+      "tambolid": 0
+    },
+    {
+      "id": 725,
+      "name": "สภ.ผาขาว",
+      "ProvinceID": 42,
+      "AmphurID": 9277,
+      "tambolid": 0
+    },
+    {
+      "id": 726,
+      "name": "สภ.เอราวัณ",
+      "ProvinceID": 42,
+      "AmphurID": 9283,
+      "tambolid": 0
+    },
+    {
+      "id": 727,
+      "name": "สภ.เชียงกลม",
+      "ProvinceID": 42,
+      "AmphurID": 9196,
+      "tambolid": 8190
+    },
+    {
+      "id": 728,
+      "name": "สภ.เมืองสกลนคร",
+      "ProvinceID": 47,
+      "AmphurID": 43,
+      "tambolid": 0
+    },
+    {
+      "id": 729,
+      "name": "สภ.ขมิ้น",
+      "ProvinceID": 47,
+      "AmphurID": 43,
+      "tambolid": 37
+    },
+    {
+      "id": 730,
+      "name": "สภ.ตาดโตน",
+      "ProvinceID": 47,
+      "AmphurID": 43,
+      "tambolid": 47
+    },
+    {
+      "id": 731,
+      "name": "สภ.พรรณานิคม",
+      "ProvinceID": 47,
+      "AmphurID": 84,
+      "tambolid": 0
+    },
+    {
+      "id": 732,
+      "name": "สภ.กุดบาก",
+      "ProvinceID": 47,
+      "AmphurID": 77,
+      "tambolid": 0
+    },
+    {
+      "id": 733,
+      "name": "สภ.กุสุมาลย์",
+      "ProvinceID": 47,
+      "AmphurID": 71,
+      "tambolid": 0
+    },
+    {
+      "id": 734,
+      "name": "สภ.พังโคน",
+      "ProvinceID": 47,
+      "AmphurID": 95,
+      "tambolid": 0
+    },
+    {
+      "id": 735,
+      "name": "สภ.เต่างอย",
+      "ProvinceID": 47,
+      "AmphurID": 180,
+      "tambolid": 0
+    },
+    {
+      "id": 736,
+      "name": "สภ.โคกศรีสุพรรณ",
+      "ProvinceID": 47,
+      "AmphurID": 185,
+      "tambolid": 0
+    },
+    {
+      "id": 737,
+      "name": "สภ.สว่างแดนดิน",
+      "ProvinceID": 47,
+      "AmphurID": 153,
+      "tambolid": 0
+    },
+    {
+      "id": 738,
+      "name": "สภ.แวง",
+      "ProvinceID": 47,
+      "AmphurID": 153,
+      "tambolid": 148
+    },
+    {
+      "id": 739,
+      "name": "สภ.วานรนิวาส",
+      "ProvinceID": 47,
+      "AmphurID": 114,
+      "tambolid": 0
+    },
+    {
+      "id": 740,
+      "name": "สภ.ศรีวิชัย",
+      "ProvinceID": 47,
+      "AmphurID": 114,
+      "tambolid": 107
+    },
+    {
+      "id": 741,
+      "name": "สภ.วาริชภูมิ",
+      "ProvinceID": 47,
+      "AmphurID": 103,
+      "tambolid": 0
+    },
+    {
+      "id": 742,
+      "name": "สภ.อากาศอำนวย",
+      "ProvinceID": 47,
+      "AmphurID": 144,
+      "tambolid": 0
+    },
+    {
+      "id": 743,
+      "name": "สภ.บ้านม่วง",
+      "ProvinceID": 47,
+      "AmphurID": 134,
+      "tambolid": 0
+    },
+    {
+      "id": 744,
+      "name": "สภ.ส่องดาว",
+      "ProvinceID": 47,
+      "AmphurID": 175,
+      "tambolid": 0
+    },
+    {
+      "id": 745,
+      "name": "สภ.คำตากล้า",
+      "ProvinceID": 47,
+      "AmphurID": 129,
+      "tambolid": 0
+    },
+    {
+      "id": 746,
+      "name": "สภ.นิคมน้ำอูน",
+      "ProvinceID": 47,
+      "AmphurID": 109,
+      "tambolid": 0
+    },
+    {
+      "id": 747,
+      "name": "สภ.เจริญศิลป์",
+      "ProvinceID": 47,
+      "AmphurID": 190,
+      "tambolid": 0
+    },
+    {
+      "id": 748,
+      "name": "สภ.โพนนาแก้ว",
+      "ProvinceID": 47,
+      "AmphurID": 196,
+      "tambolid": 0
+    },
+    {
+      "id": 749,
+      "name": "สภ.ภูพาน",
+      "ProvinceID": 47,
+      "AmphurID": 202,
+      "tambolid": 0
+    },
+    {
+      "id": 750,
+      "name": "สภ.เมืองหนองคาย",
+      "ProvinceID": 43,
+      "AmphurID": 9293,
+      "tambolid": 0
+    },
+    {
+      "id": 751,
+      "name": "สภ.ท่าบ่อ",
+      "ProvinceID": 43,
+      "AmphurID": 9313,
+      "tambolid": 0
+    },
+    {
+      "id": 752,
+      "name": "สภ.โพนพิสัย",
+      "ProvinceID": 43,
+      "AmphurID": 9352,
+      "tambolid": 0
+    },
+    {
+      "id": 753,
+      "name": "สภ.ศรีเชียงใหม่",
+      "ProvinceID": 43,
+      "AmphurID": 9382,
+      "tambolid": 0
+    },
+    {
+      "id": 754,
+      "name": "สภ.โพธิ์ตาก",
+      "ProvinceID": 43,
+      "AmphurID": 9448,
+      "tambolid": 0
+    },
+    {
+      "id": 755,
+      "name": "สภ.สังคม",
+      "ProvinceID": 43,
+      "AmphurID": 9390,
+      "tambolid": 0
+    },
+    {
+      "id": 756,
+      "name": "สภ.สระใคร",
+      "ProvinceID": 43,
+      "AmphurID": 9432,
+      "tambolid": 0
+    },
+    {
+      "id": 757,
+      "name": "สภ.รัตนวาปี",
+      "ProvinceID": 43,
+      "AmphurID": 9442,
+      "tambolid": 0
+    },
+    {
+      "id": 758,
+      "name": "สภ.เฝ้าไร่",
+      "ProvinceID": 43,
+      "AmphurID": 9436,
+      "tambolid": 0
+    },
+    {
+      "id": 759,
+      "name": "สภ.บ้านเดื่อ",
+      "ProvinceID": 43,
+      "AmphurID": 9293,
+      "tambolid": 8282
+    },
+    {
+      "id": 760,
+      "name": "สภ.เวียงคุก",
+      "ProvinceID": 43,
+      "AmphurID": 9293,
+      "tambolid": 8278
+    },
+    {
+      "id": 761,
+      "name": "สภ.เมืองหนองบัวลำภู",
+      "ProvinceID": 39,
+      "AmphurID": 8533,
+      "tambolid": 0
+    },
+    {
+      "id": 762,
+      "name": "สภ.โนนสัง",
+      "ProvinceID": 39,
+      "AmphurID": 8569,
+      "tambolid": 0
+    },
+    {
+      "id": 763,
+      "name": "สภ.ศรีบุญเรือง",
+      "ProvinceID": 39,
+      "AmphurID": 8580,
+      "tambolid": 0
+    },
+    {
+      "id": 764,
+      "name": "สภ.นากลาง",
+      "ProvinceID": 39,
+      "AmphurID": 8549,
+      "tambolid": 0
+    },
+    {
+      "id": 765,
+      "name": "สภ.สุวรรณคูหา",
+      "ProvinceID": 39,
+      "AmphurID": 8593,
+      "tambolid": 0
+    },
+    {
+      "id": 766,
+      "name": "สภ.นาวัง",
+      "ProvinceID": 39,
+      "AmphurID": 8602,
+      "tambolid": 0
+    },
+    {
+      "id": 767,
+      "name": "สภ.เมืองอุดรธานี",
+      "ProvinceID": 41,
+      "AmphurID": 8879,
+      "tambolid": 0
+    },
+    {
+      "id": 768,
+      "name": "สภ.เพ็ญ",
+      "ProvinceID": 41,
+      "AmphurID": 9121,
+      "tambolid": 0
+    },
+    {
+      "id": 769,
+      "name": "สภ.บ้านดุง",
+      "ProvinceID": 41,
+      "AmphurID": 9006,
+      "tambolid": 0
+    },
+    {
+      "id": 770,
+      "name": "สภ.ดงเย็น",
+      "ProvinceID": 41,
+      "AmphurID": 9006,
+      "tambolid": 8020
+    },
+    {
+      "id": 771,
+      "name": "สภ.หนองวัวซอ",
+      "ProvinceID": 41,
+      "AmphurID": 8917,
+      "tambolid": 0
+    },
+    {
+      "id": 772,
+      "name": "สภ.กุดจับ",
+      "ProvinceID": 41,
+      "AmphurID": 8909,
+      "tambolid": 0
+    },
+    {
+      "id": 773,
+      "name": "สภ.สร้างคอม",
+      "ProvinceID": 41,
+      "AmphurID": 9136,
+      "tambolid": 0
+    },
+    {
+      "id": 774,
+      "name": "สภ.กุมภวาปี",
+      "ProvinceID": 41,
+      "AmphurID": 8926,
+      "tambolid": 0
+    },
+    {
+      "id": 775,
+      "name": "สภ.หนองหาน",
+      "ProvinceID": 41,
+      "AmphurID": 8955,
+      "tambolid": 0
+    },
+    {
+      "id": 776,
+      "name": "สภ.พิบูลย์รักษ์",
+      "ProvinceID": 41,
+      "AmphurID": 9153,
+      "tambolid": 0
+    },
+    {
+      "id": 777,
+      "name": "สภ.ศรีธาตุ",
+      "ProvinceID": 41,
+      "AmphurID": 8991,
+      "tambolid": 0
+    },
+    {
+      "id": 778,
+      "name": "สภ.โนนสะอาด",
+      "ProvinceID": 41,
+      "AmphurID": 8948,
+      "tambolid": 0
+    },
+    {
+      "id": 779,
+      "name": "สภ.วังสามหมอ",
+      "ProvinceID": 41,
+      "AmphurID": 8999,
+      "tambolid": 0
+    },
+    {
+      "id": 780,
+      "name": "สภ.ไชยวาน",
+      "ProvinceID": 41,
+      "AmphurID": 8986,
+      "tambolid": 0
+    },
+    {
+      "id": 781,
+      "name": "สภ.หนองแสง",
+      "ProvinceID": 41,
+      "AmphurID": 9143,
+      "tambolid": 0
+    },
+    {
+      "id": 782,
+      "name": "สภ.ทุ่งฝน",
+      "ProvinceID": 41,
+      "AmphurID": 8981,
+      "tambolid": 0
+    },
+    {
+      "id": 783,
+      "name": "สภ.บ้านผือ",
+      "ProvinceID": 41,
+      "AmphurID": 9091,
+      "tambolid": 0
+    },
+    {
+      "id": 784,
+      "name": "สภ.บ้านเทื่อม",
+      "ProvinceID": 41,
+      "AmphurID": 9091,
+      "tambolid": 8099
+    },
+    {
+      "id": 785,
+      "name": "สภ.น้าโสม",
+      "ProvinceID": 41,
+      "AmphurID": 9106,
+      "tambolid": 0
+    },
+    {
+      "id": 786,
+      "name": "สภ.นายูง",
+      "ProvinceID": 41,
+      "AmphurID": 9148,
+      "tambolid": 0
+    },
+    {
+      "id": 787,
+      "name": "สภ.กู่แก้ว",
+      "ProvinceID": 41,
+      "AmphurID": 9157,
+      "tambolid": 0
+    },
+    {
+      "id": 788,
+      "name": "สภ.ประจักษ์ศิลปาคม",
+      "ProvinceID": 41,
+      "AmphurID": 9162,
+      "tambolid": 0
+    },
+    {
+      "id": 789,
+      "name": "สภ.กลางใหญ่",
+      "ProvinceID": 41,
+      "AmphurID": 9091,
+      "tambolid": 8104
+    },
+    {
+      "id": 790,
+      "name": "สภ.เมืองเชียงราย",
+      "ProvinceID": 57,
+      "AmphurID": 1265,
+      "tambolid": 0
+    },
+    {
+      "id": 791,
+      "name": "สภ.แม่จัน",
+      "ProvinceID": 57,
+      "AmphurID": 1361,
+      "tambolid": 0
+    },
+    {
+      "id": 792,
+      "name": "สภ.แม่สาย",
+      "ProvinceID": 57,
+      "AmphurID": 1386,
+      "tambolid": 0
+    },
+    {
+      "id": 793,
+      "name": "สภ.เชียงแสน",
+      "ProvinceID": 57,
+      "AmphurID": 1379,
+      "tambolid": 0
+    },
+    {
+      "id": 794,
+      "name": "สภ.แม่สรวย",
+      "ProvinceID": 57,
+      "AmphurID": 1395,
+      "tambolid": 0
+    },
+    {
+      "id": 795,
+      "name": "สภ.เวียงป่าเป้า",
+      "ProvinceID": 57,
+      "AmphurID": 1403,
+      "tambolid": 0
+    },
+    {
+      "id": 796,
+      "name": "สภ.แม่เจดีย์",
+      "ProvinceID": 57,
+      "AmphurID": 1403,
+      "tambolid": 1252
+    },
+    {
+      "id": 797,
+      "name": "สภ.เวียงชัย",
+      "ProvinceID": 57,
+      "AmphurID": 1295,
+      "tambolid": 0
+    },
+    {
+      "id": 798,
+      "name": "สภ.เทิง",
+      "ProvinceID": 57,
+      "AmphurID": 1317,
+      "tambolid": 0
+    },
+    {
+      "id": 799,
+      "name": "สภ.ขุนตาล",
+      "ProvinceID": 57,
+      "AmphurID": 1423,
+      "tambolid": 0
+    },
+    {
+      "id": 800,
+      "name": "สภ.เชียงของ",
+      "ProvinceID": 57,
+      "AmphurID": 1304,
+      "tambolid": 0
+    },
+    {
+      "id": 801,
+      "name": "สภ.พาน",
+      "ProvinceID": 57,
+      "AmphurID": 1336,
+      "tambolid": 0
+    },
+    {
+      "id": 802,
+      "name": "สภ.ป่าแดด",
+      "ProvinceID": 57,
+      "AmphurID": 1355,
+      "tambolid": 0
+    },
+    {
+      "id": 803,
+      "name": "สภ.พญาเม็งราย",
+      "ProvinceID": 57,
+      "AmphurID": 1412,
+      "tambolid": 0
+    },
+    {
+      "id": 804,
+      "name": "สภ.เวียงแก่น",
+      "ProvinceID": 57,
+      "AmphurID": 1418,
+      "tambolid": 0
+    },
+    {
+      "id": 805,
+      "name": "สภ.แม่ฟ้าหลวง",
+      "ProvinceID": 57,
+      "AmphurID": 1427,
+      "tambolid": 0
+    },
+    {
+      "id": 806,
+      "name": "สภ.ดอยหลวง",
+      "ProvinceID": 57,
+      "AmphurID": 1442,
+      "tambolid": 0
+    },
+    {
+      "id": 807,
+      "name": "สภ.แม่ลาว",
+      "ProvinceID": 57,
+      "AmphurID": 1432,
+      "tambolid": 0
+    },
+    {
+      "id": 808,
+      "name": "สภ.เวียงเชียงรุ้ง",
+      "ProvinceID": 57,
+      "AmphurID": 1438,
+      "tambolid": 0
+    },
+    {
+      "id": 809,
+      "name": "สภ.บ้านแซว",
+      "ProvinceID": 57,
+      "AmphurID": 1379,
+      "tambolid": 1228
+    },
+    {
+      "id": 810,
+      "name": "สภ.เกาะช้าง",
+      "ProvinceID": 57,
+      "AmphurID": 1386,
+      "tambolid": 1234
+    },
+    {
+      "id": 811,
+      "name": "สภ.แม่ยาว อ.เมือง  จว.ชร.",
+      "ProvinceID": 57,
+      "AmphurID": 1265,
+      "tambolid": 1124
+    },
+    {
+      "id": 812,
+      "name": "สภ.บ้านดู่",
+      "ProvinceID": 57,
+      "AmphurID": 1265,
+      "tambolid": 1121
+    },
+    {
+      "id": 813,
+      "name": "สภ.บุญเรือง",
+      "ProvinceID": 57,
+      "AmphurID": 1304,
+      "tambolid": 1159
+    },
+    {
+      "id": 814,
+      "name": "สภ.เมืองเชียงใหม่",
+      "ProvinceID": 50,
+      "AmphurID": 410,
+      "tambolid": 0
+    },
+    {
+      "id": 815,
+      "name": "สภ.แม่ปิง",
+      "ProvinceID": 50,
+      "AmphurID": 410,
+      "tambolid": 371
+    },
+    {
+      "id": 816,
+      "name": "สภ.ภูพิงค์",
+      "ProvinceID": 50,
+      "AmphurID": 410,
+      "tambolid": 367
+    },
+    {
+      "id": 817,
+      "name": "สภ.ช้างเผือก",
+      "ProvinceID": 50,
+      "AmphurID": 410,
+      "tambolid": 367
+    },
+    {
+      "id": 818,
+      "name": "สภ.สารภี",
+      "ProvinceID": 50,
+      "AmphurID": 625,
+      "tambolid": 0
+    },
+    {
+      "id": 819,
+      "name": "สภ.แม่ริม",
+      "ProvinceID": 50,
+      "AmphurID": 487,
+      "tambolid": 0
+    },
+    {
+      "id": 820,
+      "name": "สภ.สะเมิง",
+      "ProvinceID": 50,
+      "AmphurID": 499,
+      "tambolid": 0
+    },
+    {
+      "id": 821,
+      "name": "สภ.หางดง",
+      "ProvinceID": 50,
+      "AmphurID": 592,
+      "tambolid": 0
+    },
+    {
+      "id": 822,
+      "name": "สภ.สันป่าตอง",
+      "ProvinceID": 50,
+      "AmphurID": 543,
+      "tambolid": 0
+    },
+    {
+      "id": 823,
+      "name": "สภ.แม่วาง",
+      "ProvinceID": 50,
+      "AmphurID": 647,
+      "tambolid": 0
+    },
+    {
+      "id": 824,
+      "name": "สภ.สันทราย",
+      "ProvinceID": 50,
+      "AmphurID": 579,
+      "tambolid": 0
+    },
+    {
+      "id": 825,
+      "name": "สภ.แม่แฝก",
+      "ProvinceID": 50,
+      "AmphurID": 579,
+      "tambolid": 525
+    },
+    {
+      "id": 826,
+      "name": "สภ.สันกำแพง",
+      "ProvinceID": 50,
+      "AmphurID": 559,
+      "tambolid": 0
+    },
+    {
+      "id": 827,
+      "name": "สภ.ดอยสะเก็ด",
+      "ProvinceID": 50,
+      "AmphurID": 457,
+      "tambolid": 0
+    },
+    {
+      "id": 828,
+      "name": "สภ.แม่แตง",
+      "ProvinceID": 50,
+      "AmphurID": 472,
+      "tambolid": 0
+    },
+    {
+      "id": 829,
+      "name": "สภ.พร้าว",
+      "ProvinceID": 50,
+      "AmphurID": 531,
+      "tambolid": 0
+    },
+    {
+      "id": 830,
+      "name": "สภ.ฝาง",
+      "ProvinceID": 50,
+      "AmphurID": 505,
+      "tambolid": 0
+    },
+    {
+      "id": 831,
+      "name": "สภ.เชียงดาว",
+      "ProvinceID": 50,
+      "AmphurID": 449,
+      "tambolid": 0
+    },
+    {
+      "id": 832,
+      "name": "สภ.แม่อาย",
+      "ProvinceID": 50,
+      "AmphurID": 523,
+      "tambolid": 0
+    },
+    {
+      "id": 833,
+      "name": "สภ.เวียงแหง",
+      "ProvinceID": 50,
+      "AmphurID": 638,
+      "tambolid": 0
+    },
+    {
+      "id": 834,
+      "name": "สภ.ไชยปราการ",
+      "ProvinceID": 50,
+      "AmphurID": 642,
+      "tambolid": 0
+    },
+    {
+      "id": 835,
+      "name": "สภ.ฮอด",
+      "ProvinceID": 50,
+      "AmphurID": 604,
+      "tambolid": 0
+    },
+    {
+      "id": 836,
+      "name": "สภ.บ่อหลวง",
+      "ProvinceID": 50,
+      "AmphurID": 604,
+      "tambolid": 543
+    },
+    {
+      "id": 837,
+      "name": "สภ.จอมทอง",
+      "ProvinceID": 50,
+      "AmphurID": 427,
+      "tambolid": 0
+    },
+    {
+      "id": 838,
+      "name": "สภ.แม่แจ่ม",
+      "ProvinceID": 50,
+      "AmphurID": 438,
+      "tambolid": 0
+    },
+    {
+      "id": 839,
+      "name": "สภ.อมก๋อย",
+      "ProvinceID": 50,
+      "AmphurID": 618,
+      "tambolid": 0
+    },
+    {
+      "id": 840,
+      "name": "สภ.ดอยเต่า",
+      "ProvinceID": 50,
+      "AmphurID": 611,
+      "tambolid": 0
+    },
+    {
+      "id": 841,
+      "name": "สภ.หนองตอง",
+      "ProvinceID": 50,
+      "AmphurID": 592,
+      "tambolid": 532
+    },
+    {
+      "id": 842,
+      "name": "สภ.ดอยหล่อ",
+      "ProvinceID": 50,
+      "AmphurID": 660,
+      "tambolid": 0
+    },
+    {
+      "id": 843,
+      "name": "สภ.แม่ออน",
+      "ProvinceID": 50,
+      "AmphurID": 653,
+      "tambolid": 0
+    },
+    {
+      "id": 844,
+      "name": "สภ.นาหวาย",
+      "ProvinceID": 50,
+      "AmphurID": 449,
+      "tambolid": 398
+    },
+    {
+      "id": 845,
+      "name": "สภ.แม่โจ้",
+      "ProvinceID": 50,
+      "AmphurID": 579,
+      "tambolid": 524
+    },
+    {
+      "id": 846,
+      "name": "สภ.โหล่งขอด",
+      "ProvinceID": 50,
+      "AmphurID": 531,
+      "tambolid": 482
+    },
+    {
+      "id": 847,
+      "name": "สภ.แม่ตื่น",
+      "ProvinceID": 50,
+      "AmphurID": 618,
+      "tambolid": 554
+    },
+    {
+      "id": 848,
+      "name": "สภ.กัลยาณิวัฒนา",
+      "ProvinceID": 50,
+      "AmphurID": 665,
+      "tambolid": 0
+    },
+    {
+      "id": 849,
+      "name": "สภ.เมืองน่าน",
+      "ProvinceID": 55,
+      "AmphurID": 1041,
+      "tambolid": 0
+    },
+    {
+      "id": 850,
+      "name": "สภ.เวียงสา",
+      "ProvinceID": 55,
+      "AmphurID": 1110,
+      "tambolid": 0
+    },
+    {
+      "id": 851,
+      "name": "สภ.นาน้อย",
+      "ProvinceID": 55,
+      "AmphurID": 1076,
+      "tambolid": 0
+    },
+    {
+      "id": 852,
+      "name": "สภ.ท่าวังผา",
+      "ProvinceID": 55,
+      "AmphurID": 1099,
+      "tambolid": 0
+    },
+    {
+      "id": 853,
+      "name": "สภ.ปัว",
+      "ProvinceID": 55,
+      "AmphurID": 1084,
+      "tambolid": 0
+    },
+    {
+      "id": 854,
+      "name": "สภ.เชียงกลาง",
+      "ProvinceID": 55,
+      "AmphurID": 1136,
+      "tambolid": 0
+    },
+    {
+      "id": 855,
+      "name": "สภ.ทุ่งช้าง",
+      "ProvinceID": 55,
+      "AmphurID": 1128,
+      "tambolid": 0
+    },
+    {
+      "id": 856,
+      "name": "สภ.แม่จริม",
+      "ProvinceID": 55,
+      "AmphurID": 1064,
+      "tambolid": 0
+    },
+    {
+      "id": 857,
+      "name": "สภ.บ้านหลวง",
+      "ProvinceID": 55,
+      "AmphurID": 1071,
+      "tambolid": 0
+    },
+    {
+      "id": 858,
+      "name": "สภ.นาหมื่น",
+      "ProvinceID": 55,
+      "AmphurID": 1148,
+      "tambolid": 0
+    },
+    {
+      "id": 859,
+      "name": "สภ.สันติสุข",
+      "ProvinceID": 55,
+      "AmphurID": 1153,
+      "tambolid": 0
+    },
+    {
+      "id": 860,
+      "name": "สภ.บ่อเกลือ",
+      "ProvinceID": 55,
+      "AmphurID": 1157,
+      "tambolid": 0
+    },
+    {
+      "id": 861,
+      "name": "สภ.สองแคว",
+      "ProvinceID": 55,
+      "AmphurID": 1163,
+      "tambolid": 0
+    },
+    {
+      "id": 862,
+      "name": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 55,
+      "AmphurID": 1175,
+      "tambolid": 0
+    },
+    {
+      "id": 863,
+      "name": "สภ.ภูเพียง",
+      "ProvinceID": 55,
+      "AmphurID": 1167,
+      "tambolid": 0
+    },
+    {
+      "id": 864,
+      "name": "สภ.เรือง",
+      "ProvinceID": 55,
+      "AmphurID": 1041,
+      "tambolid": 926
+    },
+    {
+      "id": 865,
+      "name": "สภ.เมืองพะเยา",
+      "ProvinceID": 56,
+      "AmphurID": 1179,
+      "tambolid": 0
+    },
+    {
+      "id": 866,
+      "name": "สภ.ภูกามยาว",
+      "ProvinceID": 56,
+      "AmphurID": 1260,
+      "tambolid": 0
+    },
+    {
+      "id": 867,
+      "name": "สภ.แม่ใจ",
+      "ProvinceID": 56,
+      "AmphurID": 1247,
+      "tambolid": 0
+    },
+    {
+      "id": 868,
+      "name": "สภ.ดอกคำใต้",
+      "ProvinceID": 56,
+      "AmphurID": 1226,
+      "tambolid": 0
+    },
+    {
+      "id": 869,
+      "name": "สภ.จุน",
+      "ProvinceID": 56,
+      "AmphurID": 1198,
+      "tambolid": 0
+    },
+    {
+      "id": 870,
+      "name": "สภ.เชียงคำ",
+      "ProvinceID": 56,
+      "AmphurID": 1206,
+      "tambolid": 0
+    },
+    {
+      "id": 871,
+      "name": "สภ.ภูซาง",
+      "ProvinceID": 56,
+      "AmphurID": 1254,
+      "tambolid": 0
+    },
+    {
+      "id": 872,
+      "name": "สภ.ปง",
+      "ProvinceID": 56,
+      "AmphurID": 1239,
+      "tambolid": 0
+    },
+    {
+      "id": 873,
+      "name": "สภ.เชียงม่วน",
+      "ProvinceID": 56,
+      "AmphurID": 1222,
+      "tambolid": 0
+    },
+    {
+      "id": 874,
+      "name": "สภ.แม่กา",
+      "ProvinceID": 56,
+      "AmphurID": 1179,
+      "tambolid": 1052
+    },
+    {
+      "id": 875,
+      "name": "สภ.เมืองแพร่",
+      "ProvinceID": 54,
+      "AmphurID": 948,
+      "tambolid": 0
+    },
+    {
+      "id": 876,
+      "name": "สภ.ร้องกวาง",
+      "ProvinceID": 54,
+      "AmphurID": 969,
+      "tambolid": 0
+    },
+    {
+      "id": 877,
+      "name": "สภ.เด่นชัย",
+      "ProvinceID": 54,
+      "AmphurID": 1010,
+      "tambolid": 0
+    },
+    {
+      "id": 878,
+      "name": "สภ.สอง",
+      "ProvinceID": 54,
+      "AmphurID": 1016,
+      "tambolid": 0
+    },
+    {
+      "id": 879,
+      "name": "สภ.สูงเม่น",
+      "ProvinceID": 54,
+      "AmphurID": 997,
+      "tambolid": 0
+    },
+    {
+      "id": 880,
+      "name": "สภ.ลอง",
+      "ProvinceID": 54,
+      "AmphurID": 987,
+      "tambolid": 0
+    },
+    {
+      "id": 881,
+      "name": "สภ.วังชิ้น",
+      "ProvinceID": 54,
+      "AmphurID": 1025,
+      "tambolid": 0
+    },
+    {
+      "id": 882,
+      "name": "สภ.หนองม่วงไข่",
+      "ProvinceID": 54,
+      "AmphurID": 1033,
+      "tambolid": 0
+    },
+    {
+      "id": 883,
+      "name": "สภ.ห้วยม้า",
+      "ProvinceID": 54,
+      "AmphurID": 948,
+      "tambolid": 845
+    },
+    {
+      "id": 884,
+      "name": "สภ.พระธาตุช่อแฮ",
+      "ProvinceID": 54,
+      "AmphurID": 948,
+      "tambolid": 854
+    },
+    {
+      "id": 885,
+      "name": "สภ.เวียงต้า",
+      "ProvinceID": 54,
+      "AmphurID": 987,
+      "tambolid": 877
+    },
+    {
+      "id": 886,
+      "name": "สภ.เมืองแม่ฮ่องสอน",
+      "ProvinceID": 58,
+      "AmphurID": 1447,
+      "tambolid": 0
+    },
+    {
+      "id": 887,
+      "name": "สภ.ปาย",
+      "ProvinceID": 58,
+      "AmphurID": 1464,
+      "tambolid": 0
+    },
+    {
+      "id": 888,
+      "name": "สภ.ขุนยวม",
+      "ProvinceID": 58,
+      "AmphurID": 1457,
+      "tambolid": 0
+    },
+    {
+      "id": 889,
+      "name": "สภ.แม่สะเรียง",
+      "ProvinceID": 58,
+      "AmphurID": 1472,
+      "tambolid": 0
+    },
+    {
+      "id": 890,
+      "name": "สภ.แม่ลาน้อย",
+      "ProvinceID": 58,
+      "AmphurID": 1483,
+      "tambolid": 0
+    },
+    {
+      "id": 891,
+      "name": "สภ.ปางมะผ้า",
+      "ProvinceID": 58,
+      "AmphurID": 1499,
+      "tambolid": 0
+    },
+    {
+      "id": 892,
+      "name": "สภ.สบเมย",
+      "ProvinceID": 58,
+      "AmphurID": 1492,
+      "tambolid": 0
+    },
+    {
+      "id": 893,
+      "name": "สภ.น้ำเพียงดิน",
+      "ProvinceID": 58,
+      "AmphurID": 1447,
+      "tambolid": 1284
+    },
+    {
+      "id": 894,
+      "name": "สภ.แม่ลาหลวง",
+      "ProvinceID": 58,
+      "AmphurID": 1483,
+      "tambolid": 1315
+    },
+    {
+      "id": 895,
+      "name": "สภ.เมืองลำปาง",
+      "ProvinceID": 52,
+      "AmphurID": 743,
+      "tambolid": 0
+    },
+    {
+      "id": 896,
+      "name": "สภ.ห้างฉัตร",
+      "ProvinceID": 52,
+      "AmphurID": 849,
+      "tambolid": 0
+    },
+    {
+      "id": 897,
+      "name": "สภ.งาว",
+      "ProvinceID": 52,
+      "AmphurID": 786,
+      "tambolid": 0
+    },
+    {
+      "id": 898,
+      "name": "สภ.แจ้ห่ม",
+      "ProvinceID": 52,
+      "AmphurID": 797,
+      "tambolid": 0
+    },
+    {
+      "id": 899,
+      "name": "สภ.วังเหนือ",
+      "ProvinceID": 52,
+      "AmphurID": 809,
+      "tambolid": 0
+    },
+    {
+      "id": 900,
+      "name": "สภ.แม่เมาะ",
+      "ProvinceID": 52,
+      "AmphurID": 765,
+      "tambolid": 0
+    },
+    {
+      "id": 901,
+      "name": "สภ.เมืองปาน",
+      "ProvinceID": 52,
+      "AmphurID": 857,
+      "tambolid": 0
+    },
+    {
+      "id": 902,
+      "name": "สภ.เถิน",
+      "ProvinceID": 52,
+      "AmphurID": 818,
+      "tambolid": 0
+    },
+    {
+      "id": 903,
+      "name": "สภ.เกาะคา",
+      "ProvinceID": 52,
+      "AmphurID": 771,
+      "tambolid": 0
+    },
+    {
+      "id": 904,
+      "name": "สภ.แม่ทะ",
+      "ProvinceID": 52,
+      "AmphurID": 832,
+      "tambolid": 0
+    },
+    {
+      "id": 905,
+      "name": "สภ.สบปราบ",
+      "ProvinceID": 52,
+      "AmphurID": 844,
+      "tambolid": 0
+    },
+    {
+      "id": 906,
+      "name": "สภ.เสริมงาม",
+      "ProvinceID": 52,
+      "AmphurID": 781,
+      "tambolid": 0
+    },
+    {
+      "id": 907,
+      "name": "สภ.แม่พริก",
+      "ProvinceID": 52,
+      "AmphurID": 827,
+      "tambolid": 0
+    },
+    {
+      "id": 908,
+      "name": "สภ.ทุ่งฝาย",
+      "ProvinceID": 52,
+      "AmphurID": 743,
+      "tambolid": 667
+    },
+    {
+      "id": 909,
+      "name": "สภ.บ้านเสด็จ",
+      "ProvinceID": 52,
+      "AmphurID": 743,
+      "tambolid": 665
+    },
+    {
+      "id": 910,
+      "name": "สภ.เขลางค์นคร",
+      "ProvinceID": 52,
+      "AmphurID": 743,
+      "tambolid": 660
+    },
+    {
+      "id": 911,
+      "name": "สภ.บ้านเอื้อม",
+      "ProvinceID": 52,
+      "AmphurID": 743,
+      "tambolid": 668
+    },
+    {
+      "id": 912,
+      "name": "สภ.เวียงมอก",
+      "ProvinceID": 52,
+      "AmphurID": 818,
+      "tambolid": 728
+    },
+    {
+      "id": 913,
+      "name": "สภ.เมืองลำพูน",
+      "ProvinceID": 51,
+      "AmphurID": 673,
+      "tambolid": 0
+    },
+    {
+      "id": 914,
+      "name": "สภ.บ้านธิ",
+      "ProvinceID": 51,
+      "AmphurID": 735,
+      "tambolid": 0
+    },
+    {
+      "id": 915,
+      "name": "สภ.เหมืองจี้",
+      "ProvinceID": 51,
+      "AmphurID": 673,
+      "tambolid": 603
+    },
+    {
+      "id": 916,
+      "name": "สภ.ป่าซาง",
+      "ProvinceID": 51,
+      "AmphurID": 722,
+      "tambolid": 0
+    },
+    {
+      "id": 917,
+      "name": "สภ.บ้านโฮ่ง",
+      "ProvinceID": 51,
+      "AmphurID": 700,
+      "tambolid": 0
+    },
+    {
+      "id": 918,
+      "name": "สภ.แม่ทา",
+      "ProvinceID": 51,
+      "AmphurID": 693,
+      "tambolid": 0
+    },
+    {
+      "id": 919,
+      "name": "สภ.ทากาศ",
+      "ProvinceID": 51,
+      "AmphurID": 693,
+      "tambolid": 616
+    },
+    {
+      "id": 920,
+      "name": "สภ.ลี้",
+      "ProvinceID": 51,
+      "AmphurID": 706,
+      "tambolid": 0
+    },
+    {
+      "id": 921,
+      "name": "สภ.ทุ่งหัวช้าง",
+      "ProvinceID": 51,
+      "AmphurID": 718,
+      "tambolid": 0
+    },
+    {
+      "id": 922,
+      "name": "สภ.เวียงหนองล่อง",
+      "ProvinceID": 51,
+      "AmphurID": 738,
+      "tambolid": 0
+    },
+    {
+      "id": 923,
+      "name": "สภ.นิคมอุตสาหกรรม",
+      "ProvinceID": 51,
+      "AmphurID": 673,
+      "tambolid": 606
+    },
+    {
+      "id": 924,
+      "name": "สภ.เมืองกำแพงเพชร",
+      "ProvinceID": 62,
+      "AmphurID": 1749,
+      "tambolid": 0
+    },
+    {
+      "id": 925,
+      "name": "สภ.คลองขลุง",
+      "ProvinceID": 62,
+      "AmphurID": 1800,
+      "tambolid": 0
+    },
+    {
+      "id": 926,
+      "name": "สภ.ทรายทองวัฒนา",
+      "ProvinceID": 62,
+      "AmphurID": 1837,
+      "tambolid": 0
+    },
+    {
+      "id": 927,
+      "name": "สภ.ขาณุวรลักษบุรี",
+      "ProvinceID": 62,
+      "AmphurID": 1785,
+      "tambolid": 0
+    },
+    {
+      "id": 928,
+      "name": "สภ.พรานกระต่าย",
+      "ProvinceID": 62,
+      "AmphurID": 1818,
+      "tambolid": 0
+    },
+    {
+      "id": 929,
+      "name": "สภ.คลองพิไกร",
+      "ProvinceID": 62,
+      "AmphurID": 1818,
+      "tambolid": 1618
+    },
+    {
+      "id": 930,
+      "name": "สภ.คลองลาน",
+      "ProvinceID": 62,
+      "AmphurID": 1780,
+      "tambolid": 0
+    },
+    {
+      "id": 931,
+      "name": "สภ.ไทรงาม",
+      "ProvinceID": 62,
+      "AmphurID": 1772,
+      "tambolid": 0
+    },
+    {
+      "id": 932,
+      "name": "สภ.ลานกระบือ",
+      "ProvinceID": 62,
+      "AmphurID": 1829,
+      "tambolid": 0
+    },
+    {
+      "id": 933,
+      "name": "สภ.ปางศิลาทอง",
+      "ProvinceID": 62,
+      "AmphurID": 1841,
+      "tambolid": 0
+    },
+    {
+      "id": 934,
+      "name": "สภ.บึงสามัคคี",
+      "ProvinceID": 62,
+      "AmphurID": 1845,
+      "tambolid": 0
+    },
+    {
+      "id": 935,
+      "name": "สภ.โกสัมพีนคร",
+      "ProvinceID": 62,
+      "AmphurID": 1850,
+      "tambolid": 0
+    },
+    {
+      "id": 936,
+      "name": "สภ.ปางมะค่า",
+      "ProvinceID": 62,
+      "AmphurID": 1785,
+      "tambolid": 1590
+    },
+    {
+      "id": 937,
+      "name": "สภ.เมืองตาก",
+      "ProvinceID": 63,
+      "AmphurID": 1855,
+      "tambolid": 0
+    },
+    {
+      "id": 938,
+      "name": "สภ.แม่ท้อ",
+      "ProvinceID": 63,
+      "AmphurID": 1855,
+      "tambolid": 1651
+    },
+    {
+      "id": 939,
+      "name": "สภ.บ้านตาก",
+      "ProvinceID": 63,
+      "AmphurID": 1873,
+      "tambolid": 0
+    },
+    {
+      "id": 940,
+      "name": "สภ.สามเงา ",
+      "ProvinceID": 63,
+      "AmphurID": 1881,
+      "tambolid": 0
+    },
+    {
+      "id": 941,
+      "name": "สภ.แม่สอด",
+      "ProvinceID": 63,
+      "AmphurID": 1902,
+      "tambolid": 0
+    },
+    {
+      "id": 942,
+      "name": "สภ.พะวอ",
+      "ProvinceID": 63,
+      "AmphurID": 1902,
+      "tambolid": 1685
+    },
+    {
+      "id": 943,
+      "name": "สภ.แม่ระมาด",
+      "ProvinceID": 63,
+      "AmphurID": 1888,
+      "tambolid": 0
+    },
+    {
+      "id": 944,
+      "name": "สภ.อุ้มผาง",
+      "ProvinceID": 63,
+      "AmphurID": 1919,
+      "tambolid": 0
+    },
+    {
+      "id": 945,
+      "name": "สภ.ท่าสองยาง",
+      "ProvinceID": 63,
+      "AmphurID": 1895,
+      "tambolid": 0
+    },
+    {
+      "id": 946,
+      "name": "สภ.พบพระ",
+      "ProvinceID": 63,
+      "AmphurID": 1913,
+      "tambolid": 0
+    },
+    {
+      "id": 947,
+      "name": "สภ.วังเจ้า",
+      "ProvinceID": 63,
+      "AmphurID": 1926,
+      "tambolid": 0
+    },
+    {
+      "id": 948,
+      "name": "สภ.วังประจบ",
+      "ProvinceID": 63,
+      "AmphurID": 1855,
+      "tambolid": 1654
+    },
+    {
+      "id": 949,
+      "name": "สภ.เมืองนครสวรรค์",
+      "ProvinceID": 60,
+      "AmphurID": 1506,
+      "tambolid": 0
+    },
+    {
+      "id": 950,
+      "name": "สภ.ลาดยาว",
+      "ProvinceID": 60,
+      "AmphurID": 1620,
+      "tambolid": 0
+    },
+    {
+      "id": 951,
+      "name": "สภ.บรรพตพิสัย",
+      "ProvinceID": 60,
+      "AmphurID": 1557,
+      "tambolid": 0
+    },
+    {
+      "id": 952,
+      "name": "สภ.โกรกพระ",
+      "ProvinceID": 60,
+      "AmphurID": 1524,
+      "tambolid": 0
+    },
+    {
+      "id": 953,
+      "name": "สภ.เก้าเลี้ยว",
+      "ProvinceID": 60,
+      "AmphurID": 1571,
+      "tambolid": 0
+    },
+    {
+      "id": 954,
+      "name": "สภ.ชุมตาบง",
+      "ProvinceID": 60,
+      "AmphurID": 1657,
+      "tambolid": 0
+    },
+    {
+      "id": 955,
+      "name": "สภ.พยุหะคีรี",
+      "ProvinceID": 60,
+      "AmphurID": 1608,
+      "tambolid": 0
+    },
+    {
+      "id": 956,
+      "name": "สภ.นิคมเขาบ่อแก้ว",
+      "ProvinceID": 60,
+      "AmphurID": 1608,
+      "tambolid": 1427
+    },
+    {
+      "id": 957,
+      "name": "สภ.ท่าตะโก",
+      "ProvinceID": 60,
+      "AmphurID": 1588,
+      "tambolid": 0
+    },
+    {
+      "id": 958,
+      "name": "สภ.ชุมแสง",
+      "ProvinceID": 60,
+      "AmphurID": 1534,
+      "tambolid": 0
+    },
+    {
+      "id": 959,
+      "name": "สภ.ตากฟ้า",
+      "ProvinceID": 60,
+      "AmphurID": 1638,
+      "tambolid": 0
+    },
+    {
+      "id": 960,
+      "name": "สภ.ไพศาลี",
+      "ProvinceID": 60,
+      "AmphurID": 1599,
+      "tambolid": 0
+    },
+    {
+      "id": 961,
+      "name": "สภ.หนองบัว",
+      "ProvinceID": 60,
+      "AmphurID": 1547,
+      "tambolid": 0
+    },
+    {
+      "id": 962,
+      "name": "สภ.ตาคลี",
+      "ProvinceID": 60,
+      "AmphurID": 1577,
+      "tambolid": 0
+    },
+    {
+      "id": 963,
+      "name": "สภ.จันเสน",
+      "ProvinceID": 60,
+      "AmphurID": 1577,
+      "tambolid": 1399
+    },
+    {
+      "id": 964,
+      "name": "สภ.แม่วงก์",
+      "ProvinceID": 60,
+      "AmphurID": 1646,
+      "tambolid": 0
+    },
+    {
+      "id": 965,
+      "name": "สภ.แม่เปิน",
+      "ProvinceID": 60,
+      "AmphurID": 1655,
+      "tambolid": 0
+    },
+    {
+      "id": 966,
+      "name": "สภ.หนองปลิง",
+      "ProvinceID": 60,
+      "AmphurID": 1506,
+      "tambolid": 1347
+    },
+    {
+      "id": 967,
+      "name": "สภ.บางม่วง",
+      "ProvinceID": 60,
+      "AmphurID": 1506,
+      "tambolid": 1340
+    },
+    {
+      "id": 968,
+      "name": "สภ.เมืองพิจิตร",
+      "ProvinceID": 66,
+      "AmphurID": 2142,
+      "tambolid": 0
+    },
+    {
+      "id": 969,
+      "name": "สภ.บางมูลนาก",
+      "ProvinceID": 66,
+      "AmphurID": 2202,
+      "tambolid": 0
+    },
+    {
+      "id": 970,
+      "name": "สภ.ดงเจริญ",
+      "ProvinceID": 66,
+      "AmphurID": 2262,
+      "tambolid": 0
+    },
+    {
+      "id": 971,
+      "name": "สภ.ตะพานหิน",
+      "ProvinceID": 66,
+      "AmphurID": 2184,
+      "tambolid": 0
+    },
+    {
+      "id": 972,
+      "name": "สภ.โพทะเล",
+      "ProvinceID": 66,
+      "AmphurID": 2218,
+      "tambolid": 0
+    },
+    {
+      "id": 973,
+      "name": "สภ.สามง่าม",
+      "ProvinceID": 66,
+      "AmphurID": 2235,
+      "tambolid": 0
+    },
+    {
+      "id": 974,
+      "name": "สภ.วังทรายพูน",
+      "ProvinceID": 66,
+      "AmphurID": 2171,
+      "tambolid": 0
+    },
+    {
+      "id": 975,
+      "name": "สภ.สากเหล็ก",
+      "ProvinceID": 66,
+      "AmphurID": 2250,
+      "tambolid": 0
+    },
+    {
+      "id": 976,
+      "name": "สภ.อ.โพธิ์ประทับช้าง",
+      "ProvinceID": 66,
+      "AmphurID": 2176,
+      "tambolid": 0
+    },
+    {
+      "id": 977,
+      "name": "สภ.ทับคล้อ",
+      "ProvinceID": 66,
+      "AmphurID": 2245,
+      "tambolid": 0
+    },
+    {
+      "id": 978,
+      "name": "สภ.บึงนาราง",
+      "ProvinceID": 66,
+      "AmphurID": 2256,
+      "tambolid": 0
+    },
+    {
+      "id": 979,
+      "name": "สภ.วชิรบารมี",
+      "ProvinceID": 66,
+      "AmphurID": 2268,
+      "tambolid": 0
+    },
+    {
+      "id": 980,
+      "name": "สภ.หนองโสน",
+      "ProvinceID": 66,
+      "AmphurID": 2235,
+      "tambolid": 1990
+    },
+    {
+      "id": 981,
+      "name": "สภ.เมืองพิษณุโลก",
+      "ProvinceID": 65,
+      "AmphurID": 2033,
+      "tambolid": 0
+    },
+    {
+      "id": 982,
+      "name": "สภ.บางระกำ",
+      "ProvinceID": 65,
+      "AmphurID": 2073,
+      "tambolid": 0
+    },
+    {
+      "id": 983,
+      "name": "สภ.พรหมพิราม",
+      "ProvinceID": 65,
+      "AmphurID": 2095,
+      "tambolid": 0
+    },
+    {
+      "id": 984,
+      "name": "สภ.บางกระทุ่ม",
+      "ProvinceID": 65,
+      "AmphurID": 2085,
+      "tambolid": 0
+    },
+    {
+      "id": 985,
+      "name": "สภ.นครไทย",
+      "ProvinceID": 65,
+      "AmphurID": 2054,
+      "tambolid": 0
+    },
+    {
+      "id": 986,
+      "name": "สภ.วังทอง",
+      "ProvinceID": 65,
+      "AmphurID": 2115,
+      "tambolid": 0
+    },
+    {
+      "id": 987,
+      "name": "สภ.วัดโบสถ์",
+      "ProvinceID": 65,
+      "AmphurID": 2108,
+      "tambolid": 0
+    },
+    {
+      "id": 988,
+      "name": "สภ.ชาติตระการ",
+      "ProvinceID": 65,
+      "AmphurID": 2066,
+      "tambolid": 0
+    },
+    {
+      "id": 989,
+      "name": "สภ.แก่งโสภา",
+      "ProvinceID": 65,
+      "AmphurID": 2115,
+      "tambolid": 1878
+    },
+    {
+      "id": 990,
+      "name": "สภ.เนินมะปราง",
+      "ProvinceID": 65,
+      "AmphurID": 2132,
+      "tambolid": 0
+    },
+    {
+      "id": 991,
+      "name": "สภ.นิคมสร้างตนเอง",
+      "ProvinceID": 65,
+      "AmphurID": 2073,
+      "tambolid": 1840
+    },
+    {
+      "id": 992,
+      "name": "สภ.บ้านแยง",
+      "ProvinceID": 65,
+      "AmphurID": 2054,
+      "tambolid": 1820
+    },
+    {
+      "id": 993,
+      "name": "สภ.ไทรย้อย",
+      "ProvinceID": 65,
+      "AmphurID": 2132,
+      "tambolid": 1891
+    },
+    {
+      "id": 994,
+      "name": "สภ.เมืองเพชรบูรณ์",
+      "ProvinceID": 67,
+      "AmphurID": 2274,
+      "tambolid": 0
+    },
+    {
+      "id": 995,
+      "name": "สภ.ท่าพล",
+      "ProvinceID": 67,
+      "AmphurID": 2274,
+      "tambolid": 2022
+    },
+    {
+      "id": 996,
+      "name": "สภ.หล่มสัก",
+      "ProvinceID": 67,
+      "AmphurID": 2305,
+      "tambolid": 0
+    },
+    {
+      "id": 997,
+      "name": "สภ.หล่มเก่า",
+      "ProvinceID": 67,
+      "AmphurID": 2330,
+      "tambolid": 0
+    },
+    {
+      "id": 998,
+      "name": "สภ.ชนแดน",
+      "ProvinceID": 67,
+      "AmphurID": 2292,
+      "tambolid": 0
+    },
+    {
+      "id": 999,
+      "name": "สภ.น้ำหนาว",
+      "ProvinceID": 67,
+      "AmphurID": 2392,
+      "tambolid": 0
+    },
+    {
+      "id": 1000,
+      "name": "สภ.วังโป่ง",
+      "ProvinceID": 67,
+      "AmphurID": 2397,
+      "tambolid": 0
+    },
+    {
+      "id": 1001,
+      "name": "สภ.เขาค้อ",
+      "ProvinceID": 67,
+      "AmphurID": 2403,
+      "tambolid": 0
+    },
+    {
+      "id": 1002,
+      "name": "สภ.บึงสามพัน",
+      "ProvinceID": 67,
+      "AmphurID": 2382,
+      "tambolid": 0
+    },
+    {
+      "id": 1003,
+      "name": "สภ.ศรีเทพ",
+      "ProvinceID": 67,
+      "AmphurID": 2360,
+      "tambolid": 0
+    },
+    {
+      "id": 1004,
+      "name": "สภ.หนองไผ่",
+      "ProvinceID": 67,
+      "AmphurID": 2368,
+      "tambolid": 0
+    },
+    {
+      "id": 1005,
+      "name": "สภ.นาเฉลียง",
+      "ProvinceID": 67,
+      "AmphurID": 2368,
+      "tambolid": 2105
+    },
+    {
+      "id": 1006,
+      "name": "สภ.วิเชียรบุรี",
+      "ProvinceID": 67,
+      "AmphurID": 2341,
+      "tambolid": 0
+    },
+    {
+      "id": 1007,
+      "name": "สภ.พุเตย",
+      "ProvinceID": 67,
+      "AmphurID": 2341,
+      "tambolid": 2085
+    },
+    {
+      "id": 1008,
+      "name": "สภ.บ้านกลาง",
+      "ProvinceID": 67,
+      "AmphurID": 2305,
+      "tambolid": 2063
+    },
+    {
+      "id": 1009,
+      "name": "สภ.ดงขุย",
+      "ProvinceID": 67,
+      "AmphurID": 2292,
+      "tambolid": 2034
+    },
+    {
+      "id": 1010,
+      "name": "สภ.บ้านโคก",
+      "ProvinceID": 67,
+      "AmphurID": 2274,
+      "tambolid": 2024
+    },
+    {
+      "id": 1011,
+      "name": "สภ.บ้านติ้ว",
+      "ProvinceID": 67,
+      "AmphurID": 2305,
+      "tambolid": 2054
+    },
+    {
+      "id": 1012,
+      "name": "สภ.เมืองสุโขทัย",
+      "ProvinceID": 64,
+      "AmphurID": 1932,
+      "tambolid": 0
+    },
+    {
+      "id": 1013,
+      "name": "สภ.สวรรคโลก",
+      "ProvinceID": 64,
+      "AmphurID": 2000,
+      "tambolid": 0
+    },
+    {
+      "id": 1014,
+      "name": "สภ.ศรีสัชนาลัย",
+      "ProvinceID": 64,
+      "AmphurID": 1974,
+      "tambolid": 0
+    },
+    {
+      "id": 1015,
+      "name": "สภ.ศรีสำโรง",
+      "ProvinceID": 64,
+      "AmphurID": 1986,
+      "tambolid": 0
+    },
+    {
+      "id": 1016,
+      "name": "สภ.กงไกรลาศ",
+      "ProvinceID": 64,
+      "AmphurID": 1962,
+      "tambolid": 0
+    },
+    {
+      "id": 1017,
+      "name": "สภ.คีรีมาศ",
+      "ProvinceID": 64,
+      "AmphurID": 1951,
+      "tambolid": 0
+    },
+    {
+      "id": 1018,
+      "name": "สภ.ทุ่งเสลี่ยม",
+      "ProvinceID": 64,
+      "AmphurID": 2026,
+      "tambolid": 0
+    },
+    {
+      "id": 1019,
+      "name": "สภ.บ้านด่านลานหอย",
+      "ProvinceID": 64,
+      "AmphurID": 1943,
+      "tambolid": 0
+    },
+    {
+      "id": 1020,
+      "name": "สภ.ศรีนคร",
+      "ProvinceID": 64,
+      "AmphurID": 2020,
+      "tambolid": 0
+    },
+    {
+      "id": 1021,
+      "name": "สภ.บ้านไร่",
+      "ProvinceID": 64,
+      "AmphurID": 1986,
+      "tambolid": 1764
+    },
+    {
+      "id": 1022,
+      "name": "สภ.เมืองเก่า",
+      "ProvinceID": 64,
+      "AmphurID": 1932,
+      "tambolid": 1709
+    },
+    {
+      "id": 1023,
+      "name": "สภ.บ้านสวน",
+      "ProvinceID": 64,
+      "AmphurID": 1932,
+      "tambolid": 1708
+    },
+    {
+      "id": 1024,
+      "name": "สภ.บ้านแก่ง",
+      "ProvinceID": 64,
+      "AmphurID": 1974,
+      "tambolid": 1754
+    },
+    {
+      "id": 1025,
+      "name": "สภ.เมืองอุตรดิตถ์",
+      "ProvinceID": 53,
+      "AmphurID": 864,
+      "tambolid": 0
+    },
+    {
+      "id": 1026,
+      "name": "สภ.วังกะพี้",
+      "ProvinceID": 53,
+      "AmphurID": 864,
+      "tambolid": 768
+    },
+    {
+      "id": 1027,
+      "name": "สภ.พิชัย",
+      "ProvinceID": 53,
+      "AmphurID": 920,
+      "tambolid": 0
+    },
+    {
+      "id": 1028,
+      "name": "สภ.ตรอน",
+      "ProvinceID": 53,
+      "AmphurID": 883,
+      "tambolid": 0
+    },
+    {
+      "id": 1029,
+      "name": "สภ.ลับแล",
+      "ProvinceID": 53,
+      "AmphurID": 932,
+      "tambolid": 0
+    },
+    {
+      "id": 1030,
+      "name": "สภ.ท่าปลา",
+      "ProvinceID": 53,
+      "AmphurID": 893,
+      "tambolid": 0
+    },
+    {
+      "id": 1031,
+      "name": "สภ.น้ำปาด",
+      "ProvinceID": 53,
+      "AmphurID": 902,
+      "tambolid": 0
+    },
+    {
+      "id": 1032,
+      "name": "สภ.ฟากท่า",
+      "ProvinceID": 53,
+      "AmphurID": 910,
+      "tambolid": 0
+    },
+    {
+      "id": 1033,
+      "name": "สภ.บ้านโคก",
+      "ProvinceID": 53,
+      "AmphurID": 915,
+      "tambolid": 0
+    },
+    {
+      "id": 1034,
+      "name": "สภ.ทองแสนขัน",
+      "ProvinceID": 53,
+      "AmphurID": 942,
+      "tambolid": 0
+    },
+    {
+      "id": 1035,
+      "name": "สภ.ด่านแม่คำมัน",
+      "ProvinceID": 53,
+      "AmphurID": 932,
+      "tambolid": 831
+    },
+    {
+      "id": 1036,
+      "name": "สภ.เมืองอุทัยธานี",
+      "ProvinceID": 61,
+      "AmphurID": 1664,
+      "tambolid": 0
+    },
+    {
+      "id": 1037,
+      "name": "สภ.หนองขาหย่าง",
+      "ProvinceID": 61,
+      "AmphurID": 1708,
+      "tambolid": 0
+    },
+    {
+      "id": 1038,
+      "name": "สภ.หนองฉาง",
+      "ProvinceID": 61,
+      "AmphurID": 1697,
+      "tambolid": 0
+    },
+    {
+      "id": 1039,
+      "name": "สภ.เขาบางแกรก",
+      "ProvinceID": 61,
+      "AmphurID": 1697,
+      "tambolid": 1509
+    },
+    {
+      "id": 1040,
+      "name": "สภ.ทัพทัน",
+      "ProvinceID": 61,
+      "AmphurID": 1680,
+      "tambolid": 0
+    },
+    {
+      "id": 1041,
+      "name": "สภ.สว่างอารมณ์",
+      "ProvinceID": 61,
+      "AmphurID": 1691,
+      "tambolid": 0
+    },
+    {
+      "id": 1042,
+      "name": "สภ.บ้านไร่",
+      "ProvinceID": 61,
+      "AmphurID": 1718,
+      "tambolid": 0
+    },
+    {
+      "id": 1043,
+      "name": "สภ.ลานสัก",
+      "ProvinceID": 61,
+      "AmphurID": 1737,
+      "tambolid": 0
+    },
+    {
+      "id": 1044,
+      "name": "สภ.ห้วยคต",
+      "ProvinceID": 61,
+      "AmphurID": 1744,
+      "tambolid": 0
+    },
+    {
+      "id": 1045,
+      "name": "สภ.เมืองการุ้ง",
+      "ProvinceID": 61,
+      "AmphurID": 1718,
+      "tambolid": 1525
+    },
+    {
+      "id": 1046,
+      "name": "สภ.ตลุกดู่",
+      "ProvinceID": 61,
+      "AmphurID": 1680,
+      "tambolid": 1495
+    },
+    {
+      "id": 1047,
+      "name": "สภ.เมืองกาญจนบุรี",
+      "ProvinceID": 71,
+      "AmphurID": 2534,
+      "tambolid": 0
+    },
+    {
+      "id": 1048,
+      "name": "สภ.ลาดหญ้า",
+      "ProvinceID": 71,
+      "AmphurID": 2534,
+      "tambolid": 2258
+    },
+    {
+      "id": 1049,
+      "name": "สภ.ท่าม่วง",
+      "ProvinceID": 71,
+      "AmphurID": 2594,
+      "tambolid": 0
+    },
+    {
+      "id": 1050,
+      "name": "สภ.สำรอง",
+      "ProvinceID": 71,
+      "AmphurID": 2594,
+      "tambolid": 2316
+    },
+    {
+      "id": 1051,
+      "name": "สภ.ท่ามะกา",
+      "ProvinceID": 71,
+      "AmphurID": 2576,
+      "tambolid": 0
+    },
+    {
+      "id": 1052,
+      "name": "สภ.ท่าเรือ",
+      "ProvinceID": 71,
+      "AmphurID": 2576,
+      "tambolid": 2296
+    },
+    {
+      "id": 1053,
+      "name": "สภ.ลูกแก",
+      "ProvinceID": 71,
+      "AmphurID": 2576,
+      "tambolid": 2298
+    },
+    {
+      "id": 1054,
+      "name": "สภ.พนมทวน",
+      "ProvinceID": 71,
+      "AmphurID": 2620,
+      "tambolid": 0
+    },
+    {
+      "id": 1055,
+      "name": "สภ.บ่อพลอย",
+      "ProvinceID": 71,
+      "AmphurID": 2559,
+      "tambolid": 0
+    },
+    {
+      "id": 1056,
+      "name": "สภ.หนองรี",
+      "ProvinceID": 71,
+      "AmphurID": 2559,
+      "tambolid": 2277
+    },
+    {
+      "id": 1057,
+      "name": "สภ.ดํานมะขามเตี้ย",
+      "ProvinceID": 71,
+      "AmphurID": 2641,
+      "tambolid": 0
+    },
+    {
+      "id": 1058,
+      "name": "สภ.เลาขวัญ",
+      "ProvinceID": 71,
+      "AmphurID": 2633,
+      "tambolid": 0
+    },
+    {
+      "id": 1059,
+      "name": "สภ.ทองผาภูมิ",
+      "ProvinceID": 71,
+      "AmphurID": 2608,
+      "tambolid": 0
+    },
+    {
+      "id": 1060,
+      "name": "สภ.สังขละบุรี",
+      "ProvinceID": 71,
+      "AmphurID": 2616,
+      "tambolid": 0
+    },
+    {
+      "id": 1061,
+      "name": "สภ.ศรีสวัสดิ์",
+      "ProvinceID": 71,
+      "AmphurID": 2569,
+      "tambolid": 0
+    },
+    {
+      "id": 1062,
+      "name": "สภ.ไทรโยค",
+      "ProvinceID": 71,
+      "AmphurID": 2551,
+      "tambolid": 0
+    },
+    {
+      "id": 1063,
+      "name": "สภ.หนองปรือ",
+      "ProvinceID": 71,
+      "AmphurID": 2646,
+      "tambolid": 0
+    },
+    {
+      "id": 1064,
+      "name": "สภ.ห้วยกระเจา",
+      "ProvinceID": 71,
+      "AmphurID": 2650,
+      "tambolid": 0
+    },
+    {
+      "id": 1065,
+      "name": "สภ.หนองขาว",
+      "ProvinceID": 71,
+      "AmphurID": 2594,
+      "tambolid": 2311
+    },
+    {
+      "id": 1066,
+      "name": "สภ.ด่านแม่แฉลบ",
+      "ProvinceID": 71,
+      "AmphurID": 2569,
+      "tambolid": 2285
+    },
+    {
+      "id": 1067,
+      "name": "สภ.เมืองนครปฐม",
+      "ProvinceID": 73,
+      "AmphurID": 2787,
+      "tambolid": 0
+    },
+    {
+      "id": 1068,
+      "name": "สภ.สามควายเผือก",
+      "ProvinceID": 73,
+      "AmphurID": 2787,
+      "tambolid": 2491
+    },
+    {
+      "id": 1069,
+      "name": "สภ.นครชัยศรี",
+      "ProvinceID": 73,
+      "AmphurID": 2829,
+      "tambolid": 0
+    },
+    {
+      "id": 1070,
+      "name": "สภ.พุทธมณฑล",
+      "ProvinceID": 73,
+      "AmphurID": 2902,
+      "tambolid": 0
+    },
+    {
+      "id": 1071,
+      "name": "สภ.สามพราน",
+      "ProvinceID": 73,
+      "AmphurID": 2885,
+      "tambolid": 0
+    },
+    {
+      "id": 1072,
+      "name": "สภ.โพธิ์แก้ว",
+      "ProvinceID": 73,
+      "AmphurID": 2885,
+      "tambolid": 2579
+    },
+    {
+      "id": 1073,
+      "name": "สภ.กำแพงแสน",
+      "ProvinceID": 73,
+      "AmphurID": 2813,
+      "tambolid": 0
+    },
+    {
+      "id": 1074,
+      "name": "สภ.บางเลน",
+      "ProvinceID": 73,
+      "AmphurID": 2869,
+      "tambolid": 0
+    },
+    {
+      "id": 1075,
+      "name": "สภ.ดอนตูม",
+      "ProvinceID": 73,
+      "AmphurID": 2860,
+      "tambolid": 0
+    },
+    {
+      "id": 1076,
+      "name": "สภ.โพรงมะเดื่อ",
+      "ProvinceID": 73,
+      "AmphurID": 2787,
+      "tambolid": 2495
+    },
+    {
+      "id": 1077,
+      "name": "สภ.กระตีบ",
+      "ProvinceID": 73,
+      "AmphurID": 2813,
+      "tambolid": 2504
+    },
+    {
+      "id": 1078,
+      "name": "สภ.บางหลวง",
+      "ProvinceID": 73,
+      "AmphurID": 2869,
+      "tambolid": 2558
+    },
+    {
+      "id": 1079,
+      "name": "สภ.เมืองประจวบคีรีขันธ์",
+      "ProvinceID": 77,
+      "AmphurID": 3106,
+      "tambolid": 0
+    },
+    {
+      "id": 1080,
+      "name": "สภ.คลองวาฬ",
+      "ProvinceID": 77,
+      "AmphurID": 3106,
+      "tambolid": 2774
+    },
+    {
+      "id": 1081,
+      "name": "สภ.อ่าวน้อย",
+      "ProvinceID": 77,
+      "AmphurID": 3106,
+      "tambolid": 2776
+    },
+    {
+      "id": 1082,
+      "name": "สภ.หัวหิน",
+      "ProvinceID": 77,
+      "AmphurID": 3152,
+      "tambolid": 0
+    },
+    {
+      "id": 1083,
+      "name": "สภ.บ้านหนองพลับ",
+      "ProvinceID": 77,
+      "AmphurID": 3152,
+      "tambolid": 2815
+    },
+    {
+      "id": 1084,
+      "name": "สภ.ปราณบุรี",
+      "ProvinceID": 77,
+      "AmphurID": 3142,
+      "tambolid": 0
+    },
+    {
+      "id": 1085,
+      "name": "สภ.ปากน้ำปราณ",
+      "ProvinceID": 77,
+      "AmphurID": 3142,
+      "tambolid": 2806
+    },
+    {
+      "id": 1086,
+      "name": "สภ.กุยบุรี",
+      "ProvinceID": 77,
+      "AmphurID": 3113,
+      "tambolid": 0
+    },
+    {
+      "id": 1087,
+      "name": "สภ.บ้านยางชุม",
+      "ProvinceID": 77,
+      "AmphurID": 3113,
+      "tambolid": 2784
+    },
+    {
+      "id": 1088,
+      "name": "สภ.ทับสะแก",
+      "ProvinceID": 77,
+      "AmphurID": 3121,
+      "tambolid": 0
+    },
+    {
+      "id": 1089,
+      "name": "สภ.บางสะพาน",
+      "ProvinceID": 77,
+      "AmphurID": 3128,
+      "tambolid": 0
+    },
+    {
+      "id": 1090,
+      "name": "สภ.ธงชัย",
+      "ProvinceID": 77,
+      "AmphurID": 3128,
+      "tambolid": 2794
+    },
+    {
+      "id": 1091,
+      "name": "สภ.บางสะพานน้อย",
+      "ProvinceID": 77,
+      "AmphurID": 3136,
+      "tambolid": 0
+    },
+    {
+      "id": 1092,
+      "name": "สภ.สามร้อยยอด",
+      "ProvinceID": 77,
+      "AmphurID": 3160,
+      "tambolid": 0
+    },
+    {
+      "id": 1093,
+      "name": "สภ.ห้วยยาง",
+      "ProvinceID": 77,
+      "AmphurID": 3121,
+      "tambolid": 2789
+    },
+    {
+      "id": 1094,
+      "name": "สภ.เมืองเพชรบุรี",
+      "ProvinceID": 76,
+      "AmphurID": 2991,
+      "tambolid": 0
+    },
+    {
+      "id": 1095,
+      "name": "สภ.ท่ายาง",
+      "ProvinceID": 76,
+      "AmphurID": 3046,
+      "tambolid": 0
+    },
+    {
+      "id": 1096,
+      "name": "สภ.ท่าไม้รวก",
+      "ProvinceID": 76,
+      "AmphurID": 3046,
+      "tambolid": 2722
+    },
+    {
+      "id": 1097,
+      "name": "สภ.บ้านลาด",
+      "ProvinceID": 76,
+      "AmphurID": 3068,
+      "tambolid": 0
+    },
+    {
+      "id": 1098,
+      "name": "สภ.บ้านแหลม",
+      "ProvinceID": 76,
+      "AmphurID": 3087,
+      "tambolid": 0
+    },
+    {
+      "id": 1099,
+      "name": "สภ.ชะอำ",
+      "ProvinceID": 76,
+      "AmphurID": 3036,
+      "tambolid": 0
+    },
+    {
+      "id": 1100,
+      "name": "สภ.เขาย้อย",
+      "ProvinceID": 76,
+      "AmphurID": 3017,
+      "tambolid": 0
+    },
+    {
+      "id": 1101,
+      "name": "สภ.แก่งกระจาน",
+      "ProvinceID": 76,
+      "AmphurID": 3098,
+      "tambolid": 0
+    },
+    {
+      "id": 1102,
+      "name": "สภ.หนองหญ้าปล้อง",
+      "ProvinceID": 76,
+      "AmphurID": 3031,
+      "tambolid": 0
+    },
+    {
+      "id": 1103,
+      "name": "สภ.หนองจอก",
+      "ProvinceID": 76,
+      "AmphurID": 3046,
+      "tambolid": 2720
+    },
+    {
+      "id": 1104,
+      "name": "สภ.เมืองราชบุรี",
+      "ProvinceID": 70,
+      "AmphurID": 2412,
+      "tambolid": 0
+    },
+    {
+      "id": 1105,
+      "name": "สภ.จอมบึง",
+      "ProvinceID": 70,
+      "AmphurID": 2435,
+      "tambolid": 0
+    },
+    {
+      "id": 1106,
+      "name": "สภ.ด่านทับตะโก",
+      "ProvinceID": 70,
+      "AmphurID": 2435,
+      "tambolid": 2167
+    },
+    {
+      "id": 1107,
+      "name": "สภ.ปากท่อ",
+      "ProvinceID": 70,
+      "AmphurID": 2511,
+      "tambolid": 0
+    },
+    {
+      "id": 1108,
+      "name": "สภ.ทุ่งหลวง",
+      "ProvinceID": 70,
+      "AmphurID": 2511,
+      "tambolid": 2234
+    },
+    {
+      "id": 1109,
+      "name": "สภ.วัดเพลง",
+      "ProvinceID": 70,
+      "AmphurID": 2524,
+      "tambolid": 0
+    },
+    {
+      "id": 1110,
+      "name": "สภ.สวนผึ้ง",
+      "ProvinceID": 70,
+      "AmphurID": 2445,
+      "tambolid": 0
+    },
+    {
+      "id": 1111,
+      "name": "สภ.บ้านโป่ง",
+      "ProvinceID": 70,
+      "AmphurID": 2467,
+      "tambolid": 0
+    },
+    {
+      "id": 1112,
+      "name": "สภ.กรับใหญ่",
+      "ProvinceID": 70,
+      "AmphurID": 2467,
+      "tambolid": 2195
+    },
+    {
+      "id": 1113,
+      "name": "สภ.ดำเนินสะดวก",
+      "ProvinceID": 70,
+      "AmphurID": 2453,
+      "tambolid": 0
+    },
+    {
+      "id": 1114,
+      "name": "สภ.หลักห้า",
+      "ProvinceID": 70,
+      "AmphurID": 2453,
+      "tambolid": 2181
+    },
+    {
+      "id": 1115,
+      "name": "สภ.บางแพ",
+      "ProvinceID": 70,
+      "AmphurID": 2483,
+      "tambolid": 0
+    },
+    {
+      "id": 1116,
+      "name": "สภ.โพธาราม",
+      "ProvinceID": 70,
+      "AmphurID": 2491,
+      "tambolid": 0
+    },
+    {
+      "id": 1117,
+      "name": "สภ.เขาดิน",
+      "ProvinceID": 70,
+      "AmphurID": 2491,
+      "tambolid": 2230
+    },
+    {
+      "id": 1118,
+      "name": "สภ.บ้านคา",
+      "ProvinceID": 70,
+      "AmphurID": 2528,
+      "tambolid": 0
+    },
+    {
+      "id": 1119,
+      "name": "สภ.โพหัก",
+      "ProvinceID": 70,
+      "AmphurID": 2483,
+      "tambolid": 2214
+    },
+    {
+      "id": 1120,
+      "name": "สภ.เมืองสมุทรสงคราม",
+      "ProvinceID": 75,
+      "AmphurID": 2951,
+      "tambolid": 0
+    },
+    {
+      "id": 1121,
+      "name": "สภ.อัมพวา",
+      "ProvinceID": 75,
+      "AmphurID": 2977,
+      "tambolid": 0
+    },
+    {
+      "id": 1122,
+      "name": "สภ.บางคนที",
+      "ProvinceID": 75,
+      "AmphurID": 2963,
+      "tambolid": 0
+    },
+    {
+      "id": 1123,
+      "name": "สภ.เมืองสมุทรสาคร",
+      "ProvinceID": 74,
+      "AmphurID": 2907,
+      "tambolid": 0
+    },
+    {
+      "id": 1124,
+      "name": "สภ.โคกขาม",
+      "ProvinceID": 74,
+      "AmphurID": 2907,
+      "tambolid": 2603
+    },
+    {
+      "id": 1125,
+      "name": "สภ.กระทุ่มแบน",
+      "ProvinceID": 74,
+      "AmphurID": 2926,
+      "tambolid": 0
+    },
+    {
+      "id": 1126,
+      "name": "สภ.บ้านแพ้ว",
+      "ProvinceID": 74,
+      "AmphurID": 2937,
+      "tambolid": 0
+    },
+    {
+      "id": 1127,
+      "name": "สภ.บางโทรัด",
+      "ProvinceID": 74,
+      "AmphurID": 2907,
+      "tambolid": 2594
+    },
+    {
+      "id": 1128,
+      "name": "สภ.เมืองสุพรรณบุรี",
+      "ProvinceID": 72,
+      "AmphurID": 2658,
+      "tambolid": 0
+    },
+    {
+      "id": 1129,
+      "name": "สภ.สองพี่น้อง",
+      "ProvinceID": 72,
+      "AmphurID": 2737,
+      "tambolid": 0
+    },
+    {
+      "id": 1130,
+      "name": "สภ.อู่ทอง",
+      "ProvinceID": 72,
+      "AmphurID": 2765,
+      "tambolid": 0
+    },
+    {
+      "id": 1131,
+      "name": "สภ.บางปลาม้า",
+      "ProvinceID": 72,
+      "AmphurID": 2706,
+      "tambolid": 0
+    },
+    {
+      "id": 1132,
+      "name": "สภ.ด่านช้าง",
+      "ProvinceID": 72,
+      "AmphurID": 2698,
+      "tambolid": 0
+    },
+    {
+      "id": 1133,
+      "name": "สภ.สามชุก",
+      "ProvinceID": 72,
+      "AmphurID": 2753,
+      "tambolid": 0
+    },
+    {
+      "id": 1134,
+      "name": "สภ.ศรีประจันต์",
+      "ProvinceID": 72,
+      "AmphurID": 2721,
+      "tambolid": 0
+    },
+    {
+      "id": 1135,
+      "name": "สภ.ดอนเจดีย์",
+      "ProvinceID": 72,
+      "AmphurID": 2731,
+      "tambolid": 0
+    },
+    {
+      "id": 1136,
+      "name": "สภ.เดิมบางนางบวช",
+      "ProvinceID": 72,
+      "AmphurID": 2679,
+      "tambolid": 0
+    },
+    {
+      "id": 1137,
+      "name": "สภ.ทุ่งคลี",
+      "ProvinceID": 72,
+      "AmphurID": 2679,
+      "tambolid": 2385
+    },
+    {
+      "id": 1138,
+      "name": "สภ.หนองหญ้าไซ",
+      "ProvinceID": 72,
+      "AmphurID": 2779,
+      "tambolid": 0
+    },
+    {
+      "id": 1139,
+      "name": "สภ.ทุ่งคอก",
+      "ProvinceID": 72,
+      "AmphurID": 2737,
+      "tambolid": 2444
+    },
+    {
+      "id": 1140,
+      "name": "สภ.สระยายโสม",
+      "ProvinceID": 72,
+      "AmphurID": 2765,
+      "tambolid": 2460
+    },
+    {
+      "id": 1141,
+      "name": "สภ.สระแก้ว",
+      "ProvinceID": 72,
+      "AmphurID": 2658,
+      "tambolid": 2372
+    },
+    {
+      "id": 1142,
+      "name": "สภ.บางตาเถร",
+      "ProvinceID": 72,
+      "AmphurID": 2737,
+      "tambolid": 2435
+    },
+    {
+      "id": 1143,
+      "name": "สภ.เมืองกระบี่",
+      "ProvinceID": 81,
+      "AmphurID": 3403,
+      "tambolid": 0
+    },
+    {
+      "id": 1144,
+      "name": "สภ.เหนือคลอง",
+      "ProvinceID": 81,
+      "AmphurID": 3475,
+      "tambolid": 0
+    },
+    {
+      "id": 1145,
+      "name": "สภ.คลองท่อม",
+      "ProvinceID": 81,
+      "AmphurID": 3443,
+      "tambolid": 0
+    },
+    {
+      "id": 1146,
+      "name": "สภ.ทรายขาว",
+      "ProvinceID": 81,
+      "AmphurID": 3443,
+      "tambolid": 3071
+    },
+    {
+      "id": 1147,
+      "name": "สภ.อ่าวลึก",
+      "ProvinceID": 81,
+      "AmphurID": 3452,
+      "tambolid": 0
+    },
+    {
+      "id": 1148,
+      "name": "สภ.เกาะลันตา",
+      "ProvinceID": 81,
+      "AmphurID": 3437,
+      "tambolid": 0
+    },
+    {
+      "id": 1149,
+      "name": "สภ.เขาพนม",
+      "ProvinceID": 81,
+      "AmphurID": 3430,
+      "tambolid": 0
+    },
+    {
+      "id": 1150,
+      "name": "สภ.ปลายพระยา",
+      "ProvinceID": 81,
+      "AmphurID": 3465,
+      "tambolid": 0
+    },
+    {
+      "id": 1151,
+      "name": "สภ.ลำทับ",
+      "ProvinceID": 81,
+      "AmphurID": 3470,
+      "tambolid": 0
+    },
+    {
+      "id": 1152,
+      "name": "สภ.อ่าวนาง",
+      "ProvinceID": 81,
+      "AmphurID": 3403,
+      "tambolid": 3046
+    },
+    {
+      "id": 1153,
+      "name": "สภ.เมืองชุมพร",
+      "ProvinceID": 86,
+      "AmphurID": 3767,
+      "tambolid": 0
+    },
+    {
+      "id": 1154,
+      "name": "สภ.ปากน้ำชุมพร",
+      "ProvinceID": 86,
+      "AmphurID": 3767,
+      "tambolid": 3345
+    },
+    {
+      "id": 1155,
+      "name": "สภ.บ้านวิสัยเหนือ",
+      "ProvinceID": 86,
+      "AmphurID": 3767,
+      "tambolid": 3358
+    },
+    {
+      "id": 1156,
+      "name": "สภ.หลังสวน",
+      "ProvinceID": 86,
+      "AmphurID": 3804,
+      "tambolid": 0
+    },
+    {
+      "id": 1157,
+      "name": "สภ.ปากน้ำหลังสวน",
+      "ProvinceID": 86,
+      "AmphurID": 3804,
+      "tambolid": 3386
+    },
+    {
+      "id": 1158,
+      "name": "สภ.สวี",
+      "ProvinceID": 86,
+      "AmphurID": 3828,
+      "tambolid": 0
+    },
+    {
+      "id": 1159,
+      "name": "สภ.นาสัก",
+      "ProvinceID": 86,
+      "AmphurID": 3828,
+      "tambolid": 3407
+    },
+    {
+      "id": 1160,
+      "name": "สภ.ปะทิว",
+      "ProvinceID": 86,
+      "AmphurID": 3796,
+      "tambolid": 0
+    },
+    {
+      "id": 1161,
+      "name": "สภ.บ้านมาบอามฤต",
+      "ProvinceID": 86,
+      "AmphurID": 3796,
+      "tambolid": 3375
+    },
+    {
+      "id": 1162,
+      "name": "สภ.ท่าแซะ",
+      "ProvinceID": 86,
+      "AmphurID": 3785,
+      "tambolid": 0
+    },
+    {
+      "id": 1163,
+      "name": "สภ.สลุย",
+      "ProvinceID": 86,
+      "AmphurID": 3785,
+      "tambolid": 3363
+    },
+    {
+      "id": 1164,
+      "name": "สภ.ละแม",
+      "ProvinceID": 86,
+      "AmphurID": 3818,
+      "tambolid": 0
+    },
+    {
+      "id": 1165,
+      "name": "สภ.พะโต๊ะ",
+      "ProvinceID": 86,
+      "AmphurID": 3823,
+      "tambolid": 0
+    },
+    {
+      "id": 1166,
+      "name": "สภ.ทุ่งตะโก",
+      "ProvinceID": 86,
+      "AmphurID": 3840,
+      "tambolid": 0
+    },
+    {
+      "id": 1167,
+      "name": "สภ.เมืองนครศรีธรรมราช",
+      "ProvinceID": 80,
+      "AmphurID": 3167,
+      "tambolid": 0
+    },
+    {
+      "id": 1168,
+      "name": "สภ.ลานสกา",
+      "ProvinceID": 80,
+      "AmphurID": 3201,
+      "tambolid": 0
+    },
+    {
+      "id": 1169,
+      "name": "สภ.ท่าศาลา",
+      "ProvinceID": 80,
+      "AmphurID": 3258,
+      "tambolid": 0
+    },
+    {
+      "id": 1170,
+      "name": "สภ.นบพิตำ",
+      "ProvinceID": 80,
+      "AmphurID": 3383,
+      "tambolid": 0
+    },
+    {
+      "id": 1171,
+      "name": "สภ.สิชล",
+      "ProvinceID": 80,
+      "AmphurID": 3336,
+      "tambolid": 0
+    },
+    {
+      "id": 1172,
+      "name": "สภ.ขนอม",
+      "ProvinceID": 80,
+      "AmphurID": 3346,
+      "tambolid": 0
+    },
+    {
+      "id": 1173,
+      "name": "สภ.พรหมคีรี",
+      "ProvinceID": 80,
+      "AmphurID": 3195,
+      "tambolid": 0
+    },
+    {
+      "id": 1174,
+      "name": "สภ.ทุ่งสง",
+      "ProvinceID": 80,
+      "AmphurID": 3273,
+      "tambolid": 0
+    },
+    {
+      "id": 1175,
+      "name": "สภ.กะปาง",
+      "ProvinceID": 80,
+      "AmphurID": 3273,
+      "tambolid": 2929
+    },
+    {
+      "id": 1176,
+      "name": "สภ.ฉวาง",
+      "ProvinceID": 80,
+      "AmphurID": 3207,
+      "tambolid": 0
+    },
+    {
+      "id": 1177,
+      "name": "สภ.ไม้เรียง",
+      "ProvinceID": 80,
+      "AmphurID": 3207,
+      "tambolid": 2865
+    },
+    {
+      "id": 1178,
+      "name": "สภ.พิปูน",
+      "ProvinceID": 80,
+      "AmphurID": 3224,
+      "tambolid": 0
+    },
+    {
+      "id": 1179,
+      "name": "สภ.นาบอน",
+      "ProvinceID": 80,
+      "AmphurID": 3293,
+      "tambolid": 0
+    },
+    {
+      "id": 1180,
+      "name": "สภ.ทุ่งใหญ่",
+      "ProvinceID": 80,
+      "AmphurID": 3297,
+      "tambolid": 0
+    },
+    {
+      "id": 1181,
+      "name": "สภ.ร่อนพิบูลย์",
+      "ProvinceID": 80,
+      "AmphurID": 3324,
+      "tambolid": 0
+    },
+    {
+      "id": 1182,
+      "name": "สภ.จุฬาภรณ์",
+      "ProvinceID": 80,
+      "AmphurID": 3371,
+      "tambolid": 0
+    },
+    {
+      "id": 1183,
+      "name": "สภ.บางขัน",
+      "ProvinceID": 80,
+      "AmphurID": 3362,
+      "tambolid": 0
+    },
+    {
+      "id": 1184,
+      "name": "สภ.ปากพนัง",
+      "ProvinceID": 80,
+      "AmphurID": 3305,
+      "tambolid": 0
+    },
+    {
+      "id": 1185,
+      "name": "สภ.หัวไทร",
+      "ProvinceID": 80,
+      "AmphurID": 3350,
+      "tambolid": 0
+    },
+    {
+      "id": 1186,
+      "name": "สภ.เชียรใหญ่",
+      "ProvinceID": 80,
+      "AmphurID": 3230,
+      "tambolid": 0
+    },
+    {
+      "id": 1187,
+      "name": "สภ.ชะอวด",
+      "ProvinceID": 80,
+      "AmphurID": 3244,
+      "tambolid": 0
+    },
+    {
+      "id": 1188,
+      "name": "สภ.ถ้ำพรรณรา",
+      "ProvinceID": 80,
+      "AmphurID": 3367,
+      "tambolid": 0
+    },
+    {
+      "id": 1189,
+      "name": "สภ.พระพรหม",
+      "ProvinceID": 80,
+      "AmphurID": 3378,
+      "tambolid": 0
+    },
+    {
+      "id": 1190,
+      "name": "สภ.ช้างกลาง",
+      "ProvinceID": 80,
+      "AmphurID": 3388,
+      "tambolid": 0
+    },
+    {
+      "id": 1191,
+      "name": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 80,
+      "AmphurID": 3392,
+      "tambolid": 0
+    },
+    {
+      "id": 1192,
+      "name": "สภ.ชะเมา",
+      "ProvinceID": 80,
+      "AmphurID": 3167,
+      "tambolid": 2845
+    },
+    {
+      "id": 1193,
+      "name": "สภ.เปลี่ยน",
+      "ProvinceID": 80,
+      "AmphurID": 3336,
+      "tambolid": 2984
+    },
+    {
+      "id": 1194,
+      "name": "สภ.เมืองพังงา",
+      "ProvinceID": 82,
+      "AmphurID": 3485,
+      "tambolid": 0
+    },
+    {
+      "id": 1195,
+      "name": "สภ.ทุ่งคาโงก",
+      "ProvinceID": 82,
+      "AmphurID": 3485,
+      "tambolid": 3110
+    },
+    {
+      "id": 1196,
+      "name": "สภ.ทับปุด",
+      "ProvinceID": 82,
+      "AmphurID": 3530,
+      "tambolid": 0
+    },
+    {
+      "id": 1197,
+      "name": "สภ.ตะกั่วทุ่ง",
+      "ProvinceID": 82,
+      "AmphurID": 3507,
+      "tambolid": 0
+    },
+    {
+      "id": 1198,
+      "name": "สภ.โคกกลอย",
+      "ProvinceID": 82,
+      "AmphurID": 3507,
+      "tambolid": 3128
+    },
+    {
+      "id": 1199,
+      "name": "สภ.ท้ายเหมือง",
+      "ProvinceID": 82,
+      "AmphurID": 3537,
+      "tambolid": 0
+    },
+    {
+      "id": 1200,
+      "name": "สภ.เกาะยาว",
+      "ProvinceID": 82,
+      "AmphurID": 3497,
+      "tambolid": 0
+    },
+    {
+      "id": 1201,
+      "name": "สภ.ตะกั่วป่า",
+      "ProvinceID": 82,
+      "AmphurID": 3515,
+      "tambolid": 0
+    },
+    {
+      "id": 1202,
+      "name": "สภ.คุระบุรี",
+      "ProvinceID": 82,
+      "AmphurID": 3524,
+      "tambolid": 0
+    },
+    {
+      "id": 1203,
+      "name": "สภ.กะปง",
+      "ProvinceID": 82,
+      "AmphurID": 3501,
+      "tambolid": 0
+    },
+    {
+      "id": 1204,
+      "name": "สภ.เขาหลัก",
+      "ProvinceID": 82,
+      "AmphurID": 3515,
+      "tambolid": 3136
+    },
+    {
+      "id": 1205,
+      "name": "สภ.เมืองภูเก็ต",
+      "ProvinceID": 83,
+      "AmphurID": 3545,
+      "tambolid": 0
+    },
+    {
+      "id": 1206,
+      "name": "สภ.กะรน",
+      "ProvinceID": 83,
+      "AmphurID": 3545,
+      "tambolid": 3162
+    },
+    {
+      "id": 1207,
+      "name": "สภ.วิชิต",
+      "ProvinceID": 83,
+      "AmphurID": 3545,
+      "tambolid": 3159
+    },
+    {
+      "id": 1208,
+      "name": "สภ.ฉลอง",
+      "ProvinceID": 83,
+      "AmphurID": 3545,
+      "tambolid": 3160
+    },
+    {
+      "id": 1209,
+      "name": "สภ.ถลาง",
+      "ProvinceID": 83,
+      "AmphurID": 3558,
+      "tambolid": 0
+    },
+    {
+      "id": 1210,
+      "name": "สภ.เชิงทะเล",
+      "ProvinceID": 83,
+      "AmphurID": 3558,
+      "tambolid": 3168
+    },
+    {
+      "id": 1211,
+      "name": "สภ.ท่าฉัตรไชย",
+      "ProvinceID": 83,
+      "AmphurID": 3558,
+      "tambolid": 3170
+    },
+    {
+      "id": 1212,
+      "name": "สภ.กะทู้",
+      "ProvinceID": 83,
+      "AmphurID": 3554,
+      "tambolid": 0
+    },
+    {
+      "id": 1213,
+      "name": "สภ.กมลา",
+      "ProvinceID": 83,
+      "AmphurID": 3554,
+      "tambolid": 3165
+    },
+    {
+      "id": 1214,
+      "name": "สภ.ทุ่งทอง",
+      "ProvinceID": 83,
+      "AmphurID": 3554,
+      "tambolid": 3163
+    },
+    {
+      "id": 1215,
+      "name": "สภ.สาคู",
+      "ProvinceID": 83,
+      "AmphurID": 3558,
+      "tambolid": 3171
+    },
+    {
+      "id": 1216,
+      "name": "สภ.เมืองระนอง",
+      "ProvinceID": 85,
+      "AmphurID": 3729,
+      "tambolid": 0
+    },
+    {
+      "id": 1217,
+      "name": "สภ.ปากน้ำระนอง",
+      "ProvinceID": 85,
+      "AmphurID": 3729,
+      "tambolid": 0
+    },
+    {
+      "id": 1218,
+      "name": "สภ.กะเปอร์",
+      "ProvinceID": 85,
+      "AmphurID": 3747,
+      "tambolid": 0
+    },
+    {
+      "id": 1219,
+      "name": "สภ.สุขสำราญ",
+      "ProvinceID": 85,
+      "AmphurID": 3763,
+      "tambolid": 0
+    },
+    {
+      "id": 1220,
+      "name": "สภ.ละอุ่น",
+      "ProvinceID": 85,
+      "AmphurID": 3739,
+      "tambolid": 0
+    },
+    {
+      "id": 1221,
+      "name": "สภ.กระบุรี",
+      "ProvinceID": 85,
+      "AmphurID": 3755,
+      "tambolid": 0
+    },
+    {
+      "id": 1222,
+      "name": "สภ.ปากจั่น",
+      "ProvinceID": 85,
+      "AmphurID": 3755,
+      "tambolid": 3338
+    },
+    {
+      "id": 1223,
+      "name": "สภ.ราชกรูด",
+      "ProvinceID": 85,
+      "AmphurID": 3729,
+      "tambolid": 3313
+    },
+    {
+      "id": 1224,
+      "name": "สภ.เมืองสุราษฎร์ธานี",
+      "ProvinceID": 84,
+      "AmphurID": 3567,
+      "tambolid": 0
+    },
+    {
+      "id": 1225,
+      "name": "สภ.ขุนทะเล",
+      "ProvinceID": 84,
+      "AmphurID": 3567,
+      "tambolid": 3175
+    },
+    {
+      "id": 1226,
+      "name": "สภ.บ้านนาสาร",
+      "ProvinceID": 84,
+      "AmphurID": 3659,
+      "tambolid": 0
+    },
+    {
+      "id": 1227,
+      "name": "สภ.ท่าชี",
+      "ProvinceID": 84,
+      "AmphurID": 3659,
+      "tambolid": 3261
+    },
+    {
+      "id": 1228,
+      "name": "สภ.เวียงสระ",
+      "ProvinceID": 84,
+      "AmphurID": 3684,
+      "tambolid": 0
+    },
+    {
+      "id": 1229,
+      "name": "สภ.พระแสง",
+      "ProvinceID": 84,
+      "AmphurID": 3690,
+      "tambolid": 0
+    },
+    {
+      "id": 1230,
+      "name": "สภ.กาญจนดิษฐ์",
+      "ProvinceID": 84,
+      "AmphurID": 3579,
+      "tambolid": 0
+    },
+    {
+      "id": 1231,
+      "name": "สภ.ดอนสัก",
+      "ProvinceID": 84,
+      "AmphurID": 3593,
+      "tambolid": 0
+    },
+    {
+      "id": 1232,
+      "name": "สภ.เกาะสมุย",
+      "ProvinceID": 84,
+      "AmphurID": 3598,
+      "tambolid": 0
+    },
+    {
+      "id": 1233,
+      "name": "สภ.เกาะพะงัน",
+      "ProvinceID": 84,
+      "AmphurID": 3606,
+      "tambolid": 0
+    },
+    {
+      "id": 1234,
+      "name": "สภ.บ้านนาเดิม",
+      "ProvinceID": 84,
+      "AmphurID": 3673,
+      "tambolid": 0
+    },
+    {
+      "id": 1235,
+      "name": "สภ.ชัยบุรี",
+      "ProvinceID": 84,
+      "AmphurID": 3718,
+      "tambolid": 0
+    },
+    {
+      "id": 1236,
+      "name": "สภ.พุนพิน",
+      "ProvinceID": 84,
+      "AmphurID": 3700,
+      "tambolid": 0
+    },
+    {
+      "id": 1237,
+      "name": "สภ.บางมะเดื่อ",
+      "ProvinceID": 84,
+      "AmphurID": 3700,
+      "tambolid": 3292
+    },
+    {
+      "id": 1238,
+      "name": "สภ.ท่าฉาง",
+      "ProvinceID": 84,
+      "AmphurID": 3652,
+      "tambolid": 0
+    },
+    {
+      "id": 1239,
+      "name": "สภ.เสวียด",
+      "ProvinceID": 84,
+      "AmphurID": 3652,
+      "tambolid": 3251
+    },
+    {
+      "id": 1240,
+      "name": "สภ.ไชยา",
+      "ProvinceID": 84,
+      "AmphurID": 3610,
+      "tambolid": 0
+    },
+    {
+      "id": 1241,
+      "name": "สภ.ท่าชนะ",
+      "ProvinceID": 84,
+      "AmphurID": 3620,
+      "tambolid": 0
+    },
+    {
+      "id": 1242,
+      "name": "สภ.คีรีรัฐนิคม",
+      "ProvinceID": 84,
+      "AmphurID": 3627,
+      "tambolid": 0
+    },
+    {
+      "id": 1243,
+      "name": "สภ.พนม",
+      "ProvinceID": 84,
+      "AmphurID": 3645,
+      "tambolid": 0
+    },
+    {
+      "id": 1244,
+      "name": "สภ.เคียนซา",
+      "ProvinceID": 84,
+      "AmphurID": 3678,
+      "tambolid": 0
+    },
+    {
+      "id": 1245,
+      "name": "สภ.บ้านตาขุน",
+      "ProvinceID": 84,
+      "AmphurID": 3639,
+      "tambolid": 0
+    },
+    {
+      "id": 1246,
+      "name": "สภ.วิภาวดี",
+      "ProvinceID": 84,
+      "AmphurID": 3723,
+      "tambolid": 0
+    },
+    {
+      "id": 1247,
+      "name": "สภ.บ่อผุด",
+      "ProvinceID": 84,
+      "AmphurID": 3598,
+      "tambolid": 3205
+    },
+    {
+      "id": 1248,
+      "name": "สภ.เขานิพันธ์",
+      "ProvinceID": 84,
+      "AmphurID": 3684,
+      "tambolid": 3279
+    },
+    {
+      "id": 1249,
+      "name": "สภ.เมืองตรัง",
+      "ProvinceID": 92,
+      "AmphurID": 4091,
+      "tambolid": 0
+    },
+    {
+      "id": 1250,
+      "name": "สภ.นาโยง",
+      "ProvinceID": 92,
+      "AmphurID": 4200,
+      "tambolid": 0
+    },
+    {
+      "id": 1251,
+      "name": "สภ.กันตัง",
+      "ProvinceID": 92,
+      "AmphurID": 4119,
+      "tambolid": 0
+    },
+    {
+      "id": 1252,
+      "name": "สภ.ห้วยยอด",
+      "ProvinceID": 92,
+      "AmphurID": 4168,
+      "tambolid": 0
+    },
+    {
+      "id": 1253,
+      "name": "สภ.รัษฎา",
+      "ProvinceID": 92,
+      "AmphurID": 4207,
+      "tambolid": 0
+    },
+    {
+      "id": 1254,
+      "name": "สภ.ย่านตาขาว",
+      "ProvinceID": 92,
+      "AmphurID": 4134,
+      "tambolid": 0
+    },
+    {
+      "id": 1255,
+      "name": "สภ.ปะเหลียน",
+      "ProvinceID": 92,
+      "AmphurID": 4143,
+      "tambolid": 0
+    },
+    {
+      "id": 1256,
+      "name": "สภ.หาดสำราญ",
+      "ProvinceID": 92,
+      "AmphurID": 4213,
+      "tambolid": 0
+    },
+    {
+      "id": 1257,
+      "name": "สภ.สิเกา",
+      "ProvinceID": 92,
+      "AmphurID": 4157,
+      "tambolid": 0
+    },
+    {
+      "id": 1258,
+      "name": "สภ.วังวิเศษ",
+      "ProvinceID": 92,
+      "AmphurID": 4194,
+      "tambolid": 0
+    },
+    {
+      "id": 1259,
+      "name": "สภ.เขาวิเศษ",
+      "ProvinceID": 92,
+      "AmphurID": 4194,
+      "tambolid": 3729
+    },
+    {
+      "id": 1260,
+      "name": "สภ.บ้านหนองเอื้อง",
+      "ProvinceID": 92,
+      "AmphurID": 4143,
+      "tambolid": 3693
+    },
+    {
+      "id": 1261,
+      "name": "สภ.เมืองพัทลุง",
+      "ProvinceID": 93,
+      "AmphurID": 4219,
+      "tambolid": 0
+    },
+    {
+      "id": 1262,
+      "name": "สภ.ศรีนครินทร์",
+      "ProvinceID": 93,
+      "AmphurID": 4313,
+      "tambolid": 0
+    },
+    {
+      "id": 1263,
+      "name": "สภ.ปากพะยูน",
+      "ProvinceID": 93,
+      "AmphurID": 4283,
+      "tambolid": 0
+    },
+    {
+      "id": 1264,
+      "name": "สภ.ควนขนุน",
+      "ProvinceID": 93,
+      "AmphurID": 4262,
+      "tambolid": 0
+    },
+    {
+      "id": 1265,
+      "name": "สภ.ทะเลน้อย",
+      "ProvinceID": 93,
+      "AmphurID": 4262,
+      "tambolid": 3788
+    },
+    {
+      "id": 1266,
+      "name": "สภ.ป่าพะยอม",
+      "ProvinceID": 93,
+      "AmphurID": 4308,
+      "tambolid": 0
+    },
+    {
+      "id": 1267,
+      "name": "สภ.เขาชัยสน",
+      "ProvinceID": 93,
+      "AmphurID": 4244,
+      "tambolid": 0
+    },
+    {
+      "id": 1268,
+      "name": "สภ.บางแก้ว",
+      "ProvinceID": 93,
+      "AmphurID": 4304,
+      "tambolid": 0
+    },
+    {
+      "id": 1269,
+      "name": "สภ.กงหรา",
+      "ProvinceID": 93,
+      "AmphurID": 4238,
+      "tambolid": 0
+    },
+    {
+      "id": 1270,
+      "name": "สภ.ตะโหมด",
+      "ProvinceID": 93,
+      "AmphurID": 4258,
+      "tambolid": 0
+    },
+    {
+      "id": 1271,
+      "name": "สภ.ศรีบรรพต",
+      "ProvinceID": 93,
+      "AmphurID": 4294,
+      "tambolid": 0
+    },
+    {
+      "id": 1272,
+      "name": "สภ.ป่าบอน",
+      "ProvinceID": 93,
+      "AmphurID": 4298,
+      "tambolid": 0
+    },
+    {
+      "id": 1273,
+      "name": "สภ.นาขยาด",
+      "ProvinceID": 93,
+      "AmphurID": 4262,
+      "tambolid": 3790
+    },
+    {
+      "id": 1274,
+      "name": "สภ.เมืองสงขลา",
+      "ProvinceID": 90,
+      "AmphurID": 3846,
+      "tambolid": 0
+    },
+    {
+      "id": 1275,
+      "name": "สภ.ระโนด",
+      "ProvinceID": 90,
+      "AmphurID": 3932,
+      "tambolid": 0
+    },
+    {
+      "id": 1276,
+      "name": "สภ.สทิงพระ",
+      "ProvinceID": 90,
+      "AmphurID": 3876,
+      "tambolid": 0
+    },
+    {
+      "id": 1277,
+      "name": "สภ.กระแสสินธุ์",
+      "ProvinceID": 90,
+      "AmphurID": 3948,
+      "tambolid": 0
+    },
+    {
+      "id": 1278,
+      "name": "สภ.สิงหนคร",
+      "ProvinceID": 90,
+      "AmphurID": 4023,
+      "tambolid": 0
+    },
+    {
+      "id": 1279,
+      "name": "สภ.หาดใหญ่",
+      "ProvinceID": 90,
+      "AmphurID": 3977,
+      "tambolid": 0
+    },
+    {
+      "id": 1280,
+      "name": "สภ.ทุ่งตำเสา",
+      "ProvinceID": 90,
+      "AmphurID": 3977,
+      "tambolid": 3542
+    },
+    {
+      "id": 1281,
+      "name": "สภ.ทุ่งลุง",
+      "ProvinceID": 90,
+      "AmphurID": 3977,
+      "tambolid": 3552
+    },
+    {
+      "id": 1282,
+      "name": "สภ.รัตภูมิ",
+      "ProvinceID": 90,
+      "AmphurID": 3953,
+      "tambolid": 0
+    },
+    {
+      "id": 1283,
+      "name": "สภ.นาหม่อม",
+      "ProvinceID": 90,
+      "AmphurID": 4008,
+      "tambolid": 0
+    },
+    {
+      "id": 1284,
+      "name": "สภ.ควนเนียง",
+      "ProvinceID": 90,
+      "AmphurID": 4013,
+      "tambolid": 0
+    },
+    {
+      "id": 1285,
+      "name": "สภ.บางกล่ำ",
+      "ProvinceID": 90,
+      "AmphurID": 4018,
+      "tambolid": 0
+    },
+    {
+      "id": 1286,
+      "name": "สภ.นาทวี",
+      "ProvinceID": 90,
+      "AmphurID": 3903,
+      "tambolid": 0
+    },
+    {
+      "id": 1287,
+      "name": "สภ.สะท้อน",
+      "ProvinceID": 90,
+      "AmphurID": 3903,
+      "tambolid": 3474
+    },
+    {
+      "id": 1288,
+      "name": "สภ.เทพา",
+      "ProvinceID": 90,
+      "AmphurID": 3914,
+      "tambolid": 0
+    },
+    {
+      "id": 1289,
+      "name": "สภ.ห้วยปลิง",
+      "ProvinceID": 90,
+      "AmphurID": 3914,
+      "tambolid": 3482
+    },
+    {
+      "id": 1290,
+      "name": "สภ.สะบ้าย้อย",
+      "ProvinceID": 90,
+      "AmphurID": 3922,
+      "tambolid": 0
+    },
+    {
+      "id": 1291,
+      "name": "สภ.จะนะ",
+      "ProvinceID": 90,
+      "AmphurID": 3888,
+      "tambolid": 0
+    },
+    {
+      "id": 1292,
+      "name": "สภ.ควนมีด",
+      "ProvinceID": 90,
+      "AmphurID": 3888,
+      "tambolid": 3463
+    },
+    {
+      "id": 1293,
+      "name": "สภ.สะเดา",
+      "ProvinceID": 90,
+      "AmphurID": 3967,
+      "tambolid": 0
+    },
+    {
+      "id": 1294,
+      "name": "สภ.ปาดังเบซาร์",
+      "ProvinceID": 90,
+      "AmphurID": 3967,
+      "tambolid": 3532
+    },
+    {
+      "id": 1295,
+      "name": "สภ.คลองแงะ",
+      "ProvinceID": 90,
+      "AmphurID": 3967,
+      "tambolid": 3528
+    },
+    {
+      "id": 1296,
+      "name": "สภ.คอหงส์",
+      "ProvinceID": 90,
+      "AmphurID": 3977,
+      "tambolid": 0
+    },
+    {
+      "id": 1297,
+      "name": "สภ.คลองหอยโข่ง",
+      "ProvinceID": 90,
+      "AmphurID": 4035,
+      "tambolid": 0
+    },
+    {
+      "id": 1298,
+      "name": "สภ.ม่วงงาม",
+      "ProvinceID": 90,
+      "AmphurID": 4023,
+      "tambolid": 3587
+    },
+    {
+      "id": 1299,
+      "name": "สภ.สามบ่อ",
+      "ProvinceID": 90,
+      "AmphurID": 3932,
+      "tambolid": 3503
+    },
+    {
+      "id": 1300,
+      "name": "สภ.เมืองสตูล",
+      "ProvinceID": 91,
+      "AmphurID": 4044,
+      "tambolid": 0
+    },
+    {
+      "id": 1301,
+      "name": "สภ.ละงู",
+      "ProvinceID": 91,
+      "AmphurID": 4074,
+      "tambolid": 0
+    },
+    {
+      "id": 1302,
+      "name": "สภ.ควนกาหลง",
+      "ProvinceID": 91,
+      "AmphurID": 4063,
+      "tambolid": 0
+    },
+    {
+      "id": 1303,
+      "name": "สภ.ทุ่งหว้า",
+      "ProvinceID": 91,
+      "AmphurID": 4081,
+      "tambolid": 0
+    },
+    {
+      "id": 1304,
+      "name": "สภ.ควนโดน",
+      "ProvinceID": 91,
+      "AmphurID": 4058,
+      "tambolid": 0
+    },
+    {
+      "id": 1305,
+      "name": "สภ.ท่าแพ",
+      "ProvinceID": 91,
+      "AmphurID": 4069,
+      "tambolid": 0
+    },
+    {
+      "id": 1306,
+      "name": "สภ.มะนัง",
+      "ProvinceID": 91,
+      "AmphurID": 4087,
+      "tambolid": 0
+    },
+    {
+      "id": 1307,
+      "name": "สภ.ฉลุง",
+      "ProvinceID": 91,
+      "AmphurID": 4044,
+      "tambolid": 3597
+    },
+    {
+      "id": 1308,
+      "name": "สภ.เมืองนราธิวาส",
+      "ProvinceID": 96,
+      "AmphurID": 4527,
+      "tambolid": 0
+    },
+    {
+      "id": 1309,
+      "name": "สภ.ยี่งอ",
+      "ProvinceID": 96,
+      "AmphurID": 4551,
+      "tambolid": 0
+    },
+    {
+      "id": 1310,
+      "name": "สภ.บาเจาะ",
+      "ProvinceID": 96,
+      "AmphurID": 4544,
+      "tambolid": 0
+    },
+    {
+      "id": 1311,
+      "name": "สภ.รือเสาะ",
+      "ProvinceID": 96,
+      "AmphurID": 4571,
+      "tambolid": 0
+    },
+    {
+      "id": 1312,
+      "name": "สภ.ระแงะ",
+      "ProvinceID": 96,
+      "AmphurID": 4558,
+      "tambolid": 0
+    },
+    {
+      "id": 1313,
+      "name": "สภ.สุไหงปาดี",
+      "ProvinceID": 96,
+      "AmphurID": 4609,
+      "tambolid": 0
+    },
+    {
+      "id": 1314,
+      "name": "สภ.สุไหงโกลก",
+      "ProvinceID": 96,
+      "AmphurID": 4604,
+      "tambolid": 0
+    },
+    {
+      "id": 1315,
+      "name": "สภ.ตากใบ",
+      "ProvinceID": 96,
+      "AmphurID": 4535,
+      "tambolid": 0
+    },
+    {
+      "id": 1316,
+      "name": "สภ.แว้ง",
+      "ProvinceID": 96,
+      "AmphurID": 4590,
+      "tambolid": 0
+    },
+    {
+      "id": 1317,
+      "name": "สภ.สุคิริน",
+      "ProvinceID": 96,
+      "AmphurID": 4598,
+      "tambolid": 0
+    },
+    {
+      "id": 1318,
+      "name": "สภ.ศรีสาคร",
+      "ProvinceID": 96,
+      "AmphurID": 4583,
+      "tambolid": 0
+    },
+    {
+      "id": 1319,
+      "name": "สภ.จะแนะ",
+      "ProvinceID": 96,
+      "AmphurID": 4616,
+      "tambolid": 0
+    },
+    {
+      "id": 1320,
+      "name": "สภ.เจาะไอร้อง",
+      "ProvinceID": 96,
+      "AmphurID": 4621,
+      "tambolid": 0
+    },
+    {
+      "id": 1321,
+      "name": "สภ.โคกเคียน",
+      "ProvinceID": 96,
+      "AmphurID": 4527,
+      "tambolid": 4028
+    },
+    {
+      "id": 1322,
+      "name": "สภ.ตันหยง",
+      "ProvinceID": 96,
+      "AmphurID": 4527,
+      "tambolid": 4027
+    },
+    {
+      "id": 1323,
+      "name": "สภ.มูโนะ",
+      "ProvinceID": 96,
+      "AmphurID": 4604,
+      "tambolid": 4092
+    },
+    {
+      "id": 1324,
+      "name": "สภ.บูเก๊ะตา",
+      "ProvinceID": 96,
+      "AmphurID": 4590,
+      "tambolid": 4081
+    },
+    {
+      "id": 1325,
+      "name": "สภ.เมืองปัตตานี",
+      "ProvinceID": 94,
+      "AmphurID": 4319,
+      "tambolid": 0
+    },
+    {
+      "id": 1326,
+      "name": "สภ.สายบุรี",
+      "ProvinceID": 94,
+      "AmphurID": 4392,
+      "tambolid": 0
+    },
+    {
+      "id": 1327,
+      "name": "สภ.โคกโพธิ์",
+      "ProvinceID": 94,
+      "AmphurID": 4333,
+      "tambolid": 0
+    },
+    {
+      "id": 1328,
+      "name": "สภ.แม่ลาน",
+      "ProvinceID": 94,
+      "AmphurID": 4445,
+      "tambolid": 0
+    },
+    {
+      "id": 1329,
+      "name": "สภ.มายอ",
+      "ProvinceID": 94,
+      "AmphurID": 4373,
+      "tambolid": 0
+    },
+    {
+      "id": 1330,
+      "name": "สภ.ปะนาเระ",
+      "ProvinceID": 94,
+      "AmphurID": 4362,
+      "tambolid": 0
+    },
+    {
+      "id": 1331,
+      "name": "สภ.ยะรัง",
+      "ProvinceID": 94,
+      "AmphurID": 4428,
+      "tambolid": 0
+    },
+    {
+      "id": 1332,
+      "name": "สภ.บ้านโสรํง",
+      "ProvinceID": 94,
+      "AmphurID": 4428,
+      "tambolid": 3947
+    },
+    {
+      "id": 1333,
+      "name": "สภ.ยะหริ่ง",
+      "ProvinceID": 94,
+      "AmphurID": 4409,
+      "tambolid": 0
+    },
+    {
+      "id": 1334,
+      "name": "สภ.หนองจิก",
+      "ProvinceID": 94,
+      "AmphurID": 4349,
+      "tambolid": 0
+    },
+    {
+      "id": 1335,
+      "name": "สภ.ไม้แก่น",
+      "ProvinceID": 94,
+      "AmphurID": 4404,
+      "tambolid": 0
+    },
+    {
+      "id": 1336,
+      "name": "สภ.ทุ่งยางแดง",
+      "ProvinceID": 94,
+      "AmphurID": 4387,
+      "tambolid": 0
+    },
+    {
+      "id": 1337,
+      "name": "สภ.กะพ้อ",
+      "ProvinceID": 94,
+      "AmphurID": 4441,
+      "tambolid": 0
+    },
+    {
+      "id": 1338,
+      "name": "สภ.นาประดู่",
+      "ProvinceID": 94,
+      "AmphurID": 4333,
+      "tambolid": 3854
+    },
+    {
+      "id": 1339,
+      "name": "สภ.เมืองยะลา",
+      "ProvinceID": 95,
+      "AmphurID": 4450,
+      "tambolid": 0
+    },
+    {
+      "id": 1340,
+      "name": "สภ.ลำใหม่",
+      "ProvinceID": 95,
+      "AmphurID": 4450,
+      "tambolid": 3962
+    },
+    {
+      "id": 1341,
+      "name": "สภ.ยะหา",
+      "ProvinceID": 95,
+      "AmphurID": 4490,
+      "tambolid": 0
+    },
+    {
+      "id": 1342,
+      "name": "สภ.กาบัง",
+      "ProvinceID": 95,
+      "AmphurID": 4518,
+      "tambolid": 0
+    },
+    {
+      "id": 1343,
+      "name": "สภ.รามัน",
+      "ProvinceID": 95,
+      "AmphurID": 4501,
+      "tambolid": 0
+    },
+    {
+      "id": 1344,
+      "name": "สภ.บันนังสตา",
+      "ProvinceID": 95,
+      "AmphurID": 4475,
+      "tambolid": 0
+    },
+    {
+      "id": 1345,
+      "name": "สภ.ธารโต",
+      "ProvinceID": 95,
+      "AmphurID": 4485,
+      "tambolid": 0
+    },
+    {
+      "id": 1346,
+      "name": "สภ.เบตง",
+      "ProvinceID": 95,
+      "AmphurID": 4469,
+      "tambolid": 0
+    },
+    {
+      "id": 1347,
+      "name": "สภ.กรงปินัง",
+      "ProvinceID": 95,
+      "AmphurID": 4521,
+      "tambolid": 0
+    },
+    {
+      "id": 1348,
+      "name": "สภ.โกตาบารู",
+      "ProvinceID": 95,
+      "AmphurID": 4501,
+      "tambolid": 4004
+    },
+    {
+      "id": 1349,
+      "name": "สภ.อัยเยอร์เวง",
+      "ProvinceID": 95,
+      "AmphurID": 4469,
+      "tambolid": 3975
+    },
+    {
+      "id": 1350,
+      "name": "สภ.ห้วยงู",
+      "ProvinceID": 18,
+      "AmphurID": 5704,
+      "tambolid": 5062
+    },
+    {
+      "id": 1351,
+      "name": "สภ.มารวิชัย",
+      "ProvinceID": 14,
+      "AmphurID": 5297,
+      "tambolid": 4694
+    },
+    {
+      "id": 1352,
+      "name": "สภ.มะนาวหวาน",
+      "ProvinceID": 16,
+      "AmphurID": 5461,
+      "tambolid": 4839
+    },
+    {
+      "id": 1353,
+      "name": "สภ.รำมะสัก",
+      "ProvinceID": 15,
+      "AmphurID": 5388,
+      "tambolid": 4774
+    },
+    {
+      "id": 1354,
+      "name": "สภ.ตกพรม",
+      "ProvinceID": 22,
+      "AmphurID": 6083,
+      "tambolid": 5400
+    },
+    {
+      "id": 1355,
+      "name": "สภ.ไม้รูด",
+      "ProvinceID": 23,
+      "AmphurID": 6199,
+      "tambolid": 5495
+    },
+    {
+      "id": 1356,
+      "name": "สภ.หนองบอน",
+      "ProvinceID": 23,
+      "AmphurID": 6217,
+      "tambolid": 5513
+    },
+    {
+      "id": 1357,
+      "name": "สภ.หัวทะเล",
+      "ProvinceID": 36,
+      "AmphurID": 8307,
+      "tambolid": 7405
+    },
+    {
+      "id": 1358,
+      "name": "สภ.โนนเหม่า",
+      "ProvinceID": 36,
+      "AmphurID": 8276,
+      "tambolid": 7376
+    },
+    {
+      "id": 1359,
+      "name": "สภ.กระชอน",
+      "ProvinceID": 30,
+      "AmphurID": 6841,
+      "tambolid": 6082
+    },
+    {
+      "id": 1360,
+      "name": "สภ.พลสงคราม",
+      "ProvinceID": 30,
+      "AmphurID": 6752,
+      "tambolid": 5998
+    },
+    {
+      "id": 1361,
+      "name": "สภ.บ้านหันห้วยทราย",
+      "ProvinceID": 30,
+      "AmphurID": 6801,
+      "tambolid": 6044
+    },
+    {
+      "id": 1362,
+      "name": "สภ.ชุมแสง",
+      "ProvinceID": 31,
+      "AmphurID": 7174,
+      "tambolid": 6384
+    },
+    {
+      "id": 1363,
+      "name": "สภ.หินเหล็กไฟ",
+      "ProvinceID": 31,
+      "AmphurID": 7028,
+      "tambolid": 6242
+    },
+    {
+      "id": 1364,
+      "name": "สภ.ถาวร",
+      "ProvinceID": 31,
+      "AmphurID": 7258,
+      "tambolid": 6450
+    },
+    {
+      "id": 1365,
+      "name": "สภ.โคกกระชาย",
+      "ProvinceID": 31,
+      "AmphurID": 7131,
+      "tambolid": 6339
+    },
+    {
+      "id": 1366,
+      "name": "สภ.คำผักกูด",
+      "ProvinceID": 35,
+      "AmphurID": 8146,
+      "tambolid": 7263
+    },
+    {
+      "id": 1367,
+      "name": "สภ.จะกง",
+      "ProvinceID": 33,
+      "AmphurID": 7571,
+      "tambolid": 6737
+    },
+    {
+      "id": 1368,
+      "name": "สภ.เพี้ยราม",
+      "ProvinceID": 32,
+      "AmphurID": 7265,
+      "tambolid": 6454
+    },
+    {
+      "id": 1369,
+      "name": "สภ.ทมอ",
+      "ProvinceID": 32,
+      "AmphurID": 7323,
+      "tambolid": 6507
+    },
+    {
+      "id": 1370,
+      "name": "สภ.สะเดา",
+      "ProvinceID": 32,
+      "AmphurID": 7442,
+      "tambolid": 6618
+    },
+    {
+      "id": 1371,
+      "name": "สภ.ดอนแรด",
+      "ProvinceID": 32,
+      "AmphurID": 7358,
+      "tambolid": 6542
+    },
+    {
+      "id": 1372,
+      "name": "สภ.เมืองบัว",
+      "ProvinceID": 32,
+      "AmphurID": 7292,
+      "tambolid": 6483
+    },
+    {
+      "id": 1373,
+      "name": "สภ.เมืองลีง",
+      "ProvinceID": 32,
+      "AmphurID": 7313,
+      "tambolid": 6498
+    },
+    {
+      "id": 1374,
+      "name": "สภ.ปลาค้าว",
+      "ProvinceID": 37,
+      "AmphurID": 8393,
+      "tambolid": 7471
+    },
+    {
+      "id": 1375,
+      "name": "สภ.หนองบ่อ",
+      "ProvinceID": 48,
+      "AmphurID": 283,
+      "tambolid": 256
+    },
+    {
+      "id": 1376,
+      "name": "สภ.หนองฮี",
+      "ProvinceID": 48,
+      "AmphurID": 226,
+      "tambolid": 198
+    },
+    {
+      "id": 1377,
+      "name": "สภ.กุตาไก้",
+      "ProvinceID": 48,
+      "AmphurID": 226,
+      "tambolid": 199
+    },
+    {
+      "id": 1378,
+      "name": "สภ.ดอนหว่าน",
+      "ProvinceID": 44,
+      "AmphurID": 9453,
+      "tambolid": 8421
+    },
+    {
+      "id": 1379,
+      "name": "สภ.เหล่า",
+      "ProvinceID": 44,
+      "AmphurID": 9474,
+      "tambolid": 8443
+    },
+    {
+      "id": 1380,
+      "name": "สภ.นาข่า",
+      "ProvinceID": 44,
+      "AmphurID": 9569,
+      "tambolid": 8532
+    },
+    {
+      "id": 1381,
+      "name": "สภ.บ้านค้อ",
+      "ProvinceID": 49,
+      "AmphurID": 378,
+      "tambolid": 338
+    },
+    {
+      "id": 1382,
+      "name": "สภ.ป่าไร่",
+      "ProvinceID": 49,
+      "AmphurID": 363,
+      "tambolid": 322
+    },
+    {
+      "id": 1383,
+      "name": "สภ.กกตูม",
+      "ProvinceID": 49,
+      "AmphurID": 371,
+      "tambolid": 329
+    },
+    {
+      "id": 1384,
+      "name": "สภ.ขวาว",
+      "ProvinceID": 45,
+      "AmphurID": 9774,
+      "tambolid": 8720
+    },
+    {
+      "id": 1385,
+      "name": "สภ.สวําง",
+      "ProvinceID": 45,
+      "AmphurID": 9733,
+      "tambolid": 8678
+    },
+    {
+      "id": 1386,
+      "name": "สภ.เชียงใหม่",
+      "ProvinceID": 45,
+      "AmphurID": 9754,
+      "tambolid": 8696
+    },
+    {
+      "id": 1387,
+      "name": "สภ.โคกสวําง",
+      "ProvinceID": 45,
+      "AmphurID": 9764,
+      "tambolid": 8711
+    },
+    {
+      "id": 1388,
+      "name": "สน.คลองตัน",
+      "ProvinceID": 10,
+      "AmphurID": 4860,
+      "tambolid": 0
+    },
+    {
+      "id": 1389,
+      "name": "สน.คันนายาว",
+      "ProvinceID": 10,
+      "AmphurID": 4897,
+      "tambolid": 0
+    },
+    {
+      "id": 1390,
+      "name": "สน.โคกคราม",
+      "ProvinceID": 10,
+      "AmphurID": 4825,
+      "tambolid": 0
+    },
+    {
+      "id": 1391,
+      "name": "สน.จรเข้น้อย",
+      "ProvinceID": 10,
+      "AmphurID": 4717,
+      "tambolid": 0
+    },
+    {
+      "id": 1392,
+      "name": "สน.จักรวรรดิ",
+      "ProvinceID": 10,
+      "AmphurID": 4735,
+      "tambolid": 0
+    },
+    {
+      "id": 1393,
+      "name": "สน.ฉลองกรุง",
+      "ProvinceID": 10,
+      "AmphurID": 4717,
+      "tambolid": 0
+    },
+    {
+      "id": 1394,
+      "name": "สน.ชนะสงคราม",
+      "ProvinceID": 10,
+      "AmphurID": 4628,
+      "tambolid": 0
+    },
+    {
+      "id": 1395,
+      "name": "สน.โชคชัย",
+      "ProvinceID": 10,
+      "AmphurID": 4902,
+      "tambolid": 0
+    },
+    {
+      "id": 1396,
+      "name": "สน.ดอนเมือง",
+      "ProvinceID": 10,
+      "AmphurID": 4867,
+      "tambolid": 0
+    },
+    {
+      "id": 1397,
+      "name": "สน.ดินแดง",
+      "ProvinceID": 10,
+      "AmphurID": 4823,
+      "tambolid": 0
+    },
+    {
+      "id": 1398,
+      "name": "สน.ดุสิต",
+      "ProvinceID": 10,
+      "AmphurID": 4641,
+      "tambolid": 0
+    },
+    {
+      "id": 1399,
+      "name": "สน.ตลาดพลู",
+      "ProvinceID": 10,
+      "AmphurID": 4746,
+      "tambolid": 0
+    },
+    {
+      "id": 1400,
+      "name": "สน.ตลิ่งชัน",
+      "ProvinceID": 10,
+      "AmphurID": 4768,
+      "tambolid": 0
+    },
+    {
+      "id": 1401,
+      "name": "สน.เตาปูน",
+      "ProvinceID": 10,
+      "AmphurID": 4835,
+      "tambolid": 0
+    },
+    {
+      "id": 1402,
+      "name": "สน.ทองหล่อ",
+      "ProvinceID": 10,
+      "AmphurID": 4881,
+      "tambolid": 0
+    },
+    {
+      "id": 1403,
+      "name": "สน.ท่าข้าม",
+      "ProvinceID": 10,
+      "AmphurID": 4790,
+      "tambolid": 0
+    },
+    {
+      "id": 1404,
+      "name": "สน.ท่าพระ",
+      "ProvinceID": 10,
+      "AmphurID": 4755,
+      "tambolid": 0
+    },
+    {
+      "id": 1405,
+      "name": "สน.ท่าเรือ",
+      "ProvinceID": 10,
+      "AmphurID": 4853,
+      "tambolid": 0
+    },
+    {
+      "id": 1406,
+      "name": "สน.ทุ่งครุ",
+      "ProvinceID": 10,
+      "AmphurID": 4918,
+      "tambolid": 0
+    },
+    {
+      "id": 1407,
+      "name": "สน.ทุ่งมหาเมฆ",
+      "ProvinceID": 10,
+      "AmphurID": 4831,
+      "tambolid": 0
+    },
+    {
+      "id": 1408,
+      "name": "สน.ทุ่งสองห้อง",
+      "ProvinceID": 10,
+      "AmphurID": 4890,
+      "tambolid": 0
+    },
+    {
+      "id": 1409,
+      "name": "สน.เทียนทะเล",
+      "ProvinceID": 10,
+      "AmphurID": 4790,
+      "tambolid": 0
+    },
+    {
+      "id": 1410,
+      "name": "สน.ธรรมศาลา",
+      "ProvinceID": 10,
+      "AmphurID": 4915,
+      "tambolid": 0
+    },
+    {
+      "id": 1411,
+      "name": "สน.นางเลิ้ง",
+      "ProvinceID": 10,
+      "AmphurID": 4689,
+      "tambolid": 0
+    },
+    {
+      "id": 1412,
+      "name": "สน.นิมิตใหม่",
+      "ProvinceID": 10,
+      "AmphurID": 4907,
+      "tambolid": 0
+    },
+    {
+      "id": 1413,
+      "name": "สน.บวรมงคล",
+      "ProvinceID": 10,
+      "AmphurID": 4818,
+      "tambolid": 0
+    },
+    {
+      "id": 1414,
+      "name": "สน.บางกอกน้อย",
+      "ProvinceID": 10,
+      "AmphurID": 4777,
+      "tambolid": 0
+    },
+    {
+      "id": 1415,
+      "name": "สน.บางกอกใหญ่",
+      "ProvinceID": 10,
+      "AmphurID": 4755,
+      "tambolid": 0
+    },
+    {
+      "id": 1416,
+      "name": "สน.บางขุนเทียน",
+      "ProvinceID": 10,
+      "AmphurID": 4862,
+      "tambolid": 0
+    },
+    {
+      "id": 1417,
+      "name": "สน.บางขุนนนท์",
+      "ProvinceID": 10,
+      "AmphurID": 4777,
+      "tambolid": 0
+    },
+    {
+      "id": 1418,
+      "name": "สน.บางเขน",
+      "ProvinceID": 10,
+      "AmphurID": 4664,
+      "tambolid": 0
+    },
+    {
+      "id": 1419,
+      "name": "สน.บางคอแหลม",
+      "ProvinceID": 10,
+      "AmphurID": 4813,
+      "tambolid": 0
+    },
+    {
+      "id": 1420,
+      "name": "สน.บางชัน",
+      "ProvinceID": 10,
+      "AmphurID": 4897,
+      "tambolid": 0
+    },
+    {
+      "id": 1421,
+      "name": "สน.บางซื่อ",
+      "ProvinceID": 10,
+      "AmphurID": 4739,
+      "tambolid": 0
+    },
+    {
+      "id": 1422,
+      "name": "สน.บางนา",
+      "ProvinceID": 10,
+      "AmphurID": 4848,
+      "tambolid": 0
+    },
+    {
+      "id": 1423,
+      "name": "สน.บางบอน",
+      "ProvinceID": 10,
+      "AmphurID": 4921,
+      "tambolid": 0
+    },
+    {
+      "id": 1424,
+      "name": "สน.บางพลัด",
+      "ProvinceID": 10,
+      "AmphurID": 4818,
+      "tambolid": 0
+    },
+    {
+      "id": 1425,
+      "name": "สน.บางโพ",
+      "ProvinceID": 10,
+      "AmphurID": 4835,
+      "tambolid": 0
+    },
+    {
+      "id": 1426,
+      "name": "สน.บางโพงพาง",
+      "ProvinceID": 10,
+      "AmphurID": 4831,
+      "tambolid": 0
+    },
+    {
+      "id": 1427,
+      "name": "สน.บางมด",
+      "ProvinceID": 10,
+      "AmphurID": 4862,
+      "tambolid": 0
+    },
+    {
+      "id": 1428,
+      "name": "สน.บางยี่ขัน",
+      "ProvinceID": 10,
+      "AmphurID": 4818,
+      "tambolid": 0
+    },
+    {
+      "id": 1429,
+      "name": "สน.บางยี่เรือ",
+      "ProvinceID": 10,
+      "AmphurID": 4746,
+      "tambolid": 0
+    },
+    {
+      "id": 1430,
+      "name": "สน.บางรัก",
+      "ProvinceID": 10,
+      "AmphurID": 4658,
+      "tambolid": 0
+    },
+    {
+      "id": 1431,
+      "name": "สน.บางเสาธง",
+      "ProvinceID": 10,
+      "AmphurID": 4798,
+      "tambolid": 0
+    },
+    {
+      "id": 1432,
+      "name": "สน.บึงกุ่ม",
+      "ProvinceID": 10,
+      "AmphurID": 4825,
+      "tambolid": 0
+    },
+    {
+      "id": 1433,
+      "name": "สน.บุคคโล",
+      "ProvinceID": 10,
+      "AmphurID": 4746,
+      "tambolid": 0
+    },
+    {
+      "id": 1434,
+      "name": "สน.บุปผาราม",
+      "ProvinceID": 10,
+      "AmphurID": 4746,
+      "tambolid": 0
+    },
+    {
+      "id": 1435,
+      "name": "สน.ปทุมวัน",
+      "ProvinceID": 10,
+      "AmphurID": 4684,
+      "tambolid": 0
+    },
+    {
+      "id": 1436,
+      "name": "สน.ประชาชื่น",
+      "ProvinceID": 10,
+      "AmphurID": 4838,
+      "tambolid": 0
+    },
+    {
+      "id": 1437,
+      "name": "สน.ประชาสำราญ",
+      "ProvinceID": 10,
+      "AmphurID": 4649,
+      "tambolid": 0
+    },
+    {
+      "id": 1438,
+      "name": "สน.ประเวศ",
+      "ProvinceID": 10,
+      "AmphurID": 4848,
+      "tambolid": 0
+    },
+    {
+      "id": 1439,
+      "name": "สน.ปากคลองสาน",
+      "ProvinceID": 10,
+      "AmphurID": 4763,
+      "tambolid": 0
+    },
+    {
+      "id": 1440,
+      "name": "สน.พญาไท",
+      "ProvinceID": 10,
+      "AmphurID": 4873,
+      "tambolid": 0
+    },
+    {
+      "id": 1441,
+      "name": "สน.พระโขนง",
+      "ProvinceID": 10,
+      "AmphurID": 4881,
+      "tambolid": 0
+    },
+    {
+      "id": 1442,
+      "name": "สน.พระราชวัง",
+      "ProvinceID": 10,
+      "AmphurID": 4628,
+      "tambolid": 0
+    },
+    {
+      "id": 1443,
+      "name": "สน.พลับพลาไชย 1",
+      "ProvinceID": 10,
+      "AmphurID": 4689,
+      "tambolid": 0
+    },
+    {
+      "id": 1444,
+      "name": "สน.พลับพลาไชย 2",
+      "ProvinceID": 10,
+      "AmphurID": 4689,
+      "tambolid": 0
+    },
+    {
+      "id": 1445,
+      "name": "สน.พหลโยธิน",
+      "ProvinceID": 10,
+      "AmphurID": 4838,
+      "tambolid": 0
+    },
+    {
+      "id": 1446,
+      "name": "สน.เพชรเกษม",
+      "ProvinceID": 10,
+      "AmphurID": 4885,
+      "tambolid": 0
+    },
+    {
+      "id": 1447,
+      "name": "สน.ภาษีเจริญ",
+      "ProvinceID": 10,
+      "AmphurID": 4798,
+      "tambolid": 0
+    },
+    {
+      "id": 1448,
+      "name": "สน.มักกะสัน",
+      "ProvinceID": 10,
+      "AmphurID": 4758,
+      "tambolid": 0
+    },
+    {
+      "id": 1449,
+      "name": "สน.มีนบุรี",
+      "ProvinceID": 10,
+      "AmphurID": 4709,
+      "tambolid": 0
+    },
+    {
+      "id": 1450,
+      "name": "สน.ยานนาวา",
+      "ProvinceID": 10,
+      "AmphurID": 4658,
+      "tambolid": 0
+    },
+    {
+      "id": 1451,
+      "name": "สน.ร่มเกล้า",
+      "ProvinceID": 10,
+      "AmphurID": 4717,
+      "tambolid": 0
+    },
+    {
+      "id": 1452,
+      "name": "สน.ราษฏร์บูรณะ",
+      "ProvinceID": 10,
+      "AmphurID": 4813,
+      "tambolid": 0
+    },
+    {
+      "id": 1453,
+      "name": "สน.ลาดกระบัง",
+      "ProvinceID": 10,
+      "AmphurID": 4717,
+      "tambolid": 0
+    },
+    {
+      "id": 1454,
+      "name": "สน.ลาดพร้าว",
+      "ProvinceID": 10,
+      "AmphurID": 4675,
+      "tambolid": 0
+    },
+    {
+      "id": 1455,
+      "name": "สน.ลำผักชี",
+      "ProvinceID": 10,
+      "AmphurID": 4649,
+      "tambolid": 0
+    },
+    {
+      "id": 1456,
+      "name": "สน.ลำหิน",
+      "ProvinceID": 10,
+      "AmphurID": 4649,
+      "tambolid": 0
+    },
+    {
+      "id": 1457,
+      "name": "สน.ลุมพินี",
+      "ProvinceID": 10,
+      "AmphurID": 4684,
+      "tambolid": 0
+    },
+    {
+      "id": 1458,
+      "name": "สน.วังทองหลาง",
+      "ProvinceID": 10,
+      "AmphurID": 4902,
+      "tambolid": 0
+    },
+    {
+      "id": 1459,
+      "name": "สน.วัดพระยาไกร",
+      "ProvinceID": 10,
+      "AmphurID": 4844,
+      "tambolid": 0
+    },
+    {
+      "id": 1460,
+      "name": "สน.ศาลาแดง",
+      "ProvinceID": 10,
+      "AmphurID": 4885,
+      "tambolid": 0
+    },
+    {
+      "id": 1461,
+      "name": "สน.สมเด็จเจ้าพระยา",
+      "ProvinceID": 10,
+      "AmphurID": 4763,
+      "tambolid": 0
+    },
+    {
+      "id": 1462,
+      "name": "สน.สามเสน",
+      "ProvinceID": 10,
+      "AmphurID": 4641,
+      "tambolid": 0
+    },
+    {
+      "id": 1463,
+      "name": "สน.สายไหม",
+      "ProvinceID": 10,
+      "AmphurID": 4893,
+      "tambolid": 0
+    },
+    {
+      "id": 1464,
+      "name": "สน.สำราญราษฏร์",
+      "ProvinceID": 10,
+      "AmphurID": 4628,
+      "tambolid": 0
+    },
+    {
+      "id": 1465,
+      "name": "สน.สำเหร่",
+      "ProvinceID": 10,
+      "AmphurID": 4746,
+      "tambolid": 0
+    },
+    {
+      "id": 1466,
+      "name": "สน.สุทธิสาร",
+      "ProvinceID": 10,
+      "AmphurID": 4823,
+      "tambolid": 0
+    },
+    {
+      "id": 1467,
+      "name": "สน.สุวินทวงศ์",
+      "ProvinceID": 10,
+      "AmphurID": 4649,
+      "tambolid": 0
+    },
+    {
+      "id": 1468,
+      "name": "สน.แสมดำ",
+      "ProvinceID": 10,
+      "AmphurID": 4921,
+      "tambolid": 0
+    },
+    {
+      "id": 1469,
+      "name": "สน.หนองแขม",
+      "ProvinceID": 10,
+      "AmphurID": 4809,
+      "tambolid": 0
+    },
+    {
+      "id": 1470,
+      "name": "สน.หนองค้างพลู",
+      "ProvinceID": 10,
+      "AmphurID": 4809,
+      "tambolid": 0
+    },
+    {
+      "id": 1471,
+      "name": "สน.หนองจอก",
+      "ProvinceID": 10,
+      "AmphurID": 4649,
+      "tambolid": 0
+    },
+    {
+      "id": 1472,
+      "name": "สน.หลักสอง",
+      "ProvinceID": 10,
+      "AmphurID": 4885,
+      "tambolid": 0
+    },
+    {
+      "id": 1473,
+      "name": "สน.ห้วยขวาง",
+      "ProvinceID": 10,
+      "AmphurID": 4823,
+      "tambolid": 0
+    },
+    {
+      "id": 1474,
+      "name": "สน.หัวหมาก",
+      "ProvinceID": 10,
+      "AmphurID": 4675,
+      "tambolid": 0
+    },
+    {
+      "id": 1475,
+      "name": "สน.อุดมสุข",
+      "ProvinceID": 10,
+      "AmphurID": 4848,
+      "tambolid": 0
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+    "vehicleBrand" : 
+    [
+      {
+        "ID": 0,
+        "BrandTH": "อื่นๆ",
+        "BrandEN": "",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 2,
+        "BrandTH": "อีซูซุ",
+        "BrandEN": "ISUZU",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 1,
+        "BrandTH": "โตโยต้า",
+        "BrandEN": "TOYOTA",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 3,
+        "BrandTH": "ฮอนด้า",
+        "BrandEN": "HONDA",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 4,
+        "BrandTH": "มิตซูบิชิ",
+        "BrandEN": "MITSUBISHI",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 7,
+        "BrandTH": "ฟอร์ด",
+        "BrandEN": "FORD",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 5,
+        "BrandTH": "นิสสัน",
+        "BrandEN": "NISSAN",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 6,
+        "BrandTH": "มาสด้า",
+        "BrandEN": "MAZDA",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 8,
+        "BrandTH": "เอ็มจี",
+        "BrandEN": "MG",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 22,
+        "BrandTH": "เชฟโลเลต",
+        "BrandEN": "CHEVROLET",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 29,
+        "BrandTH": "คาวาซากิ",
+        "BrandEN": "KAWASAKI",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 9,
+        "BrandTH": "ซูซูกิ",
+        "BrandEN": "SUZUKI",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 30,
+        "BrandTH": "ยามาฮ่า",
+        "BrandEN": "YAMAHA"
+      },
+      {
+        "ID": 11,
+        "BrandTH": "ฮุนได",
+        "BrandEN": "HYUNDAI",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 14,
+        "BrandTH": "เมอร์เซเดส-เบนซ์",
+        "BrandEN": "MERCEDES-BENZ",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 12,
+        "BrandTH": "วอลโว่",
+        "BrandEN": "VOLVO",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 15,
+        "BrandTH": "บีเอ็มดับเบิลยู",
+        "BrandEN": "BMW",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 17,
+        "BrandTH": "อาวดี้",
+        "BrandEN": "AUDI",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 21,
+        "BrandTH": "เบนท์ลีย์",
+        "BrandEN": "BENTLEY",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 23,
+        "BrandTH": "ไครสเลอร์",
+        "BrandEN": "CHRYSLER",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 24,
+        "BrandTH": "ซีตรอง ",
+        "BrandEN": "CITROEN",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 20,
+        "BrandTH": "ฮีโน่",
+        "BrandEN": "HINO",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 25,
+        "BrandTH": "จากัวร์ ",
+        "BrandEN": "JAGUAR",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 10,
+        "BrandTH": "เกีย",
+        "BrandEN": "KIA",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 27,
+        "BrandTH": "ลัมโบร์กีนี",
+        "BrandEN": "LAMBORGHINI",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 26,
+        "BrandTH": "แลนด์โรเวอร์ ",
+        "BrandEN": "LAND ROVER",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 28,
+        "BrandTH": "มินิ",
+        "BrandEN": "MINI",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 19,
+        "BrandTH": "โอเปิล",
+        "BrandEN": "OPEL",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 18,
+        "BrandTH": "พอร์เชอ",
+        "BrandEN": "PORSCHE",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 13,
+        "BrandTH": "ซูบารุ",
+        "BrandEN": "SUBARU",
+        "ActiveFlag": 1
+      },
+      {
+        "ID": 16,
+        "BrandTH": "ฟ็อลคส์วาเกิน",
+        "BrandEN": "VOLKSWAGEN",
+        "ActiveFlag": 1
+      }
+      
+    ]
+}

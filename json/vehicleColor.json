@@ -1,0 +1,69 @@
+{
+    "vehicleColor" : [    
+      {
+      "ID": 0,
+      "VehicleColor": "อื่นๆ",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 12,
+      "VehicleColor": "ขาว",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 6,
+      "VehicleColor": "เขียว",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 9,
+      "VehicleColor": "ชมพู",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 4,
+      "VehicleColor": "ดำ",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 1,
+      "VehicleColor": "แดง",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 11,
+      "VehicleColor": "เทา",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 2,
+      "VehicleColor": "น้ำเงิน",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 8,
+      "VehicleColor": "น้ำตาล",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 10,
+      "VehicleColor": "ฟ้า",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 5,
+      "VehicleColor": "ม่วง",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 7,
+      "VehicleColor": "ส้ม",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 3,
+      "VehicleColor": "เหลือง",
+      "ActiveFlag": 1
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{  "vehicleType" : 
+  [
+    {
+      "ID": 0,
+      "VehicleType": "อื่นๆ",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 21,
+      "VehicleType": "กระบะบรรทุก(มีหลังคา)",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 23,
+      "VehicleType": "กระบะบรรทุก(มีหลังคาฝาปิดด้านข้าง-ท้าย)",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 22,
+      "VehicleType": "กระบะบรรทุก(เสริมกระบะข้าง)",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 19,
+      "VehicleType": "กระบะบรรทุกพื้นเรียบ",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 20,
+      "VehicleType": "กระบะบรรทุกไม่มีหลังคา",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 1,
+      "VehicleType": "เก๋งตอนเดียว",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 18,
+      "VehicleType": "เก๋งทุบบรรทุก",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 2,
+      "VehicleType": "เก๋งสองตอน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 3,
+      "VehicleType": "เก๋งสองตอนแวน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 4,
+      "VehicleType": "เก๋งสามตอน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 5,
+      "VehicleType": "เก๋งสามตอนแวน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 28,
+      "VehicleType": "จักรยานยนต์",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 29,
+      "VehicleType": "จักรยานยนต์พ่วงข้าง",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 15,
+      "VehicleType": "ตู้นั่งสามตอน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 17,
+      "VehicleType": "ตู้นั่งสี่ตอน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 24,
+      "VehicleType": "ตู้บรรทุก",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 6,
+      "VehicleType": "นั่งสองตอน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 7,
+      "VehicleType": "นั่งสองตอนแวน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 11,
+      "VehicleType": "นั่งสองตอนสองแถว",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 10,
+      "VehicleType": "นั่งสองแถว",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 12,
+      "VehicleType": "นั่งสอนตอนท้ายบรรทุก",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 8,
+      "VehicleType": "นั่งสามตอน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 9,
+      "VehicleType": "นั่งสามตอนแวน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 13,
+      "VehicleType": "ประทุนตอนเดียว",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 14,
+      "VehicleType": "ประทุนสองตอน",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 31,
+      "VehicleType": "รถใช้งานเกษตรกรรม",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 25,
+      "VehicleType": "รถดับเพลิง",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 30,
+      "VehicleType": "รถแทรกเตอร์",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 16,
+      "VehicleType": "รถพยาบาล",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 32,
+      "VehicleType": "รถพ่วง",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 26,
+      "VehicleType": "สามล้อ",
+      "ActivFlag": 1
+    },
+    {
+      "ID": 27,
+      "VehicleType": "สี่ล้อเล็กรับจ้าง",
+      "ActivFlag": 1
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+﻿{
+  "subCaseCategory": [
+    {
+      "id": 0,
+      "name": "อื่นๆ",
+      "CaseCategoryID": 0
+    },
+    {
+      "id": 1,
+      "name": "เกี่ยวกับชีวิต",
+      "CaseCategoryID": 3
+    },
+    {
+      "id": 2,
+      "name": "ฆาตกรรม",
+      "CaseCategoryID": 3
+    },
+    {
+      "id": 3,
+      "name": "พบศพ",
+      "CaseCategoryID": 3
+    },
+    {
+      "id": 4,
+      "name": "อัตวินิบาตกรรม",
+      "CaseCategoryID": 3
+    },
+    {
+      "id": 5,
+      "name": "วิสามัญฆาตกรรม",
+      "CaseCategoryID": 3
+    },
+    {
+      "id": 6,
+      "name": "พยายามฆ่า",
+      "CaseCategoryID": 3
+    },
+    {
+      "id": 7,
+      "name": "เกี่ยวกับทรัพย์",
+      "CaseCategoryID": 1
+    },
+    {
+      "id": 8,
+      "name": "ลักทรัพย์",
+      "CaseCategoryID": 1
+    },
+    {
+      "id": 9,
+      "name": "ปล้นทรัพย์",
+      "CaseCategoryID": 1
+    },
+    {
+      "id": 10,
+      "name": "ชิงทรัพย์",
+      "CaseCategoryID": 1
+    },
+    {
+      "id": 11,
+      "name": "วิ่งราวทรัพย์",
+      "CaseCategoryID": 1
+    },
+    {
+      "id": 12,
+      "name": "กรรโชกทรัพย์",
+      "CaseCategoryID": 1
+    },
+    {
+      "id": 13,
+      "name": "เกี่ยวกับระเบิด",
+      "CaseCategoryID": 4
+    },
+    {
+      "id": 14,
+      "name": "เก็บกู้วัตถุระเบิด",
+      "CaseCategoryID": 4
+    },
+    {
+      "id": 15,
+      "name": "วัตถุต้องสงสัย",
+      "CaseCategoryID": 4
+    },
+    {
+      "id": 16,
+      "name": "เกี่ยวกับเพลิงไหม้",
+      "CaseCategoryID": 2
+    },
+    {
+      "id": 17,
+      "name": "วางเพลิง",
+      "CaseCategoryID": 2
+    },
+    {
+      "id": 18,
+      "name": "เกี่ยวกับจราจร",
+      "CaseCategoryID": 5
+    },
+    {
+      "id": 19,
+      "name": "ทรัพย์",
+      "CaseCategoryID": 6
+    },
+    {
+      "id": 20,
+      "name": "ชีวิต",
+      "CaseCategoryID": 6
+    },
+    {
+      "id": 21,
+      "name": "ระเบิด",
+      "CaseCategoryID": 6
+    },
+    {
+      "id": 22,
+      "name": "ยาเสพติด",
+      "CaseCategoryID": 6
+    },
+    {
+      "id": 23,
+      "name": "ทรัพย์",
+      "CaseCategoryID": 8
+    },
+    {
+      "id": 24,
+      "name": "ชีวิต",
+      "CaseCategoryID": 8
+    },
+    {
+      "id": 25,
+      "name": "ระเบิด",
+      "CaseCategoryID": 8
+    },
+    {
+      "id": 26,
+      "name": "ยาเสพติด",
+      "CaseCategoryID": 8
+    },
+    {
+      "id": 27,
+      "name": "ทรัพย์",
+      "CaseCategoryID": 9
+    },
+    {
+      "id": 28,
+      "name": "ชีวิต",
+      "CaseCategoryID": 9
+    },
+    {
+      "id": 29,
+      "name": "ระเบิด",
+      "CaseCategoryID": 9
+    },
+    {
+      "id": 30,
+      "name": "ยาเสพติด",
+      "CaseCategoryID": 9
+    }
+  ]
+}

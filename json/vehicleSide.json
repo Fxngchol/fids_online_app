@@ -1,0 +1,39 @@
+{
+    "vehicleSide" :[
+    {
+      "ID": 1,
+      "VehicleSide": "ด้านหน้า",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 2,
+      "VehicleSide": "ด้านขวา",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 3,
+      "VehicleSide": "ด้านซ้าย",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 4,
+      "VehicleSide": "ด้านหลัง",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 5,
+      "VehicleSide": "ด้านบน",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 6,
+      "VehicleSide": "ด้านล่าง",
+      "ActiveFlag": 1
+    },
+    {
+      "ID": 7,
+      "VehicleSide": "ด้านอื่นๆ",
+      "ActiveFlag": 1
+    }
+  ]
+}

@@ -1,0 +1,5049 @@
+{
+  "amphur": [
+    {
+      "id": 0,
+      "Amphur": "ไม่ระบุ",
+      "ProvinceID": 0
+    },
+    {
+      "id": 5,
+      "Amphur": "สมเด็จ",
+      "ProvinceID": 46
+    },
+    {
+      "id": 14,
+      "Amphur": "ห้วยผึ้ง",
+      "ProvinceID": 46
+    },
+    {
+      "id": 19,
+      "Amphur": "สามชัย",
+      "ProvinceID": 46
+    },
+    {
+      "id": 24,
+      "Amphur": "นาคู",
+      "ProvinceID": 46
+    },
+    {
+      "id": 30,
+      "Amphur": "ดอนจาน",
+      "ProvinceID": 46
+    },
+    {
+      "id": 36,
+      "Amphur": "ฆ้องชัย",
+      "ProvinceID": 46
+    },
+    {
+      "id": 43,
+      "Amphur": "เมืองสกลนคร",
+      "ProvinceID": 47
+    },
+    {
+      "id": 71,
+      "Amphur": "กุสุมาลย์",
+      "ProvinceID": 47
+    },
+    {
+      "id": 77,
+      "Amphur": "กุดบาก",
+      "ProvinceID": 47
+    },
+    {
+      "id": 84,
+      "Amphur": "พรรณานิคม",
+      "ProvinceID": 47
+    },
+    {
+      "id": 95,
+      "Amphur": "พังโคน",
+      "ProvinceID": 47
+    },
+    {
+      "id": 103,
+      "Amphur": "วาริชภูมิ",
+      "ProvinceID": 47
+    },
+    {
+      "id": 109,
+      "Amphur": "นิคมน้ำอูน",
+      "ProvinceID": 47
+    },
+    {
+      "id": 114,
+      "Amphur": "วานรนิวาส",
+      "ProvinceID": 47
+    },
+    {
+      "id": 129,
+      "Amphur": "คำตากล้า",
+      "ProvinceID": 47
+    },
+    {
+      "id": 134,
+      "Amphur": "บ้านม่วง",
+      "ProvinceID": 47
+    },
+    {
+      "id": 144,
+      "Amphur": "อากาศอำนวย",
+      "ProvinceID": 47
+    },
+    {
+      "id": 153,
+      "Amphur": "สว่างแดนดิน",
+      "ProvinceID": 47
+    },
+    {
+      "id": 175,
+      "Amphur": "ส่องดาว",
+      "ProvinceID": 47
+    },
+    {
+      "id": 180,
+      "Amphur": "เต่างอย",
+      "ProvinceID": 47
+    },
+    {
+      "id": 185,
+      "Amphur": "โคกศรีสุพรรณ",
+      "ProvinceID": 47
+    },
+    {
+      "id": 190,
+      "Amphur": "เจริญศิลป์",
+      "ProvinceID": 47
+    },
+    {
+      "id": 196,
+      "Amphur": "โพนนาแก้ว",
+      "ProvinceID": 47
+    },
+    {
+      "id": 202,
+      "Amphur": "ภูพาน",
+      "ProvinceID": 47
+    },
+    {
+      "id": 207,
+      "Amphur": "วานรนิวาส (สาขาตำบลกุดเรือคำ)*",
+      "ProvinceID": 47
+    },
+    {
+      "id": 208,
+      "Amphur": "อ.บ้านหัน จ.สกลนคร*",
+      "ProvinceID": 47
+    },
+    {
+      "id": 210,
+      "Amphur": "เมืองนครพนม",
+      "ProvinceID": 48
+    },
+    {
+      "id": 226,
+      "Amphur": "ปลาปาก",
+      "ProvinceID": 48
+    },
+    {
+      "id": 235,
+      "Amphur": "ท่าอุเทน",
+      "ProvinceID": 48
+    },
+    {
+      "id": 250,
+      "Amphur": "บ้านแพง",
+      "ProvinceID": 48
+    },
+    {
+      "id": 260,
+      "Amphur": "ธาตุพนม",
+      "ProvinceID": 48
+    },
+    {
+      "id": 273,
+      "Amphur": "เรณูนคร",
+      "ProvinceID": 48
+    },
+    {
+      "id": 283,
+      "Amphur": "นาแก",
+      "ProvinceID": 48
+    },
+    {
+      "id": 300,
+      "Amphur": "ศรีสงคราม",
+      "ProvinceID": 48
+    },
+    {
+      "id": 310,
+      "Amphur": "นาหว้า",
+      "ProvinceID": 48
+    },
+    {
+      "id": 317,
+      "Amphur": "โพนสวรรค์",
+      "ProvinceID": 48
+    },
+    {
+      "id": 325,
+      "Amphur": "นาทม",
+      "ProvinceID": 48
+    },
+    {
+      "id": 329,
+      "Amphur": "วังยาง",
+      "ProvinceID": 48
+    },
+    {
+      "id": 335,
+      "Amphur": "เมืองมุกดาหาร",
+      "ProvinceID": 49
+    },
+    {
+      "id": 355,
+      "Amphur": "นิคมคำสร้อย",
+      "ProvinceID": 49
+    },
+    {
+      "id": 363,
+      "Amphur": "ดอนตาล",
+      "ProvinceID": 49
+    },
+    {
+      "id": 371,
+      "Amphur": "ดงหลวง",
+      "ProvinceID": 49
+    },
+    {
+      "id": 378,
+      "Amphur": "คำชะอี",
+      "ProvinceID": 49
+    },
+    {
+      "id": 396,
+      "Amphur": "หว้านใหญ่",
+      "ProvinceID": 49
+    },
+    {
+      "id": 402,
+      "Amphur": "หนองสูง",
+      "ProvinceID": 49
+    },
+    {
+      "id": 410,
+      "Amphur": "เมืองเชียงใหม่",
+      "ProvinceID": 50
+    },
+    {
+      "id": 427,
+      "Amphur": "จอมทอง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 438,
+      "Amphur": "แม่แจ่ม",
+      "ProvinceID": 50
+    },
+    {
+      "id": 449,
+      "Amphur": "เชียงดาว",
+      "ProvinceID": 50
+    },
+    {
+      "id": 457,
+      "Amphur": "ดอยสะเก็ด",
+      "ProvinceID": 50
+    },
+    {
+      "id": 472,
+      "Amphur": "แม่แตง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 487,
+      "Amphur": "แม่ริม",
+      "ProvinceID": 50
+    },
+    {
+      "id": 499,
+      "Amphur": "สะเมิง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 505,
+      "Amphur": "ฝาง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 523,
+      "Amphur": "แม่อาย",
+      "ProvinceID": 50
+    },
+    {
+      "id": 531,
+      "Amphur": "พร้าว",
+      "ProvinceID": 50
+    },
+    {
+      "id": 543,
+      "Amphur": "สันป่าตอง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 559,
+      "Amphur": "สันกำแพง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 579,
+      "Amphur": "สันทราย",
+      "ProvinceID": 50
+    },
+    {
+      "id": 592,
+      "Amphur": "หางดง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 604,
+      "Amphur": "ฮอด",
+      "ProvinceID": 50
+    },
+    {
+      "id": 611,
+      "Amphur": "ดอยเต่า",
+      "ProvinceID": 50
+    },
+    {
+      "id": 618,
+      "Amphur": "อมก๋อย",
+      "ProvinceID": 50
+    },
+    {
+      "id": 625,
+      "Amphur": "สารภี",
+      "ProvinceID": 50
+    },
+    {
+      "id": 638,
+      "Amphur": "เวียงแหง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 642,
+      "Amphur": "ไชยปราการ",
+      "ProvinceID": 50
+    },
+    {
+      "id": 647,
+      "Amphur": "แม่วาง",
+      "ProvinceID": 50
+    },
+    {
+      "id": 653,
+      "Amphur": "แม่ออน",
+      "ProvinceID": 50
+    },
+    {
+      "id": 660,
+      "Amphur": "ดอยหล่อ",
+      "ProvinceID": 50
+    },
+    {
+      "id": 665,
+      "Amphur": "กัลยาณิวัฒนา",
+      "ProvinceID": 50
+    },
+    {
+      "id": 669,
+      "Amphur": "เทศบาลนครเชียงใหม่ (สาขาแขวงกาลวิละ*",
+      "ProvinceID": 50
+    },
+    {
+      "id": 670,
+      "Amphur": "เทศบาลนครเชียงใหม่ (สาขาแขวงศรีวิชั*",
+      "ProvinceID": 50
+    },
+    {
+      "id": 671,
+      "Amphur": "เทศบาลนครเชียงใหม่ (สาขาเม็งราย*",
+      "ProvinceID": 50
+    },
+    {
+      "id": 673,
+      "Amphur": "เมืองลำพูน",
+      "ProvinceID": 51
+    },
+    {
+      "id": 693,
+      "Amphur": "แม่ทา",
+      "ProvinceID": 51
+    },
+    {
+      "id": 700,
+      "Amphur": "บ้านโฮ่ง",
+      "ProvinceID": 51
+    },
+    {
+      "id": 706,
+      "Amphur": "ลี้",
+      "ProvinceID": 51
+    },
+    {
+      "id": 718,
+      "Amphur": "ทุ่งหัวช้าง",
+      "ProvinceID": 51
+    },
+    {
+      "id": 722,
+      "Amphur": "ป่าซาง",
+      "ProvinceID": 51
+    },
+    {
+      "id": 735,
+      "Amphur": "บ้านธิ",
+      "ProvinceID": 51
+    },
+    {
+      "id": 738,
+      "Amphur": "เวียงหนองล่อง",
+      "ProvinceID": 51
+    },
+    {
+      "id": 743,
+      "Amphur": "เมืองลำปาง",
+      "ProvinceID": 52
+    },
+    {
+      "id": 765,
+      "Amphur": "แม่เมาะ",
+      "ProvinceID": 52
+    },
+    {
+      "id": 771,
+      "Amphur": "เกาะคา",
+      "ProvinceID": 52
+    },
+    {
+      "id": 781,
+      "Amphur": "เสริมงาม",
+      "ProvinceID": 52
+    },
+    {
+      "id": 786,
+      "Amphur": "งาว",
+      "ProvinceID": 52
+    },
+    {
+      "id": 797,
+      "Amphur": "แจ้ห่ม",
+      "ProvinceID": 52
+    },
+    {
+      "id": 809,
+      "Amphur": "วังเหนือ",
+      "ProvinceID": 52
+    },
+    {
+      "id": 818,
+      "Amphur": "เถิน",
+      "ProvinceID": 52
+    },
+    {
+      "id": 827,
+      "Amphur": "แม่พริก",
+      "ProvinceID": 52
+    },
+    {
+      "id": 832,
+      "Amphur": "แม่ทะ",
+      "ProvinceID": 52
+    },
+    {
+      "id": 844,
+      "Amphur": "สบปราบ",
+      "ProvinceID": 52
+    },
+    {
+      "id": 849,
+      "Amphur": "ห้างฉัตร",
+      "ProvinceID": 52
+    },
+    {
+      "id": 857,
+      "Amphur": "เมืองปาน",
+      "ProvinceID": 52
+    },
+    {
+      "id": 864,
+      "Amphur": "เมืองอุตรดิตถ์",
+      "ProvinceID": 53
+    },
+    {
+      "id": 883,
+      "Amphur": "ตรอน",
+      "ProvinceID": 53
+    },
+    {
+      "id": 893,
+      "Amphur": "ท่าปลา",
+      "ProvinceID": 53
+    },
+    {
+      "id": 902,
+      "Amphur": "น้ำปาด",
+      "ProvinceID": 53
+    },
+    {
+      "id": 910,
+      "Amphur": "ฟากท่า",
+      "ProvinceID": 53
+    },
+    {
+      "id": 915,
+      "Amphur": "บ้านโคก",
+      "ProvinceID": 53
+    },
+    {
+      "id": 920,
+      "Amphur": "พิชัย",
+      "ProvinceID": 53
+    },
+    {
+      "id": 932,
+      "Amphur": "ลับแล",
+      "ProvinceID": 53
+    },
+    {
+      "id": 942,
+      "Amphur": "ทองแสนขัน",
+      "ProvinceID": 53
+    },
+    {
+      "id": 948,
+      "Amphur": "เมืองแพร่",
+      "ProvinceID": 54
+    },
+    {
+      "id": 969,
+      "Amphur": "ร้องกวาง",
+      "ProvinceID": 54
+    },
+    {
+      "id": 987,
+      "Amphur": "ลอง",
+      "ProvinceID": 54
+    },
+    {
+      "id": 997,
+      "Amphur": "สูงเม่น",
+      "ProvinceID": 54
+    },
+    {
+      "id": 1010,
+      "Amphur": "เด่นชัย",
+      "ProvinceID": 54
+    },
+    {
+      "id": 1016,
+      "Amphur": "สอง",
+      "ProvinceID": 54
+    },
+    {
+      "id": 1025,
+      "Amphur": "วังชิ้น",
+      "ProvinceID": 54
+    },
+    {
+      "id": 1033,
+      "Amphur": "หนองม่วงไข่",
+      "ProvinceID": 54
+    },
+    {
+      "id": 1041,
+      "Amphur": "เมืองน่าน",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1064,
+      "Amphur": "แม่จริม",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1071,
+      "Amphur": "บ้านหลวง",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1076,
+      "Amphur": "นาน้อย",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1084,
+      "Amphur": "ปัว",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1099,
+      "Amphur": "ท่าวังผา",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1110,
+      "Amphur": "เวียงสา",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1128,
+      "Amphur": "ทุ่งช้าง",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1136,
+      "Amphur": "เชียงกลาง",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1148,
+      "Amphur": "นาหมื่น",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1153,
+      "Amphur": "สันติสุข",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1157,
+      "Amphur": "บ่อเกลือ",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1163,
+      "Amphur": "สองแคว",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1167,
+      "Amphur": "ภูเพียง",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1175,
+      "Amphur": "เฉลิมพระเกียรติ",
+      "ProvinceID": 55
+    },
+    {
+      "id": 1179,
+      "Amphur": "เมืองพะเยา",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1198,
+      "Amphur": "จุน",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1206,
+      "Amphur": "เชียงคำ",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1222,
+      "Amphur": "เชียงม่วน",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1226,
+      "Amphur": "ดอกคำใต้",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1239,
+      "Amphur": "ปง",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1247,
+      "Amphur": "แม่ใจ",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1254,
+      "Amphur": "ภูซาง",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1260,
+      "Amphur": "ภูกามยาว",
+      "ProvinceID": 56
+    },
+    {
+      "id": 1265,
+      "Amphur": "เมืองเชียงราย",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1295,
+      "Amphur": "เวียงชัย",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1304,
+      "Amphur": "เชียงของ",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1317,
+      "Amphur": "เทิง",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1336,
+      "Amphur": "พาน",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1355,
+      "Amphur": "ป่าแดด",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1361,
+      "Amphur": "แม่จัน",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1379,
+      "Amphur": "เชียงแสน",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1386,
+      "Amphur": "แม่สาย",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1395,
+      "Amphur": "แม่สรวย",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1403,
+      "Amphur": "เวียงป่าเป้า",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1412,
+      "Amphur": "พญาเม็งราย",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1418,
+      "Amphur": "เวียงแก่น",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1423,
+      "Amphur": "ขุนตาล",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1427,
+      "Amphur": "แม่ฟ้าหลวง",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1432,
+      "Amphur": "แม่ลาว",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1438,
+      "Amphur": "เวียงเชียงรุ้ง",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1442,
+      "Amphur": "ดอยหลวง",
+      "ProvinceID": 57
+    },
+    {
+      "id": 1447,
+      "Amphur": "เมืองแม่ฮ่องสอน",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1457,
+      "Amphur": "ขุนยวม",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1464,
+      "Amphur": "ปาย",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1472,
+      "Amphur": "แม่สะเรียง",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1483,
+      "Amphur": "แม่ลาน้อย",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1492,
+      "Amphur": "สบเมย",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1499,
+      "Amphur": "ปางมะผ้า",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1504,
+      "Amphur": "อ.ม่วยต่อ จ.แม่ฮ่องสอน*",
+      "ProvinceID": 58
+    },
+    {
+      "id": 1506,
+      "Amphur": "เมืองนครสวรรค์",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1524,
+      "Amphur": "โกรกพระ",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1534,
+      "Amphur": "ชุมแสง",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1547,
+      "Amphur": "หนองบัว",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1557,
+      "Amphur": "บรรพตพิสัย",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1571,
+      "Amphur": "เก้าเลี้ยว",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1577,
+      "Amphur": "ตาคลี",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1588,
+      "Amphur": "ท่าตะโก",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1599,
+      "Amphur": "ไพศาลี",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1608,
+      "Amphur": "พยุหะคีรี",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1620,
+      "Amphur": "ลาดยาว",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1638,
+      "Amphur": "ตากฟ้า",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1646,
+      "Amphur": "แม่วงก์",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1655,
+      "Amphur": "แม่เปิน",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1657,
+      "Amphur": "ชุมตาบง",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1660,
+      "Amphur": "สาขาตำบลห้วยน้ำหอม*",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1661,
+      "Amphur": "กิ่งอำเภอชุมตาบง (สาขาตำบลชุมตาบง)*",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1662,
+      "Amphur": "แม่วงก์ (สาขาตำบลแม่เล่ย์)*",
+      "ProvinceID": 60
+    },
+    {
+      "id": 1664,
+      "Amphur": "เมืองอุทัยธานี",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1680,
+      "Amphur": "ทัพทัน",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1691,
+      "Amphur": "สว่างอารมณ์",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1697,
+      "Amphur": "หนองฉาง",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1708,
+      "Amphur": "หนองขาหย่าง",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1718,
+      "Amphur": "บ้านไร่",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1737,
+      "Amphur": "ลานสัก",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1744,
+      "Amphur": "ห้วยคต",
+      "ProvinceID": 61
+    },
+    {
+      "id": 1749,
+      "Amphur": "เมืองกำแพงเพชร",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1772,
+      "Amphur": "ไทรงาม",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1780,
+      "Amphur": "คลองลาน",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1785,
+      "Amphur": "ขาณุวรลักษบุรี",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1800,
+      "Amphur": "คลองขลุง",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1818,
+      "Amphur": "พรานกระต่าย",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1829,
+      "Amphur": "ลานกระบือ",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1837,
+      "Amphur": "ทรายทองวัฒนา",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1841,
+      "Amphur": "ปางศิลาทอง",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1845,
+      "Amphur": "บึงสามัคคี",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1850,
+      "Amphur": "โกสัมพีนคร",
+      "ProvinceID": 62
+    },
+    {
+      "id": 1855,
+      "Amphur": "เมืองตาก",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1873,
+      "Amphur": "บ้านตาก",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1881,
+      "Amphur": "สามเงา",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1888,
+      "Amphur": "แม่ระมาด",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1895,
+      "Amphur": "ท่าสองยาง",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1902,
+      "Amphur": "แม่สอด",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1913,
+      "Amphur": "พบพระ",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1919,
+      "Amphur": "อุ้มผาง",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1926,
+      "Amphur": "วังเจ้า",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1930,
+      "Amphur": "กิ่ง อ.ท่าปุย  จ.ตาก*",
+      "ProvinceID": 63
+    },
+    {
+      "id": 1932,
+      "Amphur": "เมืองสุโขทัย",
+      "ProvinceID": 64
+    },
+    {
+      "id": 1943,
+      "Amphur": "บ้านด่านลานหอย",
+      "ProvinceID": 64
+    },
+    {
+      "id": 1951,
+      "Amphur": "คีรีมาศ",
+      "ProvinceID": 64
+    },
+    {
+      "id": 1962,
+      "Amphur": "กงไกรลาศ",
+      "ProvinceID": 64
+    },
+    {
+      "id": 1974,
+      "Amphur": "ศรีสัชนาลัย",
+      "ProvinceID": 64
+    },
+    {
+      "id": 1986,
+      "Amphur": "ศรีสำโรง",
+      "ProvinceID": 64
+    },
+    {
+      "id": 2000,
+      "Amphur": "สวรรคโลก",
+      "ProvinceID": 64
+    },
+    {
+      "id": 2020,
+      "Amphur": "ศรีนคร",
+      "ProvinceID": 64
+    },
+    {
+      "id": 2026,
+      "Amphur": "ทุ่งเสลี่ยม",
+      "ProvinceID": 64
+    },
+    {
+      "id": 2033,
+      "Amphur": "เมืองพิษณุโลก",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2054,
+      "Amphur": "นครไทย",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2066,
+      "Amphur": "ชาติตระการ",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2073,
+      "Amphur": "บางระกำ",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2085,
+      "Amphur": "บางกระทุ่ม",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2095,
+      "Amphur": "พรหมพิราม",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2108,
+      "Amphur": "วัดโบสถ์",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2115,
+      "Amphur": "วังทอง",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2132,
+      "Amphur": "เนินมะปราง",
+      "ProvinceID": 65
+    },
+    {
+      "id": 2142,
+      "Amphur": "เมืองพิจิตร",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2171,
+      "Amphur": "วังทรายพูน",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2176,
+      "Amphur": "โพธิ์ประทับช้าง",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2184,
+      "Amphur": "ตะพานหิน",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2202,
+      "Amphur": "บางมูลนาก",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2218,
+      "Amphur": "โพทะเล",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2235,
+      "Amphur": "สามง่าม",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2245,
+      "Amphur": "ทับคล้อ",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2250,
+      "Amphur": "สากเหล็ก",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2256,
+      "Amphur": "บึงนาราง",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2262,
+      "Amphur": "ดงเจริญ",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2268,
+      "Amphur": "วชิรบารมี",
+      "ProvinceID": 66
+    },
+    {
+      "id": 2274,
+      "Amphur": "เมืองเพชรบูรณ์",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2292,
+      "Amphur": "ชนแดน",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2305,
+      "Amphur": "หล่มสัก",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2330,
+      "Amphur": "หล่มเก่า",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2341,
+      "Amphur": "วิเชียรบุรี",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2360,
+      "Amphur": "ศรีเทพ",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2368,
+      "Amphur": "หนองไผ่",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2382,
+      "Amphur": "บึงสามพัน",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2392,
+      "Amphur": "น้ำหนาว",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2397,
+      "Amphur": "วังโป่ง",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2403,
+      "Amphur": "เขาค้อ",
+      "ProvinceID": 67
+    },
+    {
+      "id": 2412,
+      "Amphur": "เมืองราชบุรี",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2435,
+      "Amphur": "จอมบึง",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2445,
+      "Amphur": "สวนผึ้ง",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2453,
+      "Amphur": "ดำเนินสะดวก",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2467,
+      "Amphur": "บ้านโป่ง",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2483,
+      "Amphur": "บางแพ",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2491,
+      "Amphur": "โพธาราม",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2511,
+      "Amphur": "ปากท่อ",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2524,
+      "Amphur": "วัดเพลง",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2528,
+      "Amphur": "บ้านคา",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2532,
+      "Amphur": "ท้องถิ่นเทศบาลตำบลบ้านฆ้อง*",
+      "ProvinceID": 70
+    },
+    {
+      "id": 2534,
+      "Amphur": "เมืองกาญจนบุรี",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2551,
+      "Amphur": "ไทรโยค",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2559,
+      "Amphur": "บ่อพลอย",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2569,
+      "Amphur": "ศรีสวัสดิ์",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2576,
+      "Amphur": "ท่ามะกา",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2594,
+      "Amphur": "ท่าม่วง",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2608,
+      "Amphur": "ทองผาภูมิ",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2616,
+      "Amphur": "สังขละบุรี",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2620,
+      "Amphur": "พนมทวน",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2633,
+      "Amphur": "เลาขวัญ",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2641,
+      "Amphur": "ด่านมะขามเตี้ย",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2646,
+      "Amphur": "หนองปรือ",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2650,
+      "Amphur": "ห้วยกระเจา",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2655,
+      "Amphur": "สาขาตำบลท่ากระดาน*",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2656,
+      "Amphur": "บ้านทวน  จ.กาญจนบุรี*",
+      "ProvinceID": 71
+    },
+    {
+      "id": 2658,
+      "Amphur": "เมืองสุพรรณบุรี",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2679,
+      "Amphur": "เดิมบางนางบวช",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2698,
+      "Amphur": "ด่านช้าง",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2706,
+      "Amphur": "บางปลาม้า",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2721,
+      "Amphur": "ศรีประจันต์",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2731,
+      "Amphur": "ดอนเจดีย์",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2737,
+      "Amphur": "สองพี่น้อง",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2753,
+      "Amphur": "สามชุก",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2765,
+      "Amphur": "อู่ทอง",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2779,
+      "Amphur": "หนองหญ้าไซ",
+      "ProvinceID": 72
+    },
+    {
+      "id": 2787,
+      "Amphur": "เมืองนครปฐม",
+      "ProvinceID": 73
+    },
+    {
+      "id": 2813,
+      "Amphur": "กำแพงแสน",
+      "ProvinceID": 73
+    },
+    {
+      "id": 2829,
+      "Amphur": "นครชัยศรี",
+      "ProvinceID": 73
+    },
+    {
+      "id": 2860,
+      "Amphur": "ดอนตูม",
+      "ProvinceID": 73
+    },
+    {
+      "id": 2869,
+      "Amphur": "บางเลน",
+      "ProvinceID": 73
+    },
+    {
+      "id": 2885,
+      "Amphur": "สามพราน",
+      "ProvinceID": 73
+    },
+    {
+      "id": 2902,
+      "Amphur": "พุทธมณฑล",
+      "ProvinceID": 73
+    },
+    {
+      "id": 2907,
+      "Amphur": "เมืองสมุทรสาคร",
+      "ProvinceID": 74
+    },
+    {
+      "id": 2926,
+      "Amphur": "กระทุ่มแบน",
+      "ProvinceID": 74
+    },
+    {
+      "id": 2937,
+      "Amphur": "บ้านแพ้ว",
+      "ProvinceID": 74
+    },
+    {
+      "id": 2951,
+      "Amphur": "เมืองสมุทรสงคราม",
+      "ProvinceID": 75
+    },
+    {
+      "id": 2963,
+      "Amphur": "บางคนที",
+      "ProvinceID": 75
+    },
+    {
+      "id": 2977,
+      "Amphur": "อัมพวา",
+      "ProvinceID": 75
+    },
+    {
+      "id": 2991,
+      "Amphur": "เมืองเพชรบุรี",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3017,
+      "Amphur": "เขาย้อย",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3031,
+      "Amphur": "หนองหญ้าปล้อง",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3036,
+      "Amphur": "ชะอำ",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3046,
+      "Amphur": "ท่ายาง",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3068,
+      "Amphur": "บ้านลาด",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3087,
+      "Amphur": "บ้านแหลม",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3098,
+      "Amphur": "แก่งกระจาน",
+      "ProvinceID": 76
+    },
+    {
+      "id": 3106,
+      "Amphur": "เมืองประจวบคีรีขันธ์",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3113,
+      "Amphur": "กุยบุรี",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3121,
+      "Amphur": "ทับสะแก",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3128,
+      "Amphur": "บางสะพาน",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3136,
+      "Amphur": "บางสะพานน้อย",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3142,
+      "Amphur": "ปราณบุรี",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3152,
+      "Amphur": "หัวหิน",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3160,
+      "Amphur": "สามร้อยยอด",
+      "ProvinceID": 77
+    },
+    {
+      "id": 3167,
+      "Amphur": "เมืองนครศรีธรรมราช",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3195,
+      "Amphur": "พรหมคีรี",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3201,
+      "Amphur": "ลานสกา",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3207,
+      "Amphur": "ฉวาง",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3224,
+      "Amphur": "พิปูน",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3230,
+      "Amphur": "เชียรใหญ่",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3244,
+      "Amphur": "ชะอวด",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3258,
+      "Amphur": "ท่าศาลา",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3273,
+      "Amphur": "ทุ่งสง",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3293,
+      "Amphur": "นาบอน",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3297,
+      "Amphur": "ทุ่งใหญ่",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3305,
+      "Amphur": "ปากพนัง",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3324,
+      "Amphur": "ร่อนพิบูลย์",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3336,
+      "Amphur": "สิชล",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3346,
+      "Amphur": "ขนอม",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3350,
+      "Amphur": "หัวไทร",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3362,
+      "Amphur": "บางขัน",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3367,
+      "Amphur": "ถ้ำพรรณรา",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3371,
+      "Amphur": "จุฬาภรณ์",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3378,
+      "Amphur": "พระพรหม",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3383,
+      "Amphur": "นบพิตำ",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3388,
+      "Amphur": "ช้างกลาง",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3392,
+      "Amphur": "เฉลิมพระเกียรติ",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3397,
+      "Amphur": "เชียรใหญ่ (สาขาตำบลเสือหึง)*",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3398,
+      "Amphur": "สาขาตำบลสวนหลวง*",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3399,
+      "Amphur": "ร่อนพิบูลย์ (สาขาตำบลหินตก)*",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3400,
+      "Amphur": "หัวไทร (สาขาตำบลควนชะลิก)*",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3401,
+      "Amphur": "ทุ่งสง (สาขาตำบลกะปาง)*",
+      "ProvinceID": 80
+    },
+    {
+      "id": 3403,
+      "Amphur": "เมืองกระบี่",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3430,
+      "Amphur": "เขาพนม",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3437,
+      "Amphur": "เกาะลันตา",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3443,
+      "Amphur": "คลองท่อม",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3452,
+      "Amphur": "อ่าวลึก",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3465,
+      "Amphur": "ปลายพระยา",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3470,
+      "Amphur": "ลำทับ",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3475,
+      "Amphur": "เหนือคลอง",
+      "ProvinceID": 81
+    },
+    {
+      "id": 3485,
+      "Amphur": "เมืองพังงา",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3497,
+      "Amphur": "เกาะยาว",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3501,
+      "Amphur": "กะปง",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3507,
+      "Amphur": "ตะกั่วทุ่ง",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3515,
+      "Amphur": "ตะกั่วป่า",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3524,
+      "Amphur": "คุระบุรี",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3530,
+      "Amphur": "ทับปุด",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3537,
+      "Amphur": "ท้ายเหมือง",
+      "ProvinceID": 82
+    },
+    {
+      "id": 3545,
+      "Amphur": "เมืองภูเก็ต",
+      "ProvinceID": 83
+    },
+    {
+      "id": 3554,
+      "Amphur": "กะทู้",
+      "ProvinceID": 83
+    },
+    {
+      "id": 3558,
+      "Amphur": "ถลาง",
+      "ProvinceID": 83
+    },
+    {
+      "id": 3565,
+      "Amphur": "ทุ่งคา*",
+      "ProvinceID": 83
+    },
+    {
+      "id": 3567,
+      "Amphur": "เมืองสุราษฎร์ธานี",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3579,
+      "Amphur": "กาญจนดิษฐ์",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3593,
+      "Amphur": "ดอนสัก",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3598,
+      "Amphur": "เกาะสมุย",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3606,
+      "Amphur": "เกาะพะงัน",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3610,
+      "Amphur": "ไชยา",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3620,
+      "Amphur": "ท่าชนะ",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3627,
+      "Amphur": "คีรีรัฐนิคม",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3639,
+      "Amphur": "บ้านตาขุน",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3645,
+      "Amphur": "พนม",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3652,
+      "Amphur": "ท่าฉาง",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3659,
+      "Amphur": "บ้านนาสาร",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3673,
+      "Amphur": "บ้านนาเดิม",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3678,
+      "Amphur": "เคียนซา",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3684,
+      "Amphur": "เวียงสระ",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3690,
+      "Amphur": "พระแสง",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3700,
+      "Amphur": "พุนพิน",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3718,
+      "Amphur": "ชัยบุรี",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3723,
+      "Amphur": "วิภาวดี",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3726,
+      "Amphur": "เกาะพงัน (สาขาตำบลเกาะเต่า)*",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3727,
+      "Amphur": "อ.บ้านดอน จ.สุราษฎร์ธานี*",
+      "ProvinceID": 84
+    },
+    {
+      "id": 3729,
+      "Amphur": "เมืองระนอง",
+      "ProvinceID": 85
+    },
+    {
+      "id": 3739,
+      "Amphur": "ละอุ่น",
+      "ProvinceID": 85
+    },
+    {
+      "id": 3747,
+      "Amphur": "กะเปอร์",
+      "ProvinceID": 85
+    },
+    {
+      "id": 3755,
+      "Amphur": "กระบุรี",
+      "ProvinceID": 85
+    },
+    {
+      "id": 3763,
+      "Amphur": "สุขสำราญ",
+      "ProvinceID": 85
+    },
+    {
+      "id": 3767,
+      "Amphur": "เมืองชุมพร",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3785,
+      "Amphur": "ท่าแซะ",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3796,
+      "Amphur": "ปะทิว",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3804,
+      "Amphur": "หลังสวน",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3818,
+      "Amphur": "ละแม",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3823,
+      "Amphur": "พะโต๊ะ",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3828,
+      "Amphur": "สวี",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3840,
+      "Amphur": "ทุ่งตะโก",
+      "ProvinceID": 86
+    },
+    {
+      "id": 3846,
+      "Amphur": "เมืองสงขลา",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3876,
+      "Amphur": "สทิงพระ",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3888,
+      "Amphur": "จะนะ",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3903,
+      "Amphur": "นาทวี",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3914,
+      "Amphur": "เทพา",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3922,
+      "Amphur": "สะบ้าย้อย",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3932,
+      "Amphur": "ระโนด",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3948,
+      "Amphur": "กระแสสินธุ์",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3953,
+      "Amphur": "รัตภูมิ",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3967,
+      "Amphur": "สะเดา",
+      "ProvinceID": 90
+    },
+    {
+      "id": 3977,
+      "Amphur": "หาดใหญ่",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4008,
+      "Amphur": "นาหม่อม",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4013,
+      "Amphur": "ควนเนียง",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4018,
+      "Amphur": "บางกล่ำ",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4023,
+      "Amphur": "สิงหนคร",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4035,
+      "Amphur": "คลองหอยโข่ง",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4040,
+      "Amphur": "ท้องถิ่นเทศบาลตำบลสำนักขาม*",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4042,
+      "Amphur": "เทศบาลตำบลบ้านพรุ*",
+      "ProvinceID": 90
+    },
+    {
+      "id": 4044,
+      "Amphur": "เมืองสตูล",
+      "ProvinceID": 91
+    },
+    {
+      "id": 4058,
+      "Amphur": "ควนโดน",
+      "ProvinceID": 91
+    },
+    {
+      "id": 4063,
+      "Amphur": "ควนกาหลง",
+      "ProvinceID": 91
+    },
+    {
+      "id": 4069,
+      "Amphur": "ท่าแพ",
+      "ProvinceID": 91
+    },
+    {
+      "id": 4074,
+      "Amphur": "ละงู",
+      "ProvinceID": 91
+    },
+    {
+      "id": 4081,
+      "Amphur": "ทุ่งหว้า",
+      "ProvinceID": 91
+    },
+    {
+      "id": 4087,
+      "Amphur": "มะนัง",
+      "ProvinceID": 91
+    },
+    {
+      "id": 4091,
+      "Amphur": "เมืองตรัง",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4119,
+      "Amphur": "กันตัง",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4134,
+      "Amphur": "ย่านตาขาว",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4143,
+      "Amphur": "ปะเหลียน",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4157,
+      "Amphur": "สิเกา",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4168,
+      "Amphur": "ห้วยยอด",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4194,
+      "Amphur": "วังวิเศษ",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4200,
+      "Amphur": "นาโยง",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4207,
+      "Amphur": "รัษฎา",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4213,
+      "Amphur": "หาดสำราญ",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4217,
+      "Amphur": "อำเภอเมืองตรัง(สาขาคลองเต็ง)*",
+      "ProvinceID": 92
+    },
+    {
+      "id": 4219,
+      "Amphur": "เมืองพัทลุง",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4238,
+      "Amphur": "กงหรา",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4244,
+      "Amphur": "เขาชัยสน",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4258,
+      "Amphur": "ตะโหมด",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4262,
+      "Amphur": "ควนขนุน",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4283,
+      "Amphur": "ปากพะยูน",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4294,
+      "Amphur": "ศรีบรรพต",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4298,
+      "Amphur": "ป่าบอน",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4304,
+      "Amphur": "บางแก้ว",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4308,
+      "Amphur": "ป่าพะยอม",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4313,
+      "Amphur": "ศรีนครินทร์",
+      "ProvinceID": 93
+    },
+    {
+      "id": 4319,
+      "Amphur": "เมืองปัตตานี",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4333,
+      "Amphur": "โคกโพธิ์",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4349,
+      "Amphur": "หนองจิก",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4362,
+      "Amphur": "ปะนาเระ",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4373,
+      "Amphur": "มายอ",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4387,
+      "Amphur": "ทุ่งยางแดง",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4392,
+      "Amphur": "สายบุรี",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4404,
+      "Amphur": "ไม้แก่น",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4409,
+      "Amphur": "ยะหริ่ง",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4428,
+      "Amphur": "ยะรัง",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4441,
+      "Amphur": "กะพ้อ",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4445,
+      "Amphur": "แม่ลาน",
+      "ProvinceID": 94
+    },
+    {
+      "id": 4450,
+      "Amphur": "เมืองยะลา",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4469,
+      "Amphur": "เบตง",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4475,
+      "Amphur": "บันนังสตา",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4485,
+      "Amphur": "ธารโต",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4490,
+      "Amphur": "ยะหา",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4501,
+      "Amphur": "รามัน",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4518,
+      "Amphur": "กาบัง",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4521,
+      "Amphur": "กรงปินัง",
+      "ProvinceID": 95
+    },
+    {
+      "id": 4527,
+      "Amphur": "เมืองนราธิวาส",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4535,
+      "Amphur": "ตากใบ",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4544,
+      "Amphur": "บาเจาะ",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4551,
+      "Amphur": "ยี่งอ",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4558,
+      "Amphur": "ระแงะ",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4571,
+      "Amphur": "รือเสาะ",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4583,
+      "Amphur": "ศรีสาคร",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4590,
+      "Amphur": "แว้ง",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4598,
+      "Amphur": "สุคิริน",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4604,
+      "Amphur": "สุไหงโก-ลก",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4609,
+      "Amphur": "สุไหงปาดี",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4616,
+      "Amphur": "จะแนะ",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4621,
+      "Amphur": "เจาะไอร้อง",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4625,
+      "Amphur": "อ.บางนรา  จ.นราธิวาส*",
+      "ProvinceID": 96
+    },
+    {
+      "id": 4628,
+      "Amphur": "เขตพระนคร",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4641,
+      "Amphur": "เขตดุสิต",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4649,
+      "Amphur": "เขตหนองจอก",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4658,
+      "Amphur": "เขตบางรัก",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4664,
+      "Amphur": "เขตบางเขน",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4675,
+      "Amphur": "เขตบางกะปิ",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4684,
+      "Amphur": "เขตปทุมวัน",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4689,
+      "Amphur": "เขตป้อมปราบศัตรูพ่าย",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4696,
+      "Amphur": "เขตพระโขนง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4709,
+      "Amphur": "เขตมีนบุรี",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4717,
+      "Amphur": "เขตลาดกระบัง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4724,
+      "Amphur": "เขตยานนาวา",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4735,
+      "Amphur": "เขตสัมพันธวงศ์",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4739,
+      "Amphur": "เขตพญาไท",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4746,
+      "Amphur": "เขตธนบุรี",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4755,
+      "Amphur": "เขตบางกอกใหญ่",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4758,
+      "Amphur": "เขตห้วยขวาง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4763,
+      "Amphur": "เขตคลองสาน",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4768,
+      "Amphur": "เขตตลิ่งชัน",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4777,
+      "Amphur": "เขตบางกอกน้อย",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4790,
+      "Amphur": "เขตบางขุนเทียน",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4798,
+      "Amphur": "เขตภาษีเจริญ",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4809,
+      "Amphur": "เขตหนองแขม",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4813,
+      "Amphur": "เขตราษฎร์บูรณะ",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4818,
+      "Amphur": "เขตบางพลัด",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4823,
+      "Amphur": "เขตดินแดง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4825,
+      "Amphur": "เขตบึงกุ่ม",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4831,
+      "Amphur": "เขตสาทร",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4835,
+      "Amphur": "เขตบางซื่อ",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4838,
+      "Amphur": "เขตจตุจักร",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4844,
+      "Amphur": "เขตบางคอแหลม",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4848,
+      "Amphur": "เขตประเวศ",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4853,
+      "Amphur": "เขตคลองเตย",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4860,
+      "Amphur": "เขตสวนหลวง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4862,
+      "Amphur": "เขตจอมทอง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4867,
+      "Amphur": "เขตดอนเมือง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4873,
+      "Amphur": "เขตราชเทวี",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4878,
+      "Amphur": "เขตลาดพร้าว",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4881,
+      "Amphur": "เขตวัฒนา",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4885,
+      "Amphur": "เขตบางแค",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4890,
+      "Amphur": "เขตหลักสี่",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4893,
+      "Amphur": "เขตสายไหม",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4897,
+      "Amphur": "เขตคันนายาว",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4900,
+      "Amphur": "เขตสะพานสูง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4902,
+      "Amphur": "เขตวังทองหลาง",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4907,
+      "Amphur": "เขตคลองสามวา",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4913,
+      "Amphur": "เขตบางนา",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4915,
+      "Amphur": "เขตทวีวัฒนา",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4918,
+      "Amphur": "เขตทุ่งครุ",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4921,
+      "Amphur": "เขตบางบอน",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4923,
+      "Amphur": "บ้านทะวาย*",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4924,
+      "Amphur": "สำนักทะเบียนกลาง*",
+      "ProvinceID": 10
+    },
+    {
+      "id": 4926,
+      "Amphur": "เมืองสมุทรปราการ",
+      "ProvinceID": 11
+    },
+    {
+      "id": 4950,
+      "Amphur": "บางบ่อ",
+      "ProvinceID": 11
+    },
+    {
+      "id": 4960,
+      "Amphur": "บางพลี",
+      "ProvinceID": 11
+    },
+    {
+      "id": 4970,
+      "Amphur": "พระประแดง",
+      "ProvinceID": 11
+    },
+    {
+      "id": 4986,
+      "Amphur": "พระสมุทรเจดีย์",
+      "ProvinceID": 11
+    },
+    {
+      "id": 4992,
+      "Amphur": "บางเสาธง",
+      "ProvinceID": 11
+    },
+    {
+      "id": 4997,
+      "Amphur": "เมืองนนทบุรี",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5008,
+      "Amphur": "บางกรวย",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5018,
+      "Amphur": "บางใหญ่",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5025,
+      "Amphur": "บางบัวทอง",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5034,
+      "Amphur": "ไทรน้อย",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5042,
+      "Amphur": "ปากเกร็ด",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5055,
+      "Amphur": "เทศบาลนครนนทบุรี (สาขาแขวงท่าทราย)*",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5056,
+      "Amphur": "เทศบาลเมืองปากเกร็ด*",
+      "ProvinceID": 12
+    },
+    {
+      "id": 5058,
+      "Amphur": "เมืองปทุมธานี",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5073,
+      "Amphur": "คลองหลวง",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5081,
+      "Amphur": "ธัญบุรี",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5088,
+      "Amphur": "หนองเสือ",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5096,
+      "Amphur": "ลาดหลุมแก้ว",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5104,
+      "Amphur": "ลำลูกกา",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5113,
+      "Amphur": "สามโคก",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5125,
+      "Amphur": "ลำลูกกา (สาขาตำบลคูคต)*",
+      "ProvinceID": 13
+    },
+    {
+      "id": 5127,
+      "Amphur": "พระนครศรีอยุธยา",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5150,
+      "Amphur": "ท่าเรือ",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5161,
+      "Amphur": "นครหลวง",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5174,
+      "Amphur": "บางไทร",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5198,
+      "Amphur": "บางบาล",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5215,
+      "Amphur": "บางปะอิน",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5234,
+      "Amphur": "บางปะหัน",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5252,
+      "Amphur": "ผักไห่",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5269,
+      "Amphur": "ภาชี",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5278,
+      "Amphur": "ลาดบัวหลวง",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5286,
+      "Amphur": "วังน้อย",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5297,
+      "Amphur": "เสนา",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5315,
+      "Amphur": "บางซ้าย",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5322,
+      "Amphur": "อุทัย",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5334,
+      "Amphur": "มหาราช",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5347,
+      "Amphur": "บ้านแพรก",
+      "ProvinceID": 14
+    },
+    {
+      "id": 5354,
+      "Amphur": "เมืองอ่างทอง",
+      "ProvinceID": 15
+    },
+    {
+      "id": 5369,
+      "Amphur": "ไชโย",
+      "ProvinceID": 15
+    },
+    {
+      "id": 5379,
+      "Amphur": "ป่าโมก",
+      "ProvinceID": 15
+    },
+    {
+      "id": 5388,
+      "Amphur": "โพธิ์ทอง",
+      "ProvinceID": 15
+    },
+    {
+      "id": 5404,
+      "Amphur": "แสวงหา",
+      "ProvinceID": 15
+    },
+    {
+      "id": 5412,
+      "Amphur": "วิเศษชัยชาญ",
+      "ProvinceID": 15
+    },
+    {
+      "id": 5428,
+      "Amphur": "สามโก้",
+      "ProvinceID": 15
+    },
+    {
+      "id": 5435,
+      "Amphur": "เมืองลพบุรี",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5461,
+      "Amphur": "พัฒนานิคม",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5471,
+      "Amphur": "โคกสำโรง",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5506,
+      "Amphur": "ชัยบาดาล",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5537,
+      "Amphur": "ท่าวุ้ง",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5549,
+      "Amphur": "บ้านหมี่",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5572,
+      "Amphur": "ท่าหลวง",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5579,
+      "Amphur": "สระโบสถ์",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5585,
+      "Amphur": "โคกเจริญ",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5591,
+      "Amphur": "ลำสนธิ",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5598,
+      "Amphur": "หนองม่วง",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5605,
+      "Amphur": "อ.บ้านเช่า  จ.ลพบุรี*",
+      "ProvinceID": 16
+    },
+    {
+      "id": 5607,
+      "Amphur": "เมืองสิงห์บุรี",
+      "ProvinceID": 17
+    },
+    {
+      "id": 5616,
+      "Amphur": "บางระจัน",
+      "ProvinceID": 17
+    },
+    {
+      "id": 5625,
+      "Amphur": "ค่ายบางระจัน",
+      "ProvinceID": 17
+    },
+    {
+      "id": 5632,
+      "Amphur": "พรหมบุรี",
+      "ProvinceID": 17
+    },
+    {
+      "id": 5640,
+      "Amphur": "ท่าช้าง",
+      "ProvinceID": 17
+    },
+    {
+      "id": 5645,
+      "Amphur": "อินทร์บุรี",
+      "ProvinceID": 17
+    },
+    {
+      "id": 5657,
+      "Amphur": "เมืองชัยนาท",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5667,
+      "Amphur": "มโนรมย์",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5675,
+      "Amphur": "วัดสิงห์",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5687,
+      "Amphur": "สรรพยา",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5695,
+      "Amphur": "สรรคบุรี",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5704,
+      "Amphur": "หันคา",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5716,
+      "Amphur": "หนองมะโมง",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5721,
+      "Amphur": "เนินขาม",
+      "ProvinceID": 18
+    },
+    {
+      "id": 5726,
+      "Amphur": "เมืองสระบุรี",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5744,
+      "Amphur": "แก่งคอย",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5759,
+      "Amphur": "หนองแค",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5778,
+      "Amphur": "วิหารแดง",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5785,
+      "Amphur": "หนองแซง",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5795,
+      "Amphur": "บ้านหมอ",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5809,
+      "Amphur": "ดอนพุด",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5814,
+      "Amphur": "หนองโดน",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5819,
+      "Amphur": "พระพุทธบาท",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5829,
+      "Amphur": "เสาไห้",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5842,
+      "Amphur": "มวกเหล็ก",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5852,
+      "Amphur": "วังม่วง",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5856,
+      "Amphur": "เฉลิมพระเกียรติ",
+      "ProvinceID": 19
+    },
+    {
+      "id": 5864,
+      "Amphur": "เมืองชลบุรี",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5884,
+      "Amphur": "บ้านบึง",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5896,
+      "Amphur": "หนองใหญ่",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5902,
+      "Amphur": "บางละมุง",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5911,
+      "Amphur": "พานทอง",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5923,
+      "Amphur": "พนัสนิคม",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5951,
+      "Amphur": "ศรีราชา",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5961,
+      "Amphur": "เกาะสีชัง",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5963,
+      "Amphur": "สัตหีบ",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5969,
+      "Amphur": "บ่อทอง",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5976,
+      "Amphur": "เกาะจันทร์",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5979,
+      "Amphur": "สัตหีบ (สาขาตำบลบางเสร่)*",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5980,
+      "Amphur": "ท้องถิ่นเทศบาลเมืองหนองปรือ*",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5982,
+      "Amphur": "เทศบาลตำบลแหลมฉบัง*",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5983,
+      "Amphur": "เทศบาลเมืองชลบุรี*",
+      "ProvinceID": 20
+    },
+    {
+      "id": 5985,
+      "Amphur": "เมืองระยอง",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6003,
+      "Amphur": "บ้านฉาง",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6007,
+      "Amphur": "แกลง",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6029,
+      "Amphur": "วังจันทร์",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6034,
+      "Amphur": "บ้านค่าย",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6052,
+      "Amphur": "ปลวกแดง",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6059,
+      "Amphur": "เขาชะเมา",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6064,
+      "Amphur": "นิคมพัฒนา",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6069,
+      "Amphur": "สาขาตำบลมาบข่า*",
+      "ProvinceID": 21
+    },
+    {
+      "id": 6071,
+      "Amphur": "เมืองจันทบุรี",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6083,
+      "Amphur": "ขลุง",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6096,
+      "Amphur": "ท่าใหม่",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6127,
+      "Amphur": "โป่งน้ำร้อน",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6138,
+      "Amphur": "มะขาม",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6149,
+      "Amphur": "แหลมสิงห์",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6157,
+      "Amphur": "สอยดาว",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6163,
+      "Amphur": "แก่งหางแมว",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6169,
+      "Amphur": "นายายอาม",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6176,
+      "Amphur": "เขาคิชฌกูฏ",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6182,
+      "Amphur": "กิ่ง อ.กำพุธ จ.จันทบุรี*",
+      "ProvinceID": 22
+    },
+    {
+      "id": 6184,
+      "Amphur": "เมืองตราด",
+      "ProvinceID": 23
+    },
+    {
+      "id": 6199,
+      "Amphur": "คลองใหญ่",
+      "ProvinceID": 23
+    },
+    {
+      "id": 6203,
+      "Amphur": "เขาสมิง",
+      "ProvinceID": 23
+    },
+    {
+      "id": 6217,
+      "Amphur": "บ่อไร่",
+      "ProvinceID": 23
+    },
+    {
+      "id": 6223,
+      "Amphur": "แหลมงอบ",
+      "ProvinceID": 23
+    },
+    {
+      "id": 6232,
+      "Amphur": "เกาะกูด",
+      "ProvinceID": 23
+    },
+    {
+      "id": 6235,
+      "Amphur": "เกาะช้าง",
+      "ProvinceID": 23
+    },
+    {
+      "id": 6239,
+      "Amphur": "เมืองฉะเชิงเทรา",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6259,
+      "Amphur": "บางคล้า",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6274,
+      "Amphur": "บางน้ำเปรี้ยว",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6285,
+      "Amphur": "บางปะกง",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6298,
+      "Amphur": "บ้านโพธิ์",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6316,
+      "Amphur": "พนมสารคาม",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6325,
+      "Amphur": "ราชสาส์น",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6329,
+      "Amphur": "สนามชัยเขต",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6336,
+      "Amphur": "แปลงยาว",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6341,
+      "Amphur": "ท่าตะเกียบ",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6344,
+      "Amphur": "คลองเขื่อน",
+      "ProvinceID": 24
+    },
+    {
+      "id": 6351,
+      "Amphur": "เมืองปราจีนบุรี",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6365,
+      "Amphur": "กบินทร์บุรี",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6384,
+      "Amphur": "นาดี",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6391,
+      "Amphur": "สระแก้ว*",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6407,
+      "Amphur": "วังน้ำเย็น*",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6414,
+      "Amphur": "บ้านสร้าง",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6424,
+      "Amphur": "ประจันตคาม",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6434,
+      "Amphur": "ศรีมหาโพธิ",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6449,
+      "Amphur": "ศรีมโหสถ",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6454,
+      "Amphur": "อรัญประเทศ*",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6468,
+      "Amphur": "ตาพระยา*",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6478,
+      "Amphur": "วัฒนานคร*",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6494,
+      "Amphur": "คลองหาด*",
+      "ProvinceID": 25
+    },
+    {
+      "id": 6503,
+      "Amphur": "เมืองนครนายก",
+      "ProvinceID": 26
+    },
+    {
+      "id": 6517,
+      "Amphur": "ปากพลี",
+      "ProvinceID": 26
+    },
+    {
+      "id": 6525,
+      "Amphur": "บ้านนา",
+      "ProvinceID": 26
+    },
+    {
+      "id": 6536,
+      "Amphur": "องครักษ์",
+      "ProvinceID": 26
+    },
+    {
+      "id": 6549,
+      "Amphur": "เมืองสระแก้ว",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6562,
+      "Amphur": "คลองหาด",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6570,
+      "Amphur": "ตาพระยา",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6580,
+      "Amphur": "วังน้ำเย็น",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6588,
+      "Amphur": "วัฒนานคร",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6600,
+      "Amphur": "อรัญประเทศ",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6614,
+      "Amphur": "เขาฉกรรจ์",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6619,
+      "Amphur": "โคกสูง",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6624,
+      "Amphur": "วังสมบูรณ์",
+      "ProvinceID": 27
+    },
+    {
+      "id": 6629,
+      "Amphur": "เมืองนครราชสีมา",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6655,
+      "Amphur": "ครบุรี",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6668,
+      "Amphur": "เสิงสาง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6675,
+      "Amphur": "คง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6686,
+      "Amphur": "บ้านเหลื่อม",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6691,
+      "Amphur": "จักราช",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6705,
+      "Amphur": "โชคชัย",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6716,
+      "Amphur": "ด่านขุนทด",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6736,
+      "Amphur": "โนนไทย",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6752,
+      "Amphur": "โนนสูง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6769,
+      "Amphur": "ขามสะแกแสง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6777,
+      "Amphur": "บัวใหญ่",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6801,
+      "Amphur": "ประทาย",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6820,
+      "Amphur": "ปักธงชัย",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6841,
+      "Amphur": "พิมาย",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6854,
+      "Amphur": "ห้วยแถลง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6865,
+      "Amphur": "ชุมพวง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6883,
+      "Amphur": "สูงเนิน",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6895,
+      "Amphur": "ขามทะเลสอ",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6901,
+      "Amphur": "สีคิ้ว",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6914,
+      "Amphur": "ปากช่อง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6927,
+      "Amphur": "หนองบุญมาก",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6937,
+      "Amphur": "แก้งสนามนาง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6943,
+      "Amphur": "โนนแดง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6949,
+      "Amphur": "วังน้ำเขียว",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6955,
+      "Amphur": "เทพารักษ์",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6960,
+      "Amphur": "เมืองยาง",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6965,
+      "Amphur": "พระทองคำ",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6971,
+      "Amphur": "ลำทะเมนชัย",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6976,
+      "Amphur": "บัวลาย",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6981,
+      "Amphur": "สีดา",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6987,
+      "Amphur": "เฉลิมพระเกียรติ",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6993,
+      "Amphur": "ท้องถิ่นเทศบาลตำบลโพธิ์กลาง*",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6994,
+      "Amphur": "สาขาตำบลมะค่า-พลสงคราม*",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6995,
+      "Amphur": "โนนลาว*",
+      "ProvinceID": 30
+    },
+    {
+      "id": 6997,
+      "Amphur": "เมืองบุรีรัมย์",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7028,
+      "Amphur": "คูเมือง",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7036,
+      "Amphur": "กระสัง",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7048,
+      "Amphur": "นางรอง",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7082,
+      "Amphur": "หนองกี่",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7093,
+      "Amphur": "ละหานทราย",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7106,
+      "Amphur": "ประโคนชัย",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7131,
+      "Amphur": "บ้านกรวด",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7141,
+      "Amphur": "พุทไธสง",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7154,
+      "Amphur": "ลำปลายมาศ",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7174,
+      "Amphur": "สตึก",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7191,
+      "Amphur": "ปะคำ",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7197,
+      "Amphur": "นาโพธิ์",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7203,
+      "Amphur": "หนองหงส์",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7211,
+      "Amphur": "พลับพลาชัย",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7217,
+      "Amphur": "ห้วยราช",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7226,
+      "Amphur": "โนนสุวรรณ",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7231,
+      "Amphur": "ชำนิ",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7238,
+      "Amphur": "บ้านใหม่ไชยพจน์",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7244,
+      "Amphur": "โนนดินแดง",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7248,
+      "Amphur": "บ้านด่าน",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7253,
+      "Amphur": "แคนดง",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7258,
+      "Amphur": "เฉลิมพระเกียรติ",
+      "ProvinceID": 31
+    },
+    {
+      "id": 7265,
+      "Amphur": "เมืองสุรินทร์",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7292,
+      "Amphur": "ชุมพลบุรี",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7302,
+      "Amphur": "ท่าตูม",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7313,
+      "Amphur": "จอมพระ",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7323,
+      "Amphur": "ปราสาท",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7347,
+      "Amphur": "กาบเชิง",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7358,
+      "Amphur": "รัตนบุรี",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7381,
+      "Amphur": "สนม",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7389,
+      "Amphur": "ศีขรภูมิ",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7405,
+      "Amphur": "สังขะ",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7425,
+      "Amphur": "ลำดวน",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7431,
+      "Amphur": "สำโรงทาบ",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7442,
+      "Amphur": "บัวเชด",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7449,
+      "Amphur": "พนมดงรัก",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7454,
+      "Amphur": "ศรีณรงค์",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7460,
+      "Amphur": "เขวาสินรินทร์",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7466,
+      "Amphur": "โนนนารายณ์",
+      "ProvinceID": 32
+    },
+    {
+      "id": 7473,
+      "Amphur": "เมืองศรีสะเกษ",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7506,
+      "Amphur": "ยางชุมน้อย",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7514,
+      "Amphur": "กันทรารมย์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7541,
+      "Amphur": "กันทรลักษ์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7571,
+      "Amphur": "ขุขันธ์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7601,
+      "Amphur": "ไพรบึง",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7608,
+      "Amphur": "ปรางค์กู่",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7619,
+      "Amphur": "ขุนหาญ",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7632,
+      "Amphur": "ราษีไศล",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7650,
+      "Amphur": "อุทุมพรพิสัย",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7682,
+      "Amphur": "บึงบูรพ์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7685,
+      "Amphur": "ห้วยทับทัน",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7692,
+      "Amphur": "โนนคูณ",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7698,
+      "Amphur": "ศรีรัตนะ",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7706,
+      "Amphur": "น้ำเกลี้ยง",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7713,
+      "Amphur": "วังหิน",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7722,
+      "Amphur": "ภูสิงห์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7730,
+      "Amphur": "เมืองจันทร์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7734,
+      "Amphur": "เบญจลักษ์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7740,
+      "Amphur": "พยุห์",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7746,
+      "Amphur": "โพธิ์ศรีสุวรรณ",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7752,
+      "Amphur": "ศิลาลาด",
+      "ProvinceID": 33
+    },
+    {
+      "id": 7758,
+      "Amphur": "เมืองอุบลราชธานี",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7779,
+      "Amphur": "ศรีเมืองใหม่",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7791,
+      "Amphur": "โขงเจียม",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7798,
+      "Amphur": "เขื่องใน",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7817,
+      "Amphur": "เขมราฐ",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7831,
+      "Amphur": "ชานุมาน*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7839,
+      "Amphur": "เดชอุดม",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7863,
+      "Amphur": "นาจะหลวย",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7870,
+      "Amphur": "น้ำยืน",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7882,
+      "Amphur": "บุณฑริก",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7891,
+      "Amphur": "ตระการพืชผล",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7915,
+      "Amphur": "กุดข้าวปุ้น",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7921,
+      "Amphur": "พนา*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7930,
+      "Amphur": "ม่วงสามสิบ",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7945,
+      "Amphur": "วารินชำราบ",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7972,
+      "Amphur": "อำนาจเจริญ*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 7996,
+      "Amphur": "เสนางคนิคม*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8003,
+      "Amphur": "หัวตะพาน*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8012,
+      "Amphur": "พิบูลมังสาหาร",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8032,
+      "Amphur": "ตาลสุม",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8039,
+      "Amphur": "โพธิ์ไทร",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8046,
+      "Amphur": "สำโรง",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8056,
+      "Amphur": "กิ่งอำเภอลืออำนาจ*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8063,
+      "Amphur": "ดอนมดแดง",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8068,
+      "Amphur": "สิรินธร",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8075,
+      "Amphur": "ทุ่งศรีอุดม",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8082,
+      "Amphur": "ปทุมราชวงศา*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8090,
+      "Amphur": "กิ่งอำเภอศรีหลักชัย*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8091,
+      "Amphur": "นาเยีย",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8095,
+      "Amphur": "นาตาล",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8100,
+      "Amphur": "เหล่าเสือโก้ก",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8105,
+      "Amphur": "สว่างวีระวงศ์",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8110,
+      "Amphur": "น้ำขุ่น",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8115,
+      "Amphur": "อ.สุวรรณวารี จ.อุบลราชธานี*",
+      "ProvinceID": 34
+    },
+    {
+      "id": 8117,
+      "Amphur": "เมืองยโสธร",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8140,
+      "Amphur": "ทรายมูล",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8146,
+      "Amphur": "กุดชุม",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8156,
+      "Amphur": "คำเขื่อนแก้ว",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8170,
+      "Amphur": "ป่าติ้ว",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8176,
+      "Amphur": "มหาชนะชัย",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8191,
+      "Amphur": "ค้อวัง",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8196,
+      "Amphur": "เลิงนกทา",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8217,
+      "Amphur": "ไทยเจริญ",
+      "ProvinceID": 35
+    },
+    {
+      "id": 8224,
+      "Amphur": "เมืองชัยภูมิ",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8246,
+      "Amphur": "บ้านเขว้า",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8253,
+      "Amphur": "คอนสวรรค์",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8263,
+      "Amphur": "เกษตรสมบูรณ์",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8276,
+      "Amphur": "หนองบัวแดง",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8290,
+      "Amphur": "จัตุรัส",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8307,
+      "Amphur": "บำเหน็จณรงค์",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8319,
+      "Amphur": "หนองบัวระเหว",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8325,
+      "Amphur": "เทพสถิต",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8331,
+      "Amphur": "ภูเขียว",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8343,
+      "Amphur": "บ้านแท่น",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8349,
+      "Amphur": "แก้งคร้อ",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8360,
+      "Amphur": "คอนสาร",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8369,
+      "Amphur": "ภักดีชุมพล",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8374,
+      "Amphur": "เนินสง่า",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8379,
+      "Amphur": "ซับใหญ่",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8383,
+      "Amphur": "เมืองชัยภูมิ (สาขาตำบลโนนสำราญ)*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8384,
+      "Amphur": "สาขาตำบลบ้านหว่าเฒ่า*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8385,
+      "Amphur": "หนองบัวแดง (สาขาตำบลวังชมภู)*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8386,
+      "Amphur": "กิ่งอำเภอซับใหญ่ (สาขาตำบลซับใหญ่)*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8387,
+      "Amphur": "สาขาตำบลโคกเพชร*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8388,
+      "Amphur": "เทพสถิต (สาขาตำบลนายางกลัก)*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8389,
+      "Amphur": "บ้านแท่น (สาขาตำบลบ้านเต่า)*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8390,
+      "Amphur": "แก้งคร้อ (สาขาตำบลท่ามะไฟหวาน)*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8391,
+      "Amphur": "คอนสาร (สาขาตำบลโนนคูณ)*",
+      "ProvinceID": 36
+    },
+    {
+      "id": 8393,
+      "Amphur": "เมืองอำนาจเจริญ",
+      "ProvinceID": 37
+    },
+    {
+      "id": 8423,
+      "Amphur": "ชานุมาน",
+      "ProvinceID": 37
+    },
+    {
+      "id": 8430,
+      "Amphur": "ปทุมราชวงศา",
+      "ProvinceID": 37
+    },
+    {
+      "id": 8438,
+      "Amphur": "พนา",
+      "ProvinceID": 37
+    },
+    {
+      "id": 8446,
+      "Amphur": "เสนางคนิคม",
+      "ProvinceID": 37
+    },
+    {
+      "id": 8453,
+      "Amphur": "หัวตะพาน",
+      "ProvinceID": 37
+    },
+    {
+      "id": 8462,
+      "Amphur": "ลืออำนาจ",
+      "ProvinceID": 37
+    },
+    {
+      "id": 8471,
+      "Amphur": "เมืองบึงกาฬ",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8484,
+      "Amphur": "พรเจริญ",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8492,
+      "Amphur": "โซ่พิสัย",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8500,
+      "Amphur": "เซกา",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8510,
+      "Amphur": "ปากคาด",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8517,
+      "Amphur": "บึงโขงหลง",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8522,
+      "Amphur": "ศรีวิไล",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8528,
+      "Amphur": "บุ่งคล้า",
+      "ProvinceID": 38
+    },
+    {
+      "id": 8533,
+      "Amphur": "เมืองหนองบัวลำภู",
+      "ProvinceID": 39
+    },
+    {
+      "id": 8549,
+      "Amphur": "นากลาง",
+      "ProvinceID": 39
+    },
+    {
+      "id": 8569,
+      "Amphur": "โนนสัง",
+      "ProvinceID": 39
+    },
+    {
+      "id": 8580,
+      "Amphur": "ศรีบุญเรือง",
+      "ProvinceID": 39
+    },
+    {
+      "id": 8593,
+      "Amphur": "สุวรรณคูหา",
+      "ProvinceID": 39
+    },
+    {
+      "id": 8602,
+      "Amphur": "นาวัง",
+      "ProvinceID": 39
+    },
+    {
+      "id": 8609,
+      "Amphur": "เมืองขอนแก่น",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8630,
+      "Amphur": "บ้านฝาง",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8638,
+      "Amphur": "พระยืน",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8644,
+      "Amphur": "หนองเรือ",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8655,
+      "Amphur": "ชุมแพ",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8668,
+      "Amphur": "สีชมพู",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8679,
+      "Amphur": "น้ำพอง",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8692,
+      "Amphur": "อุบลรัตน์",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8699,
+      "Amphur": "กระนวน",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8714,
+      "Amphur": "บ้านไผ่",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8739,
+      "Amphur": "เปือยน้อย",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8744,
+      "Amphur": "พล",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8767,
+      "Amphur": "แวงใหญ่",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8773,
+      "Amphur": "แวงน้อย",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8780,
+      "Amphur": "หนองสองห้อง",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8793,
+      "Amphur": "ภูเวียง",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8811,
+      "Amphur": "มัญจาคีรี",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8824,
+      "Amphur": "ชนบท",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8833,
+      "Amphur": "เขาสวนกวาง",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8839,
+      "Amphur": "ภูผาม่าน",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8845,
+      "Amphur": "ซำสูง",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8851,
+      "Amphur": "โคกโพธิ์ไชย",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8856,
+      "Amphur": "หนองนาคำ",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8860,
+      "Amphur": "บ้านแฮด",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8865,
+      "Amphur": "โนนศิลา",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8871,
+      "Amphur": "เวียงเก่า",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8875,
+      "Amphur": "ท้องถิ่นเทศบาลตำบลบ้านเป็ด*",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8877,
+      "Amphur": "เทศบาลตำบลเมืองพล*",
+      "ProvinceID": 40
+    },
+    {
+      "id": 8879,
+      "Amphur": "เมืองอุดรธานี",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8909,
+      "Amphur": "กุดจับ",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8917,
+      "Amphur": "หนองวัวซอ",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8926,
+      "Amphur": "กุมภวาปี",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8948,
+      "Amphur": "โนนสะอาด",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8955,
+      "Amphur": "หนองหาน",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8981,
+      "Amphur": "ทุ่งฝน",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8986,
+      "Amphur": "ไชยวาน",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8991,
+      "Amphur": "ศรีธาตุ",
+      "ProvinceID": 41
+    },
+    {
+      "id": 8999,
+      "Amphur": "วังสามหมอ",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9006,
+      "Amphur": "บ้านดุง",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9020,
+      "Amphur": "หนองบัวลำภู*",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9036,
+      "Amphur": "ศรีบุญเรือง*",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9049,
+      "Amphur": "นากลาง*",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9072,
+      "Amphur": "สุวรรณคูหา*",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9080,
+      "Amphur": "โนนสัง*",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9091,
+      "Amphur": "บ้านผือ",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9106,
+      "Amphur": "น้ำโสม",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9121,
+      "Amphur": "เพ็ญ",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9136,
+      "Amphur": "สร้างคอม",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9143,
+      "Amphur": "หนองแสง",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9148,
+      "Amphur": "นายูง",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9153,
+      "Amphur": "พิบูลย์รักษ์",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9157,
+      "Amphur": "กู่แก้ว",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9162,
+      "Amphur": "ประจักษ์ศิลปาคม",
+      "ProvinceID": 41
+    },
+    {
+      "id": 9167,
+      "Amphur": "เมืองเลย",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9182,
+      "Amphur": "นาด้วง",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9187,
+      "Amphur": "เชียงคาน",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9196,
+      "Amphur": "ปากชม",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9203,
+      "Amphur": "ด่านซ้าย",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9221,
+      "Amphur": "นาแห้ว",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9227,
+      "Amphur": "ภูเรือ",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9234,
+      "Amphur": "ท่าลี่",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9241,
+      "Amphur": "วังสะพุง",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9258,
+      "Amphur": "ภูกระดึง",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9270,
+      "Amphur": "ภูหลวง",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9277,
+      "Amphur": "ผาขาว",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9283,
+      "Amphur": "เอราวัณ",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9288,
+      "Amphur": "หนองหิน",
+      "ProvinceID": 42
+    },
+    {
+      "id": 9293,
+      "Amphur": "เมืองหนองคาย",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9313,
+      "Amphur": "ท่าบ่อ",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9324,
+      "Amphur": "บึงกาฬ*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9344,
+      "Amphur": "พรเจริญ*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9352,
+      "Amphur": "โพนพิสัย",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9374,
+      "Amphur": "โซ่พิสัย*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9382,
+      "Amphur": "ศรีเชียงใหม่",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9390,
+      "Amphur": "สังคม",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9396,
+      "Amphur": "เซกา*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9410,
+      "Amphur": "ปากคาด*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9417,
+      "Amphur": "บึงโขงหลง*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9422,
+      "Amphur": "ศรีวิไล*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9428,
+      "Amphur": "บุ่งคล้า*",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9432,
+      "Amphur": "สระใคร",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9436,
+      "Amphur": "เฝ้าไร่",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9442,
+      "Amphur": "รัตนวาปี",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9448,
+      "Amphur": "โพธิ์ตาก",
+      "ProvinceID": 43
+    },
+    {
+      "id": 9453,
+      "Amphur": "เมืองมหาสารคาม",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9468,
+      "Amphur": "แกดำ",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9474,
+      "Amphur": "โกสุมพิสัย",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9492,
+      "Amphur": "กันทรวิชัย",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9503,
+      "Amphur": "เชียงยืน",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9516,
+      "Amphur": "บรบือ",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9537,
+      "Amphur": "นาเชือก",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9548,
+      "Amphur": "พยัคฆภูมิพิสัย",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9569,
+      "Amphur": "วาปีปทุม",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9588,
+      "Amphur": "นาดูน",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9598,
+      "Amphur": "ยางสีสุราช",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9606,
+      "Amphur": "กุดรัง",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9612,
+      "Amphur": "ชื่นชม",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9617,
+      "Amphur": "หลุบ*",
+      "ProvinceID": 44
+    },
+    {
+      "id": 9619,
+      "Amphur": "เมืองร้อยเอ็ด",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9654,
+      "Amphur": "เกษตรวิสัย",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9668,
+      "Amphur": "ปทุมรัตต์",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9677,
+      "Amphur": "จตุรพักตรพิมาน",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9690,
+      "Amphur": "ธวัชบุรี",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9715,
+      "Amphur": "พนมไพร",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9733,
+      "Amphur": "โพนทอง",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9754,
+      "Amphur": "โพธิ์ชัย",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9764,
+      "Amphur": "หนองพอก",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9774,
+      "Amphur": "เสลภูมิ",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9793,
+      "Amphur": "สุวรรณภูมิ",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9809,
+      "Amphur": "เมืองสรวง",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9815,
+      "Amphur": "โพนทราย",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9821,
+      "Amphur": "อาจสามารถ",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9832,
+      "Amphur": "เมยวดี",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9837,
+      "Amphur": "ศรีสมเด็จ",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9846,
+      "Amphur": "จังหาร",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9855,
+      "Amphur": "เชียงขวัญ",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9862,
+      "Amphur": "หนองฮี",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9867,
+      "Amphur": "ทุ่งเขาหลวง",
+      "ProvinceID": 45
+    },
+    {
+      "id": 9874,
+      "Amphur": "เมืองกาฬสินธุ์",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9899,
+      "Amphur": "นามน",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9905,
+      "Amphur": "กมลาไสย",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9919,
+      "Amphur": "ร่องคำ",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9923,
+      "Amphur": "กุฉินารายณ์",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9936,
+      "Amphur": "เขาวง",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9948,
+      "Amphur": "ยางตลาด",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9964,
+      "Amphur": "ห้วยเม็ก",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9974,
+      "Amphur": "สหัสขันธ์",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9987,
+      "Amphur": "คำม่วง",
+      "ProvinceID": 46
+    },
+    {
+      "id": 9998,
+      "Amphur": "ท่าคันโท",
+      "ProvinceID": 46
+    },
+    {
+      "id": 10007,
+      "Amphur": "หนองกุงศรี",
+      "ProvinceID": 46
+    }
+  ]
+}

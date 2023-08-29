@@ -1,0 +1,124 @@
+{
+  "user": [
+    {
+      "ID": 1,
+      "UID": "100001",
+      "UName": "admin",
+      "UPassword": "admin",
+      "UGroup": "1",
+      "UFirstname": "Administrator",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 9,
+      "UID": "100002",
+      "UName": "user00",
+      "UPassword": "123456",
+      "UGroup": "01",
+      "UFirstname": "พิสูจน์หลักฐานกลาง",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 10,
+      "UID": "100003",
+      "UName": "user01",
+      "UPassword": "123456",
+      "UGroup": "02",
+      "UFirstname": "ศูนย์พิสูจน์หลักฐาน 1",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 11,
+      "UID": "100004",
+      "UName": "user02",
+      "UPassword": "123456",
+      "UGroup": "03",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 2",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 12,
+      "UID": "100005",
+      "UName": "user03",
+      "UPassword": "123456",
+      "UGroup": "04",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 3",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 13,
+      "UID": "100006",
+      "UName": "user04",
+      "UPassword": "123456",
+      "UGroup": "05",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 4",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 14,
+      "UID": "100007",
+      "UName": "user05",
+      "UPassword": "123456",
+      "UGroup": "06",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 5",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 15,
+      "UID": "100008",
+      "UName": "user06",
+      "UPassword": "123456",
+      "UGroup": "07",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 6",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 16,
+      "UID": "100009",
+      "UName": "user07",
+      "UPassword": "123456",
+      "UGroup": "08",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 7",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 17,
+      "UID": "100010",
+      "UName": "user08",
+      "UPassword": "123456",
+      "UGroup": "09",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 8",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 18,
+      "UID": "100011",
+      "UName": "user09",
+      "UPassword": "123456",
+      "UGroup": "10",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 9",
+      "ULastname": "",
+      "UActive": "1"
+    },
+    {
+      "ID": 19,
+      "UID": "100012",
+      "UName": "user10",
+      "UPassword": "123456",
+      "UGroup": "11",
+      "UFirstname": "พิสูจน์หลักฐานกลาง 10",
+      "ULastname": "",
+      "UActive": "1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "bodyPosition": [
+    {
+      "id": 1,
+      "BodyPosition": "ศีรษะ"
+    },
+    {
+      "id": 2,
+      "BodyPosition": "มือซ้าย"
+    },
+    {
+      "id": 3,
+      "BodyPosition": "มือขวา"
+    },
+    {
+      "id": 4,
+      "BodyPosition": "เท้าซ้าย"
+    },
+    {
+      "id": 5,
+      "BodyPosition": "เท้าขวา"
+    },
+    {
+      "id": 6,
+      "BodyPosition": "อื่นๆ"
+    }
+  ]
+}

@@ -1,0 +1,8050 @@
+{
+  "station": [
+    {
+      "StationID": 0,
+      "StationName": "ไม่ระบุ",
+      "ProvinceID": 0,
+      "AmpurID": 0,
+      "FnetID": -1
+    },
+    {
+      "StationID": 1,
+      "StationName": "สภ.เมืองยะลา",
+      "ProvinceID": 3,
+      "AmpurID": 13,
+      "FnetID": 1840
+    },
+    {
+      "StationID": 2,
+      "StationName": "สภ.ลำใหม่",
+      "ProvinceID": 3,
+      "AmpurID": 13,
+      "FnetID": 1854
+    },
+    {
+      "StationID": 3,
+      "StationName": "สภ.เบตง",
+      "ProvinceID": 3,
+      "AmpurID": 15,
+      "FnetID": 1839
+    },
+    {
+      "StationID": 4,
+      "StationName": "สภ.อัยเยอร์เวง",
+      "ProvinceID": 3,
+      "AmpurID": 15,
+      "FnetID": 1855
+    },
+    {
+      "StationID": 5,
+      "StationName": "สภ.ยะรม",
+      "ProvinceID": 3,
+      "AmpurID": 15,
+      "FnetID": 1851
+    },
+    {
+      "StationID": 6,
+      "StationName": "สภ.รามัน",
+      "ProvinceID": 3,
+      "AmpurID": 17,
+      "FnetID": 1853
+    },
+    {
+      "StationID": 7,
+      "StationName": "สภ.จะกว๊ะ",
+      "ProvinceID": 3,
+      "AmpurID": 17,
+      "FnetID": 1845
+    },
+    {
+      "StationID": 8,
+      "StationName": "สภ.โกตาบารู",
+      "ProvinceID": 3,
+      "AmpurID": 17,
+      "FnetID": 1842
+    },
+    {
+      "StationID": 9,
+      "StationName": "สภ.ท่าธง",
+      "ProvinceID": 3,
+      "AmpurID": 17,
+      "FnetID": 1846
+    },
+    {
+      "StationID": 10,
+      "StationName": "สภ.ยะหา",
+      "ProvinceID": 3,
+      "AmpurID": 16,
+      "FnetID": 1852
+    },
+    {
+      "StationID": 11,
+      "StationName": "สภ.ปะแต",
+      "ProvinceID": 3,
+      "AmpurID": 16,
+      "FnetID": 1850
+    },
+    {
+      "StationID": 12,
+      "StationName": "สภ.บันนังสตา",
+      "ProvinceID": 3,
+      "AmpurID": 32,
+      "FnetID": 1848
+    },
+    {
+      "StationID": 13,
+      "StationName": "สภ.บาตูตาโมง",
+      "ProvinceID": 3,
+      "AmpurID": 32,
+      "FnetID": 1849
+    },
+    {
+      "StationID": 14,
+      "StationName": "สภ.ธารโต",
+      "ProvinceID": 3,
+      "AmpurID": 18,
+      "FnetID": 1847
+    },
+    {
+      "StationID": 15,
+      "StationName": "สภ.แม่หวาด",
+      "ProvinceID": 3,
+      "AmpurID": 18,
+      "FnetID": 1841
+    },
+    {
+      "StationID": 16,
+      "StationName": "สภ.กาบัง",
+      "ProvinceID": 3,
+      "AmpurID": 19,
+      "FnetID": 1844
+    },
+    {
+      "StationID": 17,
+      "StationName": "สภ.กรงปินัง",
+      "ProvinceID": 3,
+      "AmpurID": 14,
+      "FnetID": 1843
+    },
+    {
+      "StationID": 18,
+      "StationName": "สภ.เมืองปัตตานี",
+      "ProvinceID": 2,
+      "AmpurID": 1,
+      "FnetID": 1822
+    },
+    {
+      "StationID": 19,
+      "StationName": "สภ.สายบุรี",
+      "ProvinceID": 2,
+      "AmpurID": 2,
+      "FnetID": 1835
+    },
+    {
+      "StationID": 20,
+      "StationName": "สภ.โคกโพธิ์",
+      "ProvinceID": 2,
+      "AmpurID": 12,
+      "FnetID": 1824
+    },
+    {
+      "StationID": 21,
+      "StationName": "สภ.นาประดู่",
+      "ProvinceID": 2,
+      "AmpurID": 12,
+      "FnetID": 1828
+    },
+    {
+      "StationID": 22,
+      "StationName": "สภ.หนองจิก",
+      "ProvinceID": 2,
+      "AmpurID": 3,
+      "FnetID": 1836
+    },
+    {
+      "StationID": 23,
+      "StationName": "สภ.มายอ",
+      "ProvinceID": 2,
+      "AmpurID": 7,
+      "FnetID": 1831
+    },
+    {
+      "StationID": 24,
+      "StationName": "สภ.ยะหริ่ง",
+      "ProvinceID": 2,
+      "AmpurID": 4,
+      "FnetID": 1833
+    },
+    {
+      "StationID": 25,
+      "StationName": "สภ.ราตาปันยัง",
+      "ProvinceID": 2,
+      "AmpurID": 4,
+      "FnetID": 1834
+    },
+    {
+      "StationID": 26,
+      "StationName": "สภ.ปะนาเระ",
+      "ProvinceID": 2,
+      "AmpurID": 6,
+      "FnetID": 1830
+    },
+    {
+      "StationID": 27,
+      "StationName": "สภ.ยะรัง",
+      "ProvinceID": 2,
+      "AmpurID": 8,
+      "FnetID": 1832
+    },
+    {
+      "StationID": 28,
+      "StationName": "สภ.บ้านโสร่ง",
+      "ProvinceID": 2,
+      "AmpurID": 8,
+      "FnetID": 1829
+    },
+    {
+      "StationID": 29,
+      "StationName": "สภ.กะพ้อ",
+      "ProvinceID": 2,
+      "AmpurID": 35,
+      "FnetID": 1826
+    },
+    {
+      "StationID": 30,
+      "StationName": "สภ.ไม้แก่น",
+      "ProvinceID": 2,
+      "AmpurID": 33,
+      "FnetID": 1825
+    },
+    {
+      "StationID": 31,
+      "StationName": "สภ.ทุ่งยางแดง",
+      "ProvinceID": 2,
+      "AmpurID": 10,
+      "FnetID": 1827
+    },
+    {
+      "StationID": 32,
+      "StationName": "สภ.แม่ลาน",
+      "ProvinceID": 2,
+      "AmpurID": 11,
+      "FnetID": 1823
+    },
+    {
+      "StationID": 33,
+      "StationName": "สภ.เมืองนราธิวาส",
+      "ProvinceID": 1,
+      "AmpurID": 20,
+      "FnetID": 1802
+    },
+    {
+      "StationID": 34,
+      "StationName": "สภ.โคกเคียน",
+      "ProvinceID": 1,
+      "AmpurID": 20,
+      "FnetID": 1804
+    },
+    {
+      "StationID": 35,
+      "StationName": "สภ.ตันหยง",
+      "ProvinceID": 1,
+      "AmpurID": 25,
+      "FnetID": 1807
+    },
+    {
+      "StationID": 36,
+      "StationName": "สภ.สุไหงโก-ลก",
+      "ProvinceID": 1,
+      "AmpurID": 28,
+      "FnetID": 5481
+    },
+    {
+      "StationID": 37,
+      "StationName": "สภ.มูโนะ",
+      "ProvinceID": 1,
+      "AmpurID": 28,
+      "FnetID": 1811
+    },
+    {
+      "StationID": 38,
+      "StationName": "สภ.ตากใบ",
+      "ProvinceID": 1,
+      "AmpurID": 34,
+      "FnetID": 1808
+    },
+    {
+      "StationID": 39,
+      "StationName": "สภ.บาเจาะ",
+      "ProvinceID": 1,
+      "AmpurID": 22,
+      "FnetID": 1809
+    },
+    {
+      "StationID": 40,
+      "StationName": "สภ.ปะลุกาสาเมาะ",
+      "ProvinceID": 1,
+      "AmpurID": 22,
+      "FnetID": 1810
+    },
+    {
+      "StationID": 41,
+      "StationName": "สภ.ระแงะ",
+      "ProvinceID": 1,
+      "AmpurID": 25,
+      "FnetID": 1813
+    },
+    {
+      "StationID": 42,
+      "StationName": "สภ.รือเสาะ",
+      "ProvinceID": 1,
+      "AmpurID": 23,
+      "FnetID": 1814
+    },
+    {
+      "StationID": 43,
+      "StationName": "สภ.สุไหงปาดี",
+      "ProvinceID": 1,
+      "AmpurID": 27,
+      "FnetID": 1818
+    },
+    {
+      "StationID": 44,
+      "StationName": "สภ.สากอ",
+      "ProvinceID": 1,
+      "AmpurID": 27,
+      "FnetID": 1816
+    },
+    {
+      "StationID": 45,
+      "StationName": "สภ.แว้ง",
+      "ProvinceID": 1,
+      "AmpurID": 29,
+      "FnetID": 1803
+    },
+    {
+      "StationID": 46,
+      "StationName": "สภ.บูเก๊ะตา",
+      "ProvinceID": 1,
+      "AmpurID": 29,
+      "FnetID": 3292
+    },
+    {
+      "StationID": 47,
+      "StationName": "สภ.สุคิริน",
+      "ProvinceID": 1,
+      "AmpurID": 30,
+      "FnetID": 1819
+    },
+    {
+      "StationID": 48,
+      "StationName": "สภ.ศรีสาคร",
+      "ProvinceID": 1,
+      "AmpurID": 24,
+      "FnetID": 1815
+    },
+    {
+      "StationID": 49,
+      "StationName": "สภ.ยี่งอ",
+      "ProvinceID": 1,
+      "AmpurID": 21,
+      "FnetID": 1812
+    },
+    {
+      "StationID": 50,
+      "StationName": "สภ.จะแนะ",
+      "ProvinceID": 1,
+      "AmpurID": 26,
+      "FnetID": 1806
+    },
+    {
+      "StationID": 51,
+      "StationName": "สภ.เจาะไอร้อง",
+      "ProvinceID": 1,
+      "AmpurID": 31,
+      "FnetID": 1801
+    },
+    {
+      "StationID": 52,
+      "StationName": "สภ.หาดใหญ่",
+      "ProvinceID": 4,
+      "AmpurID": 41,
+      "FnetID": 1761
+    },
+    {
+      "StationID": 53,
+      "StationName": "สภ.นาหม่อม",
+      "ProvinceID": 4,
+      "AmpurID": 43,
+      "FnetID": 1746
+    },
+    {
+      "StationID": 54,
+      "StationName": "สภ.นาทวี",
+      "ProvinceID": 4,
+      "AmpurID": 39,
+      "FnetID": 1745
+    },
+    {
+      "StationID": 55,
+      "StationName": "สภ.สะบ้าย้อย",
+      "ProvinceID": 4,
+      "AmpurID": 36,
+      "FnetID": 1757
+    },
+    {
+      "StationID": 56,
+      "StationName": "สภ.บ้านโหนด",
+      "ProvinceID": 4,
+      "AmpurID": 36,
+      "FnetID": 1748
+    },
+    {
+      "StationID": 57,
+      "StationName": "สภ.เทพา",
+      "ProvinceID": 4,
+      "AmpurID": 37,
+      "FnetID": 1731
+    },
+    {
+      "StationID": 58,
+      "StationName": "สภ.ห้วยปลิง",
+      "ProvinceID": 4,
+      "AmpurID": 37,
+      "FnetID": 1760
+    },
+    {
+      "StationID": 59,
+      "StationName": "สภ.จะนะ",
+      "ProvinceID": 4,
+      "AmpurID": 38,
+      "FnetID": 1741
+    },
+    {
+      "StationID": 60,
+      "StationName": "สภ.ควนมีด",
+      "ProvinceID": 4,
+      "AmpurID": 38,
+      "FnetID": 1738
+    },
+    {
+      "StationID": 61,
+      "StationName": "สภ.สะท้อน",
+      "ProvinceID": 4,
+      "AmpurID": 39,
+      "FnetID": 1756
+    },
+    {
+      "StationID": 62,
+      "StationName": "สภ.คลองหอยโข่ง",
+      "ProvinceID": 4,
+      "AmpurID": 42,
+      "FnetID": 1736
+    },
+    {
+      "StationID": 63,
+      "StationName": "สภ.สะเดา",
+      "ProvinceID": 4,
+      "AmpurID": 40,
+      "FnetID": 1755
+    },
+    {
+      "StationID": 64,
+      "StationName": "สภ.เมืองสงขลา",
+      "ProvinceID": 4,
+      "AmpurID": 44,
+      "FnetID": 1732
+    },
+    {
+      "StationID": 65,
+      "StationName": "สภ.ควนโดน",
+      "ProvinceID": 5,
+      "AmpurID": 45,
+      "FnetID": 1766
+    },
+    {
+      "StationID": 66,
+      "StationName": "สภ.ปาดังเบซาร์",
+      "ProvinceID": 4,
+      "AmpurID": 40,
+      "FnetID": 1750
+    },
+    {
+      "StationID": 67,
+      "StationName": "สภ.ควนเนียง",
+      "ProvinceID": 4,
+      "AmpurID": 46,
+      "FnetID": 1737
+    },
+    {
+      "StationID": 68,
+      "StationName": "สภ.คอหงส์",
+      "ProvinceID": 4,
+      "AmpurID": 41,
+      "FnetID": 1739
+    },
+    {
+      "StationID": 69,
+      "StationName": "สภ.ควนกาหลง",
+      "ProvinceID": 5,
+      "AmpurID": 47,
+      "FnetID": 1767
+    },
+    {
+      "StationID": 71,
+      "StationName": "สภ.สิงหนคร",
+      "ProvinceID": 4,
+      "AmpurID": 48,
+      "FnetID": 1759
+    },
+    {
+      "StationID": 72,
+      "StationName": "สภ.บางกล่ำ",
+      "ProvinceID": 4,
+      "AmpurID": 49,
+      "FnetID": 1747
+    },
+    {
+      "StationID": 73,
+      "StationName": "สภ.ละงู",
+      "ProvinceID": 5,
+      "AmpurID": 50,
+      "FnetID": 1772
+    },
+    {
+      "StationID": 74,
+      "StationName": "สภ.ทุ่งลุง",
+      "ProvinceID": 4,
+      "AmpurID": 41,
+      "FnetID": 1744
+    },
+    {
+      "StationID": 75,
+      "StationName": "สภ.เมืองสตูล",
+      "ProvinceID": 5,
+      "AmpurID": 51,
+      "FnetID": 1765
+    },
+    {
+      "StationID": 76,
+      "StationName": "กสก.ศพฐ.10",
+      "ProvinceID": 3,
+      "AmpurID": 13,
+      "FnetID": 3449
+    },
+    {
+      "StationID": 77,
+      "StationName": "กก.สส.ภ.จว.ยะลา",
+      "ProvinceID": 3,
+      "AmpurID": 13,
+      "FnetID": 1837
+    },
+    {
+      "StationID": 78,
+      "StationName": "สภ.ป่าบอน",
+      "ProvinceID": 8,
+      "AmpurID": 53,
+      "FnetID": 1724
+    },
+    {
+      "StationID": 79,
+      "StationName": "สภ.รัษฎา",
+      "ProvinceID": 7,
+      "AmpurID": 52,
+      "FnetID": 1705
+    },
+    {
+      "StationID": 80,
+      "StationName": "สภ.ระโนด",
+      "ProvinceID": 4,
+      "AmpurID": 55,
+      "FnetID": 1752
+    },
+    {
+      "StationID": 81,
+      "StationName": "ภ.จว.ยะลา",
+      "ProvinceID": 3,
+      "AmpurID": 13,
+      "FnetID": 4908
+    },
+    {
+      "StationID": 82,
+      "StationName": "ภ.จว.ปัตตานี",
+      "ProvinceID": 2,
+      "AmpurID": 1,
+      "FnetID": 4615
+    },
+    {
+      "StationID": 83,
+      "StationName": "ภ.จว.นราธิวาส",
+      "ProvinceID": 1,
+      "AmpurID": 20,
+      "FnetID": 4074
+    },
+    {
+      "StationID": 84,
+      "StationName": "สภ.สทิงพระ",
+      "ProvinceID": 4,
+      "AmpurID": 56,
+      "FnetID": 1754
+    },
+    {
+      "StationID": 86,
+      "StationName": "สภ.ย่านตาขาว",
+      "ProvinceID": 7,
+      "AmpurID": 57,
+      "FnetID": 1704
+    },
+    {
+      "StationID": 1087,
+      "StationName": "สภ.เมืองภูเก็ต",
+      "ProvinceID": 9,
+      "AmpurID": 58,
+      "FnetID": 1628
+    },
+    {
+      "StationID": 1088,
+      "StationName": "สภ.ทุ่งหว้า",
+      "ProvinceID": 5,
+      "AmpurID": 59,
+      "FnetID": 1770
+    },
+    {
+      "StationID": 1089,
+      "StationName": "สภ.รัตภูมิ",
+      "ProvinceID": 5,
+      "AmpurID": 60,
+      "FnetID": 1753
+    },
+    {
+      "StationID": 1090,
+      "StationName": "พฐ.จว.ปัตตานี",
+      "ProvinceID": 2,
+      "AmpurID": 1,
+      "FnetID": 3152
+    },
+    {
+      "StationID": 1091,
+      "StationName": "พฐ.จว.นราธิวาส",
+      "ProvinceID": 1,
+      "AmpurID": 20,
+      "FnetID": 3148
+    },
+    {
+      "StationID": 2090,
+      "StationName": "สภ.คูเต่า",
+      "ProvinceID": 4,
+      "AmpurID": 41,
+      "FnetID": 1740
+    },
+    {
+      "StationID": 2091,
+      "StationName": "สภ.ท่าแพ",
+      "ProvinceID": 5,
+      "AmpurID": 51,
+      "FnetID": 1769
+    },
+    {
+      "StationID": 2092,
+      "StationName": "สภ.เมืองพัทลุง",
+      "ProvinceID": 8,
+      "AmpurID": 0,
+      "FnetID": 1715
+    },
+    {
+      "StationID": 2093,
+      "StationName": "สภ.เขาชัยสน",
+      "ProvinceID": 8,
+      "AmpurID": 0,
+      "FnetID": 1714
+    },
+    {
+      "StationID": 2094,
+      "StationName": "สภ.ควนขนุน",
+      "ProvinceID": 8,
+      "AmpurID": 0,
+      "FnetID": 1718
+    },
+    {
+      "StationID": 2095,
+      "StationName": "สภ.ปากพะยูน",
+      "ProvinceID": 8,
+      "AmpurID": 0,
+      "FnetID": 1723
+    },
+    {
+      "StationID": 2096,
+      "StationName": "สภ.ศรีบรรพต",
+      "ProvinceID": 8,
+      "FnetID": 1728
+    },
+    {
+      "StationID": 2097,
+      "StationName": "สภ.กงหรา",
+      "ProvinceID": 8,
+      "FnetID": 1717
+    },
+    {
+      "StationID": 2098,
+      "StationName": "สภ.ตะโหมด",
+      "ProvinceID": 8,
+      "FnetID": 1719
+    },
+    {
+      "StationID": 2099,
+      "StationName": "สภ.บางแก้ว",
+      "ProvinceID": 8,
+      "FnetID": 1722
+    },
+    {
+      "StationID": 2100,
+      "StationName": "สภ.ป่าพะยอม",
+      "ProvinceID": 8,
+      "FnetID": 1725
+    },
+    {
+      "StationID": 2101,
+      "StationName": "สภ.ศรีนครินทร์",
+      "ProvinceID": 8,
+      "FnetID": 1727
+    },
+    {
+      "StationID": 2102,
+      "StationName": "สภ.ทะเลน้อย",
+      "ProvinceID": 8,
+      "FnetID": 1720
+    },
+    {
+      "StationID": 2103,
+      "StationName": "สภ.นาขยาด",
+      "ProvinceID": 8,
+      "FnetID": 1721
+    },
+    {
+      "StationID": 2104,
+      "StationName": "สภ.โคกชะงาย",
+      "ProvinceID": 8,
+      "FnetID": 1716
+    },
+    {
+      "StationID": 2105,
+      "StationName": "สภ.ลำปำ",
+      "ProvinceID": 8,
+      "FnetID": 1726
+    },
+    {
+      "StationID": 2106,
+      "StationName": "สภ.เกาะนางคำ",
+      "ProvinceID": 8,
+      "FnetID": 1713
+    },
+    {
+      "StationID": 2107,
+      "StationName": "สภ.ทุ่งสง",
+      "ProvinceID": 10,
+      "FnetID": 1599
+    },
+    {
+      "StationID": 2108,
+      "StationName": "สภ.ฉลุง",
+      "ProvinceID": 5,
+      "FnetID": 1768
+    },
+    {
+      "StationID": 2109,
+      "StationName": "สภ.เขาขาว",
+      "ProvinceID": 5,
+      "FnetID": 1764
+    },
+    {
+      "StationID": 2110,
+      "StationName": "สภ.มะนัง",
+      "ProvinceID": 5,
+      "FnetID": 1771
+    },
+    {
+      "StationID": 2111,
+      "StationName": "สภ.เมืองตรัง",
+      "ProvinceID": 7,
+      "FnetID": 4133
+    },
+    {
+      "StationID": 2112,
+      "StationName": "สภ.บ้านคลองเต็ง",
+      "ProvinceID": 7,
+      "FnetID": 3955
+    },
+    {
+      "StationID": 2113,
+      "StationName": "สภ.หนองตรุด",
+      "ProvinceID": 7,
+      "FnetID": 1708
+    },
+    {
+      "StationID": 2114,
+      "StationName": "สภ.กันตัง",
+      "ProvinceID": 7,
+      "FnetID": 1697
+    },
+    {
+      "StationID": 2115,
+      "StationName": "สภ.บ้านโคกยาง",
+      "ProvinceID": 7,
+      "FnetID": 3567
+    },
+    {
+      "StationID": 2116,
+      "StationName": "สภ.บ้านในควน",
+      "ProvinceID": 7,
+      "FnetID": 1700
+    },
+    {
+      "StationID": 2117,
+      "StationName": "สภ.ปะเหลียน",
+      "ProvinceID": 7,
+      "FnetID": 1703
+    },
+    {
+      "StationID": 2118,
+      "StationName": "สภ.บ้านหนองเอื้อง",
+      "ProvinceID": 7,
+      "FnetID": 1702
+    },
+    {
+      "StationID": 2119,
+      "StationName": "สภ.สิเกา",
+      "ProvinceID": 7,
+      "FnetID": 1707
+    },
+    {
+      "StationID": 2120,
+      "StationName": "สภ.นาโยง",
+      "ProvinceID": 7,
+      "FnetID": 1698
+    },
+    {
+      "StationID": 2121,
+      "StationName": "สภ.วังวิเศษ",
+      "ProvinceID": 7,
+      "FnetID": 1706
+    },
+    {
+      "StationID": 2122,
+      "StationName": "สภ.เขาวิเศษ",
+      "ProvinceID": 7,
+      "FnetID": 3875
+    },
+    {
+      "StationID": 2123,
+      "StationName": "สภ.หาดสำราญ",
+      "ProvinceID": 7,
+      "FnetID": 1710
+    },
+    {
+      "StationID": 2124,
+      "StationName": "สภ.ห้วยยอด",
+      "ProvinceID": 7,
+      "FnetID": 1709
+    },
+    {
+      "StationID": 2125,
+      "StationName": "สภ.เมืองนครศรีธรรมราช",
+      "ProvinceID": 10,
+      "FnetID": 1585
+    },
+    {
+      "StationID": 2126,
+      "StationName": "สภ.ชะเมา",
+      "ProvinceID": 10,
+      "FnetID": 1593
+    },
+    {
+      "StationID": 2127,
+      "StationName": "สภ.พระพรหม",
+      "ProvinceID": 10,
+      "FnetID": 1606
+    },
+    {
+      "StationID": 2128,
+      "StationName": "สภ.ลานสกา",
+      "ProvinceID": 10,
+      "FnetID": 1609
+    },
+    {
+      "StationID": 2129,
+      "StationName": "สภ.พรหมคีรี",
+      "ProvinceID": 10,
+      "FnetID": 1605
+    },
+    {
+      "StationID": 2130,
+      "StationName": "สภ.ท่าศาลา",
+      "ProvinceID": 10,
+      "FnetID": 1597
+    },
+    {
+      "StationID": 2131,
+      "StationName": "สภ.สิชล",
+      "ProvinceID": 10,
+      "FnetID": 1610
+    },
+    {
+      "StationID": 2132,
+      "StationName": "สภ.เปลี่ยน",
+      "ProvinceID": 10,
+      "FnetID": 1584
+    },
+    {
+      "StationID": 2133,
+      "StationName": "สภ.ขนอม",
+      "ProvinceID": 10,
+      "FnetID": 1589
+    },
+    {
+      "StationID": 2134,
+      "StationName": "สภ.ชะอวด",
+      "ProvinceID": 10,
+      "FnetID": 1594
+    },
+    {
+      "StationID": 2135,
+      "StationName": "สภ.ขอนหาด",
+      "ProvinceID": 10,
+      "FnetID": 1590
+    },
+    {
+      "StationID": 2136,
+      "StationName": "สภ.กะปาง",
+      "ProvinceID": 10,
+      "FnetID": 1587
+    },
+    {
+      "StationID": 2137,
+      "StationName": "สภ.ร่อนพิบูลย์",
+      "ProvinceID": 10,
+      "FnetID": 1608
+    },
+    {
+      "StationID": 2138,
+      "StationName": "สภ.จุฬาภรณ์",
+      "ProvinceID": 10,
+      "FnetID": 1591
+    },
+    {
+      "StationID": 2139,
+      "StationName": "สภ.ทุ่งใหญ่",
+      "ProvinceID": 10,
+      "FnetID": 1598
+    },
+    {
+      "StationID": 2140,
+      "StationName": "สภ.บางขัน",
+      "ProvinceID": 10,
+      "FnetID": 1602
+    },
+    {
+      "StationID": 2141,
+      "StationName": "สภ.นาบอน",
+      "ProvinceID": 10,
+      "FnetID": 1601
+    },
+    {
+      "StationID": 2142,
+      "StationName": "สภ.ฉวาง",
+      "ProvinceID": 10,
+      "FnetID": 3610
+    },
+    {
+      "StationID": 2143,
+      "StationName": "สภ.ไม้เรียง",
+      "ProvinceID": 10,
+      "FnetID": 1586
+    },
+    {
+      "StationID": 2144,
+      "StationName": "สภ.ถ้ำพรรณรา",
+      "ProvinceID": 10,
+      "FnetID": 1596
+    },
+    {
+      "StationID": 2145,
+      "StationName": "สภ.พิปูน",
+      "ProvinceID": 10,
+      "FnetID": 1607
+    },
+    {
+      "StationID": 2146,
+      "StationName": "สภ.ปากพนัง",
+      "ProvinceID": 10,
+      "FnetID": 1604
+    },
+    {
+      "StationID": 2147,
+      "StationName": "สภ.เกาะทวด",
+      "ProvinceID": 10,
+      "FnetID": 1581
+    },
+    {
+      "StationID": 2148,
+      "StationName": "สภ.เชียรใหญ่",
+      "ProvinceID": 10,
+      "FnetID": 1583
+    },
+    {
+      "StationID": 2149,
+      "StationName": "สภ.การะเกด",
+      "ProvinceID": 10,
+      "FnetID": 1588
+    },
+    {
+      "StationID": 2150,
+      "StationName": "สภ.หัวไทร",
+      "ProvinceID": 10,
+      "FnetID": 1611
+    },
+    {
+      "StationID": 2151,
+      "StationName": "สภ.เขาพังไกร",
+      "ProvinceID": 10,
+      "FnetID": 1582
+    },
+    {
+      "StationID": 2153,
+      "StationName": "สภ.บางนบ",
+      "ProvinceID": 10,
+      "FnetID": 1603
+    },
+    {
+      "StationID": 2154,
+      "StationName": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 10,
+      "FnetID": 3868
+    },
+    {
+      "StationID": 2155,
+      "StationName": "สภ.นบพิตำ",
+      "ProvinceID": 10,
+      "FnetID": 1600
+    },
+    {
+      "StationID": 2156,
+      "StationName": "สภ.ช้างกลาง",
+      "ProvinceID": 10,
+      "FnetID": 1595
+    },
+    {
+      "StationID": 2157,
+      "StationName": "สภ.ฉลอง",
+      "ProvinceID": 9,
+      "FnetID": 1631
+    },
+    {
+      "StationID": 2158,
+      "StationName": "สภ.กะทู้",
+      "ProvinceID": 9,
+      "FnetID": 1630
+    },
+    {
+      "StationID": 2159,
+      "StationName": "สภ.ทุ่งทอง",
+      "ProvinceID": 9,
+      "FnetID": 1634
+    },
+    {
+      "StationID": 2160,
+      "StationName": "สภ.กมลา",
+      "ProvinceID": 9,
+      "FnetID": 1629
+    },
+    {
+      "StationID": 2161,
+      "StationName": "สภ.ถลาง",
+      "ProvinceID": 9,
+      "FnetID": 1632
+    },
+    {
+      "StationID": 2162,
+      "StationName": "สภ.ท่าฉัตรไชย",
+      "ProvinceID": 9,
+      "FnetID": 1633
+    },
+    {
+      "StationID": 2163,
+      "StationName": "สภ.เชิงทะเล",
+      "ProvinceID": 9,
+      "FnetID": 1627
+    },
+    {
+      "StationID": 2164,
+      "StationName": "สภ.กะรน",
+      "ProvinceID": 9,
+      "FnetID": 3415
+    },
+    {
+      "StationID": 2165,
+      "StationName": "สภ.วิชิต",
+      "ProvinceID": 9,
+      "FnetID": 2277
+    },
+    {
+      "StationID": 2166,
+      "StationName": "สภ.เมืองกระบี่",
+      "ProvinceID": 6,
+      "FnetID": 3394
+    },
+    {
+      "StationID": 2167,
+      "StationName": "สภ.เขาพนม",
+      "ProvinceID": 6,
+      "FnetID": 1553
+    },
+    {
+      "StationID": 2168,
+      "StationName": "สภ.อ่าวลึก",
+      "ProvinceID": 6,
+      "FnetID": 1560
+    },
+    {
+      "StationID": 2169,
+      "StationName": "สภ.ลำทับ",
+      "ProvinceID": 6,
+      "FnetID": 1559
+    },
+    {
+      "StationID": 2170,
+      "StationName": "สภ.เกาะลันตา",
+      "ProvinceID": 6,
+      "FnetID": 1552
+    },
+    {
+      "StationID": 2171,
+      "StationName": "สภ.ปลายพระยา",
+      "ProvinceID": 6,
+      "FnetID": 1558
+    },
+    {
+      "StationID": 2172,
+      "StationName": "สภ.คลองท่อม",
+      "ProvinceID": 6,
+      "FnetID": 1556
+    },
+    {
+      "StationID": 2173,
+      "StationName": "สภ.เหนือคลอง",
+      "ProvinceID": 6,
+      "FnetID": 1554
+    },
+    {
+      "StationID": 2174,
+      "StationName": "สภ.พนม",
+      "ProvinceID": 14,
+      "FnetID": 1670
+    },
+    {
+      "StationID": 2175,
+      "StationName": "สภ.คีรีรัฐนิคม",
+      "ProvinceID": 14,
+      "FnetID": 1659
+    },
+    {
+      "StationID": 2176,
+      "StationName": "สภ.ปากจั่น",
+      "ProvinceID": 13,
+      "FnetID": 1641
+    },
+    {
+      "StationID": 2177,
+      "StationName": "สภ.เมืองสุราษฎร์ธานี",
+      "ProvinceID": 14,
+      "FnetID": 1652
+    },
+    {
+      "StationID": 2178,
+      "StationName": "สภ.ตะกั่วป่า",
+      "ProvinceID": 12,
+      "FnetID": 1621
+    },
+    {
+      "StationID": 2179,
+      "StationName": "สภ.บ้านนาสาร",
+      "ProvinceID": 14,
+      "FnetID": 1669
+    },
+    {
+      "StationID": 2180,
+      "StationName": "สภ.เกาะสมุย",
+      "ProvinceID": 14,
+      "FnetID": 1649
+    },
+    {
+      "StationID": 2181,
+      "StationName": "สภ.ตลาดใหญ่",
+      "ProvinceID": 12,
+      "FnetID": 1619
+    },
+    { "StationID": 2182, "StationName": "ศปก.ภ.9สน.", "ProvinceID": 4 },
+    { "StationID": 2183, "StationName": "ทหารพรานฉก.22", "ProvinceID": 3 },
+    {
+      "StationID": 2184,
+      "StationName": "สภ.กะปง",
+      "ProvinceID": 12,
+      "FnetID": 1617
+    },
+    {
+      "StationID": 2185,
+      "StationName": "สภ.เกาะพงัน",
+      "ProvinceID": 14,
+      "FnetID": 6375
+    },
+    {
+      "StationID": 2186,
+      "StationName": "สภ.หลังสวน",
+      "ProvinceID": 11,
+      "FnetID": 1578
+    },
+    {
+      "StationID": 2187,
+      "StationName": "สภ.เมืองชุมพร",
+      "ProvinceID": 11,
+      "FnetID": 1563
+    },
+    {
+      "StationID": 2188,
+      "StationName": "สภ.ดอนสัก",
+      "ProvinceID": 14,
+      "FnetID": 1661
+    },
+    {
+      "StationID": 2189,
+      "StationName": "สภ.บ่อผุด",
+      "ProvinceID": 14,
+      "FnetID": 1665
+    },
+    {
+      "StationID": 2190,
+      "StationName": "สภ.พระแสง",
+      "ProvinceID": 14,
+      "FnetID": 1671
+    },
+    {
+      "StationID": 2191,
+      "StationName": "สภ.คลองแงะ",
+      "ProvinceID": 4,
+      "FnetID": 1734
+    },
+    {
+      "StationID": 2192,
+      "StationName": "สภ.บ้านนาเดิม",
+      "ProvinceID": 14,
+      "FnetID": 1668
+    },
+    {
+      "StationID": 2193,
+      "StationName": "สภ.ม่วงงาม",
+      "ProvinceID": 4,
+      "FnetID": 3074
+    },
+    {
+      "StationID": 2194,
+      "StationName": "สภ.ทุ่งตำเสา",
+      "ProvinceID": 4,
+      "FnetID": 1743
+    },
+    {
+      "StationID": 2195,
+      "StationName": "สภ.รัตภูมิ",
+      "ProvinceID": 4,
+      "FnetID": 1753
+    },
+    {
+      "StationID": 2196,
+      "StationName": "สภ.ทุ่งตะโก",
+      "ProvinceID": 11,
+      "FnetID": 1565
+    },
+    {
+      "StationID": 2197,
+      "StationName": "สภ.สลุย",
+      "ProvinceID": 11,
+      "FnetID": 1576
+    },
+    {
+      "StationID": 2198,
+      "StationName": "สภ.ท่าชนะ",
+      "ProvinceID": 14,
+      "FnetID": 1663
+    },
+    {
+      "StationID": 2199,
+      "StationName": "สภ.เคียนซา",
+      "ProvinceID": 14,
+      "FnetID": 1651
+    },
+    {
+      "StationID": 2200,
+      "StationName": "สภ.พะโต๊ะ",
+      "ProvinceID": 11,
+      "FnetID": 1574
+    },
+    {
+      "StationID": 2201,
+      "StationName": "สภ.ชัยบุรี",
+      "ProvinceID": 14,
+      "FnetID": 1660
+    },
+    {
+      "StationID": 2202,
+      "StationName": "สภ.ท้ายเหมือง",
+      "ProvinceID": 12,
+      "FnetID": 1623
+    },
+    {
+      "StationID": 2203,
+      "StationName": "สภ.วิภาวดี",
+      "ProvinceID": 14,
+      "FnetID": 1673
+    },
+    {
+      "StationID": 2204,
+      "StationName": "กก.สส.ภ.จว.ปัตตานี",
+      "ProvinceID": 2,
+      "FnetID": 1820
+    },
+    {
+      "StationID": 2205,
+      "StationName": "สภ.ชุมพล",
+      "ProvinceID": 4,
+      "FnetID": 1742
+    },
+    {
+      "StationID": 2206,
+      "StationName": "สภ.ท่าชี",
+      "ProvinceID": 14,
+      "FnetID": 1664
+    },
+    {
+      "StationID": 2207,
+      "StationName": "สภ.เกาะเต่า",
+      "ProvinceID": 14,
+      "FnetID": 5072
+    },
+    {
+      "StationID": 2208,
+      "StationName": "สภ.โคกกลอย",
+      "ProvinceID": 12,
+      "FnetID": 1616
+    },
+    {
+      "StationID": 2209,
+      "StationName": "สภ.คลองแดน",
+      "ProvinceID": 4,
+      "FnetID": 1735
+    },
+    {
+      "StationID": 2210,
+      "StationName": "สภ.ทับปุด",
+      "ProvinceID": 12,
+      "FnetID": 1622
+    },
+    {
+      "StationID": 2211,
+      "StationName": "สภ.ปากรอ",
+      "ProvinceID": 4,
+      "FnetID": 1749
+    },
+    {
+      "StationID": 2212,
+      "StationName": "สภ.เสวียด",
+      "ProvinceID": 14,
+      "FnetID": 1654
+    },
+    {
+      "StationID": 2213,
+      "StationName": "กก.ซักถาม1บก.สส.ศชต.\r\n",
+      "ProvinceID": 3,
+      "AmpurID": 13
+    },
+    {
+      "StationID": 2214,
+      "StationName": "สภ.ทุ่งคาโงก",
+      "ProvinceID": 12,
+      "FnetID": 1624
+    },
+    {
+      "StationID": 2215,
+      "StationName": "สภ.สามบ่อ",
+      "ProvinceID": 4,
+      "FnetID": 1758
+    },
+    {
+      "StationID": 2216,
+      "StationName": "ศพฐ.9",
+      "ProvinceID": 4,
+      "FnetID": 3732
+    },
+    {
+      "StationID": 2217,
+      "StationName": "สภ.พุนพิน",
+      "ProvinceID": 14,
+      "FnetID": 1672
+    },
+    {
+      "StationID": 2218,
+      "StationName": "สภ.คลองขนาน",
+      "ProvinceID": 6,
+      "FnetID": 1555
+    },
+    {
+      "StationID": 2219,
+      "StationName": "สภ.ขุนทะเล",
+      "ProvinceID": 14,
+      "FnetID": 1658
+    },
+    {
+      "StationID": 2220,
+      "StationName": "ภ.จว.ตรัง",
+      "ProvinceID": 7,
+      "FnetID": 3783
+    },
+    {
+      "StationID": 2221,
+      "StationName": "สภ.กระแสสินธุ์",
+      "ProvinceID": 4,
+      "FnetID": 1733
+    },
+    {
+      "StationID": 2222,
+      "StationName": "สภ.เกาะหลีเป๊ะ",
+      "ProvinceID": 5,
+      "FnetID": 5270
+    },
+    {
+      "StationID": 2223,
+      "StationName": "สภ.ไชยา",
+      "ProvinceID": 14,
+      "FnetID": 1656
+    },
+    {
+      "StationID": 2224,
+      "StationName": "สภ.เมืองพังงา",
+      "ProvinceID": 12,
+      "FnetID": 1615
+    },
+    {
+      "StationID": 2225,
+      "StationName": "สภ.ทรายขาว",
+      "ProvinceID": 6,
+      "FnetID": 1557
+    },
+    {
+      "StationID": 2226,
+      "StationName": "สภ.เวียงสระ",
+      "ProvinceID": 14,
+      "FnetID": 1653
+    },
+    { "StationID": 2227, "StationName": "วท.จว.นราธิวาส", "ProvinceID": 1 },
+    {
+      "StationID": 2228,
+      "StationName": "สภ.เขานิพันธ์",
+      "ProvinceID": 14,
+      "FnetID": 1650
+    },
+    {
+      "StationID": 2229,
+      "StationName": "สภ.บ้านตาขุน",
+      "ProvinceID": 14,
+      "FnetID": 1667
+    },
+    {
+      "StationID": 2230,
+      "StationName": "สน.นางเลิ้ง",
+      "ProvinceID": 16,
+      "FnetID": 26
+    },
+    {
+      "StationID": 2231,
+      "StationName": "สน.ชนะสงคราม",
+      "ProvinceID": 16,
+      "FnetID": 15
+    },
+    {
+      "StationID": 2232,
+      "StationName": "สน.สามเสน",
+      "ProvinceID": 16,
+      "FnetID": 40
+    },
+    {
+      "StationID": 2233,
+      "StationName": "สน.ดุสิต",
+      "ProvinceID": 16,
+      "FnetID": 21
+    },
+    {
+      "StationID": 2234,
+      "StationName": "สน.พญาไท",
+      "ProvinceID": 16,
+      "FnetID": 2242
+    },
+    {
+      "StationID": 2235,
+      "StationName": "สน.มักกะสัน",
+      "ProvinceID": 16,
+      "FnetID": 23
+    },
+    {
+      "StationID": 2236,
+      "StationName": "สน.ห้วยขวาง",
+      "ProvinceID": 16,
+      "FnetID": 24
+    },
+    {
+      "StationID": 2237,
+      "StationName": "สน.ดินแดง",
+      "ProvinceID": 16,
+      "FnetID": 25
+    },
+    {
+      "StationID": 2238,
+      "StationName": "สน.เตาปูน",
+      "ProvinceID": 16,
+      "FnetID": 43
+    },
+    {
+      "StationID": 2239,
+      "StationName": "สน.ประชาชื่น",
+      "ProvinceID": 16,
+      "FnetID": 29
+    },
+    {
+      "StationID": 2240,
+      "StationName": "สน.บางซื่อ",
+      "ProvinceID": 16,
+      "FnetID": 48
+    },
+    {
+      "StationID": 2241,
+      "StationName": "สน.สุทธิสาร",
+      "ProvinceID": 16,
+      "FnetID": 51
+    },
+    {
+      "StationID": 2242,
+      "StationName": "สน.พหลโยธิน",
+      "ProvinceID": 16,
+      "FnetID": 49
+    },
+    {
+      "StationID": 2243,
+      "StationName": "สน.บางเขน",
+      "ProvinceID": 16,
+      "FnetID": 47
+    },
+    {
+      "StationID": 2244,
+      "StationName": "สน.ดอนเมือง",
+      "ProvinceID": 16,
+      "FnetID": 45
+    },
+    {
+      "StationID": 2245,
+      "StationName": "สน.ทุ่งสองห้อง",
+      "ProvinceID": 16,
+      "FnetID": 46
+    },
+    {
+      "StationID": 2246,
+      "StationName": "สน.มีนบุรี",
+      "ProvinceID": 16,
+      "FnetID": 58
+    },
+    {
+      "StationID": 2247,
+      "StationName": "สน.หัวหมาก",
+      "ProvinceID": 16,
+      "FnetID": 73
+    },
+    {
+      "StationID": 2248,
+      "StationName": "สน.ลาดพร้าว",
+      "ProvinceID": 16,
+      "FnetID": 2249
+    },
+    {
+      "StationID": 2249,
+      "StationName": "สน.ประเวศ",
+      "ProvinceID": 16,
+      "FnetID": 70
+    },
+    {
+      "StationID": 2250,
+      "StationName": "สน.โชคชัย",
+      "ProvinceID": 16,
+      "FnetID": 67
+    },
+    {
+      "StationID": 2251,
+      "StationName": "สน.วังทองหลาง",
+      "ProvinceID": 16,
+      "FnetID": 72
+    },
+    {
+      "StationID": 2252,
+      "StationName": "สน.ท่าเรือ",
+      "ProvinceID": 16,
+      "FnetID": 79
+    },
+    {
+      "StationID": 2253,
+      "StationName": "สน.ลุมพินี",
+      "ProvinceID": 16,
+      "FnetID": 84
+    },
+    {
+      "StationID": 2254,
+      "StationName": "สน.ทุ่งมหาเมฆ",
+      "ProvinceID": 16,
+      "FnetID": 80
+    },
+    {
+      "StationID": 2255,
+      "StationName": "สน.บางโพงพาง",
+      "ProvinceID": 16,
+      "FnetID": 81
+    },
+    {
+      "StationID": 2256,
+      "StationName": "สน.วัดพระยาไกร",
+      "ProvinceID": 16,
+      "FnetID": 85
+    },
+    {
+      "StationID": 2257,
+      "StationName": "สน.พระโขนง",
+      "ProvinceID": 16,
+      "FnetID": 83
+    },
+    {
+      "StationID": 2258,
+      "StationName": "สน.บางนา",
+      "ProvinceID": 16,
+      "FnetID": 82
+    },
+    {
+      "StationID": 2259,
+      "StationName": "สน.คลองตัน",
+      "ProvinceID": 16,
+      "FnetID": 77
+    },
+    {
+      "StationID": 2260,
+      "StationName": "สน.ทองหล่อ",
+      "ProvinceID": 16,
+      "FnetID": 78
+    },
+    {
+      "StationID": 2261,
+      "StationName": "สน.สำราญราษฎร์",
+      "ProvinceID": 16,
+      "FnetID": 95
+    },
+    {
+      "StationID": 2262,
+      "StationName": "สน.พระราชวัง",
+      "ProvinceID": 16,
+      "FnetID": 91
+    },
+    {
+      "StationID": 2263,
+      "StationName": "สน.จักรวรรดิ",
+      "ProvinceID": 16,
+      "FnetID": 88
+    },
+    {
+      "StationID": 2264,
+      "StationName": "สน.พลับพลาไชย 1",
+      "ProvinceID": 16,
+      "FnetID": 2988
+    },
+    {
+      "StationID": 2265,
+      "StationName": "สน.พลับพลาไชย 2",
+      "ProvinceID": 16,
+      "FnetID": 93
+    },
+    {
+      "StationID": 2266,
+      "StationName": "สน.ปทุมวัน",
+      "ProvinceID": 16,
+      "FnetID": 90
+    },
+    {
+      "StationID": 2267,
+      "StationName": "สน.บางรัก",
+      "ProvinceID": 16,
+      "FnetID": 89
+    },
+    {
+      "StationID": 2268,
+      "StationName": "สน.ยานนาวา",
+      "ProvinceID": 16,
+      "FnetID": 94
+    },
+    {
+      "StationID": 2269,
+      "StationName": "สน.บางกอกน้อย",
+      "ProvinceID": 16,
+      "FnetID": 104
+    },
+    {
+      "StationID": 2270,
+      "StationName": "สน.ท่าพระ",
+      "ProvinceID": 16,
+      "FnetID": 99
+    },
+    {
+      "StationID": 2271,
+      "StationName": "สน.บางพลัด",
+      "ProvinceID": 16,
+      "FnetID": 106
+    },
+    {
+      "StationID": 2272,
+      "StationName": "สน.บางยี่ขัน",
+      "ProvinceID": 16,
+      "FnetID": 107
+    },
+    {
+      "StationID": 2273,
+      "StationName": "สน.ตลิ่งชัน",
+      "ProvinceID": 16,
+      "FnetID": 98
+    },
+    {
+      "StationID": 2274,
+      "StationName": "สน.บุปผาราม",
+      "ProvinceID": 16,
+      "FnetID": 117
+    },
+    {
+      "StationID": 2275,
+      "StationName": "สน.สำเหร่",
+      "ProvinceID": 16,
+      "FnetID": 121
+    },
+    {
+      "StationID": 2276,
+      "StationName": "สน.บุคคโล",
+      "ProvinceID": 16,
+      "FnetID": 116
+    },
+    {
+      "StationID": 2277,
+      "StationName": "สน.ราษฎร์บูรณะ",
+      "ProvinceID": 16,
+      "FnetID": 4738
+    },
+    {
+      "StationID": 2278,
+      "StationName": "สน.ทุ่งครุ",
+      "ProvinceID": 16,
+      "FnetID": 112
+    },
+    {
+      "StationID": 2279,
+      "StationName": "สน.บางขุนเทียน",
+      "ProvinceID": 16,
+      "FnetID": 128
+    },
+    {
+      "StationID": 2280,
+      "StationName": "สน.ท่าข้าม",
+      "ProvinceID": 16,
+      "FnetID": 127
+    },
+    {
+      "StationID": 2281,
+      "StationName": "สน.ภาษีเจริญ",
+      "ProvinceID": 16,
+      "FnetID": 130
+    },
+    {
+      "StationID": 2282,
+      "StationName": "สน.หลักสอง",
+      "ProvinceID": 16,
+      "FnetID": 133
+    },
+    {
+      "StationID": 2283,
+      "StationName": "สน.บางโพ",
+      "ProvinceID": 16,
+      "FnetID": 39
+    },
+    {
+      "StationID": 2284,
+      "StationName": "สน.คันนายาว",
+      "ProvinceID": 16,
+      "FnetID": 17
+    },
+    {
+      "StationID": 2285,
+      "StationName": "สน.โคกคราม",
+      "ProvinceID": 16,
+      "FnetID": 44
+    },
+    {
+      "StationID": 2286,
+      "StationName": "สน.สายไหม",
+      "ProvinceID": 16,
+      "FnetID": 50
+    },
+    {
+      "StationID": 2287,
+      "StationName": "สน.หนองจอก",
+      "ProvinceID": 16,
+      "FnetID": 64
+    },
+    {
+      "StationID": 2288,
+      "StationName": "สน.ลำผักชี",
+      "ProvinceID": 16,
+      "FnetID": 61
+    },
+    {
+      "StationID": 2289,
+      "StationName": "สน.ลำหิน",
+      "ProvinceID": 16,
+      "FnetID": 62
+    },
+    {
+      "StationID": 2290,
+      "StationName": "สน.จรเข้น้อย",
+      "ProvinceID": 16,
+      "FnetID": 54
+    },
+    {
+      "StationID": 2291,
+      "StationName": "สน.ลาดกระบัง",
+      "ProvinceID": 16,
+      "FnetID": 60
+    },
+    {
+      "StationID": 2292,
+      "StationName": "สน.นิมิตรใหม่",
+      "ProvinceID": 16,
+      "FnetID": 2321
+    },
+    {
+      "StationID": 2293,
+      "StationName": "สน.ประชาสำราญ",
+      "ProvinceID": 16,
+      "FnetID": 57
+    },
+    {
+      "StationID": 2294,
+      "StationName": "สน.ฉลองกรุง",
+      "ProvinceID": 16,
+      "FnetID": 55
+    },
+    {
+      "StationID": 2295,
+      "StationName": "สน.ร่มเกล้า",
+      "ProvinceID": 16,
+      "FnetID": 59
+    },
+    {
+      "StationID": 2296,
+      "StationName": "สน.สุวินทวงศ์",
+      "ProvinceID": 16,
+      "FnetID": 63
+    },
+    {
+      "StationID": 2297,
+      "StationName": "สน.บางชัน",
+      "ProvinceID": 16,
+      "FnetID": 68
+    },
+    {
+      "StationID": 2298,
+      "StationName": "สน.บึงกุ่ม",
+      "ProvinceID": 16,
+      "FnetID": 69
+    },
+    {
+      "StationID": 2299,
+      "StationName": "สน.อุดมสุข",
+      "ProvinceID": 16,
+      "FnetID": 74
+    },
+    {
+      "StationID": 2300,
+      "StationName": "สน.บวรมงคล",
+      "ProvinceID": 16,
+      "FnetID": 101
+    },
+    {
+      "StationID": 2301,
+      "StationName": "สน.บางกอกใหญ่",
+      "ProvinceID": 16,
+      "FnetID": 103
+    },
+    {
+      "StationID": 2302,
+      "StationName": "สน.บางเสาธง",
+      "ProvinceID": 16,
+      "FnetID": 102
+    },
+    {
+      "StationID": 2303,
+      "StationName": "สน.บางขุนนนท์",
+      "ProvinceID": 16,
+      "FnetID": 105
+    },
+    {
+      "StationID": 2304,
+      "StationName": "สน.ศาลาแดง",
+      "ProvinceID": 16,
+      "FnetID": 108
+    },
+    {
+      "StationID": 2305,
+      "StationName": "สน.ธรรมศาลา",
+      "ProvinceID": 16,
+      "FnetID": 100
+    },
+    {
+      "StationID": 2306,
+      "StationName": "สน.บางยี่เรือ",
+      "ProvinceID": 16,
+      "FnetID": 115
+    },
+    {
+      "StationID": 2307,
+      "StationName": "สน.ตลาดพลู",
+      "ProvinceID": 16,
+      "FnetID": 111
+    },
+    {
+      "StationID": 2308,
+      "StationName": "สน.สมเด็จเจ้าพระยา",
+      "ProvinceID": 16,
+      "FnetID": 120
+    },
+    {
+      "StationID": 2309,
+      "StationName": "สน.บางมด",
+      "ProvinceID": 16,
+      "FnetID": 114
+    },
+    {
+      "StationID": 2310,
+      "StationName": "สน.ปากคลองสาน",
+      "ProvinceID": 16,
+      "FnetID": 118
+    },
+    {
+      "StationID": 2311,
+      "StationName": "สน.บางคอแหลม",
+      "ProvinceID": 16,
+      "FnetID": 113
+    },
+    {
+      "StationID": 2312,
+      "StationName": "สน.หนองแขม",
+      "ProvinceID": 16,
+      "FnetID": 131
+    },
+    {
+      "StationID": 2313,
+      "StationName": "สน.บางบอน",
+      "ProvinceID": 16,
+      "FnetID": 129
+    },
+    {
+      "StationID": 2314,
+      "StationName": "สน.เพชรเกษม",
+      "ProvinceID": 16,
+      "FnetID": 125
+    },
+    {
+      "StationID": 2315,
+      "StationName": "สน.หนองค้างพลู",
+      "ProvinceID": 16,
+      "FnetID": 132
+    },
+    {
+      "StationID": 2316,
+      "StationName": "สน.แสมดำ",
+      "ProvinceID": 16,
+      "FnetID": 126
+    },
+    {
+      "StationID": 2317,
+      "StationName": "สน.เทียนทะเล",
+      "ProvinceID": 16,
+      "FnetID": 124
+    },
+    {
+      "StationID": 2318,
+      "StationName": "สภ.เมืองกระบี่",
+      "ProvinceID": 6,
+      "FnetID": 3394
+    },
+    {
+      "StationID": 2327,
+      "StationName": "สภ.อ่าวนาง",
+      "ProvinceID": 6,
+      "FnetID": 6085
+    },
+    {
+      "StationID": 2328,
+      "StationName": "สภ.เมืองกาญจนบุรี",
+      "ProvinceID": 71,
+      "FnetID": 1439
+    },
+    {
+      "StationID": 2329,
+      "StationName": "สภ.ลาดหญ้า",
+      "ProvinceID": 71,
+      "FnetID": 1451
+    },
+    {
+      "StationID": 2330,
+      "StationName": "สภ.ท่าม่วง",
+      "ProvinceID": 71,
+      "FnetID": 1446
+    },
+    {
+      "StationID": 2331,
+      "StationName": "สภ.สำรอง",
+      "ProvinceID": 71,
+      "FnetID": 1455
+    },
+    {
+      "StationID": 2332,
+      "StationName": "สภ.ท่ามะกา",
+      "ProvinceID": 71,
+      "FnetID": 1447
+    },
+    {
+      "StationID": 2333,
+      "StationName": "สภ.ท่าเรือ",
+      "ProvinceID": 71,
+      "FnetID": 1445
+    },
+    {
+      "StationID": 2334,
+      "StationName": "สภ.ลูกแก",
+      "ProvinceID": 71,
+      "FnetID": 1452
+    },
+    {
+      "StationID": 2335,
+      "StationName": "สภ.พนมทวน",
+      "ProvinceID": 71,
+      "FnetID": 1450
+    },
+    {
+      "StationID": 2336,
+      "StationName": "สภ.บ่อพลอย",
+      "ProvinceID": 71,
+      "FnetID": 1448
+    },
+    {
+      "StationID": 2337,
+      "StationName": "สภ.หนองรี",
+      "ProvinceID": 71,
+      "FnetID": 1458
+    },
+    {
+      "StationID": 2338,
+      "StationName": "สภ.ด่านมะขามเตี้ย",
+      "ProvinceID": 71,
+      "FnetID": 1443
+    },
+    {
+      "StationID": 2339,
+      "StationName": "สภ.เลาขวัญ",
+      "ProvinceID": 71,
+      "FnetID": 1440
+    },
+    {
+      "StationID": 2340,
+      "StationName": "สภ.ทองผาภูมิ",
+      "ProvinceID": 71,
+      "FnetID": 1444
+    },
+    {
+      "StationID": 2341,
+      "StationName": "สภ.สังขละบุรี",
+      "ProvinceID": 71,
+      "FnetID": 1454
+    },
+    {
+      "StationID": 2342,
+      "StationName": "สภ.ศรีสวัสดิ์",
+      "ProvinceID": 71,
+      "FnetID": 1453
+    },
+    {
+      "StationID": 2343,
+      "StationName": "สภ.ไทรโยค",
+      "ProvinceID": 71,
+      "FnetID": 1441
+    },
+    {
+      "StationID": 2344,
+      "StationName": "สภ.หนองปรือ",
+      "ProvinceID": 71,
+      "FnetID": 1457
+    },
+    {
+      "StationID": 2345,
+      "StationName": "สภ.ห้วยกระเจา",
+      "ProvinceID": 71,
+      "FnetID": 1459
+    },
+    {
+      "StationID": 2346,
+      "StationName": "สภ.หนองขาว",
+      "ProvinceID": 71,
+      "FnetID": 1456
+    },
+    {
+      "StationID": 2347,
+      "StationName": "สภ.ด่านแม่แฉลบ",
+      "ProvinceID": 71,
+      "FnetID": 1442
+    },
+    {
+      "StationID": 2348,
+      "StationName": "สภ.เมืองกำแพงเพชร",
+      "ProvinceID": 64,
+      "FnetID": 1247
+    },
+    {
+      "StationID": 2349,
+      "StationName": "สภ.คลองขลุง",
+      "ProvinceID": 64,
+      "FnetID": 1251
+    },
+    {
+      "StationID": 2350,
+      "StationName": "สภ.ทรายทองวัฒนา",
+      "ProvinceID": 64,
+      "FnetID": 1255
+    },
+    {
+      "StationID": 2351,
+      "StationName": "สภ.ขาณุวรลักษบุรี",
+      "ProvinceID": 64,
+      "FnetID": 1250
+    },
+    {
+      "StationID": 2352,
+      "StationName": "สภ.พรานกระต่าย",
+      "ProvinceID": 64,
+      "FnetID": 1259
+    },
+    {
+      "StationID": 2353,
+      "StationName": "สภ.คลองพิไกร",
+      "ProvinceID": 64,
+      "FnetID": 1252
+    },
+    {
+      "StationID": 2354,
+      "StationName": "สภ.คลองลาน",
+      "ProvinceID": 64,
+      "FnetID": 1253
+    },
+    {
+      "StationID": 2355,
+      "StationName": "สภ.ไทรงาม",
+      "ProvinceID": 64,
+      "FnetID": 1249
+    },
+    {
+      "StationID": 2356,
+      "StationName": "สภ.ลานกระบือ",
+      "ProvinceID": 64,
+      "FnetID": 1260
+    },
+    {
+      "StationID": 2357,
+      "StationName": "สภ.ปางศิลาทอง",
+      "ProvinceID": 64,
+      "FnetID": 1258
+    },
+    {
+      "StationID": 2358,
+      "StationName": "สภ.บึงสามัคคี",
+      "ProvinceID": 64,
+      "FnetID": 1256
+    },
+    {
+      "StationID": 2359,
+      "StationName": "สภ.โกสัมพีนคร",
+      "ProvinceID": 64,
+      "FnetID": 1248
+    },
+    {
+      "StationID": 2360,
+      "StationName": "สภ.ปางมะค่า",
+      "ProvinceID": 64,
+      "FnetID": 1257
+    },
+    {
+      "StationID": 2361,
+      "StationName": "สภ.เมืองกาฬสินธุ์",
+      "ProvinceID": 49,
+      "FnetID": 788
+    },
+    {
+      "StationID": 2362,
+      "StationName": "สภ.ดอนจาน",
+      "ProvinceID": 49,
+      "FnetID": 795
+    },
+    {
+      "StationID": 2363,
+      "StationName": "สภ.ยางตลาด",
+      "ProvinceID": 49,
+      "FnetID": 801
+    },
+    {
+      "StationID": 2364,
+      "StationName": "สภ.กมลาไสย",
+      "ProvinceID": 49,
+      "FnetID": 791
+    },
+    {
+      "StationID": 2365,
+      "StationName": "สภ.ท่าคันโท",
+      "ProvinceID": 49,
+      "FnetID": 796
+    },
+    {
+      "StationID": 2366,
+      "StationName": "สภ.ห้วยเม็ก",
+      "ProvinceID": 49,
+      "FnetID": 808
+    },
+    {
+      "StationID": 2367,
+      "StationName": "สภ.หนองกุงศรี",
+      "ProvinceID": 49,
+      "FnetID": 807
+    },
+    {
+      "StationID": 2368,
+      "StationName": "สภ.ร่องคำ",
+      "ProvinceID": 49,
+      "FnetID": 802
+    },
+    {
+      "StationID": 2369,
+      "StationName": "สภ.สมเด็จ",
+      "ProvinceID": 49,
+      "FnetID": 804
+    },
+    {
+      "StationID": 2370,
+      "StationName": "สภ.เขาวง",
+      "ProvinceID": 49,
+      "FnetID": 787
+    },
+    {
+      "StationID": 2371,
+      "StationName": "สภ.นาคู",
+      "ProvinceID": 49,
+      "FnetID": 798
+    },
+    {
+      "StationID": 2372,
+      "StationName": "สภ.คำม่วง",
+      "ProvinceID": 49,
+      "FnetID": 793
+    },
+    {
+      "StationID": 2373,
+      "StationName": "สภ.นามน",
+      "ProvinceID": 49,
+      "FnetID": 799
+    },
+    {
+      "StationID": 2374,
+      "StationName": "สภ.สหัสขันธ์",
+      "ProvinceID": 49,
+      "FnetID": 805
+    },
+    {
+      "StationID": 2375,
+      "StationName": "สภ.กุฉินารายณ์",
+      "ProvinceID": 49,
+      "FnetID": 792
+    },
+    {
+      "StationID": 2376,
+      "StationName": "สภ.ห้วยผึ้ง",
+      "ProvinceID": 49,
+      "FnetID": 809
+    },
+    {
+      "StationID": 2377,
+      "StationName": "สภ.สามชัย",
+      "ProvinceID": 49,
+      "FnetID": 806
+    },
+    {
+      "StationID": 2378,
+      "StationName": "สภ.ฆ้องชัย",
+      "ProvinceID": 49,
+      "FnetID": 794
+    },
+    {
+      "StationID": 2379,
+      "StationName": "สภ.โนนสูง",
+      "ProvinceID": 49,
+      "FnetID": 790
+    },
+    {
+      "StationID": 2380,
+      "StationName": "สภ.นากุง",
+      "ProvinceID": 49,
+      "FnetID": 797
+    },
+    {
+      "StationID": 2381,
+      "StationName": "สภ.เมืองขอนแก่น",
+      "ProvinceID": 43,
+      "FnetID": 814
+    },
+    {
+      "StationID": 2382,
+      "StationName": "สภ.น้ำพอง",
+      "ProvinceID": 43,
+      "FnetID": 824
+    },
+    {
+      "StationID": 2383,
+      "StationName": "สภ.กระนวน",
+      "ProvinceID": 43,
+      "FnetID": 820
+    },
+    {
+      "StationID": 2384,
+      "StationName": "สภ.ซำสูง",
+      "ProvinceID": 43,
+      "FnetID": 823
+    },
+    {
+      "StationID": 2385,
+      "StationName": "สภ.พระยืน",
+      "ProvinceID": 43,
+      "FnetID": 828
+    },
+    {
+      "StationID": 2386,
+      "StationName": "สภ.อุบลรัตน์",
+      "ProvinceID": 43,
+      "FnetID": 837
+    },
+    {
+      "StationID": 2387,
+      "StationName": "สภ.บ้านฝาง",
+      "ProvinceID": 43,
+      "FnetID": 827
+    },
+    {
+      "StationID": 2388,
+      "StationName": "สภ.เขาสวนกวาง",
+      "ProvinceID": 43,
+      "FnetID": 812
+    },
+    {
+      "StationID": 2389,
+      "StationName": "สภ.พล",
+      "ProvinceID": 43,
+      "FnetID": 829
+    },
+    {
+      "StationID": 2390,
+      "StationName": "สภ.ชนบท",
+      "ProvinceID": 43,
+      "FnetID": 821
+    },
+    {
+      "StationID": 2391,
+      "StationName": "สภ.หนองสองห้อง",
+      "ProvinceID": 43,
+      "FnetID": 836
+    },
+    {
+      "StationID": 2392,
+      "StationName": "สภ.แวงน้อย",
+      "ProvinceID": 43,
+      "FnetID": 817
+    },
+    {
+      "StationID": 2393,
+      "StationName": "สภ.แวงใหญ่",
+      "ProvinceID": 43,
+      "FnetID": 816
+    },
+    {
+      "StationID": 2394,
+      "StationName": "สภ.บ้านไผ่",
+      "ProvinceID": 43,
+      "FnetID": 826
+    },
+    {
+      "StationID": 2395,
+      "StationName": "สภ.บ้านแฮด",
+      "ProvinceID": 43,
+      "FnetID": 825
+    },
+    {
+      "StationID": 2396,
+      "StationName": "สภ.โนนศิลา",
+      "ProvinceID": 43,
+      "FnetID": 819
+    },
+    {
+      "StationID": 2397,
+      "StationName": "สภ.มัญจาคีรี",
+      "ProvinceID": 43,
+      "FnetID": 832
+    },
+    {
+      "StationID": 2398,
+      "StationName": "สภ.โคกโพธิ์ไชย",
+      "ProvinceID": 43,
+      "FnetID": 818
+    },
+    {
+      "StationID": 2399,
+      "StationName": "สภ.เปือยน้อย",
+      "ProvinceID": 43,
+      "FnetID": 813
+    },
+    {
+      "StationID": 2400,
+      "StationName": "สภ.ชุมแพ",
+      "ProvinceID": 43,
+      "FnetID": 822
+    },
+    {
+      "StationID": 2401,
+      "StationName": "สภ.ภูเวียง",
+      "ProvinceID": 43,
+      "FnetID": 830
+    },
+    {
+      "StationID": 2402,
+      "StationName": "สภ.หนองเรือ",
+      "ProvinceID": 43,
+      "FnetID": 834
+    },
+    {
+      "StationID": 2403,
+      "StationName": "สภ.สีชมพู",
+      "ProvinceID": 43,
+      "FnetID": 833
+    },
+    {
+      "StationID": 2404,
+      "StationName": "สภ.ภูผาม่าน",
+      "ProvinceID": 43,
+      "FnetID": 831
+    },
+    {
+      "StationID": 2405,
+      "StationName": "สภ.หนองนาคำ",
+      "ProvinceID": 43,
+      "FnetID": 835
+    },
+    {
+      "StationID": 2407,
+      "StationName": "สภ.บ้านเป็ด",
+      "ProvinceID": 43,
+      "FnetID": 6064
+    },
+    {
+      "StationID": 2408,
+      "StationName": "สภ.ท่าพระ",
+      "ProvinceID": 43,
+      "FnetID": 6088
+    },
+    {
+      "StationID": 2409,
+      "StationName": "สภ.เวฬุวัน",
+      "ProvinceID": 43,
+      "FnetID": 6044
+    },
+    {
+      "StationID": 2410,
+      "StationName": "สภ.เมืองไหม",
+      "ProvinceID": 43,
+      "FnetID": 6052
+    },
+    {
+      "StationID": 2411,
+      "StationName": "สภ.เมืองจันทบุรี",
+      "ProvinceID": 28,
+      "FnetID": 349
+    },
+    {
+      "StationID": 2412,
+      "StationName": "สภ.ขลุง",
+      "ProvinceID": 28,
+      "FnetID": 353
+    },
+    {
+      "StationID": 2413,
+      "StationName": "สภ.โป่งน้ำร้อน",
+      "ProvinceID": 28,
+      "FnetID": 352
+    },
+    {
+      "StationID": 2414,
+      "StationName": "สภ.มะขาม",
+      "ProvinceID": 28,
+      "FnetID": 358
+    },
+    {
+      "StationID": 2415,
+      "StationName": "สภ.ท่าใหม่",
+      "ProvinceID": 28,
+      "FnetID": 355
+    },
+    {
+      "StationID": 2416,
+      "StationName": "สภ.ทุ่งเบญจา",
+      "ProvinceID": 28,
+      "FnetID": 356
+    },
+    {
+      "StationID": 2417,
+      "StationName": "สภ.นายายอาม",
+      "ProvinceID": 28,
+      "FnetID": 357
+    },
+    {
+      "StationID": 2418,
+      "StationName": "สภ.แหลมสิงห์",
+      "ProvinceID": 28,
+      "FnetID": 351
+    },
+    {
+      "StationID": 2419,
+      "StationName": "สภ.สอยดาว",
+      "ProvinceID": 28,
+      "FnetID": 359
+    },
+    {
+      "StationID": 2420,
+      "StationName": "สภ.แก่งหางแมว",
+      "ProvinceID": 28,
+      "FnetID": 350
+    },
+    {
+      "StationID": 2421,
+      "StationName": "สภ.เขาคิชฌกูฎ",
+      "ProvinceID": 28,
+      "FnetID": 3884
+    },
+    {
+      "StationID": 2422,
+      "StationName": "สภ.บ้านแปลง",
+      "ProvinceID": 28,
+      "FnetID": 3170
+    },
+    {
+      "StationID": 2423,
+      "StationName": "สภ.สะตอน",
+      "ProvinceID": 28,
+      "FnetID": 360
+    },
+    {
+      "StationID": 2424,
+      "StationName": "สภ.เมืองฉะเชิงเทรา",
+      "ProvinceID": 30,
+      "FnetID": 364
+    },
+    {
+      "StationID": 2425,
+      "StationName": "สภ.บางปะกง",
+      "ProvinceID": 30,
+      "FnetID": 6156
+    },
+    {
+      "StationID": 2426,
+      "StationName": "สภ.บางนาเปรี้ยว",
+      "ProvinceID": 30,
+      "FnetID": 372
+    },
+    {
+      "StationID": 2427,
+      "StationName": "สภ.ฉิมพลี",
+      "ProvinceID": 30,
+      "FnetID": 368
+    },
+    {
+      "StationID": 2428,
+      "StationName": "สภ.บ้านโพธิ์",
+      "ProvinceID": 30,
+      "FnetID": 5177
+    },
+    {
+      "StationID": 2429,
+      "StationName": "สภ.พนมสารคาม",
+      "ProvinceID": 30,
+      "FnetID": 375
+    },
+    {
+      "StationID": 2430,
+      "StationName": "สภ.บางคล้า",
+      "ProvinceID": 30,
+      "FnetID": 371
+    },
+    {
+      "StationID": 2431,
+      "StationName": "สภ.สนามชัยเขต",
+      "ProvinceID": 30,
+      "FnetID": 378
+    },
+    {
+      "StationID": 2432,
+      "StationName": "สภ.แปลงยาว",
+      "ProvinceID": 30,
+      "FnetID": 365
+    },
+    {
+      "StationID": 2433,
+      "StationName": "สภ.ราชสาส์น",
+      "ProvinceID": 30,
+      "FnetID": 376
+    },
+    {
+      "StationID": 2434,
+      "StationName": "สภ.เขาหินซ้อน",
+      "ProvinceID": 30,
+      "FnetID": 363
+    },
+    {
+      "StationID": 2435,
+      "StationName": "สภ.ท่าตะเกียบ",
+      "ProvinceID": 30,
+      "FnetID": 369
+    },
+    {
+      "StationID": 2436,
+      "StationName": "สภ.คลองเขื่อน",
+      "ProvinceID": 30,
+      "FnetID": 367
+    },
+    {
+      "StationID": 2437,
+      "StationName": "สภ.แสนภูดาษ",
+      "ProvinceID": 30,
+      "FnetID": 366
+    },
+    {
+      "StationID": 2438,
+      "StationName": "สภ.บางขนาก",
+      "ProvinceID": 30,
+      "FnetID": 370
+    },
+    {
+      "StationID": 2439,
+      "StationName": "สภ.วังคู",
+      "ProvinceID": 30,
+      "FnetID": 377
+    },
+    {
+      "StationID": 2440,
+      "StationName": "สภ.เมืองชลบุรี",
+      "ProvinceID": 26,
+      "FnetID": 385
+    },
+    {
+      "StationID": 2441,
+      "StationName": "สภ.หนองปรือ",
+      "ProvinceID": 26,
+      "FnetID": 6189
+    },
+    {
+      "StationID": 2442,
+      "StationName": "สภ.แสนสุข",
+      "ProvinceID": 26,
+      "FnetID": 5237
+    },
+    {
+      "StationID": 2443,
+      "StationName": "สภ.พนัสนิคม",
+      "ProvinceID": 26,
+      "FnetID": 397
+    },
+    {
+      "StationID": 2444,
+      "StationName": "สภ.พานทอง",
+      "ProvinceID": 26,
+      "FnetID": 399
+    },
+    {
+      "StationID": 2445,
+      "StationName": "สภ.บ้านบึง",
+      "ProvinceID": 26,
+      "FnetID": 396
+    },
+    {
+      "StationID": 2446,
+      "StationName": "สภ.คลองกิ่ว",
+      "ProvinceID": 26,
+      "FnetID": 390
+    },
+    {
+      "StationID": 2447,
+      "StationName": "สภ.บ่อทอง",
+      "ProvinceID": 26,
+      "FnetID": 393
+    },
+    {
+      "StationID": 2448,
+      "StationName": "สภ.หนองใหญ่",
+      "ProvinceID": 26,
+      "FnetID": 402
+    },
+    {
+      "StationID": 2449,
+      "StationName": "สภ.บางละมุง",
+      "ProvinceID": 26,
+      "FnetID": 395
+    },
+    {
+      "StationID": 2450,
+      "StationName": "สภ.เมืองพัทยา",
+      "ProvinceID": 26,
+      "FnetID": 386
+    },
+    {
+      "StationID": 2451,
+      "StationName": "สภ.สัตหีบ",
+      "ProvinceID": 26,
+      "FnetID": 401
+    },
+    {
+      "StationID": 2452,
+      "StationName": "สภ.พลูตาหลวง",
+      "ProvinceID": 26,
+      "FnetID": 398
+    },
+    {
+      "StationID": 2453,
+      "StationName": "สภ.ศรีราชา",
+      "ProvinceID": 26,
+      "FnetID": 400
+    },
+    {
+      "StationID": 2454,
+      "StationName": "สภ.บ่อวิน",
+      "ProvinceID": 26,
+      "FnetID": 394
+    },
+    {
+      "StationID": 2455,
+      "StationName": "สภ.เกาะสีชัง",
+      "ProvinceID": 26,
+      "FnetID": 384
+    },
+    {
+      "StationID": 2456,
+      "StationName": "สภ.แหลมฉบัง",
+      "ProvinceID": 26,
+      "FnetID": 389
+    },
+    {
+      "StationID": 2457,
+      "StationName": "สภ.เกาะจันทร์",
+      "ProvinceID": 26,
+      "FnetID": 383
+    },
+    {
+      "StationID": 2458,
+      "StationName": "สภ.เสม็ด",
+      "ProvinceID": 26,
+      "FnetID": 387
+    },
+    {
+      "StationID": 2459,
+      "StationName": "สภ.ดอนหัวฬ่อ",
+      "ProvinceID": 26,
+      "FnetID": 391
+    },
+    {
+      "StationID": 2460,
+      "StationName": "สภ.หนองขาม",
+      "ProvinceID": 26,
+      "FnetID": 403
+    },
+    {
+      "StationID": 2461,
+      "StationName": "สภ.ห้วยใหญ่",
+      "ProvinceID": 26,
+      "FnetID": 404
+    },
+    {
+      "StationID": 2462,
+      "StationName": "สภ.นาจอมเทียน",
+      "ProvinceID": 26,
+      "FnetID": 392
+    },
+    {
+      "StationID": 2463,
+      "StationName": "สภ.เมืองชัยนาท",
+      "ProvinceID": 24,
+      "FnetID": 182
+    },
+    {
+      "StationID": 2464,
+      "StationName": "สภ.มโนรมย์",
+      "ProvinceID": 24,
+      "FnetID": 185
+    },
+    {
+      "StationID": 2465,
+      "StationName": "สภ.วัดสิงห์",
+      "ProvinceID": 24,
+      "FnetID": 186
+    },
+    {
+      "StationID": 2466,
+      "StationName": "สภ.สรรพยา",
+      "ProvinceID": 24,
+      "FnetID": 188
+    },
+    {
+      "StationID": 2467,
+      "StationName": "สภ.สรรคบุรี",
+      "ProvinceID": 24,
+      "FnetID": 187
+    },
+    {
+      "StationID": 2468,
+      "StationName": "สภ.หันคา",
+      "ProvinceID": 24,
+      "FnetID": 192
+    },
+    {
+      "StationID": 2469,
+      "StationName": "สภ.เนินขาม",
+      "ProvinceID": 24,
+      "FnetID": 181
+    },
+    {
+      "StationID": 2470,
+      "StationName": "สภ.หนองมะโมง",
+      "ProvinceID": 24,
+      "FnetID": 189
+    },
+    {
+      "StationID": 2471,
+      "StationName": "สภ.หางน้ำสาคร",
+      "ProvinceID": 24,
+      "FnetID": 193
+    },
+    {
+      "StationID": 2472,
+      "StationName": "สภ.เมืองชัยภูมิ",
+      "ProvinceID": 40,
+      "FnetID": 500
+    },
+    {
+      "StationID": 2473,
+      "StationName": "สภ.บ้านค่าย",
+      "ProvinceID": 40,
+      "FnetID": 448
+    },
+    {
+      "StationID": 2474,
+      "StationName": "สภ.ลาดใหญ่",
+      "ProvinceID": 40,
+      "FnetID": 518
+    },
+    {
+      "StationID": 2475,
+      "StationName": "สภ.จัตุรัส",
+      "ProvinceID": 40,
+      "FnetID": 505
+    },
+    {
+      "StationID": 2476,
+      "StationName": "สภ.เนินสง่า",
+      "ProvinceID": 40,
+      "FnetID": 499
+    },
+    {
+      "StationID": 2477,
+      "StationName": "สภ.หนองบัวระเหว",
+      "ProvinceID": 40,
+      "FnetID": 522
+    },
+    {
+      "StationID": 2478,
+      "StationName": "สภ.บำเหน็จณรงค์",
+      "ProvinceID": 40,
+      "FnetID": 515
+    },
+    {
+      "StationID": 2479,
+      "StationName": "สภ.เทพสถิต",
+      "ProvinceID": 40,
+      "FnetID": 498
+    },
+    {
+      "StationID": 2480,
+      "StationName": "สภ.คอนสวรรค์",
+      "ProvinceID": 40,
+      "FnetID": 503
+    },
+    {
+      "StationID": 2481,
+      "StationName": "สภ.บ้านเขว้า",
+      "ProvinceID": 40,
+      "FnetID": 509
+    },
+    {
+      "StationID": 2482,
+      "StationName": "สภ.ภูเขียว",
+      "ProvinceID": 40,
+      "FnetID": 517
+    },
+    {
+      "StationID": 2484,
+      "StationName": "สภ.บ้านเป้า",
+      "ProvinceID": 40,
+      "FnetID": 511
+    },
+    {
+      "StationID": 2485,
+      "StationName": "สภ.บ้านเดื่อ",
+      "ProvinceID": 40,
+      "FnetID": 510
+    },
+    {
+      "StationID": 2486,
+      "StationName": "สภ.คอนสาร",
+      "ProvinceID": 40,
+      "FnetID": 504
+    },
+    {
+      "StationID": 2487,
+      "StationName": "สภ.ห้วยยาง",
+      "ProvinceID": 40,
+      "FnetID": 524
+    },
+    {
+      "StationID": 2488,
+      "StationName": "สภ.หนองบัวแดง",
+      "ProvinceID": 40,
+      "FnetID": 520
+    },
+    {
+      "StationID": 2489,
+      "StationName": "สภ.บ้านแท่น",
+      "ProvinceID": 40,
+      "FnetID": 514
+    },
+    {
+      "StationID": 2490,
+      "StationName": "สภ.ภักดีชุมพล",
+      "ProvinceID": 40,
+      "FnetID": 516
+    },
+    {
+      "StationID": 2491,
+      "StationName": "สภ.แก้งคร้อ",
+      "ProvinceID": 40,
+      "FnetID": 501
+    },
+    {
+      "StationID": 2492,
+      "StationName": "สภ.ซับใหญ่",
+      "ProvinceID": 40,
+      "FnetID": 507
+    },
+    {
+      "StationID": 2493,
+      "StationName": "สภ.หนองบัวโคก",
+      "ProvinceID": 40,
+      "FnetID": 521
+    },
+    {
+      "StationID": 2494,
+      "StationName": "สภ.วังตะเฆ่",
+      "ProvinceID": 40,
+      "FnetID": 519
+    },
+    {
+      "StationID": 2496,
+      "StationName": "สภ.ปากน้ำชุมพร",
+      "ProvinceID": 11,
+      "FnetID": 1572
+    },
+    {
+      "StationID": 2497,
+      "StationName": "สภ.บ้านวิสัยเหนือ",
+      "ProvinceID": 11,
+      "FnetID": 1569
+    },
+    {
+      "StationID": 2499,
+      "StationName": "สภ.ปากน้ำหลังสวน",
+      "ProvinceID": 11,
+      "FnetID": 1573
+    },
+    {
+      "StationID": 2500,
+      "StationName": "สภ.สวี",
+      "ProvinceID": 11,
+      "FnetID": 1577
+    },
+    {
+      "StationID": 2501,
+      "StationName": "สภ.นาสัก",
+      "ProvinceID": 11,
+      "FnetID": 1566
+    },
+    {
+      "StationID": 2502,
+      "StationName": "สภ.ปะทิว",
+      "ProvinceID": 11,
+      "FnetID": 1570
+    },
+    {
+      "StationID": 2503,
+      "StationName": "สภ.บ้านมาบอำมฤต",
+      "ProvinceID": 11,
+      "FnetID": 1568
+    },
+    {
+      "StationID": 2504,
+      "StationName": "สภ.ท่าแซะ",
+      "ProvinceID": 11,
+      "FnetID": 1564
+    },
+    {
+      "StationID": 2506,
+      "StationName": "สภ.ละแม",
+      "ProvinceID": 11,
+      "FnetID": 1575
+    },
+    {
+      "StationID": 2509,
+      "StationName": "สภ.เมืองเชียงราย",
+      "ProvinceID": 60,
+      "FnetID": 1094
+    },
+    {
+      "StationID": 2510,
+      "StationName": "สภ.แม่จัน",
+      "ProvinceID": 60,
+      "FnetID": 3357
+    },
+    {
+      "StationID": 2511,
+      "StationName": "สภ.แม่สาย",
+      "ProvinceID": 60,
+      "FnetID": 1102
+    },
+    {
+      "StationID": 2512,
+      "StationName": "สภ.เชียงแสน",
+      "ProvinceID": 60,
+      "FnetID": 3621
+    },
+    {
+      "StationID": 2513,
+      "StationName": "สภ.แม่สรวย",
+      "ProvinceID": 60,
+      "FnetID": 1101
+    },
+    {
+      "StationID": 2514,
+      "StationName": "สภ.เวียงป่าเป้า",
+      "ProvinceID": 60,
+      "FnetID": 1098
+    },
+    {
+      "StationID": 2515,
+      "StationName": "สภ.แม่เจดีย์",
+      "ProvinceID": 60,
+      "FnetID": 1099
+    },
+    {
+      "StationID": 2516,
+      "StationName": "สภ.เวียงชัย",
+      "ProvinceID": 60,
+      "FnetID": 1097
+    },
+    {
+      "StationID": 2517,
+      "StationName": "สภ.เทิง",
+      "ProvinceID": 60,
+      "FnetID": 2329
+    },
+    {
+      "StationID": 2518,
+      "StationName": "สภ.ขุนตาล",
+      "ProvinceID": 60,
+      "FnetID": 2331
+    },
+    {
+      "StationID": 2519,
+      "StationName": "สภ.เชียงของ",
+      "ProvinceID": 60,
+      "FnetID": 3667
+    },
+    {
+      "StationID": 2520,
+      "StationName": "สภ.พาน",
+      "ProvinceID": 60,
+      "FnetID": 1108
+    },
+    {
+      "StationID": 2521,
+      "StationName": "สภ.ป่าแดด",
+      "ProvinceID": 60,
+      "FnetID": 1106
+    },
+    {
+      "StationID": 2522,
+      "StationName": "สภ.พญาเม็งราย",
+      "ProvinceID": 60,
+      "FnetID": 1107
+    },
+    {
+      "StationID": 2523,
+      "StationName": "สภ.เวียงแก่น",
+      "ProvinceID": 60,
+      "FnetID": 1096
+    },
+    {
+      "StationID": 2524,
+      "StationName": "สภ.แม่ฟ้าหลวง",
+      "ProvinceID": 60,
+      "FnetID": 3361
+    },
+    {
+      "StationID": 2525,
+      "StationName": "สภ.ดอยหลวง",
+      "ProvinceID": 60,
+      "FnetID": 1104
+    },
+    {
+      "StationID": 2526,
+      "StationName": "สภ.แม่ลาว",
+      "ProvinceID": 60,
+      "FnetID": 4151
+    },
+    {
+      "StationID": 2527,
+      "StationName": "สภ.เวียงเชียงรุ้ง",
+      "ProvinceID": 60,
+      "FnetID": 1095
+    },
+    {
+      "StationID": 2528,
+      "StationName": "สภ.บ้านแซว",
+      "ProvinceID": 60,
+      "FnetID": 4032
+    },
+    {
+      "StationID": 2529,
+      "StationName": "สภ.เกาะช้าง",
+      "ProvinceID": 60,
+      "FnetID": 1093
+    },
+    {
+      "StationID": 2530,
+      "StationName": "สภ.แม่ยาว",
+      "ProvinceID": 60,
+      "FnetID": 1100
+    },
+    {
+      "StationID": 2531,
+      "StationName": "สภ.บ้านดู่",
+      "ProvinceID": 60,
+      "FnetID": 986
+    },
+    {
+      "StationID": 2532,
+      "StationName": "สภ.บุญเรือง",
+      "ProvinceID": 60,
+      "FnetID": 1105
+    },
+    {
+      "StationID": 2533,
+      "StationName": "สภ.เมืองเชียงใหม่",
+      "ProvinceID": 53,
+      "FnetID": 1058
+    },
+    {
+      "StationID": 2534,
+      "StationName": "สภ.แม่ปิง",
+      "ProvinceID": 53,
+      "FnetID": 1064
+    },
+    {
+      "StationID": 2535,
+      "StationName": "สภ.ภูพิงค์",
+      "ProvinceID": 53,
+      "FnetID": 6199
+    },
+    {
+      "StationID": 2536,
+      "StationName": "สภ.ช้างเผือก",
+      "ProvinceID": 53,
+      "FnetID": 1072
+    },
+    {
+      "StationID": 2537,
+      "StationName": "สภ.สารภี",
+      "ProvinceID": 53,
+      "FnetID": 1085
+    },
+    {
+      "StationID": 2538,
+      "StationName": "สภ.แม่ริม",
+      "ProvinceID": 53,
+      "FnetID": 1065
+    },
+    {
+      "StationID": 2539,
+      "StationName": "สภ.สะเมิง",
+      "ProvinceID": 53,
+      "FnetID": 4648
+    },
+    {
+      "StationID": 2540,
+      "StationName": "สภ.หางดง",
+      "ProvinceID": 53,
+      "FnetID": 1087
+    },
+    {
+      "StationID": 2541,
+      "StationName": "สภ.สันป่าตอง",
+      "ProvinceID": 53,
+      "FnetID": 1084
+    },
+    {
+      "StationID": 2542,
+      "StationName": "สภ.แม่วาง",
+      "ProvinceID": 53,
+      "FnetID": 1066
+    },
+    {
+      "StationID": 2543,
+      "StationName": "สภ.สันทราย",
+      "ProvinceID": 53,
+      "FnetID": 1083
+    },
+    {
+      "StationID": 2544,
+      "StationName": "สภ.แม่แฝก",
+      "ProvinceID": 53,
+      "FnetID": 1062
+    },
+    {
+      "StationID": 2545,
+      "StationName": "สภ.สันกำแพง",
+      "ProvinceID": 53,
+      "FnetID": 1082
+    },
+    {
+      "StationID": 2546,
+      "StationName": "สภ.ดอยสะเก็ด",
+      "ProvinceID": 53,
+      "FnetID": 1074
+    },
+    {
+      "StationID": 2547,
+      "StationName": "สภ.แม่แตง",
+      "ProvinceID": 53,
+      "FnetID": 1061
+    },
+    {
+      "StationID": 2548,
+      "StationName": "สภ.พร้าว",
+      "ProvinceID": 53,
+      "FnetID": 4220
+    },
+    {
+      "StationID": 2549,
+      "StationName": "สภ.ฝาง",
+      "ProvinceID": 53,
+      "FnetID": 1079
+    },
+    {
+      "StationID": 2550,
+      "StationName": "สภ.เชียงดาว",
+      "ProvinceID": 53,
+      "FnetID": 1057
+    },
+    {
+      "StationID": 2551,
+      "StationName": "สภ.แม่อาย",
+      "ProvinceID": 53,
+      "FnetID": 1068
+    },
+    {
+      "StationID": 2552,
+      "StationName": "สภ.เวียงแหง",
+      "ProvinceID": 53,
+      "FnetID": 1059
+    },
+    {
+      "StationID": 2553,
+      "StationName": "สภ.ไชยปราการ",
+      "ProvinceID": 53,
+      "FnetID": 1069
+    },
+    {
+      "StationID": 2554,
+      "StationName": "สภ.ฮอด",
+      "ProvinceID": 53,
+      "FnetID": 1089
+    },
+    {
+      "StationID": 2555,
+      "StationName": "สภ.บ่อหลวง",
+      "ProvinceID": 53,
+      "FnetID": 1077
+    },
+    {
+      "StationID": 2556,
+      "StationName": "สภ.จอมทอง",
+      "ProvinceID": 53,
+      "FnetID": 1071
+    },
+    {
+      "StationID": 2557,
+      "StationName": "สภ.แม่แจ่ม",
+      "ProvinceID": 53,
+      "FnetID": 1060
+    },
+    {
+      "StationID": 2558,
+      "StationName": "สภ.อมก๋อย",
+      "ProvinceID": 53,
+      "FnetID": 1088
+    },
+    {
+      "StationID": 2559,
+      "StationName": "สภ.ดอยเต่า",
+      "ProvinceID": 53,
+      "FnetID": 1073
+    },
+    {
+      "StationID": 2560,
+      "StationName": "สภ.หนองตอง",
+      "ProvinceID": 53,
+      "FnetID": 1086
+    },
+    {
+      "StationID": 2561,
+      "StationName": "สภ.ดอยหล่อ",
+      "ProvinceID": 53,
+      "FnetID": 1075
+    },
+    {
+      "StationID": 2562,
+      "StationName": "สภ.แม่ออน",
+      "ProvinceID": 53,
+      "FnetID": 1067
+    },
+    {
+      "StationID": 2563,
+      "StationName": "สภ.นาหวาย",
+      "ProvinceID": 53,
+      "FnetID": 1076
+    },
+    {
+      "StationID": 2564,
+      "StationName": "สภ.แม่กา",
+      "ProvinceID": 53,
+      "FnetID": 3652
+    },
+    {
+      "StationID": 2565,
+      "StationName": "สภ.แม่โจ้",
+      "ProvinceID": 53,
+      "FnetID": 6098
+    },
+    {
+      "StationID": 2566,
+      "StationName": "สภ.โหล่งขอด",
+      "ProvinceID": 53,
+      "FnetID": 4979
+    },
+    {
+      "StationID": 2567,
+      "StationName": "สภ.แม่ตื่น",
+      "ProvinceID": 53,
+      "FnetID": 1063
+    },
+    {
+      "StationID": 2568,
+      "StationName": "สภ.กัลยาณิวัฒนา",
+      "ProvinceID": 53,
+      "FnetID": 1070
+    },
+    {
+      "StationID": 2577,
+      "StationName": "สภ.หาดสำราญ",
+      "ProvinceID": 7,
+      "FnetID": 1710
+    },
+    {
+      "StationID": 2582,
+      "StationName": "สภ.เมืองตราด",
+      "ProvinceID": 29,
+      "FnetID": 410
+    },
+    {
+      "StationID": 2583,
+      "StationName": "สภ.บ้านท่าเลื่อน",
+      "ProvinceID": 29,
+      "FnetID": 416
+    },
+    {
+      "StationID": 2584,
+      "StationName": "สภ.แหลมงอบ",
+      "ProvinceID": 29,
+      "FnetID": 411
+    },
+    {
+      "StationID": 2585,
+      "StationName": "สภ.เขาสมิง",
+      "ProvinceID": 29,
+      "FnetID": 409
+    },
+    {
+      "StationID": 2586,
+      "StationName": "สภ.คลองใหญ่",
+      "ProvinceID": 29,
+      "FnetID": 413
+    },
+    {
+      "StationID": 2587,
+      "StationName": "สภ.บ่อไร่",
+      "ProvinceID": 29,
+      "FnetID": 415
+    },
+    {
+      "StationID": 2588,
+      "StationName": "สภ.เกาะกูด",
+      "ProvinceID": 29,
+      "FnetID": 407
+    },
+    {
+      "StationID": 2589,
+      "StationName": "สภ.เกาะช้าง",
+      "ProvinceID": 29,
+      "FnetID": 408
+    },
+    {
+      "StationID": 2590,
+      "StationName": "สภ.เมืองตาก",
+      "ProvinceID": 65,
+      "FnetID": 3089
+    },
+    {
+      "StationID": 2591,
+      "StationName": "สภ.แม่ท้อ",
+      "ProvinceID": 65,
+      "FnetID": 5124
+    },
+    {
+      "StationID": 2592,
+      "StationName": "สภ.บ้านตาก",
+      "ProvinceID": 65,
+      "FnetID": 6027
+    },
+    {
+      "StationID": 2593,
+      "StationName": "สภ.สามเงา",
+      "ProvinceID": 65,
+      "FnetID": 1277
+    },
+    {
+      "StationID": 2594,
+      "StationName": "สภ.แม่สอด",
+      "ProvinceID": 65,
+      "FnetID": 3513
+    },
+    {
+      "StationID": 2595,
+      "StationName": "สภ.พะวอ",
+      "ProvinceID": 65,
+      "FnetID": 1276
+    },
+    {
+      "StationID": 2596,
+      "StationName": "สภ.แม่ระมาด",
+      "ProvinceID": 65,
+      "FnetID": 4830
+    },
+    {
+      "StationID": 2597,
+      "StationName": "สภ.อุ้มผาง",
+      "ProvinceID": 65,
+      "FnetID": 1278
+    },
+    {
+      "StationID": 2598,
+      "StationName": "สภ.ท่าสองยาง",
+      "ProvinceID": 65,
+      "FnetID": 5971
+    },
+    {
+      "StationID": 2599,
+      "StationName": "สภ.พบพระ",
+      "ProvinceID": 65,
+      "FnetID": 1275
+    },
+    {
+      "StationID": 2600,
+      "StationName": "สภ.วังเจ้า",
+      "ProvinceID": 65,
+      "FnetID": 4838
+    },
+    {
+      "StationID": 2601,
+      "StationName": "สภ.วังประจบ",
+      "ProvinceID": 65,
+      "FnetID": 4825
+    },
+    {
+      "StationID": 2602,
+      "StationName": "สภ.เมืองนครนายก",
+      "ProvinceID": 32,
+      "FnetID": 421
+    },
+    {
+      "StationID": 2603,
+      "StationName": "สภ.ดงละคร",
+      "ProvinceID": 32,
+      "FnetID": 422
+    },
+    {
+      "StationID": 2604,
+      "StationName": "สภ.บ้านนา",
+      "ProvinceID": 32,
+      "FnetID": 423
+    },
+    {
+      "StationID": 2605,
+      "StationName": "สภ.องครักษ์",
+      "ProvinceID": 32,
+      "FnetID": 425
+    },
+    {
+      "StationID": 2606,
+      "StationName": "สภ.ปากพลี",
+      "ProvinceID": 32,
+      "FnetID": 424
+    },
+    {
+      "StationID": 2607,
+      "StationName": "สภ.เมืองนครปฐม",
+      "ProvinceID": 73,
+      "FnetID": 1463
+    },
+    {
+      "StationID": 2608,
+      "StationName": "สภ.สามควายเผือก",
+      "ProvinceID": 73,
+      "FnetID": 1472
+    },
+    {
+      "StationID": 2609,
+      "StationName": "สภ.นครชัยศรี",
+      "ProvinceID": 73,
+      "FnetID": 1468
+    },
+    {
+      "StationID": 2610,
+      "StationName": "สภ.พุทธมณฑล",
+      "ProvinceID": 73,
+      "FnetID": 1471
+    },
+    {
+      "StationID": 2611,
+      "StationName": "สภ.สามพราน",
+      "ProvinceID": 73,
+      "FnetID": 1473
+    },
+    {
+      "StationID": 2612,
+      "StationName": "สภ.โพธิ์แก้ว",
+      "ProvinceID": 73,
+      "FnetID": 1464
+    },
+    {
+      "StationID": 2613,
+      "StationName": "สภ.กำแพงแสน",
+      "ProvinceID": 73,
+      "FnetID": 1466
+    },
+    {
+      "StationID": 2614,
+      "StationName": "สภ.บางเลน",
+      "ProvinceID": 73,
+      "FnetID": 1469
+    },
+    {
+      "StationID": 2615,
+      "StationName": "สภ.ดอนตูม",
+      "ProvinceID": 73,
+      "FnetID": 1467
+    },
+    {
+      "StationID": 2616,
+      "StationName": "สภ.โพรงมะเดื่อ",
+      "ProvinceID": 73,
+      "FnetID": 1465
+    },
+    {
+      "StationID": 2617,
+      "StationName": "สภ.กระตีบ",
+      "ProvinceID": 73,
+      "FnetID": 3552
+    },
+    {
+      "StationID": 2618,
+      "StationName": "สภ.บางหลวง",
+      "ProvinceID": 73,
+      "FnetID": 1470
+    },
+    {
+      "StationID": 2619,
+      "StationName": "สภ.เมืองนครพนม",
+      "ProvinceID": 51,
+      "FnetID": 840
+    },
+    {
+      "StationID": 2620,
+      "StationName": "สภ.บ้านกลาง",
+      "ProvinceID": 51,
+      "FnetID": 851
+    },
+    {
+      "StationID": 2621,
+      "StationName": "สภ.ธาตุพนม",
+      "ProvinceID": 51,
+      "FnetID": 845
+    },
+    {
+      "StationID": 2622,
+      "StationName": "สภ.นาแก",
+      "ProvinceID": 51,
+      "FnetID": 846
+    },
+    {
+      "StationID": 2623,
+      "StationName": "สภ.วังยาง",
+      "ProvinceID": 51,
+      "FnetID": 854
+    },
+    {
+      "StationID": 2624,
+      "StationName": "สภ.ท่าอุเทน",
+      "ProvinceID": 51,
+      "FnetID": 844
+    },
+    {
+      "StationID": 2625,
+      "StationName": "สภ.ศรีสงคราม",
+      "ProvinceID": 51,
+      "FnetID": 855
+    },
+    {
+      "StationID": 2626,
+      "StationName": "สภ.บ้านแพง",
+      "ProvinceID": 51,
+      "FnetID": 850
+    },
+    {
+      "StationID": 2627,
+      "StationName": "สภ.ปลาปาก",
+      "ProvinceID": 51,
+      "FnetID": 852
+    },
+    {
+      "StationID": 2628,
+      "StationName": "สภ.เรณูนคร",
+      "ProvinceID": 51,
+      "FnetID": 841
+    },
+    {
+      "StationID": 2629,
+      "StationName": "สภ.นาหว้า",
+      "ProvinceID": 51,
+      "FnetID": 849
+    },
+    {
+      "StationID": 2630,
+      "StationName": "สภ.โพนสวรรค์",
+      "ProvinceID": 51,
+      "FnetID": 842
+    },
+    {
+      "StationID": 2631,
+      "StationName": "สภ.นาทม",
+      "ProvinceID": 51,
+      "FnetID": 848
+    },
+    {
+      "StationID": 2632,
+      "StationName": "สภ.หลักศิลา",
+      "ProvinceID": 51,
+      "FnetID": 858
+    },
+    {
+      "StationID": 2633,
+      "StationName": "สภ.เมืองนครราชสีมา",
+      "ProvinceID": 34,
+      "FnetID": 530
+    },
+    {
+      "StationID": 2634,
+      "StationName": "สภ.โพธิ์กลาง",
+      "ProvinceID": 34,
+      "FnetID": 539
+    },
+    {
+      "StationID": 2635,
+      "StationName": "สภ.จอหอ",
+      "ProvinceID": 34,
+      "FnetID": 547
+    },
+    {
+      "StationID": 2636,
+      "StationName": "สภ.ครบุรี",
+      "ProvinceID": 34,
+      "FnetID": 545
+    },
+    {
+      "StationID": 2637,
+      "StationName": "สภ.โชคชัย",
+      "ProvinceID": 34,
+      "FnetID": 535
+    },
+    {
+      "StationID": 2638,
+      "StationName": "สภ.หนองบุญมาก",
+      "ProvinceID": 34,
+      "FnetID": 572
+    },
+    {
+      "StationID": 2639,
+      "StationName": "สภ.ปักธงชัย",
+      "ProvinceID": 34,
+      "FnetID": 559
+    },
+    {
+      "StationID": 2640,
+      "StationName": "สภ.อุดมทรัพย์",
+      "ProvinceID": 34,
+      "FnetID": 578
+    },
+    {
+      "StationID": 2641,
+      "StationName": "สภ.เสิงสาง",
+      "ProvinceID": 34,
+      "FnetID": 533
+    },
+    {
+      "StationID": 2642,
+      "StationName": "สภ.พิมาย",
+      "ProvinceID": 34,
+      "FnetID": 564
+    },
+    {
+      "StationID": 2643,
+      "StationName": "สภ.ชุมพวง",
+      "ProvinceID": 34,
+      "FnetID": 549
+    },
+    {
+      "StationID": 2644,
+      "StationName": "สภ.ลำทะเมนชัย",
+      "ProvinceID": 34,
+      "FnetID": 566
+    },
+    {
+      "StationID": 2645,
+      "StationName": "สภ.จักราช",
+      "ProvinceID": 34,
+      "FnetID": 548
+    },
+    {
+      "StationID": 2646,
+      "StationName": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 34,
+      "FnetID": 290
+    },
+    {
+      "StationID": 2647,
+      "StationName": "สภ.โนนสูง",
+      "ProvinceID": 34,
+      "FnetID": 790
+    },
+    {
+      "StationID": 2648,
+      "StationName": "สภ.ห้วยแถลง",
+      "ProvinceID": 34,
+      "FnetID": 576
+    },
+    {
+      "StationID": 2649,
+      "StationName": "สภ.บัวใหญ่",
+      "ProvinceID": 34,
+      "FnetID": 552
+    },
+    {
+      "StationID": 2650,
+      "StationName": "สภ.บัวลาย",
+      "ProvinceID": 34,
+      "FnetID": 553
+    },
+    {
+      "StationID": 2651,
+      "StationName": "สภ.ประทาย",
+      "ProvinceID": 34,
+      "FnetID": 558
+    },
+    {
+      "StationID": 2652,
+      "StationName": "สภ.โนนแดง",
+      "ProvinceID": 34,
+      "FnetID": 536
+    },
+    {
+      "StationID": 2653,
+      "StationName": "สภ.คง",
+      "ProvinceID": 34,
+      "FnetID": 544
+    },
+    {
+      "StationID": 2654,
+      "StationName": "สภ.บ้านเหลื่อม",
+      "ProvinceID": 34,
+      "FnetID": 554
+    },
+    {
+      "StationID": 2655,
+      "StationName": "สภ.แก้งสนามนาง",
+      "ProvinceID": 34,
+      "FnetID": 534
+    },
+    {
+      "StationID": 2656,
+      "StationName": "สภ.ขามสะแกแสง",
+      "ProvinceID": 34,
+      "FnetID": 543
+    },
+    {
+      "StationID": 2657,
+      "StationName": "สภ.สีคิ้ว",
+      "ProvinceID": 34,
+      "FnetID": 568
+    },
+    {
+      "StationID": 2658,
+      "StationName": "สภ.ปากช่อง",
+      "ProvinceID": 34,
+      "FnetID": 560
+    },
+    {
+      "StationID": 2659,
+      "StationName": "สภ.กลางดง",
+      "ProvinceID": 34,
+      "FnetID": 541
+    },
+    {
+      "StationID": 2660,
+      "StationName": "สภ.หนองสาหร่าย",
+      "ProvinceID": 34,
+      "FnetID": 574
+    },
+    {
+      "StationID": 2661,
+      "StationName": "สภ.หมูสี",
+      "ProvinceID": 34,
+      "FnetID": 575
+    },
+    {
+      "StationID": 2662,
+      "StationName": "สภ.โนนไทย",
+      "ProvinceID": 34,
+      "FnetID": 537
+    },
+    {
+      "StationID": 2663,
+      "StationName": "สภ.พระทองคำ",
+      "ProvinceID": 34,
+      "FnetID": 561
+    },
+    {
+      "StationID": 2664,
+      "StationName": "สภ.สูงเนิน",
+      "ProvinceID": 34,
+      "FnetID": 571
+    },
+    {
+      "StationID": 2665,
+      "StationName": "สภ.ขามทะเลสอ",
+      "ProvinceID": 34,
+      "FnetID": 542
+    },
+    {
+      "StationID": 2666,
+      "StationName": "สภ.ด่านขุนทด",
+      "ProvinceID": 34,
+      "FnetID": 551
+    },
+    {
+      "StationID": 2667,
+      "StationName": "สภ.วังน้ำเขียว",
+      "ProvinceID": 34,
+      "FnetID": 567
+    },
+    {
+      "StationID": 2668,
+      "StationName": "สภ.เมืองยาง",
+      "ProvinceID": 34,
+      "FnetID": 532
+    },
+    {
+      "StationID": 2669,
+      "StationName": "สภ.เทพารักษ์",
+      "ProvinceID": 34,
+      "FnetID": 529
+    },
+    {
+      "StationID": 2670,
+      "StationName": "สภ.สีดา",
+      "ProvinceID": 34,
+      "FnetID": 569
+    },
+    {
+      "StationID": 2671,
+      "StationName": "สภ.มะเริง",
+      "ProvinceID": 34,
+      "FnetID": 565
+    },
+    {
+      "StationID": 2672,
+      "StationName": "สภ.หินดาด",
+      "ProvinceID": 34,
+      "FnetID": 577
+    },
+    {
+      "StationID": 2673,
+      "StationName": "สภ.พลกรัง",
+      "ProvinceID": 34,
+      "FnetID": 562
+    },
+    {
+      "StationID": 2674,
+      "StationName": "สภ.บ้านปรางค์",
+      "ProvinceID": 34,
+      "FnetID": 555
+    },
+    {
+      "StationID": 2675,
+      "StationName": "สภ.บ้านหัน",
+      "ProvinceID": 34,
+      "FnetID": 556
+    },
+    {
+      "StationID": 2679,
+      "StationName": "สภ.นบพิตำ",
+      "ProvinceID": 10,
+      "FnetID": 1600
+    },
+    {
+      "StationID": 2697,
+      "StationName": "สภ.ถ้ำพรรณราย",
+      "ProvinceID": 10,
+      "FnetID": 1596
+    },
+    {
+      "StationID": 2703,
+      "StationName": "สภ.เมืองนครสวรรค์",
+      "ProvinceID": 62,
+      "FnetID": 3230
+    },
+    {
+      "StationID": 2704,
+      "StationName": "สภ.ลาดยาว",
+      "ProvinceID": 62,
+      "FnetID": 1300
+    },
+    {
+      "StationID": 2705,
+      "StationName": "สภ.บรรพตพิสัย",
+      "ProvinceID": 62,
+      "FnetID": 1296
+    },
+    {
+      "StationID": 2706,
+      "StationName": "สภ.โกรกพระ",
+      "ProvinceID": 62,
+      "FnetID": 1286
+    },
+    {
+      "StationID": 2707,
+      "StationName": "สภ.เก้าเลี้ยว",
+      "ProvinceID": 62,
+      "FnetID": 1281
+    },
+    {
+      "StationID": 2708,
+      "StationName": "สภ.ชุมตาบง",
+      "ProvinceID": 62,
+      "FnetID": 1290
+    },
+    {
+      "StationID": 2709,
+      "StationName": "สภ.แม่เล่ย์",
+      "ProvinceID": 62,
+      "FnetID": 1284
+    },
+    {
+      "StationID": 2710,
+      "StationName": "สภ.พยุหะคีรี",
+      "ProvinceID": 62,
+      "FnetID": 1299
+    },
+    {
+      "StationID": 2711,
+      "StationName": "สภ.นิคมเขาบ่อแก้ว",
+      "ProvinceID": 62,
+      "FnetID": 1295
+    },
+    {
+      "StationID": 2712,
+      "StationName": "สภ.ท่าตะโก",
+      "ProvinceID": 62,
+      "FnetID": 1294
+    },
+    {
+      "StationID": 2713,
+      "StationName": "สภ.ชุมแสง",
+      "ProvinceID": 62,
+      "FnetID": 1289
+    },
+    {
+      "StationID": 2714,
+      "StationName": "สภ.ตากฟ้า",
+      "ProvinceID": 62,
+      "FnetID": 1292
+    },
+    {
+      "StationID": 2715,
+      "StationName": "สภ.ไพศาลี",
+      "ProvinceID": 62,
+      "FnetID": 1287
+    },
+    {
+      "StationID": 2716,
+      "StationName": "สภ.หนองบัว",
+      "ProvinceID": 62,
+      "FnetID": 1302
+    },
+    {
+      "StationID": 2717,
+      "StationName": "สภ.ตาคลี",
+      "ProvinceID": 62,
+      "FnetID": 1293
+    },
+    {
+      "StationID": 2718,
+      "StationName": "สภ.จันเสน",
+      "ProvinceID": 62,
+      "FnetID": 1288
+    },
+    {
+      "StationID": 2719,
+      "StationName": "สภ.แม่วงก์",
+      "ProvinceID": 62,
+      "FnetID": 1285
+    },
+    {
+      "StationID": 2720,
+      "StationName": "สภ.แม่เปิน",
+      "ProvinceID": 62,
+      "FnetID": 1283
+    },
+    {
+      "StationID": 2721,
+      "StationName": "สภ.หนองปลิง",
+      "ProvinceID": 62,
+      "FnetID": 1303
+    },
+    {
+      "StationID": 2722,
+      "StationName": "สภ.บางม่วง",
+      "ProvinceID": 62,
+      "FnetID": 1298
+    },
+    {
+      "StationID": 2723,
+      "StationName": "สภ.เมืองนนทบุรี",
+      "ProvinceID": 18,
+      "FnetID": 196
+    },
+    {
+      "StationID": 2724,
+      "StationName": "สภ.บางศรีเมือง",
+      "ProvinceID": 18,
+      "FnetID": 203
+    },
+    {
+      "StationID": 2725,
+      "StationName": "สภ.บางกรวย",
+      "ProvinceID": 18,
+      "FnetID": 201
+    },
+    {
+      "StationID": 2726,
+      "StationName": "สภ.ปลายบาง",
+      "ProvinceID": 18,
+      "FnetID": 204
+    },
+    {
+      "StationID": 2727,
+      "StationName": "สภ.บางใหญ่",
+      "ProvinceID": 18,
+      "FnetID": 200
+    },
+    {
+      "StationID": 2728,
+      "StationName": "สภ.บางแม่นาง",
+      "ProvinceID": 18,
+      "FnetID": 199
+    },
+    {
+      "StationID": 2729,
+      "StationName": "สภ.บางบัวทอง",
+      "ProvinceID": 18,
+      "FnetID": 202
+    },
+    {
+      "StationID": 2730,
+      "StationName": "สภ.ไทรน้อย",
+      "ProvinceID": 18,
+      "FnetID": 197
+    },
+    {
+      "StationID": 2731,
+      "StationName": "สภ.ปากเกร็ด",
+      "ProvinceID": 18,
+      "FnetID": 205
+    },
+    {
+      "StationID": 2732,
+      "StationName": "สภ.คลองข่อย",
+      "ProvinceID": 18,
+      "FnetID": 198
+    },
+    {
+      "StationID": 2733,
+      "StationName": "สภ.รัตนาธิเบศร์",
+      "ProvinceID": 18,
+      "FnetID": 6050
+    },
+    {
+      "StationID": 2735,
+      "StationName": "สภ.เวียงสา",
+      "ProvinceID": 58,
+      "FnetID": 1146
+    },
+    {
+      "StationID": 2736,
+      "StationName": "สภ.นาน้อย",
+      "ProvinceID": 58,
+      "FnetID": 1150
+    },
+    {
+      "StationID": 2737,
+      "StationName": "สภ.ท่าวังผา",
+      "ProvinceID": 58,
+      "FnetID": 1148
+    },
+    {
+      "StationID": 2738,
+      "StationName": "สภ.ปัว",
+      "ProvinceID": 58,
+      "FnetID": 1155
+    },
+    {
+      "StationID": 2739,
+      "StationName": "สภ.เชียงกลาง",
+      "ProvinceID": 58,
+      "FnetID": 1143
+    },
+    {
+      "StationID": 2740,
+      "StationName": "สภ.ทุ่งช้าง",
+      "ProvinceID": 58,
+      "FnetID": 1149
+    },
+    {
+      "StationID": 2741,
+      "StationName": "สภ.แม่จริม",
+      "ProvinceID": 58,
+      "FnetID": 1147
+    },
+    {
+      "StationID": 2742,
+      "StationName": "สภ.บ้านหลวง",
+      "ProvinceID": 58,
+      "FnetID": 1154
+    },
+    {
+      "StationID": 2743,
+      "StationName": "สภ.นาหมื่น",
+      "ProvinceID": 58,
+      "FnetID": 1151
+    },
+    {
+      "StationID": 2744,
+      "StationName": "สภ.สันติสุข",
+      "ProvinceID": 58,
+      "FnetID": 1158
+    },
+    {
+      "StationID": 2745,
+      "StationName": "สภ.บ่อเกลือ",
+      "ProvinceID": 58,
+      "FnetID": 1153
+    },
+    {
+      "StationID": 2746,
+      "StationName": "สภ.สองแคว",
+      "ProvinceID": 58,
+      "FnetID": 1157
+    },
+    {
+      "StationID": 2747,
+      "StationName": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 58,
+      "FnetID": 1142
+    },
+    {
+      "StationID": 2748,
+      "StationName": "สภ.ภูเพียง",
+      "ProvinceID": 58,
+      "FnetID": 6394
+    },
+    {
+      "StationID": 2749,
+      "StationName": "สภ.เรือง",
+      "ProvinceID": 58,
+      "FnetID": 1145
+    },
+    {
+      "StationID": 2750,
+      "StationName": "สภ.เมืองบึงกาฬ",
+      "ProvinceID": 92,
+      "FnetID": 3325
+    },
+    {
+      "StationID": 2751,
+      "StationName": "สภ.หอคำ",
+      "ProvinceID": 92,
+      "FnetID": 964
+    },
+    {
+      "StationID": 2752,
+      "StationName": "สภ.บุ่งคล้า",
+      "ProvinceID": 92,
+      "FnetID": 956
+    },
+    {
+      "StationID": 2753,
+      "StationName": "สภ.เซกา",
+      "ProvinceID": 92,
+      "FnetID": 938
+    },
+    {
+      "StationID": 2754,
+      "StationName": "สภ.โซ่พิสัย",
+      "ProvinceID": 92,
+      "FnetID": 945
+    },
+    {
+      "StationID": 2755,
+      "StationName": "สภ.พรเจริญ",
+      "ProvinceID": 92,
+      "FnetID": 958
+    },
+    {
+      "StationID": 2756,
+      "StationName": "สภ.ดอนหญ้านาง",
+      "ProvinceID": 92,
+      "FnetID": 950
+    },
+    {
+      "StationID": 2757,
+      "StationName": "สภ.ปากคาด",
+      "ProvinceID": 92,
+      "FnetID": 957
+    },
+    {
+      "StationID": 2758,
+      "StationName": "สภ.ศรีวิไล",
+      "ProvinceID": 92,
+      "FnetID": 961
+    },
+    {
+      "StationID": 2759,
+      "StationName": "สภ.บึงโขงหลง",
+      "ProvinceID": 92,
+      "FnetID": 954
+    },
+    {
+      "StationID": 2760,
+      "StationName": "สภ.เหล่าหลวง",
+      "ProvinceID": 92,
+      "FnetID": 944
+    },
+    {
+      "StationID": 2761,
+      "StationName": "สภ.เมืองบุรีรัมย์",
+      "ProvinceID": 35,
+      "FnetID": 582
+    },
+    {
+      "StationID": 2762,
+      "StationName": "สภ.บ้านด่าน",
+      "ProvinceID": 35,
+      "FnetID": 599
+    },
+    {
+      "StationID": 2763,
+      "StationName": "สภ.หนองสองห้อง",
+      "ProvinceID": 35,
+      "FnetID": 611
+    },
+    {
+      "StationID": 2764,
+      "StationName": "สภ.พุทไธสง",
+      "ProvinceID": 35,
+      "FnetID": 604
+    },
+    {
+      "StationID": 2765,
+      "StationName": "สภ.บ้านใหม่ไชยพจน์",
+      "ProvinceID": 35,
+      "FnetID": 597
+    },
+    {
+      "StationID": 2766,
+      "StationName": "สภ.สตึก",
+      "ProvinceID": 35,
+      "FnetID": 608
+    },
+    {
+      "StationID": 2767,
+      "StationName": "สภ.คูเมือง",
+      "ProvinceID": 35,
+      "FnetID": 589
+    },
+    {
+      "StationID": 2768,
+      "StationName": "สภ.นาโพธิ์",
+      "ProvinceID": 35,
+      "FnetID": 595
+    },
+    {
+      "StationID": 2769,
+      "StationName": "สภ.ประโคนชัย",
+      "ProvinceID": 35,
+      "FnetID": 601
+    },
+    {
+      "StationID": 2770,
+      "StationName": "สภ.พลับพลาชัย",
+      "ProvinceID": 35,
+      "FnetID": 603
+    },
+    {
+      "StationID": 2771,
+      "StationName": "สภ.กระสัง",
+      "ProvinceID": 35,
+      "FnetID": 588
+    },
+    {
+      "StationID": 2772,
+      "StationName": "สภ.ลำดวน",
+      "ProvinceID": 35,
+      "FnetID": 606
+    },
+    {
+      "StationID": 2773,
+      "StationName": "สภ.ละหานทราย",
+      "ProvinceID": 35,
+      "FnetID": 605
+    },
+    {
+      "StationID": 2774,
+      "StationName": "สภ.โนนดินแดง",
+      "ProvinceID": 35,
+      "FnetID": 586
+    },
+    {
+      "StationID": 2775,
+      "StationName": "สภ.บ้านกรวด",
+      "ProvinceID": 35,
+      "FnetID": 598
+    },
+    {
+      "StationID": 2776,
+      "StationName": "สภ.นางรอง",
+      "ProvinceID": 35,
+      "FnetID": 596
+    },
+    {
+      "StationID": 2777,
+      "StationName": "สภ.ชำนิ",
+      "ProvinceID": 35,
+      "FnetID": 590
+    },
+    {
+      "StationID": 2778,
+      "StationName": "สภ.ลำปลายมาศ",
+      "ProvinceID": 35,
+      "FnetID": 607
+    },
+    {
+      "StationID": 2779,
+      "StationName": "สภ.ทะเมนชัย",
+      "ProvinceID": 35,
+      "FnetID": 594
+    },
+    {
+      "StationID": 2780,
+      "StationName": "สภ.หนองกี่",
+      "ProvinceID": 35,
+      "FnetID": 610
+    },
+    {
+      "StationID": 2781,
+      "StationName": "สภ.ปะคำ",
+      "ProvinceID": 35,
+      "FnetID": 602
+    },
+    {
+      "StationID": 2782,
+      "StationName": "สภ.หนองหงส์",
+      "ProvinceID": 35,
+      "FnetID": 612
+    },
+    {
+      "StationID": 2783,
+      "StationName": "สภ.ห้วยราช",
+      "ProvinceID": 35,
+      "FnetID": 613
+    },
+    {
+      "StationID": 2784,
+      "StationName": "สภ.โนนสุวรรณ",
+      "ProvinceID": 35,
+      "FnetID": 587
+    },
+    {
+      "StationID": 2785,
+      "StationName": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 35,
+      "FnetID": 581
+    },
+    {
+      "StationID": 2786,
+      "StationName": "สภ.แคนดง",
+      "ProvinceID": 35,
+      "FnetID": 583
+    },
+    {
+      "StationID": 2787,
+      "StationName": "สภ.บ้านบัว",
+      "ProvinceID": 35,
+      "FnetID": 600
+    },
+    {
+      "StationID": 2788,
+      "StationName": "สภ.เมืองปทุมธานี",
+      "ProvinceID": 19,
+      "FnetID": 208
+    },
+    {
+      "StationID": 2789,
+      "StationName": "สภ.ปากคลองรังสิต",
+      "ProvinceID": 19,
+      "FnetID": 216
+    },
+    {
+      "StationID": 2790,
+      "StationName": "สภ.สวนพริกไทย",
+      "ProvinceID": 19,
+      "FnetID": 219
+    },
+    {
+      "StationID": 2791,
+      "StationName": "สภ.สามโคก",
+      "ProvinceID": 19,
+      "FnetID": 220
+    },
+    {
+      "StationID": 2792,
+      "StationName": "สภ.ลาดหลุมแก้ว",
+      "ProvinceID": 19,
+      "FnetID": 217
+    },
+    {
+      "StationID": 2793,
+      "StationName": "สภ.คูบางหลวง",
+      "ProvinceID": 19,
+      "FnetID": 213
+    },
+    {
+      "StationID": 2794,
+      "StationName": "สภ.ธัญบุรี",
+      "ProvinceID": 19,
+      "FnetID": 214
+    },
+    {
+      "StationID": 2795,
+      "StationName": "สภ.ประตูน้ำจุฬาลงกรณ์",
+      "ProvinceID": 19,
+      "FnetID": 215
+    },
+    {
+      "StationID": 2796,
+      "StationName": "สภ.คลองหลวง",
+      "ProvinceID": 19,
+      "FnetID": 210
+    },
+    {
+      "StationID": 2797,
+      "StationName": "สภ.หนองเสือ",
+      "ProvinceID": 19,
+      "FnetID": 221
+    },
+    {
+      "StationID": 2798,
+      "StationName": "สภ.ลำลูกกา",
+      "ProvinceID": 19,
+      "FnetID": 218
+    },
+    {
+      "StationID": 2799,
+      "StationName": "สภ.คูคต",
+      "ProvinceID": 19,
+      "FnetID": 28
+    },
+    {
+      "StationID": 2800,
+      "StationName": "สภ.คลองสิบสอง",
+      "ProvinceID": 19,
+      "FnetID": 209
+    },
+    {
+      "StationID": 2801,
+      "StationName": "สภ.คลองห้า",
+      "ProvinceID": 19,
+      "FnetID": 211
+    },
+    {
+      "StationID": 2802,
+      "StationName": "สภ.เมืองประจวบคีรีขันธ์",
+      "ProvinceID": 77,
+      "FnetID": 1476
+    },
+    {
+      "StationID": 2803,
+      "StationName": "สภ.คลองวาฬ",
+      "ProvinceID": 77,
+      "FnetID": 1478
+    },
+    {
+      "StationID": 2804,
+      "StationName": "สภ.อ่าวน้อย",
+      "ProvinceID": 77,
+      "FnetID": 1491
+    },
+    {
+      "StationID": 2805,
+      "StationName": "สภ.หัวหิน",
+      "ProvinceID": 77,
+      "FnetID": 1490
+    },
+    {
+      "StationID": 2806,
+      "StationName": "สภ.บ้านหนองพลับ",
+      "ProvinceID": 77,
+      "FnetID": 1484
+    },
+    {
+      "StationID": 2807,
+      "StationName": "สภ.ปราณบุรี",
+      "ProvinceID": 77,
+      "FnetID": 1485
+    },
+    {
+      "StationID": 2808,
+      "StationName": "สภ.ปากน้ำปราณ",
+      "ProvinceID": 77,
+      "FnetID": 1486
+    },
+    {
+      "StationID": 2809,
+      "StationName": "สภ.กุยบุรี",
+      "ProvinceID": 77,
+      "FnetID": 1477
+    },
+    {
+      "StationID": 2810,
+      "StationName": "สภ.บ้านยางชุม",
+      "ProvinceID": 77,
+      "FnetID": 1483
+    },
+    {
+      "StationID": 2811,
+      "StationName": "สภ.ทับสะแก",
+      "ProvinceID": 77,
+      "FnetID": 1479
+    },
+    {
+      "StationID": 2812,
+      "StationName": "สภ.บางสะพาน",
+      "ProvinceID": 77,
+      "FnetID": 1481
+    },
+    {
+      "StationID": 2813,
+      "StationName": "สภ.ธงชัย",
+      "ProvinceID": 77,
+      "FnetID": 1480
+    },
+    {
+      "StationID": 2814,
+      "StationName": "สภ.บางสะพานน้อย",
+      "ProvinceID": 77,
+      "FnetID": 1482
+    },
+    {
+      "StationID": 2815,
+      "StationName": "สภ.สามร้อยยอด",
+      "ProvinceID": 77,
+      "FnetID": 1488
+    },
+    {
+      "StationID": 2816,
+      "StationName": "สภ.ห้วยยาง",
+      "ProvinceID": 77,
+      "FnetID": 1489
+    },
+    {
+      "StationID": 2817,
+      "StationName": "สภ.เมืองปราจีนบุรี",
+      "ProvinceID": 31,
+      "FnetID": 428
+    },
+    {
+      "StationID": 2818,
+      "StationName": "สภ.บ้านสร้าง",
+      "ProvinceID": 31,
+      "FnetID": 431
+    },
+    {
+      "StationID": 2819,
+      "StationName": "สภ.ศรีมหาโพธิ์",
+      "ProvinceID": 31,
+      "FnetID": 437
+    },
+    {
+      "StationID": 2820,
+      "StationName": "สภ.ระเบาะไผ่",
+      "ProvinceID": 31,
+      "FnetID": 433
+    },
+    {
+      "StationID": 2821,
+      "StationName": "สภ.ศรีมโหสถ",
+      "ProvinceID": 31,
+      "FnetID": 436
+    },
+    {
+      "StationID": 2822,
+      "StationName": "สภ.ประจันตคาม",
+      "ProvinceID": 31,
+      "FnetID": 432
+    },
+    {
+      "StationID": 2823,
+      "StationName": "สภ.กบินทร์บุรี",
+      "ProvinceID": 31,
+      "FnetID": 429
+    },
+    {
+      "StationID": 2824,
+      "StationName": "สภ.วังตะเคียน",
+      "ProvinceID": 31,
+      "FnetID": 435
+    },
+    {
+      "StationID": 2825,
+      "StationName": "สภ.นาดี",
+      "ProvinceID": 31,
+      "FnetID": 430
+    },
+    {
+      "StationID": 2826,
+      "StationName": "สภ.สระบัว",
+      "ProvinceID": 31,
+      "FnetID": 438
+    },
+    {
+      "StationID": 2827,
+      "StationName": "สภ.วังขอนแดง",
+      "ProvinceID": 31,
+      "FnetID": 434
+    },
+    {
+      "StationID": 2828,
+      "StationName": "สภ.บางปะอิน",
+      "ProvinceID": 20,
+      "FnetID": 234
+    },
+    {
+      "StationID": 2829,
+      "StationName": "สภ.บางไทร",
+      "ProvinceID": 20,
+      "FnetID": 230
+    },
+    {
+      "StationID": 2830,
+      "StationName": "สภ.ช้างใหญ่",
+      "ProvinceID": 20,
+      "FnetID": 3265
+    },
+    {
+      "StationID": 2831,
+      "StationName": "สภ.ลาดบัวหลวง",
+      "ProvinceID": 20,
+      "FnetID": 246
+    },
+    {
+      "StationID": 2832,
+      "StationName": "สภ.เสนา",
+      "ProvinceID": 20,
+      "FnetID": 224
+    },
+    {
+      "StationID": 2833,
+      "StationName": "สภ.ผักไห่",
+      "ProvinceID": 20,
+      "FnetID": 238
+    },
+    {
+      "StationID": 2834,
+      "StationName": "สภ.อุทัย",
+      "ProvinceID": 20,
+      "FnetID": 248
+    },
+    {
+      "StationID": 2835,
+      "StationName": "สภ.วังน้อย",
+      "ProvinceID": 20,
+      "FnetID": 247
+    },
+    {
+      "StationID": 2836,
+      "StationName": "สภ.ภาชี",
+      "ProvinceID": 20,
+      "FnetID": 242
+    },
+    {
+      "StationID": 2837,
+      "StationName": "สภ.ท่าเรือ",
+      "ProvinceID": 20,
+      "FnetID": 227
+    },
+    {
+      "StationID": 2838,
+      "StationName": "สภ.บางปะหัน",
+      "ProvinceID": 20,
+      "FnetID": 233
+    },
+    {
+      "StationID": 2839,
+      "StationName": "สภ.มหาราช",
+      "ProvinceID": 20,
+      "FnetID": 243
+    },
+    {
+      "StationID": 2840,
+      "StationName": "สภ.บางบาล",
+      "ProvinceID": 20,
+      "FnetID": 232
+    },
+    {
+      "StationID": 2841,
+      "StationName": "สภ.พระขาว",
+      "ProvinceID": 20,
+      "FnetID": 239
+    },
+    {
+      "StationID": 2842,
+      "StationName": "สภ.นครหลวง",
+      "ProvinceID": 20,
+      "FnetID": 229
+    },
+    {
+      "StationID": 2843,
+      "StationName": "สภ.บ้านแพรก",
+      "ProvinceID": 20,
+      "FnetID": 235
+    },
+    {
+      "StationID": 2844,
+      "StationName": "สภ.บางซ้าย",
+      "ProvinceID": 20,
+      "FnetID": 231
+    },
+    {
+      "StationID": 2845,
+      "StationName": "สภ.พระอินทร์ราชา",
+      "ProvinceID": 20,
+      "FnetID": 241
+    },
+    {
+      "StationID": 2846,
+      "StationName": "สภ.โรงช้าง",
+      "ProvinceID": 20,
+      "FnetID": 225
+    },
+    {
+      "StationID": 2847,
+      "StationName": "สภ.ปากท่า",
+      "ProvinceID": 20,
+      "FnetID": 237
+    },
+    {
+      "StationID": 2848,
+      "StationName": "สภ.พระนครศรีอยุธยา",
+      "ProvinceID": 20,
+      "FnetID": 240
+    },
+    {
+      "StationID": 2849,
+      "StationName": "สภ.เมืองพะเยา",
+      "ProvinceID": 59,
+      "FnetID": 1164
+    },
+    {
+      "StationID": 2850,
+      "StationName": "สภ.ภูกามยาว",
+      "ProvinceID": 59,
+      "FnetID": 1169
+    },
+    {
+      "StationID": 2851,
+      "StationName": "สภ.แม่ใจ",
+      "ProvinceID": 59,
+      "FnetID": 1165
+    },
+    {
+      "StationID": 2852,
+      "StationName": "สภ.ดอกคำใต้",
+      "ProvinceID": 59,
+      "FnetID": 1167
+    },
+    {
+      "StationID": 2853,
+      "StationName": "สภ.จุน",
+      "ProvinceID": 59,
+      "FnetID": 1166
+    },
+    {
+      "StationID": 2854,
+      "StationName": "สภ.เชียงคำ",
+      "ProvinceID": 59,
+      "FnetID": 1162
+    },
+    {
+      "StationID": 2855,
+      "StationName": "สภ.ภูซาง",
+      "ProvinceID": 59,
+      "FnetID": 1170
+    },
+    {
+      "StationID": 2856,
+      "StationName": "สภ.ปง",
+      "ProvinceID": 59,
+      "FnetID": 1168
+    },
+    {
+      "StationID": 2857,
+      "StationName": "สภ.เชียงม่วน",
+      "ProvinceID": 59,
+      "FnetID": 1163
+    },
+    {
+      "StationID": 2859,
+      "StationName": "สภ.เมืองพังงา",
+      "ProvinceID": 12,
+      "FnetID": 1615
+    },
+    {
+      "StationID": 2862,
+      "StationName": "สภ.ตะกั่วทุ่ง",
+      "ProvinceID": 12,
+      "FnetID": 1620
+    },
+    {
+      "StationID": 2865,
+      "StationName": "สภ.เกาะยาว",
+      "ProvinceID": 12,
+      "FnetID": 1614
+    },
+    {
+      "StationID": 2867,
+      "StationName": "สภ.คุระบุรี",
+      "ProvinceID": 12,
+      "FnetID": 1618
+    },
+    {
+      "StationID": 2869,
+      "StationName": "สภ.เขาหลัก",
+      "ProvinceID": 12,
+      "FnetID": 3703
+    },
+    {
+      "StationID": 2875,
+      "StationName": "สภ.ป่าพะยอม",
+      "ProvinceID": 8,
+      "FnetID": 1725
+    },
+    {
+      "StationID": 2883,
+      "StationName": "สภ.เมืองพิจิตร",
+      "ProvinceID": 68,
+      "FnetID": 1306
+    },
+    {
+      "StationID": 2884,
+      "StationName": "สภ.บางมูลนาก",
+      "ProvinceID": 68,
+      "FnetID": 1313
+    },
+    {
+      "StationID": 2885,
+      "StationName": "สภ.ดงเจริญ",
+      "ProvinceID": 68,
+      "FnetID": 1309
+    },
+    {
+      "StationID": 2886,
+      "StationName": "สภ.ตะพานหิน",
+      "ProvinceID": 68,
+      "FnetID": 1311
+    },
+    {
+      "StationID": 2887,
+      "StationName": "สภ.โพทะเล",
+      "ProvinceID": 68,
+      "FnetID": 1307
+    },
+    {
+      "StationID": 2888,
+      "StationName": "สภ.สามง่าม",
+      "ProvinceID": 68,
+      "FnetID": 1321
+    },
+    {
+      "StationID": 2889,
+      "StationName": "สภ.วังทรายพูน",
+      "ProvinceID": 68,
+      "FnetID": 1318
+    },
+    {
+      "StationID": 2890,
+      "StationName": "สภ.สากเหล็ก",
+      "ProvinceID": 68,
+      "FnetID": 1320
+    },
+    {
+      "StationID": 2891,
+      "StationName": "สภ.โพธิ์ประทับช้าง",
+      "ProvinceID": 68,
+      "FnetID": 1308
+    },
+    {
+      "StationID": 2892,
+      "StationName": "สภ.ทับคล้อ",
+      "ProvinceID": 68,
+      "FnetID": 1312
+    },
+    {
+      "StationID": 2893,
+      "StationName": "สภ.บึงนาราง",
+      "ProvinceID": 68,
+      "FnetID": 1315
+    },
+    {
+      "StationID": 2894,
+      "StationName": "สภ.วชิรบารมี",
+      "ProvinceID": 68,
+      "FnetID": 1317
+    },
+    {
+      "StationID": 2895,
+      "StationName": "สภ.หนองโสน",
+      "ProvinceID": 68,
+      "FnetID": 1322
+    },
+    {
+      "StationID": 2896,
+      "StationName": "สภ.เมืองพิษณุโลก",
+      "ProvinceID": 67,
+      "FnetID": 1327
+    },
+    {
+      "StationID": 2897,
+      "StationName": "สภ.บางระกำ",
+      "ProvinceID": 67,
+      "FnetID": 1337
+    },
+    {
+      "StationID": 2898,
+      "StationName": "สภ.พรหมพิราม",
+      "ProvinceID": 67,
+      "FnetID": 1339
+    },
+    {
+      "StationID": 2899,
+      "StationName": "สภ.บางกระทุ่ม",
+      "ProvinceID": 67,
+      "FnetID": 1336
+    },
+    {
+      "StationID": 2900,
+      "StationName": "สภ.นครไทย",
+      "ProvinceID": 67,
+      "FnetID": 1333
+    },
+    {
+      "StationID": 2901,
+      "StationName": "สภ.วังทอง",
+      "ProvinceID": 67,
+      "FnetID": 1340
+    },
+    {
+      "StationID": 2902,
+      "StationName": "สภ.วัดโบสถ์",
+      "ProvinceID": 67,
+      "FnetID": 1342
+    },
+    {
+      "StationID": 2903,
+      "StationName": "สภ.ชาติตระการ",
+      "ProvinceID": 67,
+      "FnetID": 1330
+    },
+    {
+      "StationID": 2904,
+      "StationName": "สภ.แก่งโสภา",
+      "ProvinceID": 67,
+      "FnetID": 1328
+    },
+    {
+      "StationID": 2905,
+      "StationName": "สภ.เนินมะปราง",
+      "ProvinceID": 67,
+      "FnetID": 1326
+    },
+    {
+      "StationID": 2906,
+      "StationName": "สภ.นิคมสร้างตนเอง",
+      "ProvinceID": 67,
+      "FnetID": 1335
+    },
+    {
+      "StationID": 2907,
+      "StationName": "สภ.บ้านแยง",
+      "ProvinceID": 67,
+      "FnetID": 1338
+    },
+    {
+      "StationID": 2908,
+      "StationName": "สภ.ไทรย้อย",
+      "ProvinceID": 67,
+      "FnetID": 1329
+    },
+    {
+      "StationID": 2909,
+      "StationName": "สภ.เมืองเพชรบุรี",
+      "ProvinceID": 76,
+      "FnetID": 1426
+    },
+    {
+      "StationID": 2910,
+      "StationName": "สภ.ท่ายาง",
+      "ProvinceID": 76,
+      "FnetID": 1430
+    },
+    {
+      "StationID": 2911,
+      "StationName": "สภ.ท่าไม้รวก",
+      "ProvinceID": 76,
+      "FnetID": 1429
+    },
+    {
+      "StationID": 2912,
+      "StationName": "สภ.บ้านลาด",
+      "ProvinceID": 76,
+      "FnetID": 1433
+    },
+    {
+      "StationID": 2913,
+      "StationName": "สภ.บ้านแหลม",
+      "ProvinceID": 76,
+      "FnetID": 1432
+    },
+    {
+      "StationID": 2914,
+      "StationName": "สภ.ชะอำ",
+      "ProvinceID": 76,
+      "FnetID": 1428
+    },
+    {
+      "StationID": 2915,
+      "StationName": "สภ.เขาย้อย",
+      "ProvinceID": 76,
+      "FnetID": 1425
+    },
+    {
+      "StationID": 2916,
+      "StationName": "สภ.แก่งกระจาน",
+      "ProvinceID": 76,
+      "FnetID": 4375
+    },
+    {
+      "StationID": 2917,
+      "StationName": "สภ.หนองหญ้าปล้อง",
+      "ProvinceID": 76,
+      "FnetID": 1435
+    },
+    {
+      "StationID": 2918,
+      "StationName": "สภ.หนองจอก",
+      "ProvinceID": 76,
+      "FnetID": 1434
+    },
+    {
+      "StationID": 2919,
+      "StationName": "สภ.เมืองเพชรบูรณ์",
+      "ProvinceID": 69,
+      "FnetID": 1228
+    },
+    {
+      "StationID": 2920,
+      "StationName": "สภ.ท่าพล",
+      "ProvinceID": 69,
+      "FnetID": 1231
+    },
+    {
+      "StationID": 2921,
+      "StationName": "สภ.หล่มสัก",
+      "ProvinceID": 69,
+      "FnetID": 1244
+    },
+    {
+      "StationID": 2922,
+      "StationName": "สภ.หล่มเก่า",
+      "ProvinceID": 69,
+      "FnetID": 1243
+    },
+    {
+      "StationID": 2923,
+      "StationName": "สภ.ชนแดน",
+      "ProvinceID": 69,
+      "FnetID": 1229
+    },
+    {
+      "StationID": 2924,
+      "StationName": "สภ.น้ำหนาว",
+      "ProvinceID": 69,
+      "FnetID": 1233
+    },
+    {
+      "StationID": 2925,
+      "StationName": "สภ.วังโป่ง",
+      "ProvinceID": 69,
+      "FnetID": 1239
+    },
+    {
+      "StationID": 2926,
+      "StationName": "สภ.เขาค้อ",
+      "ProvinceID": 69,
+      "FnetID": 1227
+    },
+    {
+      "StationID": 2927,
+      "StationName": "สภ.บึงสามพัน",
+      "ProvinceID": 69,
+      "FnetID": 1237
+    },
+    {
+      "StationID": 2928,
+      "StationName": "สภ.ศรีเทพ",
+      "ProvinceID": 69,
+      "FnetID": 1241
+    },
+    {
+      "StationID": 2929,
+      "StationName": "สภ.หนองไผ่",
+      "ProvinceID": 69,
+      "FnetID": 1242
+    },
+    {
+      "StationID": 2930,
+      "StationName": "สภ.นาเฉลียง",
+      "ProvinceID": 69,
+      "FnetID": 1232
+    },
+    {
+      "StationID": 2931,
+      "StationName": "สภ.วิเชียรบุรี",
+      "ProvinceID": 69,
+      "FnetID": 1240
+    },
+    {
+      "StationID": 2932,
+      "StationName": "สภ.พุเตย",
+      "ProvinceID": 69,
+      "FnetID": 1238
+    },
+    {
+      "StationID": 2933,
+      "StationName": "สภ.บ้านกลาง",
+      "ProvinceID": 69,
+      "FnetID": 1235
+    },
+    {
+      "StationID": 2934,
+      "StationName": "สภ.ดงขุย",
+      "ProvinceID": 69,
+      "FnetID": 1230
+    },
+    {
+      "StationID": 2935,
+      "StationName": "สภ.บ้านโคก",
+      "ProvinceID": 69,
+      "FnetID": 1234
+    },
+    {
+      "StationID": 2936,
+      "StationName": "สภ.บ้านติ้ว",
+      "ProvinceID": 69,
+      "FnetID": 1236
+    },
+    {
+      "StationID": 2937,
+      "StationName": "สภ.เมืองแพร่",
+      "ProvinceID": 57,
+      "FnetID": 1113
+    },
+    {
+      "StationID": 2938,
+      "StationName": "สภ.ร้องกวาง",
+      "ProvinceID": 57,
+      "FnetID": 1118
+    },
+    {
+      "StationID": 2939,
+      "StationName": "สภ.เด่นชัย",
+      "ProvinceID": 57,
+      "FnetID": 1112
+    },
+    {
+      "StationID": 2940,
+      "StationName": "สภ.สอง",
+      "ProvinceID": 57,
+      "FnetID": 1123
+    },
+    {
+      "StationID": 2941,
+      "StationName": "สภ.สูงเม่น",
+      "ProvinceID": 57,
+      "FnetID": 1125
+    },
+    {
+      "StationID": 2942,
+      "StationName": "สภ.ลอง",
+      "ProvinceID": 57,
+      "FnetID": 1119
+    },
+    {
+      "StationID": 2943,
+      "StationName": "สภ.วังชิ้น",
+      "ProvinceID": 57,
+      "FnetID": 1120
+    },
+    {
+      "StationID": 2944,
+      "StationName": "สภ.หนองม่วงไข่",
+      "ProvinceID": 57,
+      "FnetID": 1126
+    },
+    {
+      "StationID": 2945,
+      "StationName": "สภ.ห้วยม้า",
+      "ProvinceID": 57,
+      "FnetID": 1128
+    },
+    {
+      "StationID": 2946,
+      "StationName": "สภ.พระธาตุช่อแฮ",
+      "ProvinceID": 57,
+      "FnetID": 6073
+    },
+    {
+      "StationID": 2947,
+      "StationName": "สภ.เวียงต้า",
+      "ProvinceID": 57,
+      "FnetID": 1114
+    },
+    {
+      "StationID": 2958,
+      "StationName": "สภ.สาคู",
+      "ProvinceID": 9,
+      "FnetID": 6041
+    },
+    {
+      "StationID": 2959,
+      "StationName": "สภ.เมืองมหาสารคาม",
+      "ProvinceID": 47,
+      "FnetID": 863
+    },
+    {
+      "StationID": 2960,
+      "StationName": "สภ.กันทรวิชัย",
+      "ProvinceID": 47,
+      "FnetID": 867
+    },
+    {
+      "StationID": 2961,
+      "StationName": "สภ.เชียงยืน",
+      "ProvinceID": 47,
+      "FnetID": 862
+    },
+    {
+      "StationID": 2962,
+      "StationName": "สภ.ชื่นชม",
+      "ProvinceID": 47,
+      "FnetID": 871
+    },
+    {
+      "StationID": 2963,
+      "StationName": "สภ.โกสุมพิสัย",
+      "ProvinceID": 47,
+      "FnetID": 866
+    },
+    {
+      "StationID": 2964,
+      "StationName": "สภ.แกดำ",
+      "ProvinceID": 47,
+      "FnetID": 865
+    },
+    {
+      "StationID": 2965,
+      "StationName": "สภ.พยัคฆภูมิพิสัย",
+      "ProvinceID": 47,
+      "FnetID": 880
+    },
+    {
+      "StationID": 2966,
+      "StationName": "สภ.ยางสีสุราช",
+      "ProvinceID": 47,
+      "FnetID": 882
+    },
+    {
+      "StationID": 2967,
+      "StationName": "สภ.นาเชือก",
+      "ProvinceID": 47,
+      "FnetID": 874
+    },
+    {
+      "StationID": 2968,
+      "StationName": "สภ.นาดูน",
+      "ProvinceID": 47,
+      "FnetID": 876
+    },
+    {
+      "StationID": 2969,
+      "StationName": "สภ.บรบือ",
+      "ProvinceID": 47,
+      "FnetID": 878
+    },
+    {
+      "StationID": 2970,
+      "StationName": "สภ.กุดรัง",
+      "ProvinceID": 47,
+      "FnetID": 2997
+    },
+    {
+      "StationID": 2971,
+      "StationName": "สภ.วาปีปทุม",
+      "ProvinceID": 47,
+      "FnetID": 884
+    },
+    {
+      "StationID": 2972,
+      "StationName": "สภ.เขวาใหญ่",
+      "ProvinceID": 47,
+      "FnetID": 861
+    },
+    {
+      "StationID": 2973,
+      "StationName": "สภ.กู่ทอง",
+      "ProvinceID": 47,
+      "FnetID": 870
+    },
+    {
+      "StationID": 2974,
+      "StationName": "สภ.ราษฎร์เจริญ",
+      "ProvinceID": 47,
+      "FnetID": 883
+    },
+    {
+      "StationID": 2975,
+      "StationName": "สภ.เมืองมุกดาหาร",
+      "ProvinceID": 52,
+      "FnetID": 888
+    },
+    {
+      "StationID": 2976,
+      "StationName": "สภ.ผึ่งแดด",
+      "ProvinceID": 52,
+      "FnetID": 899
+    },
+    {
+      "StationID": 2977,
+      "StationName": "สภ.คำชะอี",
+      "ProvinceID": 52,
+      "FnetID": 890
+    },
+    {
+      "StationID": 2978,
+      "StationName": "สภ.ดอนตาล",
+      "ProvinceID": 52,
+      "FnetID": 894
+    },
+    {
+      "StationID": 2979,
+      "StationName": "สภ.นิคมคำสร้อย",
+      "ProvinceID": 52,
+      "FnetID": 896
+    },
+    {
+      "StationID": 2980,
+      "StationName": "สภ.ดงหลวง",
+      "ProvinceID": 52,
+      "FnetID": 893
+    },
+    {
+      "StationID": 2981,
+      "StationName": "สภ.หว้านใหญ่",
+      "ProvinceID": 52,
+      "FnetID": 902
+    },
+    {
+      "StationID": 2982,
+      "StationName": "สภ.หนองสูง",
+      "ProvinceID": 52,
+      "FnetID": 900
+    },
+    {
+      "StationID": 2983,
+      "StationName": "สภ.เมืองแม่ฮ่องสอน",
+      "ProvinceID": 61,
+      "FnetID": 1132
+    },
+    {
+      "StationID": 2984,
+      "StationName": "สภ.ปาย",
+      "ProvinceID": 61,
+      "FnetID": 1137
+    },
+    {
+      "StationID": 2985,
+      "StationName": "สภ.ขุนยวม",
+      "ProvinceID": 61,
+      "FnetID": 1135
+    },
+    {
+      "StationID": 2986,
+      "StationName": "สภ.แม่สะเรียง",
+      "ProvinceID": 61,
+      "FnetID": 1134
+    },
+    {
+      "StationID": 2987,
+      "StationName": "สภ.แม่ลาน้อย",
+      "ProvinceID": 61,
+      "FnetID": 1133
+    },
+    {
+      "StationID": 2988,
+      "StationName": "สภ.ปางมะผ้า",
+      "ProvinceID": 61,
+      "FnetID": 1136
+    },
+    {
+      "StationID": 2989,
+      "StationName": "สภ.สบเมย",
+      "ProvinceID": 61,
+      "FnetID": 1138
+    },
+    {
+      "StationID": 2990,
+      "StationName": "สภ.น้ำเพียงดิน",
+      "ProvinceID": 61,
+      "FnetID": 3886
+    },
+    {
+      "StationID": 2991,
+      "StationName": "สภ.แม่ลาหลวง",
+      "ProvinceID": 61,
+      "FnetID": 3923
+    },
+    {
+      "StationID": 2992,
+      "StationName": "สภ.เมืองยโสธร",
+      "ProvinceID": 39,
+      "FnetID": 617
+    },
+    {
+      "StationID": 2993,
+      "StationName": "สภ.มหาชนะชัย",
+      "ProvinceID": 39,
+      "FnetID": 627
+    },
+    {
+      "StationID": 2994,
+      "StationName": "สภ.เลิงนกทา",
+      "ProvinceID": 39,
+      "FnetID": 618
+    },
+    {
+      "StationID": 2995,
+      "StationName": "สภ.กุดชุม",
+      "ProvinceID": 39,
+      "FnetID": 620
+    },
+    {
+      "StationID": 2996,
+      "StationName": "สภ.คำเขื่อนแก้ว",
+      "ProvinceID": 39,
+      "FnetID": 622
+    },
+    {
+      "StationID": 2997,
+      "StationName": "สภ.ป่าติ้ว",
+      "ProvinceID": 39,
+      "FnetID": 626
+    },
+    {
+      "StationID": 2998,
+      "StationName": "สภ.ค้อวัง",
+      "ProvinceID": 39,
+      "FnetID": 621
+    },
+    {
+      "StationID": 2999,
+      "StationName": "สภ.ทรายมูล",
+      "ProvinceID": 39,
+      "FnetID": 624
+    },
+    {
+      "StationID": 3000,
+      "StationName": "สภ.ไทยเจริญ",
+      "ProvinceID": 39,
+      "FnetID": 619
+    },
+    {
+      "StationID": 3001,
+      "StationName": "สภ.เมืองระนอง",
+      "ProvinceID": 13,
+      "FnetID": 2263
+    },
+    {
+      "StationID": 3002,
+      "StationName": "สภ.ปากน้ำระนอง",
+      "ProvinceID": 13,
+      "FnetID": 4338
+    },
+    {
+      "StationID": 3003,
+      "StationName": "สภ.กะเปอร์",
+      "ProvinceID": 13,
+      "FnetID": 1639
+    },
+    {
+      "StationID": 3004,
+      "StationName": "สภ.สุขสำราญ",
+      "ProvinceID": 13,
+      "FnetID": 1645
+    },
+    {
+      "StationID": 3005,
+      "StationName": "สภ.ละอุ่น",
+      "ProvinceID": 13,
+      "FnetID": 1644
+    },
+    {
+      "StationID": 3006,
+      "StationName": "สภ.กระบุรี",
+      "ProvinceID": 13,
+      "FnetID": 1638
+    },
+    {
+      "StationID": 3008,
+      "StationName": "สภ.ราชกรูด",
+      "ProvinceID": 13,
+      "FnetID": 1643
+    },
+    {
+      "StationID": 3009,
+      "StationName": "สภ.เมืองระยอง",
+      "ProvinceID": 27,
+      "FnetID": 443
+    },
+    {
+      "StationID": 3010,
+      "StationName": "สภ.มาบตาพุด",
+      "ProvinceID": 27,
+      "FnetID": 452
+    },
+    {
+      "StationID": 3011,
+      "StationName": "สภ.เพ",
+      "ProvinceID": 27,
+      "FnetID": 442
+    },
+    {
+      "StationID": 3012,
+      "StationName": "สภ.บ้านค่าย",
+      "ProvinceID": 27,
+      "FnetID": 448
+    },
+    {
+      "StationID": 3013,
+      "StationName": "สภ.บ้านฉาง",
+      "ProvinceID": 27,
+      "FnetID": 449
+    },
+    {
+      "StationID": 3014,
+      "StationName": "สภ.แกลง",
+      "ProvinceID": 27,
+      "FnetID": 444
+    },
+    {
+      "StationID": 3015,
+      "StationName": "สภ.ปากน้ำประแสร์",
+      "ProvinceID": 27,
+      "FnetID": 451
+    },
+    {
+      "StationID": 3016,
+      "StationName": "สภ.บ้านกร่ำ",
+      "ProvinceID": 27,
+      "FnetID": 447
+    },
+    {
+      "StationID": 3017,
+      "StationName": "สภ.ปลวกแดง",
+      "ProvinceID": 27,
+      "FnetID": 450
+    },
+    {
+      "StationID": 3018,
+      "StationName": "สภ.วังจันทร์",
+      "ProvinceID": 27,
+      "FnetID": 453
+    },
+    {
+      "StationID": 3019,
+      "StationName": "สภ.ห้วยโป่ง",
+      "ProvinceID": 27,
+      "FnetID": 456
+    },
+    {
+      "StationID": 3020,
+      "StationName": "สภ.เขาชะเมา",
+      "ProvinceID": 27,
+      "FnetID": 441
+    },
+    {
+      "StationID": 3021,
+      "StationName": "สภ.นิคมพัฒนา",
+      "ProvinceID": 27,
+      "FnetID": 446
+    },
+    {
+      "StationID": 3022,
+      "StationName": "สภ.หนองกรับ",
+      "ProvinceID": 27,
+      "FnetID": 455
+    },
+    {
+      "StationID": 3023,
+      "StationName": "สภ.สำนักทอง",
+      "ProvinceID": 27,
+      "FnetID": 454
+    },
+    {
+      "StationID": 3024,
+      "StationName": "สภ.เมืองราชบุรี",
+      "ProvinceID": 70,
+      "FnetID": 1495
+    },
+    {
+      "StationID": 3025,
+      "StationName": "สภ.จอมบึง",
+      "ProvinceID": 70,
+      "FnetID": 1499
+    },
+    {
+      "StationID": 3026,
+      "StationName": "สภ.ด่านทับตะโก",
+      "ProvinceID": 70,
+      "FnetID": 1500
+    },
+    {
+      "StationID": 3027,
+      "StationName": "สภ.ปากท่อ",
+      "ProvinceID": 70,
+      "FnetID": 3647
+    },
+    {
+      "StationID": 3028,
+      "StationName": "สภ.ทุ่งหลวง",
+      "ProvinceID": 70,
+      "FnetID": 1502
+    },
+    {
+      "StationID": 3029,
+      "StationName": "สภ.วัดเพลง",
+      "ProvinceID": 70,
+      "FnetID": 1506
+    },
+    {
+      "StationID": 3030,
+      "StationName": "สภ.สวนผึ้ง",
+      "ProvinceID": 70,
+      "FnetID": 1507
+    },
+    {
+      "StationID": 3031,
+      "StationName": "สภ.บ้านโป่ง",
+      "ProvinceID": 70,
+      "FnetID": 1504
+    },
+    {
+      "StationID": 3032,
+      "StationName": "สภ.กรับใหญ่",
+      "ProvinceID": 70,
+      "FnetID": 1498
+    },
+    {
+      "StationID": 3033,
+      "StationName": "สภ.ดำเนินสะดวก",
+      "ProvinceID": 70,
+      "FnetID": 1501
+    },
+    {
+      "StationID": 3034,
+      "StationName": "สภ.หลักห้า",
+      "ProvinceID": 70,
+      "FnetID": 1508
+    },
+    {
+      "StationID": 3035,
+      "StationName": "สภ.บางแพ",
+      "ProvinceID": 70,
+      "FnetID": 1503
+    },
+    {
+      "StationID": 3036,
+      "StationName": "สภ.โพธาราม",
+      "ProvinceID": 70,
+      "FnetID": 1496
+    },
+    {
+      "StationID": 3037,
+      "StationName": "สภ.เขาดิน",
+      "ProvinceID": 70,
+      "FnetID": 1494
+    },
+    {
+      "StationID": 3038,
+      "StationName": "สภ.บ้านคา",
+      "ProvinceID": 70,
+      "FnetID": 1505
+    },
+    {
+      "StationID": 3039,
+      "StationName": "สภ.โพหัก",
+      "ProvinceID": 70,
+      "FnetID": 1497
+    },
+    {
+      "StationID": 3040,
+      "StationName": "สภ.เมืองร้อยเอ็ด",
+      "ProvinceID": 48,
+      "FnetID": 972
+    },
+    {
+      "StationID": 3041,
+      "StationName": "สภ.ธวัชบุรี",
+      "ProvinceID": 48,
+      "FnetID": 985
+    },
+    {
+      "StationID": 3042,
+      "StationName": "สภ.เชียงขวัญ",
+      "ProvinceID": 48,
+      "FnetID": 5504
+    },
+    {
+      "StationID": 3043,
+      "StationName": "สภ.เสลภูมิ",
+      "ProvinceID": 48,
+      "FnetID": 974
+    },
+    {
+      "StationID": 3044,
+      "StationName": "สภ.โพธิ์ทอง",
+      "ProvinceID": 48,
+      "FnetID": 977
+    },
+    {
+      "StationID": 3045,
+      "StationName": "สภ.โพนทอง",
+      "ProvinceID": 48,
+      "FnetID": 702
+    },
+    {
+      "StationID": 3046,
+      "StationName": "สภ.โพธิ์ชัย",
+      "ProvinceID": 48,
+      "FnetID": 976
+    },
+    {
+      "StationID": 3047,
+      "StationName": "สภ.หนองพอก",
+      "ProvinceID": 48,
+      "FnetID": 995
+    },
+    {
+      "StationID": 3048,
+      "StationName": "สภ.จังหาร",
+      "ProvinceID": 48,
+      "FnetID": 982
+    },
+    {
+      "StationID": 3049,
+      "StationName": "สภ.เมยวดี",
+      "ProvinceID": 48,
+      "FnetID": 971
+    },
+    {
+      "StationID": 3050,
+      "StationName": "สภ.ศรีสมเด็จ",
+      "ProvinceID": 48,
+      "FnetID": 991
+    },
+    {
+      "StationID": 3051,
+      "StationName": "สภ.สุวรรณภูมิ",
+      "ProvinceID": 48,
+      "FnetID": 993
+    },
+    {
+      "StationID": 3052,
+      "StationName": "สภ.ปทุมรัตน์",
+      "ProvinceID": 48,
+      "FnetID": 5824
+    },
+    {
+      "StationID": 3053,
+      "StationName": "สภ.เมืองสรวง",
+      "ProvinceID": 48,
+      "FnetID": 973
+    },
+    {
+      "StationID": 3054,
+      "StationName": "สภ.โพนทราย",
+      "ProvinceID": 48,
+      "FnetID": 978
+    },
+    {
+      "StationID": 3055,
+      "StationName": "สภ.อาจสามารถ",
+      "ProvinceID": 48,
+      "FnetID": 999
+    },
+    {
+      "StationID": 3056,
+      "StationName": "สภ.พนมไพร",
+      "ProvinceID": 48,
+      "FnetID": 989
+    },
+    {
+      "StationID": 3057,
+      "StationName": "สภ.จตุรพักตรพิมาน",
+      "ProvinceID": 48,
+      "FnetID": 981
+    },
+    {
+      "StationID": 3058,
+      "StationName": "สภ.เกษตรวิสัย",
+      "ProvinceID": 48,
+      "FnetID": 967
+    },
+    {
+      "StationID": 3059,
+      "StationName": "สภ.หนองฮี",
+      "ProvinceID": 48,
+      "FnetID": 996
+    },
+    {
+      "StationID": 3060,
+      "StationName": "สภ.ทุ่งเขาหลวง",
+      "ProvinceID": 48,
+      "FnetID": 2330
+    },
+    {
+      "StationID": 3061,
+      "StationName": "สภ.บ้านบัวขาว",
+      "ProvinceID": 48,
+      "FnetID": 987
+    },
+    {
+      "StationID": 3062,
+      "StationName": "สภ.ดงครั่งใหญ่",
+      "ProvinceID": 48,
+      "FnetID": 983
+    },
+    {
+      "StationID": 3063,
+      "StationName": "สภ.เมืองลพบุรี",
+      "ProvinceID": 22,
+      "FnetID": 252
+    },
+    {
+      "StationID": 3064,
+      "StationName": "สภ.ท่าหิน",
+      "ProvinceID": 22,
+      "FnetID": 261
+    },
+    {
+      "StationID": 3065,
+      "StationName": "สภ.ท่าวุ้ง",
+      "ProvinceID": 22,
+      "FnetID": 259
+    },
+    {
+      "StationID": 3066,
+      "StationName": "สภ.บ้านหมี่",
+      "ProvinceID": 22,
+      "FnetID": 265
+    },
+    {
+      "StationID": 3067,
+      "StationName": "สภ.พัฒนานิคม",
+      "ProvinceID": 22,
+      "FnetID": 266
+    },
+    {
+      "StationID": 3068,
+      "StationName": "สภ.ชัยบาดาล",
+      "ProvinceID": 22,
+      "FnetID": 257
+    },
+    {
+      "StationID": 3069,
+      "StationName": "สภ.ม่วงค่อม",
+      "ProvinceID": 22,
+      "FnetID": 267
+    },
+    {
+      "StationID": 3070,
+      "StationName": "สภ.สระโบสถ์",
+      "ProvinceID": 22,
+      "FnetID": 270
+    },
+    {
+      "StationID": 3071,
+      "StationName": "สภ.ท่าหลวง",
+      "ProvinceID": 22,
+      "FnetID": 260
+    },
+    {
+      "StationID": 3072,
+      "StationName": "สภ.โคกสำโรง",
+      "ProvinceID": 22,
+      "FnetID": 256
+    },
+    {
+      "StationID": 3073,
+      "StationName": "สภ.หนองม่วง",
+      "ProvinceID": 22,
+      "FnetID": 271
+    },
+    {
+      "StationID": 3074,
+      "StationName": "สภ.เพนียด",
+      "ProvinceID": 22,
+      "FnetID": 251
+    },
+    {
+      "StationID": 3075,
+      "StationName": "สภ.โคกเจริญ",
+      "ProvinceID": 22,
+      "FnetID": 253
+    },
+    {
+      "StationID": 3076,
+      "StationName": "สภ.ลำสนธิ",
+      "ProvinceID": 22,
+      "FnetID": 269
+    },
+    {
+      "StationID": 3077,
+      "StationName": "สภ.โคกตูม",
+      "ProvinceID": 22,
+      "FnetID": 254
+    },
+    {
+      "StationID": 3078,
+      "StationName": "สภ.เมืองลำปาง",
+      "ProvinceID": 55,
+      "FnetID": 5489
+    },
+    {
+      "StationID": 3079,
+      "StationName": "สภ.ห้างฉัตร",
+      "ProvinceID": 55,
+      "FnetID": 1191
+    },
+    {
+      "StationID": 3080,
+      "StationName": "สภ.งาว",
+      "ProvinceID": 55,
+      "FnetID": 1185
+    },
+    {
+      "StationID": 3081,
+      "StationName": "สภ.แจ้ห่ม",
+      "ProvinceID": 55,
+      "FnetID": 1181
+    },
+    {
+      "StationID": 3082,
+      "StationName": "สภ.วังเหนือ",
+      "ProvinceID": 55,
+      "FnetID": 1189
+    },
+    {
+      "StationID": 3083,
+      "StationName": "สภ.แม่เมาะ",
+      "ProvinceID": 55,
+      "FnetID": 1182
+    },
+    {
+      "StationID": 3084,
+      "StationName": "สภ.เมืองปาน",
+      "ProvinceID": 55,
+      "FnetID": 1176
+    },
+    {
+      "StationID": 3085,
+      "StationName": "สภ.เถิน",
+      "ProvinceID": 55,
+      "FnetID": 1175
+    },
+    {
+      "StationID": 3087,
+      "StationName": "สภ.แม่ทะ",
+      "ProvinceID": 55,
+      "FnetID": 1183
+    },
+    {
+      "StationID": 3088,
+      "StationName": "สภ.สบปราบ",
+      "ProvinceID": 55,
+      "FnetID": 1190
+    },
+    {
+      "StationID": 3089,
+      "StationName": "สภ.เสริมงาม",
+      "ProvinceID": 55,
+      "FnetID": 1179
+    },
+    {
+      "StationID": 3090,
+      "StationName": "สภ.แม่พริก",
+      "ProvinceID": 55,
+      "FnetID": 1184
+    },
+    {
+      "StationID": 3091,
+      "StationName": "สภ.ทุ่งฝาย",
+      "ProvinceID": 55,
+      "FnetID": 1186
+    },
+    {
+      "StationID": 3092,
+      "StationName": "สภ.บ้านเสด็จ",
+      "ProvinceID": 55,
+      "FnetID": 1187
+    },
+    {
+      "StationID": 3093,
+      "StationName": "สภ.เขลางค์นคร",
+      "ProvinceID": 55,
+      "FnetID": 6043
+    },
+    {
+      "StationID": 3094,
+      "StationName": "สภ.บ้านเอื้อม",
+      "ProvinceID": 55,
+      "FnetID": 1188
+    },
+    {
+      "StationID": 3095,
+      "StationName": "สภ.เวียงมอก",
+      "ProvinceID": 55,
+      "FnetID": 1178
+    },
+    {
+      "StationID": 3096,
+      "StationName": "สภ.เมืองลำพูน",
+      "ProvinceID": 54,
+      "FnetID": 1195
+    },
+    {
+      "StationID": 3097,
+      "StationName": "สภ.บ้านธิ",
+      "ProvinceID": 54,
+      "FnetID": 1203
+    },
+    {
+      "StationID": 3098,
+      "StationName": "สภ.เหมืองจี้",
+      "ProvinceID": 54,
+      "FnetID": 1197
+    },
+    {
+      "StationID": 3099,
+      "StationName": "สภ.ป่าซาง",
+      "ProvinceID": 54,
+      "FnetID": 1204
+    },
+    {
+      "StationID": 3100,
+      "StationName": "สภ.บ้านโฮ่ง",
+      "ProvinceID": 54,
+      "FnetID": 1202
+    },
+    {
+      "StationID": 3101,
+      "StationName": "สภ.แม่ทา",
+      "ProvinceID": 54,
+      "FnetID": 1198
+    },
+    {
+      "StationID": 3102,
+      "StationName": "สภ.ทากาศ",
+      "ProvinceID": 54,
+      "FnetID": 1200
+    },
+    {
+      "StationID": 3103,
+      "StationName": "สภ.ลี้",
+      "ProvinceID": 54,
+      "FnetID": 1205
+    },
+    {
+      "StationID": 3104,
+      "StationName": "สภ.ทุ่งหัวช้าง",
+      "ProvinceID": 54,
+      "FnetID": 1201
+    },
+    {
+      "StationID": 3105,
+      "StationName": "สภ.เวียงหนองล่อง",
+      "ProvinceID": 54,
+      "FnetID": 1196
+    },
+    {
+      "StationID": 3106,
+      "StationName": "สภ.นิคมอุตสาหกรรม",
+      "ProvinceID": 54,
+      "FnetID": 6084
+    },
+    {
+      "StationID": 3107,
+      "StationName": "สภ.เมืองเลย",
+      "ProvinceID": 45,
+      "FnetID": 769
+    },
+    {
+      "StationID": 3108,
+      "StationName": "สภ.นาดินดำ",
+      "ProvinceID": 45,
+      "FnetID": 776
+    },
+    {
+      "StationID": 3109,
+      "StationName": "สภ.วังสะพุง",
+      "ProvinceID": 45,
+      "FnetID": 782
+    },
+    {
+      "StationID": 3110,
+      "StationName": "สภ.หนองหญ้าปล้อง",
+      "ProvinceID": 45,
+      "FnetID": 783
+    },
+    {
+      "StationID": 3111,
+      "StationName": "สภ.ภูกระดึง",
+      "ProvinceID": 45,
+      "FnetID": 780
+    },
+    {
+      "StationID": 3112,
+      "StationName": "สภ.หนองหิน",
+      "ProvinceID": 45,
+      "FnetID": 784
+    },
+    {
+      "StationID": 3113,
+      "StationName": "สภ.ปากชม",
+      "ProvinceID": 45,
+      "FnetID": 777
+    },
+    {
+      "StationID": 3114,
+      "StationName": "สภ.เชียงคาน",
+      "ProvinceID": 45,
+      "FnetID": 768
+    },
+    {
+      "StationID": 3115,
+      "StationName": "สภ.ท่าลี่",
+      "ProvinceID": 45,
+      "FnetID": 3496
+    },
+    {
+      "StationID": 3116,
+      "StationName": "สภ.โพนทอง",
+      "ProvinceID": 45,
+      "FnetID": 772
+    },
+    {
+      "StationID": 3117,
+      "StationName": "สภ.ภูเรือ",
+      "ProvinceID": 45,
+      "FnetID": 779
+    },
+    {
+      "StationID": 3118,
+      "StationName": "สภ.ด่านซ้าย",
+      "ProvinceID": 45,
+      "FnetID": 773
+    },
+    {
+      "StationID": 3119,
+      "StationName": "สภ.โคกงาม",
+      "ProvinceID": 45,
+      "FnetID": 771
+    },
+    {
+      "StationID": 3120,
+      "StationName": "สภ.นาแห้ว",
+      "ProvinceID": 45,
+      "FnetID": 774
+    },
+    {
+      "StationID": 3121,
+      "StationName": "สภ.นาด้วง",
+      "ProvinceID": 45,
+      "FnetID": 775
+    },
+    {
+      "StationID": 3122,
+      "StationName": "สภ.ภูหลวง",
+      "ProvinceID": 45,
+      "FnetID": 781
+    },
+    {
+      "StationID": 3123,
+      "StationName": "สภ.ผาขาว",
+      "ProvinceID": 45,
+      "FnetID": 778
+    },
+    {
+      "StationID": 3124,
+      "StationName": "สภ.เอราวัณ",
+      "ProvinceID": 45,
+      "FnetID": 770
+    },
+    {
+      "StationID": 3125,
+      "StationName": "สภ.เชียงกลม",
+      "ProvinceID": 45,
+      "FnetID": 767
+    },
+    {
+      "StationID": 3126,
+      "StationName": "สภ.เมืองศรีสะเกษ",
+      "ProvinceID": 37,
+      "FnetID": 632
+    },
+    {
+      "StationID": 3127,
+      "StationName": "สภ.พยุห์",
+      "ProvinceID": 37,
+      "FnetID": 652
+    },
+    {
+      "StationID": 3128,
+      "StationName": "สภ.อุทุมพรพิสัย",
+      "ProvinceID": 37,
+      "FnetID": 661
+    },
+    {
+      "StationID": 3129,
+      "StationName": "สภ.ราษีไศล",
+      "ProvinceID": 37,
+      "FnetID": 655
+    },
+    {
+      "StationID": 3130,
+      "StationName": "สภ.กันทรารมย์",
+      "ProvinceID": 37,
+      "FnetID": 640
+    },
+    {
+      "StationID": 3131,
+      "StationName": "สภ.ยางชุมน้อย",
+      "ProvinceID": 37,
+      "FnetID": 654
+    },
+    {
+      "StationID": 3132,
+      "StationName": "สภ.ห้วยทับทัน",
+      "ProvinceID": 37,
+      "FnetID": 660
+    },
+    {
+      "StationID": 3133,
+      "StationName": "สภ.วังหิน",
+      "ProvinceID": 37,
+      "FnetID": 656
+    },
+    {
+      "StationID": 3134,
+      "StationName": "สภ.น้ำเกลี้ยง",
+      "ProvinceID": 37,
+      "FnetID": 646
+    },
+    {
+      "StationID": 3135,
+      "StationName": "สภ.บึงบูรพ์",
+      "ProvinceID": 37,
+      "FnetID": 648
+    },
+    {
+      "StationID": 3136,
+      "StationName": "สภ.ขุขันธ์",
+      "ProvinceID": 37,
+      "FnetID": 642
+    },
+    {
+      "StationID": 3137,
+      "StationName": "สภ.ปรือใหญ่",
+      "ProvinceID": 37,
+      "FnetID": 651
+    },
+    {
+      "StationID": 3138,
+      "StationName": "สภ.กันทรลักษ์",
+      "ProvinceID": 37,
+      "FnetID": 638
+    },
+    {
+      "StationID": 3139,
+      "StationName": "สภ.บึงมะลู",
+      "ProvinceID": 37,
+      "FnetID": 649
+    },
+    {
+      "StationID": 3140,
+      "StationName": "สภ.ขุนหาญ",
+      "ProvinceID": 37,
+      "FnetID": 643
+    },
+    {
+      "StationID": 3141,
+      "StationName": "สภ.ปรางค์กู่",
+      "ProvinceID": 37,
+      "FnetID": 650
+    },
+    {
+      "StationID": 3142,
+      "StationName": "สภ.ไพรบึง",
+      "ProvinceID": 37,
+      "FnetID": 637
+    },
+    {
+      "StationID": 3143,
+      "StationName": "สภ.โนนคูณ",
+      "ProvinceID": 37,
+      "FnetID": 633
+    },
+    {
+      "StationID": 3144,
+      "StationName": "สภ.ศรีรัตนะ",
+      "ProvinceID": 37,
+      "FnetID": 657
+    },
+    {
+      "StationID": 3145,
+      "StationName": "สภ.เมืองจันทร์",
+      "ProvinceID": 37,
+      "FnetID": 631
+    },
+    {
+      "StationID": 3146,
+      "StationName": "สภ.ภูสิงห์",
+      "ProvinceID": 37,
+      "FnetID": 653
+    },
+    {
+      "StationID": 3147,
+      "StationName": "สภ.เบญจลักษ์",
+      "ProvinceID": 37,
+      "FnetID": 630
+    },
+    {
+      "StationID": 3148,
+      "StationName": "สภ.โพธิ์ศรีสุวรรณ",
+      "ProvinceID": 37,
+      "FnetID": 634
+    },
+    {
+      "StationID": 3149,
+      "StationName": "สภ.ศิลาลาด",
+      "ProvinceID": 37,
+      "FnetID": 658
+    },
+    {
+      "StationID": 3150,
+      "StationName": "สภ.บ้านโดนเอาว์",
+      "ProvinceID": 37,
+      "FnetID": 647
+    },
+    {
+      "StationID": 3151,
+      "StationName": "สภ.กันทรอม",
+      "ProvinceID": 37,
+      "FnetID": 639
+    },
+    {
+      "StationID": 3152,
+      "StationName": "สภ.ไพร",
+      "ProvinceID": 37,
+      "FnetID": 636
+    },
+    {
+      "StationID": 3153,
+      "StationName": "สภ.เมืองสกลนคร",
+      "ProvinceID": 50,
+      "FnetID": 907
+    },
+    {
+      "StationID": 3154,
+      "StationName": "สภ.ขมิ้น",
+      "ProvinceID": 50,
+      "FnetID": 916
+    },
+    {
+      "StationID": 3155,
+      "StationName": "สภ.ตาดโตน",
+      "ProvinceID": 50,
+      "FnetID": 920
+    },
+    {
+      "StationID": 3156,
+      "StationName": "สภ.พรรณานิคม",
+      "ProvinceID": 50,
+      "FnetID": 924
+    },
+    {
+      "StationID": 3157,
+      "StationName": "สภ.กุดบาก",
+      "ProvinceID": 50,
+      "FnetID": 914
+    },
+    {
+      "StationID": 3158,
+      "StationName": "สภ.กุสุมาลย์",
+      "ProvinceID": 50,
+      "FnetID": 915
+    },
+    {
+      "StationID": 3159,
+      "StationName": "สภ.พังโคน",
+      "ProvinceID": 50,
+      "FnetID": 925
+    },
+    {
+      "StationID": 3160,
+      "StationName": "สภ.เต่างอย",
+      "ProvinceID": 50,
+      "FnetID": 906
+    },
+    {
+      "StationID": 3161,
+      "StationName": "สภ.โคกศรีสุพรรณ",
+      "ProvinceID": 50,
+      "FnetID": 909
+    },
+    {
+      "StationID": 3162,
+      "StationName": "สภ.สว่างแดนดิน",
+      "ProvinceID": 50,
+      "FnetID": 932
+    },
+    {
+      "StationID": 3163,
+      "StationName": "สภ.แวง",
+      "ProvinceID": 50,
+      "FnetID": 908
+    },
+    {
+      "StationID": 3164,
+      "StationName": "สภ.วานรนิวาส",
+      "ProvinceID": 50,
+      "FnetID": 927
+    },
+    {
+      "StationID": 3165,
+      "StationName": "สภ.ศรีวิชัย",
+      "ProvinceID": 50,
+      "FnetID": 929
+    },
+    {
+      "StationID": 3166,
+      "StationName": "สภ.วาริชภูมิ",
+      "ProvinceID": 50,
+      "FnetID": 928
+    },
+    {
+      "StationID": 3167,
+      "StationName": "สภ.อากาศอำนวย",
+      "ProvinceID": 50,
+      "FnetID": 935
+    },
+    {
+      "StationID": 3168,
+      "StationName": "สภ.บ้านม่วง",
+      "ProvinceID": 50,
+      "FnetID": 923
+    },
+    {
+      "StationID": 3169,
+      "StationName": "สภ.ส่องดาว",
+      "ProvinceID": 50,
+      "FnetID": 933
+    },
+    {
+      "StationID": 3170,
+      "StationName": "สภ.คำตากล้า",
+      "ProvinceID": 50,
+      "FnetID": 917
+    },
+    {
+      "StationID": 3171,
+      "StationName": "สภ.นิคมน้ำอูน",
+      "ProvinceID": 50,
+      "FnetID": 922
+    },
+    {
+      "StationID": 3172,
+      "StationName": "สภ.เจริญศิลป์",
+      "ProvinceID": 50,
+      "FnetID": 905
+    },
+    {
+      "StationID": 3173,
+      "StationName": "สภ.โพนนาแก้ว",
+      "ProvinceID": 50,
+      "FnetID": 913
+    },
+    {
+      "StationID": 3174,
+      "StationName": "สภ.ภูพาน",
+      "ProvinceID": 50,
+      "FnetID": 926
+    },
+    {
+      "StationID": 3177,
+      "StationName": "สภ.สทิงพระ",
+      "ProvinceID": 4,
+      "FnetID": 1754
+    },
+    {
+      "StationID": 3209,
+      "StationName": "สภ.เมืองสมุทรปราการ",
+      "ProvinceID": 17,
+      "FnetID": 275
+    },
+    {
+      "StationID": 3210,
+      "StationName": "สภ.บางแก้ว",
+      "ProvinceID": 17,
+      "FnetID": 3155
+    },
+    {
+      "StationID": 3211,
+      "StationName": "สภ.บางปู",
+      "ProvinceID": 17,
+      "FnetID": 279
+    },
+    {
+      "StationID": 3212,
+      "StationName": "สภ.สำโรงเหนือ",
+      "ProvinceID": 17,
+      "FnetID": 286
+    },
+    {
+      "StationID": 3213,
+      "StationName": "สภ.บางเสาธง",
+      "ProvinceID": 17,
+      "FnetID": 277
+    },
+    {
+      "StationID": 3214,
+      "StationName": "สภ.บางบ่อ",
+      "ProvinceID": 17,
+      "FnetID": 278
+    },
+    {
+      "StationID": 3215,
+      "StationName": "สภ.คลองด่าน",
+      "ProvinceID": 17,
+      "FnetID": 276
+    },
+    {
+      "StationID": 3216,
+      "StationName": "สภ.บางพลีน้อย",
+      "ProvinceID": 17,
+      "FnetID": 280
+    },
+    {
+      "StationID": 3217,
+      "StationName": "สภ.พระสมุทรเจดีย์",
+      "ProvinceID": 17,
+      "FnetID": 283
+    },
+    {
+      "StationID": 3218,
+      "StationName": "สภ.สาขลา",
+      "ProvinceID": 17,
+      "FnetID": 285
+    },
+    {
+      "StationID": 3219,
+      "StationName": "สภ.พระประแดง",
+      "ProvinceID": 17,
+      "FnetID": 282
+    },
+    {
+      "StationID": 3220,
+      "StationName": "สภ.สำโรงใต้",
+      "ProvinceID": 17,
+      "FnetID": 5279
+    },
+    {
+      "StationID": 3221,
+      "StationName": "สภ.บางพลี",
+      "ProvinceID": 17,
+      "FnetID": 4503
+    },
+    {
+      "StationID": 3222,
+      "StationName": "สภ.ท่าอากาศยานสุวรรณภูมิ",
+      "ProvinceID": 17,
+      "FnetID": 3467
+    },
+    {
+      "StationID": 3223,
+      "StationName": "สภ.เปร็ง",
+      "ProvinceID": 17,
+      "FnetID": 274
+    },
+    {
+      "StationID": 3224,
+      "StationName": "สภ.เมืองสมุทรสงคราม",
+      "ProvinceID": 75,
+      "FnetID": 2301
+    },
+    {
+      "StationID": 3225,
+      "StationName": "สภ.อัมพวา",
+      "ProvinceID": 75,
+      "FnetID": 3421
+    },
+    {
+      "StationID": 3226,
+      "StationName": "สภ.บางคนที",
+      "ProvinceID": 75,
+      "FnetID": 3384
+    },
+    {
+      "StationID": 3227,
+      "StationName": "สภ.เมืองสมุทรสาคร",
+      "ProvinceID": 74,
+      "FnetID": 4372
+    },
+    {
+      "StationID": 3228,
+      "StationName": "สภ.โคกขาม",
+      "ProvinceID": 74,
+      "FnetID": 4391
+    },
+    {
+      "StationID": 3229,
+      "StationName": "สภ.กระทุ่มแบน",
+      "ProvinceID": 74,
+      "FnetID": 4366
+    },
+    {
+      "StationID": 3230,
+      "StationName": "สภ.บ้านแพ้ว",
+      "ProvinceID": 74,
+      "FnetID": 4376
+    },
+    {
+      "StationID": 3231,
+      "StationName": "สภ.บางโทรัด",
+      "ProvinceID": 74,
+      "FnetID": 4893
+    },
+    {
+      "StationID": 3232,
+      "StationName": "สภ.เมืองสระแก้ว",
+      "ProvinceID": 33,
+      "FnetID": 461
+    },
+    {
+      "StationID": 3233,
+      "StationName": "สภ.เขาฉกรรจ์",
+      "ProvinceID": 33,
+      "FnetID": 459
+    },
+    {
+      "StationID": 3234,
+      "StationName": "สภ.ปางสีดา",
+      "ProvinceID": 33,
+      "FnetID": 3262
+    },
+    {
+      "StationID": 3235,
+      "StationName": "สภ.อรัญประเทศ",
+      "ProvinceID": 33,
+      "FnetID": 474
+    },
+    {
+      "StationID": 3236,
+      "StationName": "สภ.คลองลึก",
+      "ProvinceID": 33,
+      "FnetID": 465
+    },
+    {
+      "StationID": 3237,
+      "StationName": "สภ.ตาพระยา",
+      "ProvinceID": 33,
+      "FnetID": 467
+    },
+    {
+      "StationID": 3238,
+      "StationName": "สภ.วังน้ำเย็น",
+      "ProvinceID": 33,
+      "FnetID": 470
+    },
+    {
+      "StationID": 3239,
+      "StationName": "สภ.คลองหาด",
+      "ProvinceID": 33,
+      "FnetID": 466
+    },
+    {
+      "StationID": 3240,
+      "StationName": "สภ.วัฒนานคร",
+      "ProvinceID": 33,
+      "FnetID": 3177
+    },
+    {
+      "StationID": 3241,
+      "StationName": "สภ.หนองหมากฝ้าย",
+      "ProvinceID": 33,
+      "FnetID": 472
+    },
+    {
+      "StationID": 3242,
+      "StationName": "สภ.โคกสูง",
+      "ProvinceID": 33,
+      "FnetID": 462
+    },
+    {
+      "StationID": 3243,
+      "StationName": "สภ.วังสมบูรณ์",
+      "ProvinceID": 33,
+      "FnetID": 471
+    },
+    {
+      "StationID": 3244,
+      "StationName": "สภ.คลองน้ำใส",
+      "ProvinceID": 33,
+      "FnetID": 464
+    },
+    {
+      "StationID": 3245,
+      "StationName": "สภ.บ้านทัพไทย",
+      "ProvinceID": 33,
+      "FnetID": 469
+    },
+    {
+      "StationID": 3246,
+      "StationName": "สภ.เขาสิงโต",
+      "ProvinceID": 33,
+      "FnetID": 460
+    },
+    {
+      "StationID": 3247,
+      "StationName": "สภ.บ้านทับใหม่",
+      "ProvinceID": 33,
+      "FnetID": 468
+    },
+    {
+      "StationID": 3248,
+      "StationName": "สภ.เมืองสระบุรี",
+      "ProvinceID": 25,
+      "FnetID": 291
+    },
+    {
+      "StationID": 3249,
+      "StationName": "สภ.หน้าพระลาน",
+      "ProvinceID": 25,
+      "FnetID": 303
+    },
+    {
+      "StationID": 3250,
+      "StationName": "สภ.พระพุทธบาท",
+      "ProvinceID": 25,
+      "FnetID": 296
+    },
+    {
+      "StationID": 3251,
+      "StationName": "สภ.แก่งคอย",
+      "ProvinceID": 25,
+      "FnetID": 293
+    },
+    {
+      "StationID": 3252,
+      "StationName": "สภ.มวกเหล็ก",
+      "ProvinceID": 25,
+      "FnetID": 297
+    },
+    {
+      "StationID": 3253,
+      "StationName": "สภ.วังม่วง",
+      "ProvinceID": 25,
+      "FnetID": 298
+    },
+    {
+      "StationID": 3254,
+      "StationName": "สภ.วิหารแดง",
+      "ProvinceID": 25,
+      "FnetID": 299
+    },
+    {
+      "StationID": 3255,
+      "StationName": "สภ.หนองแค",
+      "ProvinceID": 25,
+      "FnetID": 300
+    },
+    {
+      "StationID": 3256,
+      "StationName": "สภ.หนองแซง",
+      "ProvinceID": 25,
+      "FnetID": 301
+    },
+    {
+      "StationID": 3257,
+      "StationName": "สภ.เสาไห้",
+      "ProvinceID": 25,
+      "FnetID": 292
+    },
+    {
+      "StationID": 3258,
+      "StationName": "สภ.บ้านหมอ",
+      "ProvinceID": 25,
+      "FnetID": 295
+    },
+    {
+      "StationID": 3259,
+      "StationName": "สภ.หนองโดน",
+      "ProvinceID": 25,
+      "FnetID": 302
+    },
+    {
+      "StationID": 3260,
+      "StationName": "สภ.ดอนพุด",
+      "ProvinceID": 25,
+      "FnetID": 294
+    },
+    {
+      "StationID": 3261,
+      "StationName": "สภ.เฉลิมพระเกียรติ",
+      "ProvinceID": 25,
+      "FnetID": 290
+    },
+    {
+      "StationID": 3262,
+      "StationName": "สภ.เมืองสิงห์บุรี",
+      "ProvinceID": 23,
+      "FnetID": 307
+    },
+    {
+      "StationID": 3263,
+      "StationName": "สภ.อินทร์บุรี",
+      "ProvinceID": 23,
+      "FnetID": 313
+    },
+    {
+      "StationID": 3264,
+      "StationName": "สภ.พรหมบุรี",
+      "ProvinceID": 23,
+      "FnetID": 312
+    },
+    {
+      "StationID": 3265,
+      "StationName": "สภ.บางระจัน",
+      "ProvinceID": 23,
+      "FnetID": 311
+    },
+    {
+      "StationID": 3266,
+      "StationName": "สภ.ท่าช้าง",
+      "ProvinceID": 23,
+      "FnetID": 310
+    },
+    {
+      "StationID": 3267,
+      "StationName": "สภ.ค่ายบางระจัน",
+      "ProvinceID": 23,
+      "FnetID": 309
+    },
+    {
+      "StationID": 3268,
+      "StationName": "สภ.เมืองสุโขทัย",
+      "ProvinceID": 66,
+      "FnetID": 1349
+    },
+    {
+      "StationID": 3269,
+      "StationName": "สภ.สวรรคโลก",
+      "ProvinceID": 66,
+      "FnetID": 1359
+    },
+    {
+      "StationID": 3270,
+      "StationName": "สภ.ศรีสัชนาลัย",
+      "ProvinceID": 66,
+      "FnetID": 3965
+    },
+    {
+      "StationID": 3271,
+      "StationName": "สภ.ศรีสำโรง",
+      "ProvinceID": 66,
+      "FnetID": 1358
+    },
+    {
+      "StationID": 3272,
+      "StationName": "สภ.กงไกรลาศ",
+      "ProvinceID": 66,
+      "FnetID": 1350
+    },
+    {
+      "StationID": 3273,
+      "StationName": "สภ.คีรีมาศ",
+      "ProvinceID": 66,
+      "FnetID": 1351
+    },
+    {
+      "StationID": 3274,
+      "StationName": "สภ.ทุ่งเสลี่ยม",
+      "ProvinceID": 66,
+      "FnetID": 5912
+    },
+    {
+      "StationID": 3275,
+      "StationName": "สภ.บ้านด่านลานหอย",
+      "ProvinceID": 66,
+      "FnetID": 1355
+    },
+    {
+      "StationID": 3276,
+      "StationName": "สภ.ศรีนคร",
+      "ProvinceID": 66,
+      "FnetID": 1357
+    },
+    {
+      "StationID": 3277,
+      "StationName": "สภ.บ้านไร่",
+      "ProvinceID": 66,
+      "FnetID": 1354
+    },
+    {
+      "StationID": 3278,
+      "StationName": "สภ.เมืองเก่า",
+      "ProvinceID": 66,
+      "FnetID": 1347
+    },
+    {
+      "StationID": 3279,
+      "StationName": "สภ.บ้านสวน",
+      "ProvinceID": 66,
+      "FnetID": 1356
+    },
+    {
+      "StationID": 3280,
+      "StationName": "สภ.บ้านแก่ง",
+      "ProvinceID": 66,
+      "FnetID": 1353
+    },
+    {
+      "StationID": 3281,
+      "StationName": "สภ.เมืองสุพรรณบุรี",
+      "ProvinceID": 72,
+      "FnetID": 1519
+    },
+    {
+      "StationID": 3282,
+      "StationName": "สภ.สองพี่น้อง",
+      "ProvinceID": 72,
+      "FnetID": 1529
+    },
+    {
+      "StationID": 3283,
+      "StationName": "สภ.อู่ทอง",
+      "ProvinceID": 72,
+      "FnetID": 1533
+    },
+    {
+      "StationID": 3284,
+      "StationName": "สภ.บางปลาม้า",
+      "ProvinceID": 72,
+      "FnetID": 1525
+    },
+    {
+      "StationID": 3285,
+      "StationName": "สภ.ด่านช้าง",
+      "ProvinceID": 72,
+      "FnetID": 1521
+    },
+    {
+      "StationID": 3286,
+      "StationName": "สภ.สามชุก",
+      "ProvinceID": 72,
+      "FnetID": 1530
+    },
+    {
+      "StationID": 3287,
+      "StationName": "สภ.ศรีประจันต์",
+      "ProvinceID": 72,
+      "FnetID": 1526
+    },
+    {
+      "StationID": 3288,
+      "StationName": "สภ.ดอนเจดีย์",
+      "ProvinceID": 72,
+      "FnetID": 1520
+    },
+    {
+      "StationID": 3289,
+      "StationName": "สภ.เดิมบางนางบวช",
+      "ProvinceID": 72,
+      "FnetID": 1518
+    },
+    {
+      "StationID": 3290,
+      "StationName": "สภ.ทุ่งคลี",
+      "ProvinceID": 72,
+      "FnetID": 1522
+    },
+    {
+      "StationID": 3291,
+      "StationName": "สภ.หนองหญ้าไซ",
+      "ProvinceID": 72,
+      "FnetID": 1531
+    },
+    {
+      "StationID": 3292,
+      "StationName": "สภ.ทุ่งคอก",
+      "ProvinceID": 72,
+      "FnetID": 1523
+    },
+    {
+      "StationID": 3293,
+      "StationName": "สภ.สระยายโสม",
+      "ProvinceID": 72,
+      "FnetID": 1528
+    },
+    {
+      "StationID": 3294,
+      "StationName": "สภ.สระแก้ว",
+      "ProvinceID": 72,
+      "FnetID": 1527
+    },
+    {
+      "StationID": 3295,
+      "StationName": "สภ.บางตาเถร",
+      "ProvinceID": 72,
+      "FnetID": 1524
+    },
+    {
+      "StationID": 3301,
+      "StationName": "สภ.พระแสง",
+      "ProvinceID": 14,
+      "FnetID": 1671
+    },
+    {
+      "StationID": 3302,
+      "StationName": "สภ.กาญจนดิษฐ์",
+      "ProvinceID": 14,
+      "FnetID": 1657
+    },
+    {
+      "StationID": 3305,
+      "StationName": "สภ.เกาะพะงัน",
+      "ProvinceID": 14,
+      "FnetID": 1648
+    },
+    {
+      "StationID": 3309,
+      "StationName": "สภ.บางมะเดื่อ",
+      "ProvinceID": 14,
+      "FnetID": 1666
+    },
+    {
+      "StationID": 3310,
+      "StationName": "สภ.ท่าฉาง",
+      "ProvinceID": 14,
+      "FnetID": 1662
+    },
+    {
+      "StationID": 3321,
+      "StationName": "สภ.เมืองสุรินทร์",
+      "ProvinceID": 36,
+      "FnetID": 3039
+    },
+    {
+      "StationID": 3322,
+      "StationName": "สภ.สังขะ",
+      "ProvinceID": 36,
+      "FnetID": 695
+    },
+    {
+      "StationID": 3323,
+      "StationName": "สภ.ศรีณรงค์",
+      "ProvinceID": 36,
+      "FnetID": 690
+    },
+    {
+      "StationID": 3324,
+      "StationName": "สภ.ปราสาท",
+      "ProvinceID": 36,
+      "FnetID": 686
+    },
+    {
+      "StationID": 3325,
+      "StationName": "สภ.ทุ่งมน",
+      "ProvinceID": 36,
+      "FnetID": 683
+    },
+    {
+      "StationID": 3326,
+      "StationName": "สภ.กาบเชิง",
+      "ProvinceID": 36,
+      "FnetID": 675
+    },
+    {
+      "StationID": 3327,
+      "StationName": "สภ.บัวเชด",
+      "ProvinceID": 36,
+      "FnetID": 684
+    },
+    {
+      "StationID": 3328,
+      "StationName": "สภ.ลำดวน",
+      "ProvinceID": 36,
+      "FnetID": 606
+    },
+    {
+      "StationID": 3329,
+      "StationName": "สภ.รัตนบุรี",
+      "ProvinceID": 36,
+      "FnetID": 688
+    },
+    {
+      "StationID": 3330,
+      "StationName": "สภ.ศีขรภูมิ",
+      "ProvinceID": 36,
+      "FnetID": 691
+    },
+    {
+      "StationID": 3331,
+      "StationName": "สภ.ชุมพลบุรี",
+      "ProvinceID": 36,
+      "FnetID": 677
+    },
+    {
+      "StationID": 3332,
+      "StationName": "สภ.สำโรงทาบ",
+      "ProvinceID": 36,
+      "FnetID": 696
+    },
+    {
+      "StationID": 3333,
+      "StationName": "สภ.จอมพระ",
+      "ProvinceID": 36,
+      "FnetID": 676
+    },
+    {
+      "StationID": 3334,
+      "StationName": "สภ.ท่าตูม",
+      "ProvinceID": 36,
+      "FnetID": 682
+    },
+    {
+      "StationID": 3335,
+      "StationName": "สภ.สนม",
+      "ProvinceID": 36,
+      "FnetID": 692
+    },
+    {
+      "StationID": 3336,
+      "StationName": "สภ.พนมดงรัก",
+      "ProvinceID": 36,
+      "FnetID": 687
+    },
+    {
+      "StationID": 3337,
+      "StationName": "สภ.เขวาสินรินทร์",
+      "ProvinceID": 36,
+      "FnetID": 664
+    },
+    {
+      "StationID": 3338,
+      "StationName": "สภ.โนนนารายณ์",
+      "ProvinceID": 36,
+      "FnetID": 673
+    },
+    {
+      "StationID": 3339,
+      "StationName": "สภ.ดม",
+      "ProvinceID": 36,
+      "FnetID": 678
+    },
+    {
+      "StationID": 3340,
+      "StationName": "สภ.เทนมีย์",
+      "ProvinceID": 36,
+      "FnetID": 665
+    },
+    {
+      "StationID": 3341,
+      "StationName": "สภ.สวาย",
+      "ProvinceID": 36,
+      "FnetID": 693
+    },
+    {
+      "StationID": 3342,
+      "StationName": "สภ.เมืองที",
+      "ProvinceID": 36,
+      "FnetID": 667
+    },
+    {
+      "StationID": 3343,
+      "StationName": "สภ.โชคนาสาม",
+      "ProvinceID": 36,
+      "FnetID": 672
+    },
+    {
+      "StationID": 3344,
+      "StationName": "สภ.กระโพ",
+      "ProvinceID": 36,
+      "FnetID": 674
+    },
+    {
+      "StationID": 3345,
+      "StationName": "สภ.เมืองหนองคาย",
+      "ProvinceID": 46,
+      "FnetID": 941
+    },
+    {
+      "StationID": 3346,
+      "StationName": "สภ.ท่าบ่อ",
+      "ProvinceID": 46,
+      "FnetID": 951
+    },
+    {
+      "StationID": 3347,
+      "StationName": "สภ.โพนพิสัย",
+      "ProvinceID": 46,
+      "FnetID": 948
+    },
+    {
+      "StationID": 3348,
+      "StationName": "สภ.ศรีเชียงใหม่",
+      "ProvinceID": 46,
+      "FnetID": 960
+    },
+    {
+      "StationID": 3349,
+      "StationName": "สภ.โพธิ์ตาก",
+      "ProvinceID": 46,
+      "FnetID": 947
+    },
+    {
+      "StationID": 3350,
+      "StationName": "สภ.สังคม",
+      "ProvinceID": 46,
+      "FnetID": 963
+    },
+    {
+      "StationID": 3351,
+      "StationName": "สภ.สระใคร",
+      "ProvinceID": 46,
+      "FnetID": 962
+    },
+    {
+      "StationID": 3352,
+      "StationName": "สภ.รัตนวาปี",
+      "ProvinceID": 46,
+      "FnetID": 959
+    },
+    {
+      "StationID": 3353,
+      "StationName": "สภ.เฝ้าไร่",
+      "ProvinceID": 46,
+      "FnetID": 940
+    },
+    {
+      "StationID": 3354,
+      "StationName": "สภ.บ้านเดื่อ",
+      "ProvinceID": 46,
+      "FnetID": 953
+    },
+    {
+      "StationID": 3355,
+      "StationName": "สภ.เวียงคุก",
+      "ProvinceID": 46,
+      "FnetID": 942
+    },
+    {
+      "StationID": 3356,
+      "StationName": "สภ.เมืองหนองบัวลำภู",
+      "ProvinceID": 42,
+      "FnetID": 1002
+    },
+    {
+      "StationID": 3357,
+      "StationName": "สภ.โนนสัง",
+      "ProvinceID": 42,
+      "FnetID": 1004
+    },
+    {
+      "StationID": 3358,
+      "StationName": "สภ.ศรีบุญเรือง",
+      "ProvinceID": 42,
+      "FnetID": 1007
+    },
+    {
+      "StationID": 3359,
+      "StationName": "สภ.นากลาง",
+      "ProvinceID": 42,
+      "FnetID": 1005
+    },
+    {
+      "StationID": 3360,
+      "StationName": "สภ.สุวรรณคูหา",
+      "ProvinceID": 42,
+      "FnetID": 1008
+    },
+    {
+      "StationID": 3361,
+      "StationName": "สภ.นาวัง",
+      "ProvinceID": 42,
+      "FnetID": 1006
+    },
+    {
+      "StationID": 3362,
+      "StationName": "สภ.เมืองอ่างทอง",
+      "ProvinceID": 21,
+      "FnetID": 317
+    },
+    {
+      "StationID": 3363,
+      "StationName": "สภ.ไชโย",
+      "ProvinceID": 21,
+      "FnetID": 320
+    },
+    {
+      "StationID": 3364,
+      "StationName": "สภ.โพธิ์ทอง",
+      "ProvinceID": 21,
+      "FnetID": 319
+    },
+    {
+      "StationID": 3365,
+      "StationName": "สภ.แสวงหา",
+      "ProvinceID": 21,
+      "FnetID": 318
+    },
+    {
+      "StationID": 3366,
+      "StationName": "สภ.ป่าโมก",
+      "ProvinceID": 21,
+      "FnetID": 322
+    },
+    {
+      "StationID": 3367,
+      "StationName": "สภ.วิเศษชัยชาญ",
+      "ProvinceID": 21,
+      "FnetID": 324
+    },
+    {
+      "StationID": 3368,
+      "StationName": "สภ.สามโก้",
+      "ProvinceID": 21,
+      "FnetID": 325
+    },
+    {
+      "StationID": 3369,
+      "StationName": "สภ.บางจัก",
+      "ProvinceID": 21,
+      "FnetID": 321
+    },
+    {
+      "StationID": 3370,
+      "StationName": "สภ.เมืองอำนาจเจริญ",
+      "ProvinceID": 41,
+      "FnetID": 5596
+    },
+    {
+      "StationID": 3371,
+      "StationName": "สภ.น้ำปลีก",
+      "ProvinceID": 41,
+      "FnetID": 704
+    },
+    {
+      "StationID": 3372,
+      "StationName": "สภ.หัวตะพาน",
+      "ProvinceID": 41,
+      "FnetID": 708
+    },
+    {
+      "StationID": 3373,
+      "StationName": "สภ.พนา",
+      "ProvinceID": 41,
+      "FnetID": 706
+    },
+    {
+      "StationID": 3374,
+      "StationName": "สภ.เสนางคนิคม",
+      "ProvinceID": 41,
+      "FnetID": 701
+    },
+    {
+      "StationID": 3375,
+      "StationName": "สภ.ชานุมาน",
+      "ProvinceID": 41,
+      "FnetID": 703
+    },
+    {
+      "StationID": 3376,
+      "StationName": "สภ.ลืออำนาจ",
+      "ProvinceID": 41,
+      "FnetID": 707
+    },
+    {
+      "StationID": 3377,
+      "StationName": "สภ.ปทุมราชวงศา",
+      "ProvinceID": 41,
+      "FnetID": 4331
+    },
+    {
+      "StationID": 3378,
+      "StationName": "สภ.เมืองอุดรธานี",
+      "ProvinceID": 44,
+      "FnetID": 1012
+    },
+    {
+      "StationID": 3379,
+      "StationName": "สภ.เพ็ญ",
+      "ProvinceID": 44,
+      "FnetID": 1011
+    },
+    {
+      "StationID": 3380,
+      "StationName": "สภ.บ้านดุง",
+      "ProvinceID": 44,
+      "FnetID": 1024
+    },
+    {
+      "StationID": 3381,
+      "StationName": "สภ.ดงเย็น",
+      "ProvinceID": 44,
+      "FnetID": 1019
+    },
+    {
+      "StationID": 3382,
+      "StationName": "สภ.หนองวัวซอ",
+      "ProvinceID": 44,
+      "FnetID": 1032
+    },
+    {
+      "StationID": 3383,
+      "StationName": "สภ.กุดจับ",
+      "ProvinceID": 44,
+      "FnetID": 1016
+    },
+    {
+      "StationID": 3384,
+      "StationName": "สภ.สร้างคอม",
+      "ProvinceID": 44,
+      "FnetID": 1030
+    },
+    {
+      "StationID": 3385,
+      "StationName": "สภ.กุมภวาปี",
+      "ProvinceID": 44,
+      "FnetID": 1017
+    },
+    {
+      "StationID": 3386,
+      "StationName": "สภ.หนองหาน",
+      "ProvinceID": 44,
+      "FnetID": 1033
+    },
+    {
+      "StationID": 3387,
+      "StationName": "สภ.พิบูลย์รักษ์",
+      "ProvinceID": 44,
+      "FnetID": 1027
+    },
+    {
+      "StationID": 3388,
+      "StationName": "สภ.ศรีธาตุ",
+      "ProvinceID": 44,
+      "FnetID": 1029
+    },
+    {
+      "StationID": 3389,
+      "StationName": "สภ.โนนสะอาด",
+      "ProvinceID": 44,
+      "FnetID": 1013
+    },
+    {
+      "StationID": 3390,
+      "StationName": "สภ.วังสามหมอ",
+      "ProvinceID": 44,
+      "FnetID": 1028
+    },
+    {
+      "StationID": 3391,
+      "StationName": "สภ.ไชยวาน",
+      "ProvinceID": 44,
+      "FnetID": 1014
+    },
+    {
+      "StationID": 3392,
+      "StationName": "สภ.หนองแสง",
+      "ProvinceID": 44,
+      "FnetID": 1031
+    },
+    {
+      "StationID": 3393,
+      "StationName": "สภ.ทุ่งฝน",
+      "ProvinceID": 44,
+      "FnetID": 1020
+    },
+    {
+      "StationID": 3394,
+      "StationName": "สภ.บ้านผือ",
+      "ProvinceID": 44,
+      "FnetID": 1025
+    },
+    {
+      "StationID": 3395,
+      "StationName": "สภ.บ้านเทื่อม",
+      "ProvinceID": 44,
+      "FnetID": 1023
+    },
+    {
+      "StationID": 3396,
+      "StationName": "สภ.น้ำโสม",
+      "ProvinceID": 44,
+      "FnetID": 1022
+    },
+    {
+      "StationID": 3397,
+      "StationName": "สภ.นายูง",
+      "ProvinceID": 44,
+      "FnetID": 1021
+    },
+    {
+      "StationID": 3398,
+      "StationName": "สภ.กู่แก้ว",
+      "ProvinceID": 44,
+      "FnetID": 1018
+    },
+    {
+      "StationID": 3399,
+      "StationName": "สภ.ประจักษ์ศิลปาคม",
+      "ProvinceID": 44,
+      "FnetID": 6697
+    },
+    {
+      "StationID": 3400,
+      "StationName": "สภ.กลางใหญ่",
+      "ProvinceID": 44,
+      "FnetID": 1015
+    },
+    {
+      "StationID": 3401,
+      "StationName": "สภ.เมืองอุตรดิตถ์",
+      "ProvinceID": 56,
+      "FnetID": 1363
+    },
+    {
+      "StationID": 3402,
+      "StationName": "สภ.วังกะพี้",
+      "ProvinceID": 56,
+      "FnetID": 1376
+    },
+    {
+      "StationID": 3403,
+      "StationName": "สภ.พิชัย",
+      "ProvinceID": 56,
+      "FnetID": 1373
+    },
+    {
+      "StationID": 3404,
+      "StationName": "สภ.ตรอน",
+      "ProvinceID": 56,
+      "FnetID": 1365
+    },
+    {
+      "StationID": 3405,
+      "StationName": "สภ.ลับแล",
+      "ProvinceID": 56,
+      "FnetID": 5645
+    },
+    {
+      "StationID": 3406,
+      "StationName": "สภ.ท่าปลา",
+      "ProvinceID": 56,
+      "FnetID": 1367
+    },
+    {
+      "StationID": 3407,
+      "StationName": "สภ.น้ำปาด",
+      "ProvinceID": 56,
+      "FnetID": 1369
+    },
+    {
+      "StationID": 3408,
+      "StationName": "สภ.ฟากท่า",
+      "ProvinceID": 56,
+      "FnetID": 1374
+    },
+    {
+      "StationID": 3409,
+      "StationName": "สภ.บ้านโคก",
+      "ProvinceID": 56,
+      "FnetID": 1371
+    },
+    {
+      "StationID": 3410,
+      "StationName": "สภ.ทองแสนขัน",
+      "ProvinceID": 56,
+      "FnetID": 1366
+    },
+    {
+      "StationID": 3411,
+      "StationName": "สภ.ด่านแม่คำมัน",
+      "ProvinceID": 56,
+      "FnetID": 1364
+    },
+    {
+      "StationID": 3412,
+      "StationName": "สภ.เมืองอุทัยธานี",
+      "ProvinceID": 63,
+      "FnetID": 1381
+    },
+    {
+      "StationID": 3413,
+      "StationName": "สภ.หนองขาหย่าง",
+      "ProvinceID": 63,
+      "FnetID": 1387
+    },
+    {
+      "StationID": 3414,
+      "StationName": "สภ.หนองฉาง",
+      "ProvinceID": 63,
+      "FnetID": 1388
+    },
+    {
+      "StationID": 3415,
+      "StationName": "สภ.เขาบางแกรก",
+      "ProvinceID": 63,
+      "FnetID": 1379
+    },
+    {
+      "StationID": 3416,
+      "StationName": "สภ.ทัพทัน",
+      "ProvinceID": 63,
+      "FnetID": 1383
+    },
+    {
+      "StationID": 3417,
+      "StationName": "สภ.สว่างอารมณ์",
+      "ProvinceID": 63,
+      "FnetID": 1386
+    },
+    {
+      "StationID": 3418,
+      "StationName": "สภ.บ้านไร่",
+      "ProvinceID": 63,
+      "FnetID": 1384
+    },
+    {
+      "StationID": 3419,
+      "StationName": "สภ.ลานสัก",
+      "ProvinceID": 63,
+      "FnetID": 1385
+    },
+    {
+      "StationID": 3420,
+      "StationName": "สภ.ห้วยคต",
+      "ProvinceID": 63,
+      "FnetID": 1389
+    },
+    {
+      "StationID": 3421,
+      "StationName": "สภ.เมืองการุ้ง",
+      "ProvinceID": 63,
+      "FnetID": 1380
+    },
+    {
+      "StationID": 3422,
+      "StationName": "สภ.ตลุกดู่",
+      "ProvinceID": 63,
+      "FnetID": 1382
+    },
+    {
+      "StationID": 3423,
+      "StationName": "สภ.เมืองอุบลราชธานี",
+      "ProvinceID": 38,
+      "FnetID": 714
+    },
+    {
+      "StationID": 3424,
+      "StationName": "สภ.เหล่าเสือโก้ก",
+      "ProvinceID": 38,
+      "FnetID": 715
+    },
+    {
+      "StationID": 3425,
+      "StationName": "สภ.วารินชำราบ",
+      "ProvinceID": 38,
+      "FnetID": 738
+    },
+    {
+      "StationID": 3426,
+      "StationName": "สภ.ห้วยขะยุง",
+      "ProvinceID": 38,
+      "FnetID": 744
+    },
+    {
+      "StationID": 3427,
+      "StationName": "สภ.พิบูลมังสาหาร",
+      "ProvinceID": 38,
+      "FnetID": 735
+    },
+    {
+      "StationID": 3428,
+      "StationName": "สภ.เขื่องใน",
+      "ProvinceID": 38,
+      "FnetID": 712
+    },
+    {
+      "StationID": 3429,
+      "StationName": "สภ.โขงเจียม",
+      "ProvinceID": 38,
+      "FnetID": 717
+    },
+    {
+      "StationID": 3430,
+      "StationName": "สภ.ตาลสุม",
+      "ProvinceID": 38,
+      "FnetID": 726
+    },
+    {
+      "StationID": 3431,
+      "StationName": "สภ.สำโรง",
+      "ProvinceID": 38,
+      "FnetID": 741
+    },
+    {
+      "StationID": 3433,
+      "StationName": "สภ.เขมราฐ",
+      "ProvinceID": 38,
+      "FnetID": 711
+    },
+    {
+      "StationID": 3434,
+      "StationName": "สภ.ศรีเมืองใหม่",
+      "ProvinceID": 38,
+      "FnetID": 739
+    },
+    {
+      "StationID": 3435,
+      "StationName": "สภ.กุดข้าวปุ้น",
+      "ProvinceID": 38,
+      "FnetID": 3150
+    },
+    {
+      "StationID": 3436,
+      "StationName": "สภ.โพธิ์ไทร",
+      "ProvinceID": 38,
+      "FnetID": 720
+    },
+    {
+      "StationID": 3437,
+      "StationName": "สภ.ตระการพืชผล",
+      "ProvinceID": 38,
+      "FnetID": 725
+    },
+    {
+      "StationID": 3438,
+      "StationName": "สภ.เดชอุดม",
+      "ProvinceID": 38,
+      "FnetID": 713
+    },
+    {
+      "StationID": 3439,
+      "StationName": "สภ.นาเยีย",
+      "ProvinceID": 38,
+      "FnetID": 728
+    },
+    {
+      "StationID": 3440,
+      "StationName": "สภ.น้ำยืน",
+      "ProvinceID": 38,
+      "FnetID": 733
+    },
+    {
+      "StationID": 3441,
+      "StationName": "สภ.บุณฑริก",
+      "ProvinceID": 38,
+      "FnetID": 734
+    },
+    {
+      "StationID": 3442,
+      "StationName": "สภ.นาจะหลวย",
+      "ProvinceID": 38,
+      "FnetID": 730
+    },
+    {
+      "StationID": 3443,
+      "StationName": "สภ.สิรินธร",
+      "ProvinceID": 38,
+      "FnetID": 742
+    },
+    {
+      "StationID": 3444,
+      "StationName": "สภ.ดอนมดแดง",
+      "ProvinceID": 38,
+      "FnetID": 724
+    },
+    {
+      "StationID": 3445,
+      "StationName": "สภ.ทุ่งศรีอุดม",
+      "ProvinceID": 38,
+      "FnetID": 727
+    },
+    {
+      "StationID": 3446,
+      "StationName": "สภ.นาตาล",
+      "ProvinceID": 38,
+      "FnetID": 731
+    },
+    {
+      "StationID": 3447,
+      "StationName": "สภ.สว่างวีระวงศ์",
+      "ProvinceID": 38,
+      "FnetID": 740
+    },
+    {
+      "StationID": 3448,
+      "StationName": "สภ.น้ำขุ่น",
+      "ProvinceID": 38,
+      "FnetID": 732
+    },
+    {
+      "StationID": 3449,
+      "StationName": "สภ.ช่องเม็ก",
+      "ProvinceID": 38,
+      "FnetID": 723
+    },
+    {
+      "StationID": 3450,
+      "StationName": "สภ.นาโพธิ์",
+      "ProvinceID": 38,
+      "FnetID": 729
+    },
+    {
+      "StationID": 3451,
+      "StationName": "สภ.ม่วงเฒ่า",
+      "ProvinceID": 38,
+      "FnetID": 736
+    },
+    {
+      "StationID": 3452,
+      "StationName": "สภ.โนนกุง",
+      "ProvinceID": 38,
+      "FnetID": 719
+    },
+    {
+      "StationID": 3454,
+      "StationName": "สภ.ห้วยข่า",
+      "ProvinceID": 38,
+      "FnetID": 745
+    },
+    {
+      "StationID": 3543,
+      "StationName": "สภ.เวียงเก่า",
+      "ProvinceID": 43,
+      "FnetID": 815
+    },
+    {
+      "StationID": 3620,
+      "StationName": "สภ.เกษตรสมบูรณ์",
+      "ProvinceID": 40,
+      "FnetID": 497
+    },
+    {
+      "StationID": 3750,
+      "StationName": "สภ.กำแพงแสน",
+      "ProvinceID": 73,
+      "FnetID": 1466
+    },
+    {
+      "StationID": 3871,
+      "StationName": "สภ.เมืองน่าน",
+      "ProvinceID": 58,
+      "FnetID": 1144
+    },
+    {
+      "StationID": 4160,
+      "StationName": "สภ.สำนักทอง",
+      "ProvinceID": 27,
+      "FnetID": 454
+    },
+    {
+      "StationID": 4223,
+      "StationName": "สภ.เกาะคา",
+      "ProvinceID": 55,
+      "FnetID": 1174
+    },
+    {
+      "StationID": 4237,
+      "StationName": "สภ.บ้านโฮ่ง",
+      "ProvinceID": 54,
+      "FnetID": 1202
+    },
+    {
+      "StationID": 4569,
+      "StationName": "สภ.ม่วงสามสิบ",
+      "ProvinceID": 38,
+      "FnetID": 737
+    },
+    { "StationID": 5455, "StationName": "พฐ.จว.อย.", "ProvinceID": 20 },
+    { "StationID": 5456, "StationName": "พฐ.จว.สห.", "ProvinceID": 23 },
+    {
+      "StationID": 6457,
+      "StationName": "สภ.แม่กา",
+      "ProvinceID": 59,
+      "FnetID": 6048
+    },
+    {
+      "StationID": 6458,
+      "StationName": "สภ.ตาเซะ",
+      "ProvinceID": 3,
+      "AmpurID": 13
+    },
+    { "StationID": 6460, "StationName": "สภ.องค์พระ", "ProvinceID": 72 },
+    { "StationID": 6461, "StationName": "สภ.ไม้รูด", "ProvinceID": 29 },
+    { "StationID": 6464, "StationName": "ศาลอาญากรุงเทพใต้", "ProvinceID": 16 },
+    {
+      "StationID": 6465,
+      "StationName": "กานตรวจสถานที่เกิดลุ่มงเหตุ",
+      "ProvinceID": 64
+    },
+    {
+      "StationID": 6466,
+      "StationName": "กลุ่มงานตรวจสถานที่เกิดเหตุ",
+      "ProvinceID": 64
+    }
+  ]
+}

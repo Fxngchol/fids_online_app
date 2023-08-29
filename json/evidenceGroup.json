@@ -1,0 +1,16 @@
+{
+  "evidenceGroup": [
+    {
+      "id": 1,
+      "name": "Bio Evidence"
+    },
+    {
+      "id": 2,
+      "name": "Object"
+    },
+    {
+      "id": 3,
+      "name": "Impression"
+    }
+  ]
+}
